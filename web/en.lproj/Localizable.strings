@@ -1,0 +1,12 @@
+"COMMON_LOADING_ERROR" = "Loading error.";
+"COMMON_OPEN_IN_CELESTIA" = "Open in Celestia";
+"COMMON_DOWNLOAD" = "Download";
+"ADDON_AUTHOR_TEMPLATE" = "Author(s): %@";
+"ADDON_RELEASE_DATE_TEMPLATE" = "Release date: %@";
+"ADDON_INSTALL_HINT" = "Note: restarting Celestia is needed to use any new installed add-on.";
+"ADDON_DOWNLOAD_OR_OPEN_IN_CELESTIA_TEMPLATE" = "%@ or %@";
+"ADDON_INSTALL_ADDON_HELP_TEMPLATE" = "How to install add-ons? Find out %@.";
+"ADDON_INSTALL_ADDON_HELP_ACTION" = "here";
+"GUIDE_TYPE_NEWS_TITLE" = "News";
+"GUIDE_TYPE_TOOLS_TITLE" = "Tools";
+"GUIDE_TYPE_TUTORIALS_TITLE" = "Tutorials";
