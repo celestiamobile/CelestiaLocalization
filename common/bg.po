@@ -2,14 +2,13 @@
 # Copyright (C) 2001-2022 Celestia Development Team
 # This file is distributed under the same license as the celestia package.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: celestia 1.7.0\n"
 "Report-Msgid-Bugs-To: team@celestia.space\n"
 "POT-Creation-Date: 2020-04-15 20:22+0800\n"
-"PO-Revision-Date: 2022-02-10 21:31+0200\n"
-"Last-Translator: Georgi Georgiev (Жоро) <g.georgiev.shumen@gmail.com>\n"
+"PO-Revision-Date: 2022-02-25 20:22+0200\n"
+"Last-Translator: Georgi Georgiev (RacerBG) <g.georgiev.shumen@gmail.com>\n"
 "Language-Team: Bulgarian <g.georgiev.shumen@gmail.com>\n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
@@ -714,7 +713,7 @@ msgstr "Скрий другите"
 
 # Android/iOS/Mac/Windows, HiDPI support in display
 msgid "HiDPI"
-msgstr "„HiDPI“"
+msgstr "HiDPI"
 
 # Android/iOS/Mac/Windows, High resolution
 msgid "High"
@@ -1084,11 +1083,11 @@ msgstr "Затъмняващ обект"
 
 # Android/iOS
 msgid "Official Website"
-msgstr "Официален уебсайт"
+msgstr "Официална Интернет страница"
 
 # Android/iOS/Mac/Windows
 msgid "OK"
-msgstr "ОК"
+msgstr "Добре"
 
 # Android/iOS/Mac/Windows
 msgid "Open Clusters"
@@ -1205,7 +1204,7 @@ msgstr "Предпочитания…"
 
 # Android/iOS, Privacy Policy and Service Agreement
 msgid "Privacy Policy and Service Agreement"
-msgstr "Декларация за поверителност и споразумение за обслужване"
+msgstr "Декларация за поверителност и Споразумение за обслужване"
 
 # Mac, Quit Celestia
 msgid "Quit"
@@ -1734,11 +1733,11 @@ msgstr "Ръководство на потребителя"
 
 # Android/iOS/Mac/Windows
 msgid "UTC"
-msgstr "„UTC“"
+msgstr "UTC"
 
 # Android/iOS/Mac/Windows
 msgid "UTC Offset"
-msgstr "Отклонение по „UTC“"
+msgstr "Отклонение по UTC"
 
 # Android/iOS/Mac/Windows, Location labels
 msgid "Valles (Valleys)"
