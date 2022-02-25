@@ -12,8 +12,8 @@ dasda  -->
 
 <resources>
     <string name="app_name">„Celestia“</string>
-    <string name="privacy_policy_alert_title">Политика за поверителност и Споразумение за услуги</string>
-    <string name="privacy_policy_alert_detail">Моля, прочетете внимателно Политиката за поверителност и Споразумението за услуги.</string>
+    <string name="privacy_policy_alert_title">Декларация за поверителност и Споразумение за обслужване</string>
+    <string name="privacy_policy_alert_detail">Моля, прочетете внимателно Декларацията за поверителност и Споразумението за обслужване.</string>
     <string name="privacy_policy_alert_show_policy_button_title">Преглед</string>
     <string name="privacy_policy_alert_accept_button_title">Съгласявам се</string>
     <string name="privacy_policy_alert_decline_button_title">Не сега</string>
