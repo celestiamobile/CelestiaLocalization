@@ -11,7 +11,7 @@
 dasda  -->
 
 <resources>
-    <string name="app_name">„Celestia“</string>
+    <string name="app_name">Celestia</string>
     <string name="privacy_policy_alert_title">Декларация за поверителност и Споразумение за обслужване</string>
     <string name="privacy_policy_alert_detail">Моля, прочетете внимателно Декларацията за поверителност и Споразумението за обслужване.</string>
     <string name="privacy_policy_alert_show_policy_button_title">Преглед</string>
