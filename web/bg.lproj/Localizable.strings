@@ -1,0 +1,12 @@
+"COMMON_LOADING_ERROR" = "Грешка при зареждането.";
+"COMMON_OPEN_IN_CELESTIA" = "Отваряне в „Celestia“";
+"COMMON_DOWNLOAD" = "Изтегляне";
+"ADDON_AUTHOR_TEMPLATE" = "Автор(и): %@";
+"ADDON_RELEASE_DATE_TEMPLATE" = "Дата на излизане: %@";
+"ADDON_INSTALL_HINT" = "Забележка: Рестартирайте „Celestia“ за активиране на новите инсталирани добавки.";
+"ADDON_DOWNLOAD_OR_OPEN_IN_CELESTIA_TEMPLATE" = "%@ или %@";
+"ADDON_INSTALL_ADDON_HELP_TEMPLATE" = "Как се инсталира тази добавка? Вижте %@.";
+"ADDON_INSTALL_ADDON_HELP_ACTION" = "тук";
+"GUIDE_TYPE_NEWS_TITLE" = "Новини";
+"GUIDE_TYPE_TOOLS_TITLE" = "Инструменти";
+"GUIDE_TYPE_TUTORIALS_TITLE" = "Упътвания";
