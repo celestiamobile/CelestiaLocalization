@@ -10,3 +10,8 @@
 "GUIDE_TYPE_NEWS_TITLE" = "Новини";
 "GUIDE_TYPE_TOOLS_TITLE" = "Инструменти";
 "GUIDE_TYPE_TUTORIALS_TITLE" = "Упътвания";
+
+"ADDON_CATEGORY_TITLE" = "Add-on Category";
+"ADDON_CATEGORY_DESCRIPTION" = "Add-on Category";
+"ADDON_MADE_BY_AUTHOR_TITLE_TEMPLATE" = "Add-ons made by %@";
+"COMMON_ERROR_TITLE" = "Error";
