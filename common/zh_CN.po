@@ -230,7 +230,7 @@ msgstr "无法添加对象"
 msgid "Capture Image"
 msgstr "捕捉图像"
 
-# Android/iOS/Windows, Add-on categories
+# Android/iOS, Add-on categories
 msgid "Categories"
 msgstr "分类"
 
@@ -470,6 +470,10 @@ msgstr "下"
 # Android/iOS/Mac/Windows, Marker
 msgid "Down Arrow"
 msgstr "下箭头"
+
+# Windows, Open webpage for downloading add-ons
+msgid "Download Add-ons"
+msgstr "下载插件"
 
 # Android/iOS/Mac/Windows, Tab for deep sky objects in Star Browser
 msgid "DSOs"
@@ -901,6 +905,10 @@ msgstr "低"
 msgid "Lunar"
 msgstr "月食"
 
+# Windows, Open a page for managing installed add-ons
+msgid "Manage Installed Add-ons"
+msgstr "管理已安装插件"
+
 # Android/iOS/Mac/Windows, Location labels
 msgid "Maria (Seas)"
 msgstr "海洋"
@@ -1034,7 +1042,7 @@ msgstr "无响应"
 msgid "None"
 msgstr "无"
 
-# Android/iOS
+# Windows
 msgid "Note: restarting Celestia is needed to use any new installed add-on."
 msgstr "注意: 需要重新启动 Celestia 以使用新插件。"
 

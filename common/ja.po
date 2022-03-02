@@ -230,7 +230,7 @@ msgstr "天体を追加できません"
 msgid "Capture Image"
 msgstr "画面を保存"
 
-# Android/iOS/Windows, Add-on categories
+# Android/iOS, Add-on categories
 msgid "Categories"
 msgstr ""
 
@@ -470,6 +470,10 @@ msgstr "伏せる"
 # Android/iOS/Mac/Windows, Marker
 msgid "Down Arrow"
 msgstr "下矢印(↓)"
+
+# Windows, Open webpage for downloading add-ons
+msgid "Download Add-ons"
+msgstr ""
 
 # Android/iOS/Mac/Windows, Tab for deep sky objects in Star Browser
 msgid "DSOs"
@@ -901,6 +905,10 @@ msgstr "低"
 msgid "Lunar"
 msgstr ""
 
+# Windows, Open a page for managing installed add-ons
+msgid "Manage Installed Add-ons"
+msgstr ""
+
 # Android/iOS/Mac/Windows, Location labels
 msgid "Maria (Seas)"
 msgstr "海洋"
@@ -1034,7 +1042,7 @@ msgstr "応答がありません"
 msgid "None"
 msgstr "無し"
 
-# Android/iOS
+# Windows
 msgid "Note: restarting Celestia is needed to use any new installed add-on."
 msgstr ""
 

@@ -230,7 +230,7 @@ msgstr "Objekt kann nicht hinzugefügt werden"
 msgid "Capture Image"
 msgstr "Bildschirmfoto erstellen"
 
-# Android/iOS/Windows, Add-on categories
+# Android/iOS, Add-on categories
 msgid "Categories"
 msgstr ""
 
@@ -470,6 +470,10 @@ msgstr "Runter"
 # Android/iOS/Mac/Windows, Marker
 msgid "Down Arrow"
 msgstr "Pfeil nach unten"
+
+# Windows, Open webpage for downloading add-ons
+msgid "Download Add-ons"
+msgstr ""
 
 # Android/iOS/Mac/Windows, Tab for deep sky objects in Star Browser
 msgid "DSOs"
@@ -901,6 +905,10 @@ msgstr "Gering"
 msgid "Lunar"
 msgstr ""
 
+# Windows, Open a page for managing installed add-ons
+msgid "Manage Installed Add-ons"
+msgstr ""
+
 # Android/iOS/Mac/Windows, Location labels
 msgid "Maria (Seas)"
 msgstr "Mare"
@@ -1034,7 +1042,7 @@ msgstr "Keine Rückmeldung"
 msgid "None"
 msgstr "Keine Information"
 
-# Android/iOS
+# Windows
 msgid "Note: restarting Celestia is needed to use any new installed add-on."
 msgstr ""
 

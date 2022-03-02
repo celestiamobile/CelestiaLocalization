@@ -229,7 +229,7 @@ msgstr ""
 msgid "Capture Image"
 msgstr "انتزاع صورة"
 
-# Android/iOS/Windows, Add-on categories
+# Android/iOS, Add-on categories
 msgid "Categories"
 msgstr ""
 
@@ -468,6 +468,10 @@ msgstr ""
 
 # Android/iOS/Mac/Windows, Marker
 msgid "Down Arrow"
+msgstr ""
+
+# Windows, Open webpage for downloading add-ons
+msgid "Download Add-ons"
 msgstr ""
 
 # Android/iOS/Mac/Windows, Tab for deep sky objects in Star Browser
@@ -894,6 +898,10 @@ msgstr "ضئيل"
 msgid "Lunar"
 msgstr ""
 
+# Windows, Open a page for managing installed add-ons
+msgid "Manage Installed Add-ons"
+msgstr ""
+
 # Android/iOS/Mac/Windows, Location labels
 msgid "Maria (Seas)"
 msgstr "البحر المقصور استخدامه لدولة واحدة"
@@ -1027,7 +1035,7 @@ msgstr ""
 msgid "None"
 msgstr "لا شيء"
 
-# Android/iOS
+# Windows
 msgid "Note: restarting Celestia is needed to use any new installed add-on."
 msgstr ""
 

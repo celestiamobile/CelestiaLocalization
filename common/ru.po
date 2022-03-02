@@ -228,7 +228,7 @@ msgstr "Не удаётся добавить объект"
 msgid "Capture Image"
 msgstr "Снимок экрана"
 
-# Android/iOS/Windows, Add-on categories
+# Android/iOS, Add-on categories
 msgid "Categories"
 msgstr "Категории"
 
@@ -468,6 +468,10 @@ msgstr "Вниз"
 # Android/iOS/Mac/Windows, Marker
 msgid "Down Arrow"
 msgstr "Стрелка вниз"
+
+# Windows, Open webpage for downloading add-ons
+msgid "Download Add-ons"
+msgstr ""
 
 # Android/iOS/Mac/Windows, Tab for deep sky objects in Star Browser
 msgid "DSOs"
@@ -899,6 +903,10 @@ msgstr "Низкое"
 msgid "Lunar"
 msgstr "Лунные"
 
+# Windows, Open a page for managing installed add-ons
+msgid "Manage Installed Add-ons"
+msgstr ""
+
 # Android/iOS/Mac/Windows, Location labels
 msgid "Maria (Seas)"
 msgstr "Моря"
@@ -1032,7 +1040,7 @@ msgstr "Нет ответа"
 msgid "None"
 msgstr "Нет"
 
-# Android/iOS
+# Windows
 msgid "Note: restarting Celestia is needed to use any new installed add-on."
 msgstr "Примечание: для использования любых новых установленных дополнений необходим перезапуск Celestia."
 
