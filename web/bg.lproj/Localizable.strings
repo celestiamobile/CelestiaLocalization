@@ -15,3 +15,8 @@
 "ADDON_CATEGORY_DESCRIPTION" = "Добавки";
 "ADDON_MADE_BY_AUTHOR_TITLE_TEMPLATE" = "От: %@";
 "COMMON_ERROR_TITLE" = "Грешка";
+
+"ERROR_NOT_FOUND" = "The requested content is not found.";
+"ERROR_FIELDS_MISSING" = "Some fields were missing in the request.";
+"ERROR_INCORRECT_PARAMETERS" = "Some parameters were incorrect.";
+"ERROR_INTERNAL_ERROR" = "Internal server error.";

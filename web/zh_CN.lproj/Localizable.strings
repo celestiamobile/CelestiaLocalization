@@ -15,3 +15,8 @@
 "ADDON_CATEGORY_DESCRIPTION" = "插件分类";
 "ADDON_MADE_BY_AUTHOR_TITLE_TEMPLATE" = "%@ 制作的插件";
 "COMMON_ERROR_TITLE" = "错误";
+
+"ERROR_NOT_FOUND" = "请求的内容未找到。";
+"ERROR_FIELDS_MISSING" = "请求缺少关键字段。";
+"ERROR_INCORRECT_PARAMETERS" = "部分请求参数错误。";
+"ERROR_INTERNAL_ERROR" = "服务器内部错误。";
