@@ -2,13 +2,14 @@
 # Copyright (C) 2001-2022 Celestia Development Team
 # This file is distributed under the same license as the celestia package.
 #
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: celestia 1.7.0\n"
 "Report-Msgid-Bugs-To: team@celestia.space\n"
 "POT-Creation-Date: 2020-04-15 20:22+0800\n"
-"PO-Revision-Date: 2022-02-25 20:22+0200\n"
+"PO-Revision-Date: 2022-03-03 10:29+0200\n"
 "Last-Translator: Georgi Georgiev (RacerBG) <g.georgiev.shumen@gmail.com>\n"
 "Language-Team: Bulgarian <g.georgiev.shumen@gmail.com>\n"
 "Language: bg\n"
@@ -473,7 +474,7 @@ msgstr "Стрелка надолу"
 
 # Windows, Open webpage for downloading add-ons
 msgid "Download Add-ons"
-msgstr ""
+msgstr "Изтегли добавки"
 
 # Android/iOS/Mac/Windows, Tab for deep sky objects in Star Browser
 msgid "DSOs"
@@ -907,7 +908,7 @@ msgstr "Лунни"
 
 # Windows, Open a page for managing installed add-ons
 msgid "Manage Installed Add-ons"
-msgstr ""
+msgstr "Управлявай инсталираните добавки"
 
 # Android/iOS/Mac/Windows, Location labels
 msgid "Maria (Seas)"
