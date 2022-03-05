@@ -2,7 +2,6 @@
 # Copyright (C) 2001-2022 Celestia Development Team
 # This file is distributed under the same license as the celestia package.
 #
-#
 #, fuzzy
 msgid ""
 msgstr ""
@@ -226,6 +225,10 @@ msgstr "Отказ"
 # Android/iOS, Failed to add a favorite item (currently a bookmark)
 msgid "Cannot add object"
 msgstr "Обектът не може да бъде добавен"
+
+# Android/iOS, Failed to share a URL
+msgid "Cannot share URL"
+msgstr ""
 
 # Windows, Take a screenshot in Celestia
 msgid "Capture Image"

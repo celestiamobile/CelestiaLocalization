@@ -225,6 +225,10 @@ msgstr "取消"
 msgid "Cannot add object"
 msgstr "無法新增物件"
 
+# Android/iOS, Failed to share a URL
+msgid "Cannot share URL"
+msgstr "分享 URL 失敗"
+
 # Windows, Take a screenshot in Celestia
 msgid "Capture Image"
 msgstr "抓取圖像"
@@ -472,7 +476,7 @@ msgstr "下箭號"
 
 # Windows, Open webpage for downloading add-ons
 msgid "Download Add-ons"
-msgstr ""
+msgstr "下載外掛"
 
 # Android/iOS/Mac/Windows, Tab for deep sky objects in Star Browser
 msgid "DSOs"
@@ -906,7 +910,7 @@ msgstr "月食"
 
 # Windows, Open a page for managing installed add-ons
 msgid "Manage Installed Add-ons"
-msgstr ""
+msgstr "管理已安裝外掛"
 
 # Android/iOS/Mac/Windows, Location labels
 msgid "Maria (Seas)"

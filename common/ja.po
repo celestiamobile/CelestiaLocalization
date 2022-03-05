@@ -226,6 +226,10 @@ msgstr "キャンセル"
 msgid "Cannot add object"
 msgstr "天体を追加できません"
 
+# Android/iOS, Failed to share a URL
+msgid "Cannot share URL"
+msgstr ""
+
 # Windows, Take a screenshot in Celestia
 msgid "Capture Image"
 msgstr "画面を保存"

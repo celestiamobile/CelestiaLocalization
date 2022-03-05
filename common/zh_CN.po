@@ -226,6 +226,10 @@ msgstr "取消"
 msgid "Cannot add object"
 msgstr "无法添加对象"
 
+# Android/iOS, Failed to share a URL
+msgid "Cannot share URL"
+msgstr "分享 URL 失败"
+
 # Windows, Take a screenshot in Celestia
 msgid "Capture Image"
 msgstr "捕捉图像"
