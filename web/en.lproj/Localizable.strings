@@ -21,3 +21,4 @@
 "ERROR_INCORRECT_PARAMETERS" = "Some parameters were incorrect.";
 "ERROR_INTERNAL_ERROR" = "Internal server error.";
 
+"ADDON_POPULAR_TITLE" = "Popular Add-ons";
