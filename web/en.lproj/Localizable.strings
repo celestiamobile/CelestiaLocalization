@@ -22,3 +22,5 @@
 "ERROR_INTERNAL_ERROR" = "Internal server error.";
 
 "ADDON_POPULAR_TITLE" = "Popular Add-ons";
+
+"ADDON_INSTALL_HINT_NO_DEMO_OBJECT" = "Note: restarting Celestia is needed to use any new installed add-on. This add-on does not have a demo object, please navigate to the object by using search.";
