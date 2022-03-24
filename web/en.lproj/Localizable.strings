@@ -11,8 +11,8 @@
 "GUIDE_TYPE_TOOLS_TITLE" = "Tools";
 "GUIDE_TYPE_TUTORIALS_TITLE" = "Tutorials";
 
-"ADDON_CATEGORY_TITLE" = "Add-on Category";
-"ADDON_CATEGORY_DESCRIPTION" = "Add-on Category";
+"ADDON_CATEGORY_TITLE" = "Add-on Categories";
+"ADDON_CATEGORY_DESCRIPTION" = "Add-on Categories";
 "ADDON_MADE_BY_AUTHOR_TITLE_TEMPLATE" = "Add-ons made by %@";
 "COMMON_ERROR_TITLE" = "Error";
 
@@ -24,3 +24,5 @@
 "ADDON_POPULAR_TITLE" = "Popular Add-ons";
 
 "ADDON_INSTALL_HINT_NO_DEMO_OBJECT" = "Note: restarting Celestia is needed to use any new installed add-on. This add-on does not have a demo object, please navigate to the object by using search.";
+
+"ADDON_CATEGORY_DESCRIPTION_SHOW_MORE" = "...";
