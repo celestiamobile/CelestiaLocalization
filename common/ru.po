@@ -198,7 +198,7 @@ msgstr "Ярчайшие звёзды"
 
 # Android/iOS/Mac/Windows
 msgid "Brightest Stars (Absolute Magnitude)"
-msgstr ""
+msgstr "Ярчайшие звёзды (абс. зв. величина)"
 
 # Mac, System menu item, bring all windows to front
 msgid "Bring All to Front"
@@ -226,7 +226,7 @@ msgstr "Не удаётся добавить объект"
 
 # Android/iOS, Failed to share a URL
 msgid "Cannot share URL"
-msgstr ""
+msgstr "Не удаётся поделиться URL"
 
 # Windows, Take a screenshot in Celestia
 msgid "Capture Image"
@@ -475,7 +475,7 @@ msgstr "Стрелка вниз"
 
 # Windows, Open webpage for downloading add-ons
 msgid "Download Add-ons"
-msgstr ""
+msgstr "Скачать дополнения"
 
 # Android/iOS/Mac/Windows, Tab for deep sky objects in Star Browser
 msgid "DSOs"
@@ -556,7 +556,7 @@ msgstr "Не удалось загрузить дополнения."
 
 # Android/iOS
 msgid "Failed to load news."
-msgstr ""
+msgstr "Не удалось загрузить новости."
 
 # Mac
 msgid "Failed to start OpenGL."
@@ -788,7 +788,7 @@ msgstr "Скачать"
 
 # Android/iOS/Windows, Title for the list of installed add-ons
 msgid "Installed"
-msgstr "Установлено"
+msgstr "Установленные"
 
 # Mac, Set simulation time based on Julian date
 msgid "Julian Date:"
@@ -909,7 +909,7 @@ msgstr "Лунные"
 
 # Windows, Open a page for managing installed add-ons
 msgid "Manage Installed Add-ons"
-msgstr ""
+msgstr "Управление установленными дополнениями"
 
 # Android/iOS/Mac/Windows, Location labels
 msgid "Maria (Seas)"
@@ -1014,11 +1014,11 @@ msgstr "Новое название"
 
 # Android/iOS, Updates and featured content
 msgid "News"
-msgstr ""
+msgstr "Новости"
 
 # Android/iOS, Archive for updates and featured content
 msgid "News Archive"
-msgstr ""
+msgstr "Архив новостей"
 
 # Android/iOS/Mac/Windows
 msgid "Night Lights"
