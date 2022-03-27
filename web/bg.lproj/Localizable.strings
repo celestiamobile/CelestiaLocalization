@@ -33,3 +33,18 @@
 "TAB_TOOLS_TITLE" = "Tools";
 "TAB_ADDONS_TITLE" = "Add-ons";
 "TAB_FORUM_TITLE" = "Forum";
+
+"FRONT_PAGE_WELCOME_MESSAGE" = "Welcome to Celestia";
+"FRONT_PAGE_TITLE" = "Celestia";
+"FRONT_PAGE_DESCRIPTION_MESSAGE" = "Celestia is a real-time space simulator.";
+"DOWNLOAD_AVAILABILITY_TEMPLATE" = "Celestia is available on %@, %@, %@, %@, %@, %@, %@, %@.";
+"DOWNLOAD_PLATFORM_IOS" = "iOS";
+"DOWNLOAD_PLATFORM_IOS_TESTFLIGHT" = "iOS (TestFlight)";
+"DOWNLOAD_PLATFORM_ANDROID_GOOGLE_PLAY" = "Android (Google Play)";
+"DOWNLOAD_PLATFORM_ANDROID_HUAWEI" = "Android (Huawei)";
+"DOWNLOAD_PLATFORM_ANDROID_AMAZON" = "Android (Amazon)";
+"DOWNLOAD_PLATFORM_ANDROID_SIDELOAD" = "Android (Sideload)";
+"DOWNLOAD_PLATFORM_WINDOWS" = "Windows";
+"DOWNLOAD_PLATFORM_MAC" = "macOS";
+
+"PAGE_DESCRIPTION_DEFAULT" = "Get Celestia";
