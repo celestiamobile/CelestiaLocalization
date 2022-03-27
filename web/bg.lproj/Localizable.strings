@@ -16,28 +16,28 @@
 "ADDON_MADE_BY_AUTHOR_TITLE_TEMPLATE" = "От: %@";
 "COMMON_ERROR_TITLE" = "Грешка";
 
-"ERROR_NOT_FOUND" = "The requested content is not found.";
-"ERROR_FIELDS_MISSING" = "Some fields were missing in the request.";
-"ERROR_INCORRECT_PARAMETERS" = "Some parameters were incorrect.";
-"ERROR_INTERNAL_ERROR" = "Internal server error.";
+"ERROR_NOT_FOUND" = "Съдържанието не е намерено.";
+"ERROR_FIELDS_MISSING" = "Има липсващи полета.";
+"ERROR_INCORRECT_PARAMETERS" = "Има неточни параметри.";
+"ERROR_INTERNAL_ERROR" = "Вътрешна грешка на сървъра.";
 
-"ADDON_POPULAR_TITLE" = "Popular Add-ons";
+"ADDON_POPULAR_TITLE" = "Популярни добавки";
 
-"ADDON_INSTALL_HINT_NO_DEMO_OBJECT" = "Note: restarting Celestia is needed to use any new installed add-on. This add-on does not have a demo object, so only \"Uninstall\" option is visible, please navigate to the object by using search.";
+"ADDON_INSTALL_HINT_NO_DEMO_OBJECT" = "Забележка: Рестартирайте „Celestia“ за активиране на новите инсталирани добавки. Тази добавка няма демонстрационен обект, затова само опцията \„Премахни\“ е видима, трябва да използвате търсачката за да намерите обекта.";
 
 "ADDON_CATEGORY_DESCRIPTION_SHOW_MORE" = "...";
 
-"TAB_HOME_TITLE" = "Home";
-"TAB_NEWS_TITLE" = "News";
-"TAB_TUTORIALS_TITLE" = "Tutorials";
-"TAB_TOOLS_TITLE" = "Tools";
-"TAB_ADDONS_TITLE" = "Add-ons";
-"TAB_FORUM_TITLE" = "Forum";
+"TAB_HOME_TITLE" = "Начало";
+"TAB_NEWS_TITLE" = "Новини";
+"TAB_TUTORIALS_TITLE" = "Упътвания";
+"TAB_TOOLS_TITLE" = "Инструменти";
+"TAB_ADDONS_TITLE" = "Добавки";
+"TAB_FORUM_TITLE" = "Форум";
 
-"FRONT_PAGE_WELCOME_MESSAGE" = "Welcome to Celestia";
-"FRONT_PAGE_TITLE" = "Celestia";
-"FRONT_PAGE_DESCRIPTION_MESSAGE" = "Celestia is a real-time space simulator.";
-"DOWNLOAD_AVAILABILITY_TEMPLATE" = "Celestia is available on %@, %@, %@, %@, %@, %@, %@, %@.";
+"FRONT_PAGE_WELCOME_MESSAGE" = "Добре дошли в „Celestia“";
+"FRONT_PAGE_TITLE" = "„Celestia“";
+"FRONT_PAGE_DESCRIPTION_MESSAGE" = "„Celestia“ е космически симулатор в реално време.";
+"DOWNLOAD_AVAILABILITY_TEMPLATE" = "„Celestia“ поддържа %@, %@, %@, %@, %@, %@, %@, %@.";
 "DOWNLOAD_PLATFORM_IOS" = "iOS";
 "DOWNLOAD_PLATFORM_IOS_TESTFLIGHT" = "iOS (TestFlight)";
 "DOWNLOAD_PLATFORM_ANDROID_GOOGLE_PLAY" = "Android (Google Play)";
@@ -47,4 +47,4 @@
 "DOWNLOAD_PLATFORM_WINDOWS" = "Windows";
 "DOWNLOAD_PLATFORM_MAC" = "macOS";
 
-"PAGE_DESCRIPTION_DEFAULT" = "Get Celestia";
+"PAGE_DESCRIPTION_DEFAULT" = "Изтегляне на „Celestia“";
