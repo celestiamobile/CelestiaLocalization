@@ -23,6 +23,13 @@
 
 "ADDON_POPULAR_TITLE" = "Popular Add-ons";
 
-"ADDON_INSTALL_HINT_NO_DEMO_OBJECT" = "Note: restarting Celestia is needed to use any new installed add-on. This add-on does not have a demo object, please navigate to the object by using search.";
+"ADDON_INSTALL_HINT_NO_DEMO_OBJECT" = "Note: restarting Celestia is needed to use any new installed add-on. This add-on does not have a demo object, so only \"Uninstall\" option is visible, please navigate to the object by using search.";
 
 "ADDON_CATEGORY_DESCRIPTION_SHOW_MORE" = "...";
+
+"TAB_HOME_TITLE" = "Home";
+"TAB_NEWS_TITLE" = "News";
+"TAB_TUTORIALS_TITLE" = "Tutorials";
+"TAB_TOOLS_TITLE" = "Tools";
+"TAB_ADDONS_TITLE" = "Add-ons";
+"TAB_FORUM_TITLE" = "Forum";
