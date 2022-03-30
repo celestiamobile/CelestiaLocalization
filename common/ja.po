@@ -116,7 +116,7 @@ msgstr ""
 msgid "Add/Subtract Light Travel Delay"
 msgstr "光速による遅れを考慮して表示"
 
-# Android/iOS, Advanced setting items
+# Android/iOS/Windows, Advanced setting items
 msgid "Advanced"
 msgstr "高度な設定"
 
@@ -165,7 +165,7 @@ msgstr "著者: "
 msgid "Authors: %s"
 msgstr ""
 
-# Mac/Windows, Auto mag for star display
+# Android/iOS/Mac/Windows, Auto mag for star display
 msgid "Auto Mag"
 msgstr "自動限界等級調整"
 
@@ -233,10 +233,6 @@ msgstr ""
 # Windows, Take a screenshot in Celestia
 msgid "Capture Image"
 msgstr "画面を保存"
-
-# Android/iOS, Add-on categories
-msgid "Categories"
-msgstr ""
 
 # Mac
 msgid "Celestia"
@@ -374,7 +370,7 @@ msgstr "データの場所"
 msgid "Date"
 msgstr "日付"
 
-# Android/iOS
+# Android/iOS/Windows
 msgid "Date Format"
 msgstr "日付フォーマット"
 
@@ -474,10 +470,6 @@ msgstr "伏せる"
 # Android/iOS/Mac/Windows, Marker
 msgid "Down Arrow"
 msgstr "下矢印(↓)"
-
-# Windows, Open webpage for downloading add-ons
-msgid "Download Add-ons"
-msgstr ""
 
 # Android/iOS/Mac/Windows, Tab for deep sky objects in Star Browser
 msgid "DSOs"
@@ -616,7 +608,7 @@ msgstr "天球同期"
 msgid "Follow Selection"
 msgstr "選択した天体に天球同期で追尾"
 
-# Mac/Windows, Format for time
+# Mac, Format for time
 msgid "Format:"
 msgstr "形式:"
 
@@ -671,6 +663,10 @@ msgstr "一般"
 # Android/iOS
 msgid "Generating sharing link…"
 msgstr "共有リンクを作成しています…"
+
+# Android/iOS/Windows, Open webpage for downloading add-ons
+msgid "Get Add-ons"
+msgstr ""
 
 # Android/iOS/Mac/Windows
 msgid "Globulars"
@@ -772,11 +768,11 @@ msgstr ""
 msgid "Info"
 msgstr "天体情報"
 
-# Android/iOS, HUD display
+# Android/iOS/Windows, HUD display
 msgid "Info Display"
 msgstr "天体情報表示"
 
-# Mac/Windows, HUD display
+# Mac, HUD display
 msgid "Info Display:"
 msgstr "天体情報表示:"
 
@@ -790,6 +786,10 @@ msgstr ""
 
 # Android/iOS/Windows, Title for the list of installed add-ons
 msgid "Installed"
+msgstr ""
+
+# Android/iOS/Windows, Open a page for managing installed add-ons
+msgid "Installed Add-ons"
 msgstr ""
 
 # Mac, Set simulation time based on Julian date
@@ -825,12 +825,8 @@ msgstr ""
 msgid "Landing Sites"
 msgstr "着陸地点"
 
-# Android, Display language setting
+# Android/Windows, Display language setting
 msgid "Language"
-msgstr ""
-
-# Windows, Display language setting
-msgid "Language:"
 msgstr ""
 
 # Android/iOS/Mac/Windows, Coordinates
@@ -909,10 +905,6 @@ msgstr "低"
 msgid "Lunar"
 msgstr ""
 
-# Windows, Open a page for managing installed add-ons
-msgid "Manage Installed Add-ons"
-msgstr ""
-
 # Android/iOS/Mac/Windows, Location labels
 msgid "Maria (Seas)"
 msgstr "海洋"
@@ -934,11 +926,11 @@ msgstr "質量"
 msgid "Maximum (%d FPS)"
 msgstr ""
 
-# Android/iOS, Measurement system
+# Android/iOS/Windows, Measurement system
 msgid "Measure Units"
 msgstr ""
 
-# Mac/Windows, Measurement system
+# Mac, Measurement system
 msgid "Measure Units:"
 msgstr ""
 
@@ -1142,10 +1134,6 @@ msgstr "ブックマークを編集…"
 msgid "Other"
 msgstr "その他"
 
-# Android/iOS, Other settings
-msgid "Others"
-msgstr "その他"
-
 # Android/iOS/Mac/Windows
 msgid "Partial Trajectories"
 msgstr ""
@@ -1285,7 +1273,7 @@ msgstr "レンダリング情報"
 msgid "Render Parameters"
 msgstr "レンダリング設定"
 
-# Mac/Windows, In settings
+# Android/iOS/Mac/Windows, In settings
 msgid "Renderer"
 msgstr "レンダリング"
 
@@ -1304,10 +1292,6 @@ msgstr "リセット"
 # Android/iOS, Reset celestia.cfg, data directory location
 msgid "Reset to Default"
 msgstr "デフォルトへリセット"
-
-# Mac, Resolution for capturing video
-msgid "Resolution:"
-msgstr "解像度: "
 
 # Android/iOS/Mac, Reverse camera direction, reverse travel direction
 msgid "Reverse Direction"
@@ -1441,6 +1425,10 @@ msgstr "星座線を表示"
 msgid "Show Destinations"
 msgstr ""
 
+# Android/iOS/Windows, Show constellation diagrams
+msgid "Show Diagrams"
+msgstr ""
+
 # Android/iOS/Mac/Windows, Reference vector
 msgid "Show Frame Axes"
 msgstr "公転座標系の軸を表示"
@@ -1491,7 +1479,7 @@ msgstr "大きさ: %s"
 msgid "Slower"
 msgstr "遅く"
 
-# Mac/Windows, Smooth lines for rendering
+# Android/iOS/Mac/Windows, Smooth lines for rendering
 msgid "Smooth Lines"
 msgstr "線を滑らかに"
 
@@ -1531,7 +1519,7 @@ msgstr "天体ブラウザ"
 msgid "Star Style"
 msgstr "恒星表示方法"
 
-# Mac/Windows
+# Mac
 msgid "Star Style:"
 msgstr "恒星表示方法:"
 
@@ -1583,11 +1571,11 @@ msgstr "選択した天体に自転同期で追尾"
 msgid "Tap the mode button on the sidebar to switch between object mode and camera mode."
 msgstr "サイドバーのモードボタンをタップして、天体モードとカメラモードを切り替えます。"
 
-# Android/iOS
+# Android/iOS/Windows
 msgid "Temperature Scale"
 msgstr ""
 
-# Mac/Windows
+# Mac
 msgid "Temperature Scale:"
 msgstr ""
 
@@ -1603,7 +1591,7 @@ msgstr "普通"
 msgid "Texture Resolution"
 msgstr "テクスチャ解像度"
 
-# Mac/Windows
+# Mac
 msgid "Texture Resolution:"
 msgstr "テクスチャ解像度:"
 
@@ -1615,15 +1603,19 @@ msgstr ""
 msgid "Time"
 msgstr "時間"
 
+# Android/iOS/Windows, time and region related settings
+msgid "Time & Region"
+msgstr ""
+
 # Android/iOS
 msgid "Time Control"
 msgstr "時間コントロール"
 
-# Android/iOS
+# Android/iOS/Windows
 msgid "Time Zone"
 msgstr "タイムゾーン"
 
-# Mac/Windows
+# Mac
 msgid "Time Zone:"
 msgstr "タイムゾーン:"
 

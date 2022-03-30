@@ -115,7 +115,7 @@ msgstr ""
 msgid "Add/Subtract Light Travel Delay"
 msgstr ""
 
-# Android/iOS, Advanced setting items
+# Android/iOS/Windows, Advanced setting items
 msgid "Advanced"
 msgstr ""
 
@@ -164,7 +164,7 @@ msgstr "Autori:"
 msgid "Authors: %s"
 msgstr ""
 
-# Mac/Windows, Auto mag for star display
+# Android/iOS/Mac/Windows, Auto mag for star display
 msgid "Auto Mag"
 msgstr ""
 
@@ -232,10 +232,6 @@ msgstr ""
 # Windows, Take a screenshot in Celestia
 msgid "Capture Image"
 msgstr "Snímok obrazovky"
-
-# Android/iOS, Add-on categories
-msgid "Categories"
-msgstr ""
 
 # Mac
 msgid "Celestia"
@@ -373,7 +369,7 @@ msgstr ""
 msgid "Date"
 msgstr "Dátum"
 
-# Android/iOS
+# Android/iOS/Windows
 msgid "Date Format"
 msgstr ""
 
@@ -473,10 +469,6 @@ msgstr ""
 # Android/iOS/Mac/Windows, Marker
 msgid "Down Arrow"
 msgstr "Šípka dole"
-
-# Windows, Open webpage for downloading add-ons
-msgid "Download Add-ons"
-msgstr ""
 
 # Android/iOS/Mac/Windows, Tab for deep sky objects in Star Browser
 msgid "DSOs"
@@ -615,7 +607,7 @@ msgstr "Nasledovať"
 msgid "Follow Selection"
 msgstr "Nasledovať výber"
 
-# Mac/Windows, Format for time
+# Mac, Format for time
 msgid "Format:"
 msgstr ""
 
@@ -669,6 +661,10 @@ msgstr ""
 
 # Android/iOS
 msgid "Generating sharing link…"
+msgstr ""
+
+# Android/iOS/Windows, Open webpage for downloading add-ons
+msgid "Get Add-ons"
 msgstr ""
 
 # Android/iOS/Mac/Windows
@@ -765,11 +761,11 @@ msgstr ""
 msgid "Info"
 msgstr "Informácie"
 
-# Android/iOS, HUD display
+# Android/iOS/Windows, HUD display
 msgid "Info Display"
 msgstr ""
 
-# Mac/Windows, HUD display
+# Mac, HUD display
 msgid "Info Display:"
 msgstr ""
 
@@ -783,6 +779,10 @@ msgstr ""
 
 # Android/iOS/Windows, Title for the list of installed add-ons
 msgid "Installed"
+msgstr ""
+
+# Android/iOS/Windows, Open a page for managing installed add-ons
+msgid "Installed Add-ons"
 msgstr ""
 
 # Mac, Set simulation time based on Julian date
@@ -818,12 +818,8 @@ msgstr ""
 msgid "Landing Sites"
 msgstr "Miesta pristátí"
 
-# Android, Display language setting
+# Android/Windows, Display language setting
 msgid "Language"
-msgstr ""
-
-# Windows, Display language setting
-msgid "Language:"
 msgstr ""
 
 # Android/iOS/Mac/Windows, Coordinates
@@ -902,10 +898,6 @@ msgstr "Nízke"
 msgid "Lunar"
 msgstr ""
 
-# Windows, Open a page for managing installed add-ons
-msgid "Manage Installed Add-ons"
-msgstr ""
-
 # Android/iOS/Mac/Windows, Location labels
 msgid "Maria (Seas)"
 msgstr "Mare (Moria)"
@@ -927,11 +919,11 @@ msgstr ""
 msgid "Maximum (%d FPS)"
 msgstr ""
 
-# Android/iOS, Measurement system
+# Android/iOS/Windows, Measurement system
 msgid "Measure Units"
 msgstr ""
 
-# Mac/Windows, Measurement system
+# Mac, Measurement system
 msgid "Measure Units:"
 msgstr ""
 
@@ -1133,10 +1125,6 @@ msgstr "Organizovať záložky"
 msgid "Other"
 msgstr "Iné útvary"
 
-# Android/iOS, Other settings
-msgid "Others"
-msgstr ""
-
 # Android/iOS/Mac/Windows
 msgid "Partial Trajectories"
 msgstr ""
@@ -1276,7 +1264,7 @@ msgstr ""
 msgid "Render Parameters"
 msgstr ""
 
-# Mac/Windows, In settings
+# Android/iOS/Mac/Windows, In settings
 msgid "Renderer"
 msgstr ""
 
@@ -1295,10 +1283,6 @@ msgstr ""
 # Android/iOS, Reset celestia.cfg, data directory location
 msgid "Reset to Default"
 msgstr ""
-
-# Mac, Resolution for capturing video
-msgid "Resolution:"
-msgstr "Rozlíšenie: "
 
 # Android/iOS/Mac, Reverse camera direction, reverse travel direction
 msgid "Reverse Direction"
@@ -1432,6 +1416,10 @@ msgstr "Zobraziť súhvezdia"
 msgid "Show Destinations"
 msgstr ""
 
+# Android/iOS/Windows, Show constellation diagrams
+msgid "Show Diagrams"
+msgstr ""
+
 # Android/iOS/Mac/Windows, Reference vector
 msgid "Show Frame Axes"
 msgstr "Zobraziť osi pohľadu"
@@ -1482,7 +1470,7 @@ msgstr ""
 msgid "Slower"
 msgstr ""
 
-# Mac/Windows, Smooth lines for rendering
+# Android/iOS/Mac/Windows, Smooth lines for rendering
 msgid "Smooth Lines"
 msgstr ""
 
@@ -1522,7 +1510,7 @@ msgstr "Hviezdny katalóg…"
 msgid "Star Style"
 msgstr "Tvar hviezd"
 
-# Mac/Windows
+# Mac
 msgid "Star Style:"
 msgstr "Tvar hviezd:"
 
@@ -1574,11 +1562,11 @@ msgstr "Synchronizovať obežnú dráhu s výberom"
 msgid "Tap the mode button on the sidebar to switch between object mode and camera mode."
 msgstr ""
 
-# Android/iOS
+# Android/iOS/Windows
 msgid "Temperature Scale"
 msgstr ""
 
-# Mac/Windows
+# Mac
 msgid "Temperature Scale:"
 msgstr ""
 
@@ -1594,7 +1582,7 @@ msgstr "Stručný"
 msgid "Texture Resolution"
 msgstr "Rozlíšenie textúr"
 
-# Mac/Windows
+# Mac
 msgid "Texture Resolution:"
 msgstr "Rozlíšenie textúr:"
 
@@ -1606,15 +1594,19 @@ msgstr ""
 msgid "Time"
 msgstr "Čas"
 
+# Android/iOS/Windows, time and region related settings
+msgid "Time & Region"
+msgstr ""
+
 # Android/iOS
 msgid "Time Control"
 msgstr ""
 
-# Android/iOS
+# Android/iOS/Windows
 msgid "Time Zone"
 msgstr ""
 
-# Mac/Windows
+# Mac
 msgid "Time Zone:"
 msgstr ""
 

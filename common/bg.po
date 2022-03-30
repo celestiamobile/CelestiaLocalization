@@ -116,7 +116,7 @@ msgstr "Добавки"
 msgid "Add/Subtract Light Travel Delay"
 msgstr "Добави или извади забавянето на светлината"
 
-# Android/iOS, Advanced setting items
+# Android/iOS/Windows, Advanced setting items
 msgid "Advanced"
 msgstr "Разширено"
 
@@ -165,7 +165,7 @@ msgstr "Автори:"
 msgid "Authors: %s"
 msgstr "Автори: %s"
 
-# Mac/Windows, Auto mag for star display
+# Android/iOS/Mac/Windows, Auto mag for star display
 msgid "Auto Mag"
 msgstr "Авт. величина"
 
@@ -233,10 +233,6 @@ msgstr "Връзката не може да бъде споделена"
 # Windows, Take a screenshot in Celestia
 msgid "Capture Image"
 msgstr "Прихвани изображението"
-
-# Android/iOS, Add-on categories
-msgid "Categories"
-msgstr "Категории"
 
 # Mac
 msgid "Celestia"
@@ -374,7 +370,7 @@ msgstr "Местоположение на данните"
 msgid "Date"
 msgstr "Дата"
 
-# Android/iOS
+# Android/iOS/Windows
 msgid "Date Format"
 msgstr "Формат на датата"
 
@@ -474,10 +470,6 @@ msgstr "Надолу"
 # Android/iOS/Mac/Windows, Marker
 msgid "Down Arrow"
 msgstr "Стрелка надолу"
-
-# Windows, Open webpage for downloading add-ons
-msgid "Download Add-ons"
-msgstr "Изтегли добавки"
 
 # Android/iOS/Mac/Windows, Tab for deep sky objects in Star Browser
 msgid "DSOs"
@@ -616,7 +608,7 @@ msgstr "Следвай"
 msgid "Follow Selection"
 msgstr "Следвай селекцията"
 
-# Mac/Windows, Format for time
+# Mac, Format for time
 msgid "Format:"
 msgstr "Формат:"
 
@@ -671,6 +663,10 @@ msgstr "Общи"
 # Android/iOS
 msgid "Generating sharing link…"
 msgstr "Създаване на споделяща връзка…"
+
+# Android/iOS/Windows, Open webpage for downloading add-ons
+msgid "Get Add-ons"
+msgstr "Изтегли добавки"
 
 # Android/iOS/Mac/Windows
 msgid "Globulars"
@@ -772,11 +768,11 @@ msgstr ""
 msgid "Info"
 msgstr "Информация"
 
-# Android/iOS, HUD display
+# Android/iOS/Windows, HUD display
 msgid "Info Display"
 msgstr "Информационен екран"
 
-# Mac/Windows, HUD display
+# Mac, HUD display
 msgid "Info Display:"
 msgstr "Информационен екран:"
 
@@ -791,6 +787,10 @@ msgstr "Инсталирай"
 # Android/iOS/Windows, Title for the list of installed add-ons
 msgid "Installed"
 msgstr "Инсталирани"
+
+# Android/iOS/Windows, Open a page for managing installed add-ons
+msgid "Installed Add-ons"
+msgstr "Управлявай инсталираните добавки"
 
 # Mac, Set simulation time based on Julian date
 msgid "Julian Date:"
@@ -825,13 +825,9 @@ msgstr "Приземи се"
 msgid "Landing Sites"
 msgstr "Места на приземяване"
 
-# Android, Display language setting
+# Android/Windows, Display language setting
 msgid "Language"
 msgstr "Език"
-
-# Windows, Display language setting
-msgid "Language:"
-msgstr "Език:"
 
 # Android/iOS/Mac/Windows, Coordinates
 msgid "Latitude"
@@ -909,10 +905,6 @@ msgstr "Ниска"
 msgid "Lunar"
 msgstr "Лунни"
 
-# Windows, Open a page for managing installed add-ons
-msgid "Manage Installed Add-ons"
-msgstr "Управлявай инсталираните добавки"
-
 # Android/iOS/Mac/Windows, Location labels
 msgid "Maria (Seas)"
 msgstr "Maria (морета)"
@@ -934,11 +926,11 @@ msgstr "Маса"
 msgid "Maximum (%d FPS)"
 msgstr "Максимум (%d ЧКС)"
 
-# Android/iOS, Measurement system
+# Android/iOS/Windows, Measurement system
 msgid "Measure Units"
 msgstr "Мерни единици"
 
-# Mac/Windows, Measurement system
+# Mac, Measurement system
 msgid "Measure Units:"
 msgstr "Мерни единици:"
 
@@ -1142,10 +1134,6 @@ msgstr "Организирай отметките…"
 msgid "Other"
 msgstr "Други"
 
-# Android/iOS, Other settings
-msgid "Others"
-msgstr "Други"
-
 # Android/iOS/Mac/Windows
 msgid "Partial Trajectories"
 msgstr "Частични траектории"
@@ -1285,7 +1273,7 @@ msgstr "Информация за възпроизвеждането"
 msgid "Render Parameters"
 msgstr "Параметри на възпроизвеждането"
 
-# Mac/Windows, In settings
+# Android/iOS/Mac/Windows, In settings
 msgid "Renderer"
 msgstr "Възпроизвеждане"
 
@@ -1304,10 +1292,6 @@ msgstr "Нулирай"
 # Android/iOS, Reset celestia.cfg, data directory location
 msgid "Reset to Default"
 msgstr "По подразбиране"
-
-# Mac, Resolution for capturing video
-msgid "Resolution:"
-msgstr "Резолюция:"
 
 # Android/iOS/Mac, Reverse camera direction, reverse travel direction
 msgid "Reverse Direction"
@@ -1441,6 +1425,10 @@ msgstr "Покажи съзвездията"
 msgid "Show Destinations"
 msgstr "Покажи дестинациите"
 
+# Android/iOS/Windows, Show constellation diagrams
+msgid "Show Diagrams"
+msgstr ""
+
 # Android/iOS/Mac/Windows, Reference vector
 msgid "Show Frame Axes"
 msgstr "Покажи осите на кадъра"
@@ -1491,7 +1479,7 @@ msgstr "Размер: %s"
 msgid "Slower"
 msgstr "По-бавно"
 
-# Mac/Windows, Smooth lines for rendering
+# Android/iOS/Mac/Windows, Smooth lines for rendering
 msgid "Smooth Lines"
 msgstr "Изгладени линии"
 
@@ -1531,7 +1519,7 @@ msgstr "Търсачка"
 msgid "Star Style"
 msgstr "Стил на звездите"
 
-# Mac/Windows
+# Mac
 msgid "Star Style:"
 msgstr "Стил на звездите:"
 
@@ -1583,11 +1571,11 @@ msgstr "Синхронизирай с избраната орбита"
 msgid "Tap the mode button on the sidebar to switch between object mode and camera mode."
 msgstr "Докоснете бутона в страничната лента за превключване между режимите."
 
-# Android/iOS
+# Android/iOS/Windows
 msgid "Temperature Scale"
 msgstr "Температурна скала"
 
-# Mac/Windows
+# Mac
 msgid "Temperature Scale:"
 msgstr "Температурна скала:"
 
@@ -1603,7 +1591,7 @@ msgstr "Сбито"
 msgid "Texture Resolution"
 msgstr "Резолюция на текстурите"
 
-# Mac/Windows
+# Mac
 msgid "Texture Resolution:"
 msgstr "Резолюция на текстурите:"
 
@@ -1615,15 +1603,19 @@ msgstr "Зависимости от трети страни"
 msgid "Time"
 msgstr "Време"
 
+# Android/iOS/Windows, time and region related settings
+msgid "Time & Region"
+msgstr ""
+
 # Android/iOS
 msgid "Time Control"
 msgstr "Контрол на времето"
 
-# Android/iOS
+# Android/iOS/Windows
 msgid "Time Zone"
 msgstr "Часова зона"
 
-# Mac/Windows
+# Mac
 msgid "Time Zone:"
 msgstr "Часова зона:"
 
