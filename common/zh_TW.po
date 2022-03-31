@@ -321,7 +321,7 @@ msgstr "星座標籤"
 msgid "Constellations"
 msgstr "星座"
 
-# Android/iOS/Mac/Windows, display constellation labels in latin
+# Mac, display constellation labels in latin
 msgid "Constellations in Latin"
 msgstr "以拉丁文顯示星座"
 
@@ -1412,11 +1412,11 @@ msgstr "顯示天體轉軸"
 msgid "Show Boundaries"
 msgstr "顯示界限"
 
-# Mac/Windows
+# Mac
 msgid "Show Constellation Labels"
 msgstr "顯示星座標記"
 
-# Android/iOS/Mac/Windows
+# Mac
 msgid "Show Constellations"
 msgstr "顯示星座"
 
@@ -1435,6 +1435,14 @@ msgstr "顯示系統轉軸"
 # Mac/Windows, Show info for an object
 msgid "Show Info"
 msgstr "顯示簡介"
+
+# Android/iOS/Windows, Constellation labels
+msgid "Show Labels"
+msgstr "顯示星座標記"
+
+# Android/iOS/Windows, Constellation labels in Latin
+msgid "Show Labels in Latin"
+msgstr "以拉丁文顯示星座"
 
 # Android/iOS/Mac/Windows
 msgid "Show Locations"

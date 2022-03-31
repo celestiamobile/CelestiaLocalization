@@ -321,7 +321,7 @@ msgstr ""
 msgid "Constellations"
 msgstr "Constelacións"
 
-# Android/iOS/Mac/Windows, display constellation labels in latin
+# Mac, display constellation labels in latin
 msgid "Constellations in Latin"
 msgstr "Constelacións en Latín"
 
@@ -1404,11 +1404,11 @@ msgstr "Amosa-los Eixos do Corpo"
 msgid "Show Boundaries"
 msgstr "Amosa-los Bordes das Constelacións"
 
-# Mac/Windows
+# Mac
 msgid "Show Constellation Labels"
 msgstr "Amosa-los Nomes das Constelacións"
 
-# Android/iOS/Mac/Windows
+# Mac
 msgid "Show Constellations"
 msgstr "Amosa-las Constelacións"
 
@@ -1427,6 +1427,14 @@ msgstr "Amosa-los Eixos do Marco"
 # Mac/Windows, Show info for an object
 msgid "Show Info"
 msgstr ""
+
+# Android/iOS/Windows, Constellation labels
+msgid "Show Labels"
+msgstr "Amosa-los Nomes das Constelacións"
+
+# Android/iOS/Windows, Constellation labels in Latin
+msgid "Show Labels in Latin"
+msgstr "Constelacións en Latín"
 
 # Android/iOS/Mac/Windows
 msgid "Show Locations"

@@ -321,7 +321,7 @@ msgstr ""
 msgid "Constellations"
 msgstr "Αστερισμοί"
 
-# Android/iOS/Mac/Windows, display constellation labels in latin
+# Mac, display constellation labels in latin
 msgid "Constellations in Latin"
 msgstr "Λατινικοί Αστερισμοί"
 
@@ -1404,11 +1404,11 @@ msgstr "Εμφάνιση Αξόνων Σωμάτων"
 msgid "Show Boundaries"
 msgstr "Εμφάνιση Συνόρων"
 
-# Mac/Windows
+# Mac
 msgid "Show Constellation Labels"
 msgstr "Εμφάνιση Ετικετών Αστερισμών "
 
-# Android/iOS/Mac/Windows
+# Mac
 msgid "Show Constellations"
 msgstr "Εμφάνιση Αστερισμών"
 
@@ -1427,6 +1427,14 @@ msgstr "Εμφάνιση Αξόνων Καρέ"
 # Mac/Windows, Show info for an object
 msgid "Show Info"
 msgstr ""
+
+# Android/iOS/Windows, Constellation labels
+msgid "Show Labels"
+msgstr "Εμφάνιση Ετικετών Αστερισμών "
+
+# Android/iOS/Windows, Constellation labels in Latin
+msgid "Show Labels in Latin"
+msgstr "Λατινικοί Αστερισμοί"
 
 # Android/iOS/Mac/Windows
 msgid "Show Locations"

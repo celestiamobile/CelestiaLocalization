@@ -321,7 +321,7 @@ msgstr ""
 msgid "Constellations"
 msgstr "Stjärnbilder"
 
-# Android/iOS/Mac/Windows, display constellation labels in latin
+# Mac, display constellation labels in latin
 msgid "Constellations in Latin"
 msgstr "Stjärnbilder på latin"
 
@@ -1404,11 +1404,11 @@ msgstr "Visa kroppsaxlar"
 msgid "Show Boundaries"
 msgstr "Visa gränser"
 
-# Mac/Windows
+# Mac
 msgid "Show Constellation Labels"
 msgstr "Visa etiketter på stjärnbilder"
 
-# Android/iOS/Mac/Windows
+# Mac
 msgid "Show Constellations"
 msgstr "Visa stjärnbilder"
 
@@ -1427,6 +1427,14 @@ msgstr "Visa ramaxlar"
 # Mac/Windows, Show info for an object
 msgid "Show Info"
 msgstr ""
+
+# Android/iOS/Windows, Constellation labels
+msgid "Show Labels"
+msgstr "Visa etiketter på stjärnbilder"
+
+# Android/iOS/Windows, Constellation labels in Latin
+msgid "Show Labels in Latin"
+msgstr "Stjärnbilder på latin"
 
 # Android/iOS/Mac/Windows
 msgid "Show Locations"

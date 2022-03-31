@@ -321,7 +321,7 @@ msgstr ""
 msgid "Constellations"
 msgstr "별자리"
 
-# Android/iOS/Mac/Windows, display constellation labels in latin
+# Mac, display constellation labels in latin
 msgid "Constellations in Latin"
 msgstr "별자리 라틴어 표시"
 
@@ -1404,11 +1404,11 @@ msgstr "천체 축 보기"
 msgid "Show Boundaries"
 msgstr "별자리 경계선 보기"
 
-# Mac/Windows
+# Mac
 msgid "Show Constellation Labels"
 msgstr "별자리 이름 보기"
 
-# Android/iOS/Mac/Windows
+# Mac
 msgid "Show Constellations"
 msgstr "별자리 보기"
 
@@ -1427,6 +1427,14 @@ msgstr "프레임 축 보기"
 # Mac/Windows, Show info for an object
 msgid "Show Info"
 msgstr ""
+
+# Android/iOS/Windows, Constellation labels
+msgid "Show Labels"
+msgstr "별자리 이름 보기"
+
+# Android/iOS/Windows, Constellation labels in Latin
+msgid "Show Labels in Latin"
+msgstr "별자리 라틴어 표시"
 
 # Android/iOS/Mac/Windows
 msgid "Show Locations"

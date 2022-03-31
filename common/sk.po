@@ -321,7 +321,7 @@ msgstr ""
 msgid "Constellations"
 msgstr "Súhvezdia"
 
-# Android/iOS/Mac/Windows, display constellation labels in latin
+# Mac, display constellation labels in latin
 msgid "Constellations in Latin"
 msgstr "Súhvezdia v latinčine"
 
@@ -1404,11 +1404,11 @@ msgstr "Zobraziť osi telesa"
 msgid "Show Boundaries"
 msgstr "Zobraziť hranice súhvezdí"
 
-# Mac/Windows
+# Mac
 msgid "Show Constellation Labels"
 msgstr "Zobraziť názvy súhvezdí"
 
-# Android/iOS/Mac/Windows
+# Mac
 msgid "Show Constellations"
 msgstr "Zobraziť súhvezdia"
 
@@ -1427,6 +1427,14 @@ msgstr "Zobraziť osi pohľadu"
 # Mac/Windows, Show info for an object
 msgid "Show Info"
 msgstr ""
+
+# Android/iOS/Windows, Constellation labels
+msgid "Show Labels"
+msgstr "Zobraziť názvy súhvezdí"
+
+# Android/iOS/Windows, Constellation labels in Latin
+msgid "Show Labels in Latin"
+msgstr "Súhvezdia v latinčine"
 
 # Android/iOS/Mac/Windows
 msgid "Show Locations"

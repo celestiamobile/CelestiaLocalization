@@ -321,7 +321,7 @@ msgstr ""
 msgid "Constellations"
 msgstr "Zvaigznājus"
 
-# Android/iOS/Mac/Windows, display constellation labels in latin
+# Mac, display constellation labels in latin
 msgid "Constellations in Latin"
 msgstr "Zvaigznājus latīniski"
 
@@ -1404,11 +1404,11 @@ msgstr "Rādīt ķermeņu asis"
 msgid "Show Boundaries"
 msgstr "Rādīt robežas"
 
-# Mac/Windows
+# Mac
 msgid "Show Constellation Labels"
 msgstr "Rādīt zvaigznāju nosaukumus"
 
-# Android/iOS/Mac/Windows
+# Mac
 msgid "Show Constellations"
 msgstr "Rādīt zvaigznājus"
 
@@ -1427,6 +1427,14 @@ msgstr "Rādīt rāmju asis"
 # Mac/Windows, Show info for an object
 msgid "Show Info"
 msgstr ""
+
+# Android/iOS/Windows, Constellation labels
+msgid "Show Labels"
+msgstr "Rādīt zvaigznāju nosaukumus"
+
+# Android/iOS/Windows, Constellation labels in Latin
+msgid "Show Labels in Latin"
+msgstr "Zvaigznājus latīniski"
 
 # Android/iOS/Mac/Windows
 msgid "Show Locations"

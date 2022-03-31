@@ -321,7 +321,7 @@ msgstr ""
 msgid "Constellations"
 msgstr "Gwiazdozbiory"
 
-# Android/iOS/Mac/Windows, display constellation labels in latin
+# Mac, display constellation labels in latin
 msgid "Constellations in Latin"
 msgstr "Gwiazdozbiory po łacinie"
 
@@ -1404,11 +1404,11 @@ msgstr "Pokaż osie ciała"
 msgid "Show Boundaries"
 msgstr "Pokaż granice"
 
-# Mac/Windows
+# Mac
 msgid "Show Constellation Labels"
 msgstr "Pokaż nazwy gwiazdozbiorów"
 
-# Android/iOS/Mac/Windows
+# Mac
 msgid "Show Constellations"
 msgstr "Pokaż gwiazdozbiory"
 
@@ -1427,6 +1427,14 @@ msgstr "Pokaż osie ramek"
 # Mac/Windows, Show info for an object
 msgid "Show Info"
 msgstr ""
+
+# Android/iOS/Windows, Constellation labels
+msgid "Show Labels"
+msgstr "Pokaż nazwy gwiazdozbiorów"
+
+# Android/iOS/Windows, Constellation labels in Latin
+msgid "Show Labels in Latin"
+msgstr "Gwiazdozbiory po łacinie"
 
 # Android/iOS/Mac/Windows
 msgid "Show Locations"

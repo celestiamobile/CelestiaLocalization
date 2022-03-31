@@ -321,7 +321,7 @@ msgstr ""
 msgid "Constellations"
 msgstr "Сузір'я"
 
-# Android/iOS/Mac/Windows, display constellation labels in latin
+# Mac, display constellation labels in latin
 msgid "Constellations in Latin"
 msgstr "Сузір'я латиною"
 
@@ -1404,11 +1404,11 @@ msgstr "Показувати осі тіла"
 msgid "Show Boundaries"
 msgstr "Показувати межі"
 
-# Mac/Windows
+# Mac
 msgid "Show Constellation Labels"
 msgstr "Показувати мітки сузір’їв"
 
-# Android/iOS/Mac/Windows
+# Mac
 msgid "Show Constellations"
 msgstr "Показувати сузір’я"
 
@@ -1427,6 +1427,14 @@ msgstr "Показувати осі вікна"
 # Mac/Windows, Show info for an object
 msgid "Show Info"
 msgstr ""
+
+# Android/iOS/Windows, Constellation labels
+msgid "Show Labels"
+msgstr "Показувати мітки сузір’їв"
+
+# Android/iOS/Windows, Constellation labels in Latin
+msgid "Show Labels in Latin"
+msgstr "Сузір'я латиною"
 
 # Android/iOS/Mac/Windows
 msgid "Show Locations"

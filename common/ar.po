@@ -321,7 +321,7 @@ msgstr ""
 msgid "Constellations"
 msgstr "برج فلكي"
 
-# Android/iOS/Mac/Windows, display constellation labels in latin
+# Mac, display constellation labels in latin
 msgid "Constellations in Latin"
 msgstr "الأبراج الفلكية باللاتينية"
 
@@ -1404,11 +1404,11 @@ msgstr "بدن الأصل '"
 msgid "Show Boundaries"
 msgstr "إظهار الحدود الفاصلة"
 
-# Mac/Windows
+# Mac
 msgid "Show Constellation Labels"
 msgstr "إظهار أسماء مجموعات النجوم"
 
-# Android/iOS/Mac/Windows
+# Mac
 msgid "Show Constellations"
 msgstr "إظهار الأبراج الفلكية"
 
@@ -1427,6 +1427,14 @@ msgstr "الإطارات الفعّالة مرئية"
 # Mac/Windows, Show info for an object
 msgid "Show Info"
 msgstr ""
+
+# Android/iOS/Windows, Constellation labels
+msgid "Show Labels"
+msgstr "إظهار أسماء مجموعات النجوم"
+
+# Android/iOS/Windows, Constellation labels in Latin
+msgid "Show Labels in Latin"
+msgstr "الأبراج الفلكية باللاتينية"
 
 # Android/iOS/Mac/Windows
 msgid "Show Locations"

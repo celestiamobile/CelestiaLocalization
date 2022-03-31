@@ -321,7 +321,7 @@ msgstr ""
 msgid "Constellations"
 msgstr "Constelaţi"
 
-# Android/iOS/Mac/Windows, display constellation labels in latin
+# Mac, display constellation labels in latin
 msgid "Constellations in Latin"
 msgstr "Constelaţiile în latină"
 
@@ -1404,11 +1404,11 @@ msgstr "Afişează axele corpului"
 msgid "Show Boundaries"
 msgstr "Randarizează limitele"
 
-# Mac/Windows
+# Mac
 msgid "Show Constellation Labels"
 msgstr "Randarizează numele constelaţiilor"
 
-# Android/iOS/Mac/Windows
+# Mac
 msgid "Show Constellations"
 msgstr "Randarizează constelaţiile"
 
@@ -1427,6 +1427,14 @@ msgstr "Afişează axele reper"
 # Mac/Windows, Show info for an object
 msgid "Show Info"
 msgstr ""
+
+# Android/iOS/Windows, Constellation labels
+msgid "Show Labels"
+msgstr "Randarizează numele constelaţiilor"
+
+# Android/iOS/Windows, Constellation labels in Latin
+msgid "Show Labels in Latin"
+msgstr "Constelaţiile în latină"
 
 # Android/iOS/Mac/Windows
 msgid "Show Locations"

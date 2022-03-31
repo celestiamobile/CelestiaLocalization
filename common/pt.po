@@ -321,7 +321,7 @@ msgstr ""
 msgid "Constellations"
 msgstr "Constelações"
 
-# Android/iOS/Mac/Windows, display constellation labels in latin
+# Mac, display constellation labels in latin
 msgid "Constellations in Latin"
 msgstr "Constelações em Latim"
 
@@ -1404,11 +1404,11 @@ msgstr "Mostrar Eixos"
 msgid "Show Boundaries"
 msgstr "Mostrar Fronteiras"
 
-# Mac/Windows
+# Mac
 msgid "Show Constellation Labels"
 msgstr "Mostrar Legendas das Constelações"
 
-# Android/iOS/Mac/Windows
+# Mac
 msgid "Show Constellations"
 msgstr "Mostrar Constelações"
 
@@ -1427,6 +1427,14 @@ msgstr "Mostrar os Eixos das Bordas"
 # Mac/Windows, Show info for an object
 msgid "Show Info"
 msgstr ""
+
+# Android/iOS/Windows, Constellation labels
+msgid "Show Labels"
+msgstr "Mostrar Legendas das Constelações"
+
+# Android/iOS/Windows, Constellation labels in Latin
+msgid "Show Labels in Latin"
+msgstr "Constelações em Latim"
 
 # Android/iOS/Mac/Windows
 msgid "Show Locations"

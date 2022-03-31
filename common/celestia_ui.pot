@@ -321,7 +321,7 @@ msgstr ""
 msgid "Constellations"
 msgstr ""
 
-# Android/iOS/Mac/Windows, display constellation labels in latin
+# Mac, display constellation labels in latin
 msgid "Constellations in Latin"
 msgstr ""
 
@@ -1404,11 +1404,11 @@ msgstr ""
 msgid "Show Boundaries"
 msgstr ""
 
-# Mac/Windows
+# Mac
 msgid "Show Constellation Labels"
 msgstr ""
 
-# Android/iOS/Mac/Windows
+# Mac
 msgid "Show Constellations"
 msgstr ""
 
@@ -1426,6 +1426,14 @@ msgstr ""
 
 # Mac/Windows, Show info for an object
 msgid "Show Info"
+msgstr ""
+
+# Android/iOS/Windows, Constellation labels
+msgid "Show Labels"
+msgstr ""
+
+# Android/iOS/Windows, Constellation labels in Latin
+msgid "Show Labels in Latin"
 msgstr ""
 
 # Android/iOS/Mac/Windows
