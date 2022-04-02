@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: celestia 1.7.0\n"
 "Report-Msgid-Bugs-To: team@celestia.space\n"
 "POT-Creation-Date: 2020-04-15 20:22+0800\n"
-"PO-Revision-Date: 2022-01-17 17:33+0300\n"
+"PO-Revision-Date: 2022-04-02 10:40+0300\n"
 "Last-Translator: Askaniy Anpilogov <askaniy1625@gmail.com>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -1425,7 +1425,7 @@ msgstr "Открыть путеводитель"
 
 # Android/iOS/Windows, Show constellation diagrams
 msgid "Show Diagrams"
-msgstr ""
+msgstr "Показывать фигуры"
 
 # Android/iOS/Mac/Windows, Reference vector
 msgid "Show Frame Axes"
@@ -1437,11 +1437,11 @@ msgstr "Информация"
 
 # Android/iOS/Windows, Constellation labels
 msgid "Show Labels"
-msgstr "Показывать названия созвездий"
+msgstr "Показывать названия"
 
 # Android/iOS/Windows, Constellation labels in Latin
 msgid "Show Labels in Latin"
-msgstr "Латинские названия"
+msgstr "Показывать названия на латыни"
 
 # Android/iOS/Mac/Windows
 msgid "Show Locations"
@@ -1611,7 +1611,7 @@ msgstr "Время"
 
 # Android/iOS/Windows, time and region related settings
 msgid "Time & Region"
-msgstr ""
+msgstr "Время и регион"
 
 # Android/iOS
 msgid "Time Control"
