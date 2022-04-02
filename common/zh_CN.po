@@ -1252,6 +1252,10 @@ msgstr "参考向量只对当前选中的太阳系天体有效。"
 msgid "Refresh"
 msgstr "刷新"
 
+# Windows, Regions settings
+msgid "Region"
+msgstr "区域"
+
 # Windows, Release date for an add-on
 #, c-format
 msgid "Release date: %s"

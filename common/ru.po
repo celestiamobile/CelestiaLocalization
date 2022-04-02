@@ -1250,6 +1250,10 @@ msgstr "Опорные векторы видны только для текущ�
 msgid "Refresh"
 msgstr "Обновить"
 
+# Windows, Regions settings
+msgid "Region"
+msgstr "Регион"
+
 # Windows, Release date for an add-on
 #, c-format
 msgid "Release date: %s"

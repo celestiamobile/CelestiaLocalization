@@ -1243,6 +1243,10 @@ msgstr ""
 msgid "Refresh"
 msgstr "새로고침"
 
+# Windows, Regions settings
+msgid "Region"
+msgstr ""
+
 # Windows, Release date for an add-on
 #, c-format
 msgid "Release date: %s"

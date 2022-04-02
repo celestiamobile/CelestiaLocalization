@@ -1252,6 +1252,10 @@ msgstr "Referenzvektoren sind nur für das ausgewählte Solarsystem-Objekt sicht
 msgid "Refresh"
 msgstr "Aktualisieren"
 
+# Windows, Regions settings
+msgid "Region"
+msgstr ""
+
 # Windows, Release date for an add-on
 #, c-format
 msgid "Release date: %s"
