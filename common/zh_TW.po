@@ -1783,6 +1783,10 @@ msgstr "火山"
 msgid "Web Info"
 msgstr "資訊"
 
+# Android, WebView component is missing or disabled
+msgid "WebView is not available."
+msgstr "WebView 不可用。"
+
 # Android/iOS, Welcome message
 msgid "Welcome to Celestia"
 msgstr "歡迎使用Celestia"

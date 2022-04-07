@@ -1775,6 +1775,10 @@ msgstr "Vulcani"
 msgid "Web Info"
 msgstr "Info"
 
+# Android, WebView component is missing or disabled
+msgid "WebView is not available."
+msgstr ""
+
 # Android/iOS, Welcome message
 msgid "Welcome to Celestia"
 msgstr ""
