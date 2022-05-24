@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: celestia 1.7.0\n"
 "Report-Msgid-Bugs-To: team@celestia.space\n"
 "POT-Creation-Date: 2020-04-15 20:22+0800\n"
-"PO-Revision-Date: 2022-04-01 19:03+0300\n"
+"PO-Revision-Date: 2022-04-26 12:39+0300\n"
 "Last-Translator: Georgi Georgiev (RacerBG) <g.georgiev.shumen@gmail.com>\n"
 "Language-Team: Bulgarian <g.georgiev.shumen@gmail.com>\n"
 "Language: bg\n"
@@ -1786,7 +1786,7 @@ msgstr "Интернет информация"
 
 # Android, WebView component is missing or disabled
 msgid "WebView is not available."
-msgstr ""
+msgstr "Приложението „WebView“ не е налично."
 
 # Android/iOS, Welcome message
 msgid "Welcome to Celestia"
