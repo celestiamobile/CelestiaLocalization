@@ -52,3 +52,6 @@
 
 "FRONT_PAGE_PROMOTION_TEMPLATE" = "Want to promote your artwork? Submit your artwork %@.";
 "FRONT_PAGE_PROMOTION_LINK_TEXT" = "here";
+
+"COMMON_TRANSLATE_THIS_PAGE_TEMPLATE" = "Help us translate this page %@.";
+"COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "here";
