@@ -1,0 +1,57 @@
+"COMMON_LOADING_ERROR" = "Ladefehler.";
+"COMMON_OPEN_IN_CELESTIA" = "In Celestia öffnen";
+"COMMON_OPEN_IN_CELESTIA_RECOMMENDED" = "In Celestia Öffnen (Empfohlen)";
+"COMMON_DOWNLOAD" = "Herunterladen";
+"ADDON_AUTHOR_TEMPLATE" = "Author(en): %@";
+"ADDON_RELEASE_DATE_TEMPLATE" = "Veröffentlichungsdatum: %@";
+"ADDON_INSTALL_HINT" = "Notiz: Ein Neustart von Celestia ist nötig, um neu installiere Add-ons zu benutzen.";
+"ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ oder %@";
+"ADDON_INSTALL_ADDON_HELP_TEMPLATE" = "Wie installiert man Add-ons? Finde es heraus %@.";
+"ADDON_INSTALL_ADDON_HELP_ACTION" = "hier";
+"GUIDE_TYPE_NEWS_TITLE" = "Neuigkeiten";
+"GUIDE_TYPE_TOOLS_TITLE" = "Werkzeuge";
+"GUIDE_TYPE_TUTORIALS_TITLE" = "Anleitungen";
+
+"ADDON_CATEGORY_TITLE" = "Add-on-Kategorien";
+"ADDON_CATEGORY_DESCRIPTION" = "Add-on-Kategorien";
+"ADDON_MADE_BY_AUTHOR_TITLE_TEMPLATE" = "Von %@ gemachte Add-ons";
+"COMMON_ERROR_TITLE" = "Fehler";
+
+"ERROR_NOT_FOUND" = "Der aufgeforderte Inhalt wurde nicht gefunden";
+"ERROR_FIELDS_MISSING" = "Ein Paar Felder fehlen in der Auffoderung";
+"ERROR_INCORRECT_PARAMETERS" = "Ein paar Parameter waren inkorrekt.";
+"ERROR_INTERNAL_ERROR" = "Interer Server-Fehler";
+
+"ADDON_POPULAR_TITLE" = "Populäre Add-ons";
+
+"ADDON_INSTALL_HINT_NO_DEMO_OBJECT" = "Notiz: Ein Neustart von Celestia ist nötig, um neu installiere Add-ons zu benutzen. Dieses Add-on hat kein Demo-Objekt, also ist nur die Deinstallier-Option sichtbar, bitte navigiere mit der Suche zum Objekt.";
+
+"ADDON_CATEGORY_DESCRIPTION_SHOW_MORE" = "...";
+
+"TAB_HOME_TITLE" = "Startseite";
+"TAB_NEWS_TITLE" = "Neuigkeiten";
+"TAB_TUTORIALS_TITLE" = "Anleitungen";
+"TAB_TOOLS_TITLE" = "Werkzeuge";
+"TAB_ADDONS_TITLE" = "Add-ons";
+"TAB_FORUM_TITLE" = "Forum";
+
+"FRONT_PAGE_WELCOME_MESSAGE" = "Wilkommen in Celestia";
+"FRONT_PAGE_TITLE" = "Celestia";
+"FRONT_PAGE_DESCRIPTION_MESSAGE" = "Celestia ist ein Echtzeit-Weltraumsimulator.";
+"DOWNLOAD_AVAILABILITY_TEMPLATE" = "Celestia ist Verfügbar für %@, %@, %@, %@, %@, %@, %@, %@.";
+"DOWNLOAD_PLATFORM_IOS" = "iOS";
+"DOWNLOAD_PLATFORM_IOS_TESTFLIGHT" = "iOS (TestFlight)";
+"DOWNLOAD_PLATFORM_ANDROID_GOOGLE_PLAY" = "Android (Google Play)";
+"DOWNLOAD_PLATFORM_ANDROID_HUAWEI" = "Android (Huawei)";
+"DOWNLOAD_PLATFORM_ANDROID_AMAZON" = "Android (Amazon)";
+"DOWNLOAD_PLATFORM_ANDROID_SIDELOAD" = "Android (Sideload)";
+"DOWNLOAD_PLATFORM_WINDOWS" = "Windows";
+"DOWNLOAD_PLATFORM_MAC" = "macOS";
+
+"PAGE_DESCRIPTION_DEFAULT" = "Kriege Celestia";
+
+"FRONT_PAGE_PROMOTION_TEMPLATE" = "Möchten Sie ihr Add-on fördern? Gebe es %@ ab.";
+"FRONT_PAGE_PROMOTION_LINK_TEXT" = "hier";
+
+"COMMON_TRANSLATE_THIS_PAGE_TEMPLATE" = "Hilf uns %@, die Seite zu übersetzen.";
+"COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "hier";
