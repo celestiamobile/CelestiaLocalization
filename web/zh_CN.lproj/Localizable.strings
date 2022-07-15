@@ -4,6 +4,7 @@
 "COMMON_DOWNLOAD" = "下载";
 "ADDON_AUTHOR_TEMPLATE" = "作者：%@";
 "ADDON_RELEASE_DATE_TEMPLATE" = "发布日期：%@";
+"ADDON_LAST_UPDATED_TEMPLATE" = "上次更新：%@";
 "ADDON_INSTALL_HINT" = "注意: 需要重新启动 Celestia 以使用新插件。";
 "ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ 或者 %@";
 "ADDON_INSTALL_ADDON_HELP_TEMPLATE" = "如何安装插件？在%@获取指导。";

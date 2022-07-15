@@ -4,6 +4,7 @@
 "COMMON_DOWNLOAD" = "Download";
 "ADDON_AUTHOR_TEMPLATE" = "Author(s): %@";
 "ADDON_RELEASE_DATE_TEMPLATE" = "Release date: %@";
+"ADDON_LAST_UPDATED_TEMPLATE" = "Last updated: %@";
 "ADDON_INSTALL_HINT" = "Note: restarting Celestia is needed to use any new installed add-on.";
 "ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ or %@";
 "ADDON_INSTALL_ADDON_HELP_TEMPLATE" = "How to install add-ons? Find out %@.";
