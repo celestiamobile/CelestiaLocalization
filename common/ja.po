@@ -1321,6 +1321,10 @@ msgstr "輪の影"
 msgid "Roll"
 msgstr "視点を左右に回転"
 
+# Android/iOS/Windows, Run a script
+msgid "Run"
+msgstr ""
+
 # Android/iOS/Mac/Windows
 msgid "Run Demo"
 msgstr "デモを実行"

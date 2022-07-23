@@ -1321,6 +1321,10 @@ msgstr "Sombras dos Anéis"
 msgid "Roll"
 msgstr "Girar"
 
+# Android/iOS/Windows, Run a script
+msgid "Run"
+msgstr ""
+
 # Android/iOS/Mac/Windows
 msgid "Run Demo"
 msgstr "Rodar Demonstração"

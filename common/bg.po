@@ -1321,6 +1321,10 @@ msgstr "Сенки от пръстени"
 msgid "Roll"
 msgstr "Завъртане"
 
+# Android/iOS/Windows, Run a script
+msgid "Run"
+msgstr ""
+
 # Android/iOS/Mac/Windows
 msgid "Run Demo"
 msgstr "Демонстрация"

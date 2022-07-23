@@ -1320,6 +1320,10 @@ msgstr "環狀陰影"
 msgid "Roll"
 msgstr "Roll"
 
+# Android/iOS/Windows, Run a script
+msgid "Run"
+msgstr "執行"
+
 # Android/iOS/Mac/Windows
 msgid "Run Demo"
 msgstr "執行示範"

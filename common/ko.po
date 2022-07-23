@@ -1312,6 +1312,10 @@ msgstr "고리 그림자"
 msgid "Roll"
 msgstr ""
 
+# Android/iOS/Windows, Run a script
+msgid "Run"
+msgstr ""
+
 # Android/iOS/Mac/Windows
 msgid "Run Demo"
 msgstr "데모 실행"
