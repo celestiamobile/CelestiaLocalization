@@ -1166,9 +1166,10 @@ msgstr "Моля, проверете наименованието на обек�
 msgid "Please choose an object."
 msgstr "Моля, изберете обект."
 
-# iOS, Message for sharing a URL
-msgid "Please enter a description of the content."
-msgstr "Моля, въведете описание на съдържанието."
+# Android, Custom config/data directory path have to be under a specific path
+#, c-format
+msgid "Please ensure that you have selected a path under %s."
+msgstr ""
 
 # iOS, Message for renaming a favorite item (currently bookmark)
 msgid "Please enter a new name."
@@ -1692,9 +1693,8 @@ msgid "Unable to generate image."
 msgstr "Изображението не може да бъде създадено."
 
 # Android, Custom config/data directory path have to be under a specific path
-#, c-format
-msgid "Unable to resolve path, please ensure that you have selected a path inside %s."
-msgstr "Пътят не е разпознат, моля, изберете път в %s."
+msgid "Unable to resolve path"
+msgstr ""
 
 # Android/iOS
 msgid "Unable to uninstall add-on."

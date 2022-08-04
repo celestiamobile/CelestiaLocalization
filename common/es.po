@@ -1159,8 +1159,9 @@ msgstr ""
 msgid "Please choose an object."
 msgstr ""
 
-# iOS, Message for sharing a URL
-msgid "Please enter a description of the content."
+# Android, Custom config/data directory path have to be under a specific path
+#, c-format
+msgid "Please ensure that you have selected a path under %s."
 msgstr ""
 
 # iOS, Message for renaming a favorite item (currently bookmark)
@@ -1685,8 +1686,7 @@ msgid "Unable to generate image."
 msgstr ""
 
 # Android, Custom config/data directory path have to be under a specific path
-#, c-format
-msgid "Unable to resolve path, please ensure that you have selected a path inside %s."
+msgid "Unable to resolve path"
 msgstr ""
 
 # Android/iOS

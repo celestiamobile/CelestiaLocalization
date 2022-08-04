@@ -1166,9 +1166,10 @@ msgstr "请检查输入的天体名是否正确。"
 msgid "Please choose an object."
 msgstr "请选择一个天体。"
 
-# iOS, Message for sharing a URL
-msgid "Please enter a description of the content."
-msgstr "请输入内容介绍。"
+# Android, Custom config/data directory path have to be under a specific path
+#, c-format
+msgid "Please ensure that you have selected a path under %s."
+msgstr "请确保您选择的路径在%s下。"
 
 # iOS, Message for renaming a favorite item (currently bookmark)
 msgid "Please enter a new name."
@@ -1692,9 +1693,8 @@ msgid "Unable to generate image."
 msgstr "无法生成图片。"
 
 # Android, Custom config/data directory path have to be under a specific path
-#, c-format
-msgid "Unable to resolve path, please ensure that you have selected a path inside %s."
-msgstr "无法获取路径，请确保您选择的路径在%s下。"
+msgid "Unable to resolve path"
+msgstr "无法获取路径"
 
 # Android/iOS
 msgid "Unable to uninstall add-on."
