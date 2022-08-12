@@ -4,7 +4,7 @@
 "COMMON_DOWNLOAD" = "Изтегляне";
 "ADDON_AUTHOR_TEMPLATE" = "Автор(и): %@";
 "ADDON_RELEASE_DATE_TEMPLATE" = "Дата на излизане: %@";
-"ADDON_LAST_UPDATED_TEMPLATE" = "Last updated: %@";
+"ADDON_LAST_UPDATED_TEMPLATE" = "Последно обновяване: %@";
 "ADDON_INSTALL_HINT" = "Забележка: Рестартирайте „Celestia“ за активиране на новите инсталирани добавки.";
 "ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ или %@";
 "ADDON_INSTALL_ADDON_HELP_TEMPLATE" = "Как се инсталира тази добавка? Вижте %@.";
@@ -54,5 +54,5 @@
 "FRONT_PAGE_PROMOTION_TEMPLATE" = "Искате ли да качите Вашите изображения? Натиснете %@.";
 "FRONT_PAGE_PROMOTION_LINK_TEXT" = "тук";
 
-"COMMON_TRANSLATE_THIS_PAGE_TEMPLATE" = "Help us translate this page %@.";
-"COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "here";
+"COMMON_TRANSLATE_THIS_PAGE_TEMPLATE" = "Искате ли да преведете тази страница? Натиснете %@.";
+"COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "тук";
