@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: celestia 1.7.0\n"
 "Report-Msgid-Bugs-To: team@celestia.space\n"
 "POT-Creation-Date: 2020-04-15 20:22+0800\n"
-"PO-Revision-Date: 2022-04-26 12:39+0300\n"
+"PO-Revision-Date: 2022-08-12 10:37+0300\n"
 "Last-Translator: Georgi Georgiev (RacerBG) <g.georgiev.shumen@gmail.com>\n"
 "Language-Team: Bulgarian <g.georgiev.shumen@gmail.com>\n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.0\n"
 
 # Android/iOS/Mac/Windows
 #, c-format
@@ -1169,7 +1169,7 @@ msgstr "Моля, изберете обект."
 # Android, Custom config/data directory path have to be under a specific path
 #, c-format
 msgid "Please ensure that you have selected a path under %s."
-msgstr ""
+msgstr "Моля, изберете път в %s."
 
 # iOS, Message for renaming a favorite item (currently bookmark)
 msgid "Please enter a new name."
@@ -1324,7 +1324,7 @@ msgstr "Завъртане"
 
 # Android/iOS/Windows, Run a script
 msgid "Run"
-msgstr ""
+msgstr "Изпълни"
 
 # Android/iOS/Mac/Windows
 msgid "Run Demo"
@@ -1694,7 +1694,7 @@ msgstr "Изображението не може да бъде създаден�
 
 # Android, Custom config/data directory path have to be under a specific path
 msgid "Unable to resolve path"
-msgstr ""
+msgstr "Пътят не е разпознат"
 
 # Android/iOS
 msgid "Unable to uninstall add-on."
