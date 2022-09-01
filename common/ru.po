@@ -328,6 +328,10 @@ msgstr "Латинские названия"
 msgid "Coordinate:"
 msgstr "Координаты:"
 
+# Android/iOS, Longitude and latitude (in Go to)
+msgid "Coordinates"
+msgstr "Координаты"
+
 # Mac/Windows, Copy current URL to pasteboard
 msgid "Copy URL"
 msgstr "Копировать ссылку"

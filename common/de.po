@@ -330,6 +330,10 @@ msgstr "Lateinische Sternbildnamen"
 msgid "Coordinate:"
 msgstr "Koordinaten:"
 
+# Android/iOS, Longitude and latitude (in Go to)
+msgid "Coordinates"
+msgstr "Koordinaten"
+
 # Mac/Windows, Copy current URL to pasteboard
 msgid "Copy URL"
 msgstr "URL kopieren"

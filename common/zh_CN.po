@@ -330,6 +330,10 @@ msgstr "拉丁名星座标签"
 msgid "Coordinate:"
 msgstr "坐标: "
 
+# Android/iOS, Longitude and latitude (in Go to)
+msgid "Coordinates"
+msgstr "坐标"
+
 # Mac/Windows, Copy current URL to pasteboard
 msgid "Copy URL"
 msgstr "拷贝URL"

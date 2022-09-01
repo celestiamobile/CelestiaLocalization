@@ -329,6 +329,10 @@ msgstr "以拉丁文顯示星座"
 msgid "Coordinate:"
 msgstr "座標: "
 
+# Android/iOS, Longitude and latitude (in Go to)
+msgid "Coordinates"
+msgstr "座標"
+
 # Mac/Windows, Copy current URL to pasteboard
 msgid "Copy URL"
 msgstr "拷貝網址"

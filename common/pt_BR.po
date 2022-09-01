@@ -330,6 +330,10 @@ msgstr "Constelações em Latim"
 msgid "Coordinate:"
 msgstr "Coordenadas:"
 
+# Android/iOS, Longitude and latitude (in Go to)
+msgid "Coordinates"
+msgstr "Coordenadas"
+
 # Mac/Windows, Copy current URL to pasteboard
 msgid "Copy URL"
 msgstr "Copiar URL"
