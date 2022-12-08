@@ -457,6 +457,10 @@ msgstr "Вы хотите прервать загрузку?"
 msgid "Do you want to uninstall this add-on?"
 msgstr "Вы хотите удалить это дополнение?"
 
+# iOS, Exit edit mode
+msgid "Done"
+msgstr ""
+
 # Mac, In eclipse finder
 msgid "Double click on item to go"
 msgstr "Нажмите дважды для перехода"

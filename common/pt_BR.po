@@ -459,6 +459,10 @@ msgstr ""
 msgid "Do you want to uninstall this add-on?"
 msgstr ""
 
+# iOS, Exit edit mode
+msgid "Done"
+msgstr ""
+
 # Mac, In eclipse finder
 msgid "Double click on item to go"
 msgstr "Duplo clique no item para ir"

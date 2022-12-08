@@ -459,6 +459,10 @@ msgstr "您是否希望取消该任务？"
 msgid "Do you want to uninstall this add-on?"
 msgstr "您是否希望卸载该插件？"
 
+# iOS, Exit edit mode
+msgid "Done"
+msgstr "完成"
+
 # Mac, In eclipse finder
 msgid "Double click on item to go"
 msgstr "双击条目前往"

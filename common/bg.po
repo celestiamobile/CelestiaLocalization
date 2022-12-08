@@ -459,6 +459,10 @@ msgstr "Искате ли да отмените тази задача?"
 msgid "Do you want to uninstall this add-on?"
 msgstr "Искате ли да премахнете тази добавка?"
 
+# iOS, Exit edit mode
+msgid "Done"
+msgstr ""
+
 # Mac, In eclipse finder
 msgid "Double click on item to go"
 msgstr "Натиснете два пъти за да отидете до елемента"
