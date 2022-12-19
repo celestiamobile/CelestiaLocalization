@@ -461,7 +461,7 @@ msgstr "Искате ли да премахнете тази добавка?"
 
 # iOS, Exit edit mode
 msgid "Done"
-msgstr ""
+msgstr "Готово"
 
 # Mac, In eclipse finder
 msgid "Double click on item to go"
