@@ -459,7 +459,7 @@ msgstr "Вы хотите удалить это дополнение?"
 
 # iOS, Exit edit mode
 msgid "Done"
-msgstr ""
+msgstr "Готово"
 
 # Mac, In eclipse finder
 msgid "Double click on item to go"
@@ -1046,7 +1046,7 @@ msgstr "Нет"
 
 # Windows
 msgid "Note: restarting Celestia is needed to use any new installed add-on."
-msgstr "Примечание: для использования любых новых установленных дополнений необходим перезапуск Celestia."
+msgstr "Примечание: перезапустите Celestia для активации новых установленных дополнений."
 
 # Mac, Hint for specifying time in eclipse finder
 msgid ""
@@ -1175,7 +1175,7 @@ msgstr "Выберите объект."
 # Android, Custom config/data directory path have to be under a specific path
 #, c-format
 msgid "Please ensure that you have selected a path under %s."
-msgstr ""
+msgstr "Пожалуйста, убедитесь, что вы выбрали путь по %s."
 
 # iOS, Message for renaming a favorite item (currently bookmark)
 msgid "Please enter a new name."
@@ -1330,11 +1330,11 @@ msgstr "Вращение"
 
 # Android/iOS/Windows, Run a script
 msgid "Run"
-msgstr ""
+msgstr "Запустить"
 
 # Android/iOS/Mac/Windows
 msgid "Run Demo"
-msgstr "Демонстрационный сценарий"
+msgstr "Запустить демонстрационный сценарий"
 
 # Android/iOS/Mac/Windows, Request user consent to run a script
 msgid "Run script?"
@@ -1692,19 +1692,19 @@ msgstr "Тип"
 
 # Mac
 msgid "Unable to capture video"
-msgstr "Не удаётся записать видео"
+msgstr "Не удалось записать видео"
 
 # Android/iOS, Failed to generate an image for sharing
 msgid "Unable to generate image."
-msgstr "Не удаётся захватить изображение."
+msgstr "Не удалось захватить изображение."
 
 # Android, Custom config/data directory path have to be under a specific path
 msgid "Unable to resolve path"
-msgstr ""
+msgstr "Не удалось определить путь"
 
 # Android/iOS
 msgid "Unable to uninstall add-on."
-msgstr "Не удаётся удалить дополнение."
+msgstr "Не удалось удалить дополнение."
 
 # Android/iOS/Windows, Uninstall an add-on
 msgid "Uninstall"
@@ -1796,7 +1796,7 @@ msgstr "Информация в интернете"
 
 # Android, WebView component is missing or disabled
 msgid "WebView is not available."
-msgstr ""
+msgstr "WebView недоступен"
 
 # Android/iOS, Welcome message
 msgid "Welcome to Celestia"
