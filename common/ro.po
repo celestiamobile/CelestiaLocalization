@@ -689,7 +689,7 @@ msgstr "Mergi la obiect"
 
 # Mac
 msgid "Go to Object…"
-msgstr ""
+msgstr "Mergi la obiect…"
 
 # Mac/Windows, Go to selected object
 msgid "Go to Selection"
@@ -1404,6 +1404,10 @@ msgstr "Sincronizează cu ora curentă"
 # Android/iOS/Windows
 msgid "Settings"
 msgstr "Setări"
+
+# iOS
+msgid "Settings…"
+msgstr "Setări…"
 
 # Android/iOS
 msgid "Share"

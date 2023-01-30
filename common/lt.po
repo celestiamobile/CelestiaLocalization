@@ -1405,6 +1405,10 @@ msgstr "Nustatyti dabartinį laiką"
 msgid "Settings"
 msgstr "Nustatymai"
 
+# iOS
+msgid "Settings…"
+msgstr "Nustatymai…"
+
 # Android/iOS
 msgid "Share"
 msgstr ""

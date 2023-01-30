@@ -689,7 +689,7 @@ msgstr "Ugrás az égitesthez: "
 
 # Mac
 msgid "Go to Object…"
-msgstr ""
+msgstr "Ugrás az égitesthez: …"
 
 # Mac/Windows, Go to selected object
 msgid "Go to Selection"
@@ -1404,6 +1404,10 @@ msgstr "Helyi idő beállítása"
 # Android/iOS/Windows
 msgid "Settings"
 msgstr "Beállítások"
+
+# iOS
+msgid "Settings…"
+msgstr "Beállítások…"
 
 # Android/iOS
 msgid "Share"

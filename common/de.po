@@ -1414,6 +1414,10 @@ msgstr "Aktuelle Zeit einstellen"
 msgid "Settings"
 msgstr "Einstellungen"
 
+# iOS
+msgid "Settings…"
+msgstr "Einstellungen…"
+
 # Android/iOS
 msgid "Share"
 msgstr "Teilen"

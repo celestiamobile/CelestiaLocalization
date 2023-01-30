@@ -1414,6 +1414,10 @@ msgstr "現在時刻に設定"
 msgid "Settings"
 msgstr "設定"
 
+# iOS
+msgid "Settings…"
+msgstr "設定…"
+
 # Android/iOS
 msgid "Share"
 msgstr "共有"

@@ -1403,7 +1403,11 @@ msgstr ""
 
 # Android/iOS/Windows
 msgid "Settings"
-msgstr "Settings"
+msgstr ""
+
+# iOS
+msgid "Settings…"
+msgstr ""
 
 # Android/iOS
 msgid "Share"

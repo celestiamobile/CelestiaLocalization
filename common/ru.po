@@ -1412,6 +1412,10 @@ msgstr "Установить текущее время"
 msgid "Settings"
 msgstr "Настройки"
 
+# iOS
+msgid "Settings…"
+msgstr "Настройки…"
+
 # Android/iOS
 msgid "Share"
 msgstr "Поделиться"

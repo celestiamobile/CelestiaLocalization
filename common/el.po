@@ -689,7 +689,7 @@ msgstr "Μετάβαση στο Αντικείμενο "
 
 # Mac
 msgid "Go to Object…"
-msgstr ""
+msgstr "Μετάβαση στο Αντικείμενο …"
 
 # Mac/Windows, Go to selected object
 msgid "Go to Selection"
@@ -1404,6 +1404,10 @@ msgstr "Καθορισμός Τρέχοντος Χρόνου"
 # Android/iOS/Windows
 msgid "Settings"
 msgstr "Ρυθμίσεις"
+
+# iOS
+msgid "Settings…"
+msgstr "Ρυθμίσεις…"
 
 # Android/iOS
 msgid "Share"

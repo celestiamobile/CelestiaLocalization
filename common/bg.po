@@ -1414,6 +1414,10 @@ msgstr "Задай към текущото време"
 msgid "Settings"
 msgstr "Настройки"
 
+# iOS
+msgid "Settings…"
+msgstr "Настройки…"
+
 # Android/iOS
 msgid "Share"
 msgstr "Сподели"

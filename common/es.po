@@ -1407,6 +1407,10 @@ msgstr "Establecer hora actual"
 msgid "Settings"
 msgstr "Preferencias"
 
+# iOS
+msgid "Settings…"
+msgstr "Preferencias…"
+
 # Android/iOS
 msgid "Share"
 msgstr ""

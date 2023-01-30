@@ -689,7 +689,7 @@ msgstr "Перайсьці да аб'екта"
 
 # Mac
 msgid "Go to Object…"
-msgstr ""
+msgstr "Перайсьці да аб'екта…"
 
 # Mac/Windows, Go to selected object
 msgid "Go to Selection"
@@ -1404,6 +1404,10 @@ msgstr "Цяперашні час"
 # Android/iOS/Windows
 msgid "Settings"
 msgstr "Настаўленьні"
+
+# iOS
+msgid "Settings…"
+msgstr "Настаўленьні…"
 
 # Android/iOS
 msgid "Share"

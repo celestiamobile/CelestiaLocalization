@@ -1407,6 +1407,10 @@ msgstr "Mettre à l’heure courante"
 msgid "Settings"
 msgstr "Configuration"
 
+# iOS
+msgid "Settings…"
+msgstr "Configuration…"
+
 # Android/iOS
 msgid "Share"
 msgstr ""

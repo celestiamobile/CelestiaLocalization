@@ -689,7 +689,7 @@ msgstr "Vai all'Oggetto"
 
 # Mac
 msgid "Go to Object…"
-msgstr ""
+msgstr "Vai all'Oggetto…"
 
 # Mac/Windows, Go to selected object
 msgid "Go to Selection"
@@ -1404,6 +1404,10 @@ msgstr "Imposta all'ora corrente"
 # Android/iOS/Windows
 msgid "Settings"
 msgstr "Impostazioni"
+
+# iOS
+msgid "Settings…"
+msgstr "Impostazioni…"
 
 # Android/iOS
 msgid "Share"

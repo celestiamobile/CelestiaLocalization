@@ -689,7 +689,7 @@ msgstr "천체로 이동"
 
 # Mac
 msgid "Go to Object…"
-msgstr ""
+msgstr "천체로 이동…"
 
 # Mac/Windows, Go to selected object
 msgid "Go to Selection"
@@ -1404,6 +1404,10 @@ msgstr "현재시간으로 설정"
 # Android/iOS/Windows
 msgid "Settings"
 msgstr "설정"
+
+# iOS
+msgid "Settings…"
+msgstr "설정…"
 
 # Android/iOS
 msgid "Share"

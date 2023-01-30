@@ -689,7 +689,7 @@ msgstr "Iet uz objektu"
 
 # Mac
 msgid "Go to Object…"
-msgstr ""
+msgstr "Iet uz objektu…"
 
 # Mac/Windows, Go to selected object
 msgid "Go to Selection"
@@ -1404,6 +1404,10 @@ msgstr "Pārslēgt uz tagadni"
 # Android/iOS/Windows
 msgid "Settings"
 msgstr "Iestatījumi"
+
+# iOS
+msgid "Settings…"
+msgstr "Iestatījumi…"
 
 # Android/iOS
 msgid "Share"

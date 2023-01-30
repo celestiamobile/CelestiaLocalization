@@ -689,7 +689,7 @@ msgstr "Cisme Git"
 
 # Mac
 msgid "Go to Object…"
-msgstr ""
+msgstr "Cisme Git…"
 
 # Mac/Windows, Go to selected object
 msgid "Go to Selection"
@@ -1404,6 +1404,10 @@ msgstr "Şu anki zamana ayarla"
 # Android/iOS/Windows
 msgid "Settings"
 msgstr "Ayarlar"
+
+# iOS
+msgid "Settings…"
+msgstr "Ayarlar…"
 
 # Android/iOS
 msgid "Share"
