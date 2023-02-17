@@ -185,7 +185,7 @@ msgstr "뒤로"
 msgid "Beginning"
 msgstr ""
 
-# Mac
+# Mac/Windows
 msgid "Bookmark Organizer"
 msgstr ""
 
@@ -232,10 +232,6 @@ msgstr ""
 # Windows, Take a screenshot in Celestia
 msgid "Capture Image"
 msgstr "이미지 캡춰"
-
-# Mac
-msgid "Celestia"
-msgstr "셀레스티아"
 
 # Mac, Object browser
 msgid "Celestia Browser"
@@ -904,6 +900,10 @@ msgstr "낮음"
 
 # Windows, Lunar eclipses.
 msgid "Lunar"
+msgstr ""
+
+# Windows, window title for add-on list
+msgid "Manage Add-ons"
 msgstr ""
 
 # Android/iOS/Mac/Windows, Location labels
@@ -1653,6 +1653,10 @@ msgstr ""
 
 # Android/iOS, Toggle FPS display on overlay
 msgid "Toggle FPS Display"
+msgstr ""
+
+# Window
+msgid "Toggle Fullscreen"
 msgstr ""
 
 # Windows

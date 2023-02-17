@@ -185,7 +185,7 @@ msgstr ""
 msgid "Beginning"
 msgstr ""
 
-# Mac
+# Mac/Windows
 msgid "Bookmark Organizer"
 msgstr ""
 
@@ -231,10 +231,6 @@ msgstr ""
 
 # Windows, Take a screenshot in Celestia
 msgid "Capture Image"
-msgstr ""
-
-# Mac
-msgid "Celestia"
 msgstr ""
 
 # Mac, Object browser
@@ -904,6 +900,10 @@ msgstr ""
 
 # Windows, Lunar eclipses.
 msgid "Lunar"
+msgstr ""
+
+# Windows, window title for add-on list
+msgid "Manage Add-ons"
 msgstr ""
 
 # Android/iOS/Mac/Windows, Location labels
@@ -1653,6 +1653,10 @@ msgstr ""
 
 # Android/iOS, Toggle FPS display on overlay
 msgid "Toggle FPS Display"
+msgstr ""
+
+# Window
+msgid "Toggle Fullscreen"
 msgstr ""
 
 # Windows

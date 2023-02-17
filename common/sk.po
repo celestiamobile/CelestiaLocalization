@@ -185,7 +185,7 @@ msgstr "Späť"
 msgid "Beginning"
 msgstr ""
 
-# Mac
+# Mac/Windows
 msgid "Bookmark Organizer"
 msgstr ""
 
@@ -232,10 +232,6 @@ msgstr ""
 # Windows, Take a screenshot in Celestia
 msgid "Capture Image"
 msgstr "Snímok obrazovky"
-
-# Mac
-msgid "Celestia"
-msgstr "Celestia"
 
 # Mac, Object browser
 msgid "Celestia Browser"
@@ -904,6 +900,10 @@ msgstr "Nízke"
 
 # Windows, Lunar eclipses.
 msgid "Lunar"
+msgstr ""
+
+# Windows, window title for add-on list
+msgid "Manage Add-ons"
 msgstr ""
 
 # Android/iOS/Mac/Windows, Location labels
@@ -1653,6 +1653,10 @@ msgstr ""
 
 # Android/iOS, Toggle FPS display on overlay
 msgid "Toggle FPS Display"
+msgstr ""
+
+# Window
+msgid "Toggle Fullscreen"
 msgstr ""
 
 # Windows

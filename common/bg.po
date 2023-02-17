@@ -186,7 +186,7 @@ msgstr "Назад"
 msgid "Beginning"
 msgstr "Начало"
 
-# Mac
+# Mac/Windows
 msgid "Bookmark Organizer"
 msgstr "Организатор на отметките"
 
@@ -233,10 +233,6 @@ msgstr "Връзката не може да бъде споделена"
 # Windows, Take a screenshot in Celestia
 msgid "Capture Image"
 msgstr "Прихвани изображението"
-
-# Mac
-msgid "Celestia"
-msgstr "„Celestia“"
 
 # Mac, Object browser
 msgid "Celestia Browser"
@@ -912,6 +908,10 @@ msgstr "Ниска"
 # Windows, Lunar eclipses.
 msgid "Lunar"
 msgstr "Лунни"
+
+# Windows, window title for add-on list
+msgid "Manage Add-ons"
+msgstr ""
 
 # Android/iOS/Mac/Windows, Location labels
 msgid "Maria (Seas)"
@@ -1663,6 +1663,10 @@ msgstr "Покажи конзолата"
 # Android/iOS, Toggle FPS display on overlay
 msgid "Toggle FPS Display"
 msgstr "Покажи ЧКС"
+
+# Window
+msgid "Toggle Fullscreen"
+msgstr ""
 
 # Windows
 msgid "Tour Guide"

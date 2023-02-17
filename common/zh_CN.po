@@ -186,7 +186,7 @@ msgstr "后退"
 msgid "Beginning"
 msgstr "开始"
 
-# Mac
+# Mac/Windows
 msgid "Bookmark Organizer"
 msgstr "管理书签"
 
@@ -233,10 +233,6 @@ msgstr "分享 URL 失败"
 # Windows, Take a screenshot in Celestia
 msgid "Capture Image"
 msgstr "捕捉图像"
-
-# Mac
-msgid "Celestia"
-msgstr "Celestia"
 
 # Mac, Object browser
 msgid "Celestia Browser"
@@ -912,6 +908,10 @@ msgstr "低"
 # Windows, Lunar eclipses.
 msgid "Lunar"
 msgstr "月食"
+
+# Windows, window title for add-on list
+msgid "Manage Add-ons"
+msgstr "管理插件"
 
 # Android/iOS/Mac/Windows, Location labels
 msgid "Maria (Seas)"
@@ -1663,6 +1663,10 @@ msgstr "切换控制台输出显示"
 # Android/iOS, Toggle FPS display on overlay
 msgid "Toggle FPS Display"
 msgstr "切换FPS显示"
+
+# Window
+msgid "Toggle Fullscreen"
+msgstr "切换全屏显示"
 
 # Windows
 msgid "Tour Guide"
