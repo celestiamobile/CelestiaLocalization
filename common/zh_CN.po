@@ -124,6 +124,10 @@ msgstr "高级"
 msgid "Ahead"
 msgstr "向前"
 
+# Android/iOS/Windows, Script system access policy option
+msgid "Allow"
+msgstr "允许"
+
 # Android/iOS/Mac/Windows, Alternative textures to display
 msgid "Alternate Surfaces"
 msgstr "替换表面"
@@ -139,6 +143,10 @@ msgstr "检测到已连接新的屏幕，您是否想在外接屏幕上显示 Ce
 # Android/iOS/Mac/Windows
 msgid "Anti-aliasing"
 msgstr "抗锯齿"
+
+# Android/iOS/Windows, Script system access policy option
+msgid "Ask"
+msgstr "询问"
 
 # Android/iOS/Mac/Windows
 msgid "Asteroids"
@@ -406,6 +414,10 @@ msgstr "删除当前视图"
 # Mac/Windows, Delete views other than current view (in split view mode)
 msgid "Delete Other Views"
 msgstr "删除其他视图"
+
+# Android/iOS/Windows, Script system access policy option
+msgid "Deny"
+msgstr "拒绝"
 
 # iOS, Title for share link
 msgid "Description"
@@ -1354,6 +1366,10 @@ msgstr "缩放点"
 msgid "Script Control"
 msgstr "脚本控制"
 
+# Android/iOS/Windows, Policy for managing lua script's access to the system
+msgid "Script System Access Policy"
+msgstr "脚本系统访问策略"
+
 # Android/iOS/Mac/Windows
 msgid "Scripts"
 msgstr "脚本"
@@ -1365,6 +1381,10 @@ msgstr "脚本和URL"
 # Android/iOS
 msgid "Search"
 msgstr "查找"
+
+# Android/iOS/Windows, Security settings title
+msgid "Security"
+msgstr "安全"
 
 # Android/iOS/Mac/Windows, Select an object
 msgid "Select"
@@ -1627,6 +1647,10 @@ msgstr "纹理分辨率: "
 # Android/iOS, URL for Third Party Dependencies wiki
 msgid "Third Party Dependencies"
 msgstr "第三方依赖"
+
+# Android/iOS/Windows, Note for Script System Access Policy
+msgid "This policy decides whether Lua scripts have access to the files on the system or not."
+msgstr "此策略决定 Lua 脚本是否有权限访问系统文件。"
 
 # Android/iOS/Mac/Windows
 msgid "Time"

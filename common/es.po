@@ -123,6 +123,10 @@ msgstr ""
 msgid "Ahead"
 msgstr "Hacia adelente"
 
+# Android/iOS/Windows, Script system access policy option
+msgid "Allow"
+msgstr ""
+
 # Android/iOS/Mac/Windows, Alternative textures to display
 msgid "Alternate Surfaces"
 msgstr "Superficies Alternativas"
@@ -137,6 +141,10 @@ msgstr ""
 
 # Android/iOS/Mac/Windows
 msgid "Anti-aliasing"
+msgstr ""
+
+# Android/iOS/Windows, Script system access policy option
+msgid "Ask"
 msgstr ""
 
 # Android/iOS/Mac/Windows
@@ -405,6 +413,10 @@ msgstr "Suprimir la vista activa"
 # Mac/Windows, Delete views other than current view (in split view mode)
 msgid "Delete Other Views"
 msgstr "Suprimir las otras vistas"
+
+# Android/iOS/Windows, Script system access policy option
+msgid "Deny"
+msgstr ""
 
 # iOS, Title for share link
 msgid "Description"
@@ -1347,6 +1359,10 @@ msgstr "Discos a escala"
 msgid "Script Control"
 msgstr ""
 
+# Android/iOS/Windows, Policy for managing lua script's access to the system
+msgid "Script System Access Policy"
+msgstr ""
+
 # Android/iOS/Mac/Windows
 msgid "Scripts"
 msgstr "Scripts"
@@ -1358,6 +1374,10 @@ msgstr ""
 # Android/iOS
 msgid "Search"
 msgstr "Buscar"
+
+# Android/iOS/Windows, Security settings title
+msgid "Security"
+msgstr ""
 
 # Android/iOS/Mac/Windows, Select an object
 msgid "Select"
@@ -1619,6 +1639,10 @@ msgstr "Resolución de texturas:"
 
 # Android/iOS, URL for Third Party Dependencies wiki
 msgid "Third Party Dependencies"
+msgstr ""
+
+# Android/iOS/Windows, Note for Script System Access Policy
+msgid "This policy decides whether Lua scripts have access to the files on the system or not."
 msgstr ""
 
 # Android/iOS/Mac/Windows

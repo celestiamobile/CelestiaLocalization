@@ -124,6 +124,10 @@ msgstr "高度な設定"
 msgid "Ahead"
 msgstr "画面中央へ進行"
 
+# Android/iOS/Windows, Script system access policy option
+msgid "Allow"
+msgstr ""
+
 # Android/iOS/Mac/Windows, Alternative textures to display
 msgid "Alternate Surfaces"
 msgstr "テククチャ選択"
@@ -139,6 +143,10 @@ msgstr ""
 # Android/iOS/Mac/Windows
 msgid "Anti-aliasing"
 msgstr "アンチエイリアシング"
+
+# Android/iOS/Windows, Script system access policy option
+msgid "Ask"
+msgstr ""
 
 # Android/iOS/Mac/Windows
 msgid "Asteroids"
@@ -406,6 +414,10 @@ msgstr "アクティブなビューを削除"
 # Mac/Windows, Delete views other than current view (in split view mode)
 msgid "Delete Other Views"
 msgstr "アクティブなビュー以外を削除"
+
+# Android/iOS/Windows, Script system access policy option
+msgid "Deny"
+msgstr ""
 
 # iOS, Title for share link
 msgid "Description"
@@ -1354,6 +1366,10 @@ msgstr "等級に応じた円"
 msgid "Script Control"
 msgstr "スクリプト制御"
 
+# Android/iOS/Windows, Policy for managing lua script's access to the system
+msgid "Script System Access Policy"
+msgstr ""
+
 # Android/iOS/Mac/Windows
 msgid "Scripts"
 msgstr "スクリプト"
@@ -1365,6 +1381,10 @@ msgstr ""
 # Android/iOS
 msgid "Search"
 msgstr "検索"
+
+# Android/iOS/Windows, Security settings title
+msgid "Security"
+msgstr ""
 
 # Android/iOS/Mac/Windows, Select an object
 msgid "Select"
@@ -1626,6 +1646,10 @@ msgstr "テクスチャ解像度:"
 
 # Android/iOS, URL for Third Party Dependencies wiki
 msgid "Third Party Dependencies"
+msgstr ""
+
+# Android/iOS/Windows, Note for Script System Access Policy
+msgid "This policy decides whether Lua scripts have access to the files on the system or not."
 msgstr ""
 
 # Android/iOS/Mac/Windows
