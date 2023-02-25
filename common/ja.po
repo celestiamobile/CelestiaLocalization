@@ -527,6 +527,10 @@ msgstr "終了日時"
 msgid "End time:"
 msgstr ""
 
+# Android/iOS/Windows, Template for the end time of a body, usually a spacecraft
+msgid "End time: %s"
+msgstr ""
+
 # Android/iOS/Mac/Windows, Grids
 msgid "Equatorial"
 msgstr "赤道座標"
@@ -1544,6 +1548,10 @@ msgstr "太陽系"
 msgid "Spacecraft"
 msgstr "人工天体"
 
+# Android/iOS/Windows
+msgid "Spectral type: %s"
+msgstr ""
+
 # Android/iOS, Speed control
 msgid "Speed Control"
 msgstr ""
@@ -1586,6 +1594,10 @@ msgstr "開始日時"
 
 # Mac/Windows, In eclipse finder, range of time to find eclipse in
 msgid "Start time:"
+msgstr ""
+
+# Android/iOS/Windows, Template for the start time of a body, usually a spacecraft
+msgid "Start time: %s"
 msgstr ""
 
 # Mac, Interupt the process of finding eclipse/Set traveling speed to 0

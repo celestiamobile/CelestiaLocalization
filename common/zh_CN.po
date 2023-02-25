@@ -166,7 +166,7 @@ msgstr "软件作者"
 
 # Windows, Authors for Celestia
 msgid "Authors:"
-msgstr "作者: "
+msgstr "作者："
 
 # Windows, Authors for an add-on
 #, c-format
@@ -332,7 +332,7 @@ msgstr "拉丁名星座标签"
 
 # Mac, Longitude and latitude (in Go to)
 msgid "Coordinate:"
-msgstr "坐标: "
+msgstr "坐标："
 
 # Android/iOS, Longitude and latitude (in Go to)
 msgid "Coordinates"
@@ -525,7 +525,11 @@ msgstr "结束时间"
 
 # Mac/Windows, In eclipse finder, range of time to find eclipse in
 msgid "End time:"
-msgstr "结束时间: "
+msgstr "结束时间："
+
+# Android/iOS/Windows, Template for the end time of a body, usually a spacecraft
+msgid "End time: %s"
+msgstr "结束时间：%s"
 
 # Android/iOS/Mac/Windows, Grids
 msgid "Equatorial"
@@ -626,7 +630,7 @@ msgstr "跟随所选天体"
 
 # Mac, Format for time
 msgid "Format:"
-msgstr "格式: "
+msgstr "格式："
 
 # Mac, Redo an operation
 msgid "Forward"
@@ -810,7 +814,7 @@ msgstr "已安装插件"
 
 # Mac, Set simulation time based on Julian date
 msgid "Julian Date:"
-msgstr "儒略日: "
+msgstr "儒略日："
 
 # Android/iOS/Mac/Windows, Temperature scale
 msgid "Kelvin"
@@ -1084,7 +1088,7 @@ msgstr "天体名称"
 
 # Mac/Windows
 msgid "Object name:"
-msgstr "天体名称: "
+msgstr "天体名称："
 
 # Android/iOS/Mac/Windows
 msgid "Object not found"
@@ -1092,7 +1096,7 @@ msgstr "找不到对象"
 
 # Mac, In Go to, Windows, In eclipse finder, object to find eclipse with
 msgid "Object:"
-msgstr "目标: "
+msgstr "目标："
 
 # Android/iOS
 msgid "Objects"
@@ -1408,7 +1412,7 @@ msgstr "选择时间"
 
 # Android, Select a destination in tour guide
 msgid "Select your destination:"
-msgstr "选择目标: "
+msgstr "选择目标："
 
 # Mac, System menu
 msgid "Services"
@@ -1544,6 +1548,10 @@ msgstr "太阳系"
 msgid "Spacecraft"
 msgstr "航天器"
 
+# Android/iOS/Windows
+msgid "Spectral type: %s"
+msgstr "光谱类型：%s"
+
 # Android/iOS, Speed control
 msgid "Speed Control"
 msgstr "速度控制"
@@ -1586,7 +1594,11 @@ msgstr "开始时间"
 
 # Mac/Windows, In eclipse finder, range of time to find eclipse in
 msgid "Start time:"
-msgstr "开始时间: "
+msgstr "开始时间："
+
+# Android/iOS/Windows, Template for the start time of a body, usually a spacecraft
+msgid "Start time: %s"
+msgstr "开始时间：%s"
 
 # Mac, Interupt the process of finding eclipse/Set traveling speed to 0
 msgid "Stop"
@@ -1642,7 +1654,7 @@ msgstr "纹理分辨率"
 
 # Mac
 msgid "Texture Resolution:"
-msgstr "纹理分辨率: "
+msgstr "纹理分辨率："
 
 # Android/iOS, URL for Third Party Dependencies wiki
 msgid "Third Party Dependencies"
@@ -1670,11 +1682,11 @@ msgstr "时区"
 
 # Mac
 msgid "Time Zone:"
-msgstr "时区: "
+msgstr "时区："
 
 # Mac, Set simulation time based on Julian date
 msgid "Time:"
-msgstr "时间: "
+msgstr "时间："
 
 # Android/iOS/Mac/Windows
 msgid "Tinted Illumination"

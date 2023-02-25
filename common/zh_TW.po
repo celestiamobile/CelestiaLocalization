@@ -165,7 +165,7 @@ msgstr "作者群"
 
 # Windows, Authors for Celestia
 msgid "Authors:"
-msgstr "作者: "
+msgstr "作者："
 
 # Windows, Authors for an add-on
 #, c-format
@@ -331,7 +331,7 @@ msgstr "以拉丁文顯示星座"
 
 # Mac, Longitude and latitude (in Go to)
 msgid "Coordinate:"
-msgstr "座標: "
+msgstr "座標："
 
 # Android/iOS, Longitude and latitude (in Go to)
 msgid "Coordinates"
@@ -524,7 +524,11 @@ msgstr "結束時間"
 
 # Mac/Windows, In eclipse finder, range of time to find eclipse in
 msgid "End time:"
-msgstr "結束時間: "
+msgstr "結束時間："
+
+# Android/iOS/Windows, Template for the end time of a body, usually a spacecraft
+msgid "End time: %s"
+msgstr "結束時間：%s"
 
 # Android/iOS/Mac/Windows, Grids
 msgid "Equatorial"
@@ -625,7 +629,7 @@ msgstr "跟隨選取星體"
 
 # Mac, Format for time
 msgid "Format:"
-msgstr "格式: "
+msgstr "格式："
 
 # Mac, Redo an operation
 msgid "Forward"
@@ -809,7 +813,7 @@ msgstr "管理已安裝外掛"
 
 # Mac, Set simulation time based on Julian date
 msgid "Julian Date:"
-msgstr "儒略曆: "
+msgstr "儒略曆："
 
 # Android/iOS/Mac/Windows, Temperature scale
 msgid "Kelvin"
@@ -1091,7 +1095,7 @@ msgstr "天體"
 
 # Mac, In Go to, Windows, In eclipse finder, object to find eclipse with
 msgid "Object:"
-msgstr "星體: "
+msgstr "星體："
 
 # Android/iOS
 msgid "Objects"
@@ -1543,6 +1547,10 @@ msgstr "太陽系"
 msgid "Spacecraft"
 msgstr "太空船"
 
+# Android/iOS/Windows
+msgid "Spectral type: %s"
+msgstr "光譜型別：%s"
+
 # Android/iOS, Speed control
 msgid "Speed Control"
 msgstr "速度控制"
@@ -1585,7 +1593,11 @@ msgstr "以全螢幕模式啟動"
 
 # Mac/Windows, In eclipse finder, range of time to find eclipse in
 msgid "Start time:"
-msgstr "開始時間: "
+msgstr "開始時間："
+
+# Android/iOS/Windows, Template for the start time of a body, usually a spacecraft
+msgid "Start time: %s"
+msgstr "開始時間：%s"
 
 # Mac, Interupt the process of finding eclipse/Set traveling speed to 0
 msgid "Stop"
@@ -1641,7 +1653,7 @@ msgstr "紋理解析度"
 
 # Mac
 msgid "Texture Resolution:"
-msgstr "紋理解析度: "
+msgstr "紋理解析度："
 
 # Android/iOS, URL for Third Party Dependencies wiki
 msgid "Third Party Dependencies"
@@ -1669,11 +1681,11 @@ msgstr "時區"
 
 # Mac
 msgid "Time Zone:"
-msgstr "時區: "
+msgstr "時區："
 
 # Mac, Set simulation time based on Julian date
 msgid "Time:"
-msgstr "時間: "
+msgstr "時間："
 
 # Android/iOS/Mac/Windows
 msgid "Tinted Illumination"
