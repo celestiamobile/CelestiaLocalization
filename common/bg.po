@@ -226,6 +226,10 @@ msgstr "Изчисляване…"
 msgid "Camera Control"
 msgstr "Контрол на камерата"
 
+# Android/iOS, Interaction mode for touch
+msgid "Camera Mode"
+msgstr ""
+
 # Android/iOS/Mac/Windows
 msgid "Cancel"
 msgstr "Отказ"
@@ -282,7 +286,7 @@ msgstr "Кръг"
 msgid "Cities"
 msgstr "Градове"
 
-# Mac
+# Android/iOS/Mac
 msgid "Close"
 msgstr "Затвори"
 
@@ -688,6 +692,10 @@ msgstr "Създаване на споделяща връзка…"
 msgid "Get Add-ons"
 msgstr "Изтегли добавки"
 
+# Android/iOS, Action for getting info about current selected object
+msgid "Get Info"
+msgstr ""
+
 # Android/iOS/Mac/Windows
 msgid "Globulars"
 msgstr "Кълбовидни звездни купове"
@@ -727,6 +735,10 @@ msgstr "Има пръстени"
 # Android/iOS/Mac/Windows
 msgid "Help"
 msgstr "Помощ"
+
+# Android/iOS, Action to hide the tool overlay
+msgid "Hide"
+msgstr ""
 
 # Mac, System menu item, hide Celestia window
 msgid "Hide Celestia"
@@ -962,6 +974,10 @@ msgstr "Мерни единици:"
 msgid "Medium"
 msgstr "Средна"
 
+# Android/iOS, Menu button
+msgid "Menu"
+msgstr ""
+
 # Android/iOS, Metric measurement system
 msgid "Metric"
 msgstr "Метрични"
@@ -1081,6 +1097,10 @@ msgstr "Обект"
 # Android/iOS, Labels
 msgid "Object Labels"
 msgstr "Надписи на обектите"
+
+# Android/iOS, Interaction mode for touch
+msgid "Object Mode"
+msgstr ""
 
 # Windows
 msgid "Object Name"
@@ -1322,6 +1342,14 @@ msgstr "Нулирай"
 msgid "Reset to Default"
 msgstr "По подразбиране"
 
+# Android/iOS, Resume or pause time/script
+msgid "Resume or Pause"
+msgstr ""
+
+# Android/iOS, Reverse time or travel direction
+msgid "Reverse"
+msgstr ""
+
 # Android/iOS/Mac, Reverse camera direction, reverse travel direction
 msgid "Reverse Direction"
 msgstr "Обърни посоката"
@@ -1556,6 +1584,10 @@ msgstr ""
 msgid "Speed Control"
 msgstr "Контрол на скоростта"
 
+# Android/iOS, Action to show a list of presets in speed
+msgid "Speed Presets"
+msgstr ""
+
 # Mac/Windows, Split view
 msgid "Split Horizontally"
 msgstr "Раздели хоризонтално"
@@ -1600,7 +1632,7 @@ msgstr "Начално време:"
 msgid "Start time: %s"
 msgstr ""
 
-# Mac, Interupt the process of finding eclipse/Set traveling speed to 0
+# Android/iOS/Mac, Interupt the process of finding eclipse/Set traveling speed to 0
 msgid "Stop"
 msgstr "Спри"
 
@@ -1702,6 +1734,10 @@ msgstr "Покажи ЧКС"
 
 # Window
 msgid "Toggle Fullscreen"
+msgstr ""
+
+# Android/iOS, Touch interaction mode
+msgid "Toggle Interaction Mode"
 msgstr ""
 
 # Windows
@@ -1863,3 +1899,11 @@ msgstr "Отклонение"
 # Android/iOS, Zoom in/out on FOV/object  Mac, System menu item, Zoom a window
 msgid "Zoom"
 msgstr "Увеличи"
+
+# Android/iOS
+msgid "Zoom In"
+msgstr ""
+
+# Android/iOS
+msgid "Zoom Out"
+msgstr ""

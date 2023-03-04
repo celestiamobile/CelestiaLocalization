@@ -226,6 +226,10 @@ msgstr ""
 msgid "Camera Control"
 msgstr "Controle da Câmera"
 
+# Android/iOS, Interaction mode for touch
+msgid "Camera Mode"
+msgstr ""
+
 # Android/iOS/Mac/Windows
 msgid "Cancel"
 msgstr "Cancelar"
@@ -282,7 +286,7 @@ msgstr "Círculo"
 msgid "Cities"
 msgstr "Cidades"
 
-# Mac
+# Android/iOS/Mac
 msgid "Close"
 msgstr "Fechar"
 
@@ -688,6 +692,10 @@ msgstr "Gerando link de compartilhamento…"
 msgid "Get Add-ons"
 msgstr ""
 
+# Android/iOS, Action for getting info about current selected object
+msgid "Get Info"
+msgstr ""
+
 # Android/iOS/Mac/Windows
 msgid "Globulars"
 msgstr "Globulares"
@@ -727,6 +735,10 @@ msgstr "Possui anéis"
 # Android/iOS/Mac/Windows
 msgid "Help"
 msgstr "Ajuda"
+
+# Android/iOS, Action to hide the tool overlay
+msgid "Hide"
+msgstr ""
 
 # Mac, System menu item, hide Celestia window
 msgid "Hide Celestia"
@@ -962,6 +974,10 @@ msgstr ""
 msgid "Medium"
 msgstr "Média"
 
+# Android/iOS, Menu button
+msgid "Menu"
+msgstr ""
+
 # Android/iOS, Metric measurement system
 msgid "Metric"
 msgstr ""
@@ -1081,6 +1097,10 @@ msgstr "Objecto"
 # Android/iOS, Labels
 msgid "Object Labels"
 msgstr "Nomes de Objetos"
+
+# Android/iOS, Interaction mode for touch
+msgid "Object Mode"
+msgstr ""
 
 # Windows
 msgid "Object Name"
@@ -1322,6 +1342,14 @@ msgstr "Redefinir"
 msgid "Reset to Default"
 msgstr "Redefinir para Padrão"
 
+# Android/iOS, Resume or pause time/script
+msgid "Resume or Pause"
+msgstr ""
+
+# Android/iOS, Reverse time or travel direction
+msgid "Reverse"
+msgstr ""
+
 # Android/iOS/Mac, Reverse camera direction, reverse travel direction
 msgid "Reverse Direction"
 msgstr "Reverter Direção"
@@ -1556,6 +1584,10 @@ msgstr ""
 msgid "Speed Control"
 msgstr ""
 
+# Android/iOS, Action to show a list of presets in speed
+msgid "Speed Presets"
+msgstr ""
+
 # Mac/Windows, Split view
 msgid "Split Horizontally"
 msgstr "Dividir na Horizontal"
@@ -1600,7 +1632,7 @@ msgstr ""
 msgid "Start time: %s"
 msgstr ""
 
-# Mac, Interupt the process of finding eclipse/Set traveling speed to 0
+# Android/iOS/Mac, Interupt the process of finding eclipse/Set traveling speed to 0
 msgid "Stop"
 msgstr "Parar"
 
@@ -1702,6 +1734,10 @@ msgstr "Alternar Exibição de FPS"
 
 # Window
 msgid "Toggle Fullscreen"
+msgstr ""
+
+# Android/iOS, Touch interaction mode
+msgid "Toggle Interaction Mode"
 msgstr ""
 
 # Windows
@@ -1863,3 +1899,11 @@ msgstr "Guinar"
 # Android/iOS, Zoom in/out on FOV/object  Mac, System menu item, Zoom a window
 msgid "Zoom"
 msgstr "Ampliação"
+
+# Android/iOS
+msgid "Zoom In"
+msgstr ""
+
+# Android/iOS
+msgid "Zoom Out"
+msgstr ""

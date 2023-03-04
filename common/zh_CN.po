@@ -226,6 +226,10 @@ msgstr "计算中…"
 msgid "Camera Control"
 msgstr "镜头控制"
 
+# Android/iOS, Interaction mode for touch
+msgid "Camera Mode"
+msgstr "相机模式"
+
 # Android/iOS/Mac/Windows
 msgid "Cancel"
 msgstr "取消"
@@ -282,7 +286,7 @@ msgstr "圆"
 msgid "Cities"
 msgstr "城市"
 
-# Mac
+# Android/iOS/Mac
 msgid "Close"
 msgstr "关闭"
 
@@ -688,6 +692,10 @@ msgstr "生成分享链接…"
 msgid "Get Add-ons"
 msgstr "下载插件"
 
+# Android/iOS, Action for getting info about current selected object
+msgid "Get Info"
+msgstr "获取信息"
+
 # Android/iOS/Mac/Windows
 msgid "Globulars"
 msgstr "球状星团"
@@ -727,6 +735,10 @@ msgstr "存在星环"
 # Android/iOS/Mac/Windows
 msgid "Help"
 msgstr "帮助"
+
+# Android/iOS, Action to hide the tool overlay
+msgid "Hide"
+msgstr "隐藏"
 
 # Mac, System menu item, hide Celestia window
 msgid "Hide Celestia"
@@ -962,6 +974,10 @@ msgstr "测量单位："
 msgid "Medium"
 msgstr "中"
 
+# Android/iOS, Menu button
+msgid "Menu"
+msgstr "菜单"
+
 # Android/iOS, Metric measurement system
 msgid "Metric"
 msgstr "公制"
@@ -1081,6 +1097,10 @@ msgstr "天体"
 # Android/iOS, Labels
 msgid "Object Labels"
 msgstr "天体标签"
+
+# Android/iOS, Interaction mode for touch
+msgid "Object Mode"
+msgstr "相对天体模式"
 
 # Windows
 msgid "Object Name"
@@ -1322,6 +1342,14 @@ msgstr "重置"
 msgid "Reset to Default"
 msgstr "恢复默认"
 
+# Android/iOS, Resume or pause time/script
+msgid "Resume or Pause"
+msgstr "恢复或暂停"
+
+# Android/iOS, Reverse time or travel direction
+msgid "Reverse"
+msgstr "反转"
+
 # Android/iOS/Mac, Reverse camera direction, reverse travel direction
 msgid "Reverse Direction"
 msgstr "反转朝向"
@@ -1556,6 +1584,10 @@ msgstr "光谱类型：%s"
 msgid "Speed Control"
 msgstr "速度控制"
 
+# Android/iOS, Action to show a list of presets in speed
+msgid "Speed Presets"
+msgstr "预设速度"
+
 # Mac/Windows, Split view
 msgid "Split Horizontally"
 msgstr "水平分割"
@@ -1600,7 +1632,7 @@ msgstr "开始时间："
 msgid "Start time: %s"
 msgstr "开始时间：%s"
 
-# Mac, Interupt the process of finding eclipse/Set traveling speed to 0
+# Android/iOS/Mac, Interupt the process of finding eclipse/Set traveling speed to 0
 msgid "Stop"
 msgstr "停止"
 
@@ -1703,6 +1735,10 @@ msgstr "切换FPS显示"
 # Window
 msgid "Toggle Fullscreen"
 msgstr "切换全屏显示"
+
+# Android/iOS, Touch interaction mode
+msgid "Toggle Interaction Mode"
+msgstr "切换交互模式"
 
 # Windows
 msgid "Tour Guide"
@@ -1863,3 +1899,11 @@ msgstr "Yaw"
 # Android/iOS, Zoom in/out on FOV/object  Mac, System menu item, Zoom a window
 msgid "Zoom"
 msgstr "缩放"
+
+# Android/iOS
+msgid "Zoom In"
+msgstr "放大"
+
+# Android/iOS
+msgid "Zoom Out"
+msgstr "缩小"

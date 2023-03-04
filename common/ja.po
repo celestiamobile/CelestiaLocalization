@@ -226,6 +226,10 @@ msgstr "計算しています…"
 msgid "Camera Control"
 msgstr "カメラコントロール"
 
+# Android/iOS, Interaction mode for touch
+msgid "Camera Mode"
+msgstr ""
+
 # Android/iOS/Mac/Windows
 msgid "Cancel"
 msgstr "キャンセル"
@@ -282,7 +286,7 @@ msgstr "円(○)"
 msgid "Cities"
 msgstr "都市"
 
-# Mac
+# Android/iOS/Mac
 msgid "Close"
 msgstr "閉じる"
 
@@ -688,6 +692,10 @@ msgstr "共有リンクを作成しています…"
 msgid "Get Add-ons"
 msgstr ""
 
+# Android/iOS, Action for getting info about current selected object
+msgid "Get Info"
+msgstr ""
+
 # Android/iOS/Mac/Windows
 msgid "Globulars"
 msgstr "球状星団"
@@ -727,6 +735,10 @@ msgstr "輪が存在"
 # Android/iOS/Mac/Windows
 msgid "Help"
 msgstr "ヘルプ"
+
+# Android/iOS, Action to hide the tool overlay
+msgid "Hide"
+msgstr ""
 
 # Mac, System menu item, hide Celestia window
 msgid "Hide Celestia"
@@ -962,6 +974,10 @@ msgstr ""
 msgid "Medium"
 msgstr "中"
 
+# Android/iOS, Menu button
+msgid "Menu"
+msgstr ""
+
 # Android/iOS, Metric measurement system
 msgid "Metric"
 msgstr ""
@@ -1081,6 +1097,10 @@ msgstr "天体"
 # Android/iOS, Labels
 msgid "Object Labels"
 msgstr "天体名表示"
+
+# Android/iOS, Interaction mode for touch
+msgid "Object Mode"
+msgstr ""
 
 # Windows
 msgid "Object Name"
@@ -1322,6 +1342,14 @@ msgstr "リセット"
 msgid "Reset to Default"
 msgstr "デフォルトへリセット"
 
+# Android/iOS, Resume or pause time/script
+msgid "Resume or Pause"
+msgstr ""
+
+# Android/iOS, Reverse time or travel direction
+msgid "Reverse"
+msgstr ""
+
 # Android/iOS/Mac, Reverse camera direction, reverse travel direction
 msgid "Reverse Direction"
 msgstr "視点を180°切替"
@@ -1556,6 +1584,10 @@ msgstr ""
 msgid "Speed Control"
 msgstr ""
 
+# Android/iOS, Action to show a list of presets in speed
+msgid "Speed Presets"
+msgstr ""
+
 # Mac/Windows, Split view
 msgid "Split Horizontally"
 msgstr "ビューを左右に分割"
@@ -1600,7 +1632,7 @@ msgstr ""
 msgid "Start time: %s"
 msgstr ""
 
-# Mac, Interupt the process of finding eclipse/Set traveling speed to 0
+# Android/iOS/Mac, Interupt the process of finding eclipse/Set traveling speed to 0
 msgid "Stop"
 msgstr "停止"
 
@@ -1702,6 +1734,10 @@ msgstr "FPS表示切替"
 
 # Window
 msgid "Toggle Fullscreen"
+msgstr ""
+
+# Android/iOS, Touch interaction mode
+msgid "Toggle Interaction Mode"
 msgstr ""
 
 # Windows
@@ -1863,3 +1899,11 @@ msgstr "視点を左右に振る"
 # Android/iOS, Zoom in/out on FOV/object  Mac, System menu item, Zoom a window
 msgid "Zoom"
 msgstr "ズーム"
+
+# Android/iOS
+msgid "Zoom In"
+msgstr ""
+
+# Android/iOS
+msgid "Zoom Out"
+msgstr ""
