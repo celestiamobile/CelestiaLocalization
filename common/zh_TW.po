@@ -79,6 +79,10 @@ msgstr "10x 快轉"
 msgid "10x Slower"
 msgstr "10x 慢轉"
 
+# Android/iOS/Windows, Game controller button
+msgid "A / X"
+msgstr "A / X"
+
 # Android/iOS, About Celstia...
 msgid "About"
 msgstr "關於"
@@ -176,6 +180,10 @@ msgstr "作者: %s"
 msgid "Auto Mag"
 msgstr " 自動調節星等極限"
 
+# Android/iOS/Windows, Game controller button
+msgid "B / Circle"
+msgstr "B / 圓形"
+
 # Android/iOS/Mac, Galactic coordinates
 #, c-format
 msgid "B: %d° %d′ %.2f″"
@@ -212,6 +220,10 @@ msgstr "最亮的恆星（絕對星等）"
 # Mac, System menu item, bring all windows to front
 msgid "Bring All to Front"
 msgstr "將此程式所有視窗移至最前"
+
+# Android/iOS/Windows, Settings for game controller buttons
+msgid "Buttons"
+msgstr "按鈕"
 
 # Android/iOS/Mac
 msgid "c (lightspeed)"
@@ -333,6 +345,14 @@ msgstr "星座"
 msgid "Constellations in Latin"
 msgstr "以拉丁文顯示星座"
 
+# Android/iOS, Used in Flight Mode
+msgid "Coordinate System"
+msgstr "座標系統"
+
+# Windows, Used in Flight Mode
+msgid "Coordinate System:"
+msgstr "座標系統："
+
 # Mac, Longitude and latitude (in Go to)
 msgid "Coordinate:"
 msgstr "座標："
@@ -368,6 +388,22 @@ msgstr "當前時間"
 # Android/iOS
 msgid "Custom"
 msgstr "自定義"
+
+# Android/iOS/Windows, Game controller button
+msgid "D-pad Down"
+msgstr "方向鍵下"
+
+# Android/iOS/Windows, Game controller button
+msgid "D-pad Left"
+msgstr "方向鍵左"
+
+# Android/iOS/Windows, Game controller button
+msgid "D-pad Right"
+msgstr "方向鍵右"
+
+# Android/iOS/Windows, Game controller button
+msgid "D-pad Up"
+msgstr "方向鍵上"
 
 # Android/iOS/Mac, Directory to load data from
 msgid "Data Directory"
@@ -547,6 +583,10 @@ msgstr "赤道半徑: %s"
 msgid "Error loading data, fallback to original configuration."
 msgstr "載入資料失敗，嘗試載入預設配置。"
 
+# Android/iOS/Windows, Game controller action
+msgid "Esc"
+msgstr "Esc"
+
 # Android/Windows, Exit Celestia
 msgid "Exit"
 msgstr "離開"
@@ -619,6 +659,14 @@ msgstr "填滿的方形"
 msgid "Find"
 msgstr "尋找"
 
+# Android/iOS/Windows
+msgid "Flight Mode"
+msgstr "飛航模式"
+
+# Android/iOS/Windows
+msgid "Flight mode decides how you move around in Celestia. Learn more…"
+msgstr "飛航模式決定你在 Celestia 的移動方式。瞭解詳情…"
+
 # Windows, Enter name for new created folder
 msgid "Folder name"
 msgstr "資料夾名稱"
@@ -642,6 +690,10 @@ msgstr "往前"
 # Android/iOS, Frame rate of simulation
 msgid "Frame Rate"
 msgstr "幀率"
+
+# Android/iOS/Windows, Flight mode, coordinate system
+msgid "Free Flight"
+msgstr "自由飛行"
 
 # Windows, Freeze time
 msgid "Freeze"
@@ -678,6 +730,10 @@ msgstr "漩渦星系"
 # Android/iOS, Render parameter
 msgid "Galaxy Brightness"
 msgstr "星系亮度"
+
+# Android/iOS/Windows, Settings for game controller
+msgid "Game Controller"
+msgstr "手柄"
 
 # Mac/Windows, In settings
 msgid "General"
@@ -823,6 +879,14 @@ msgstr "已安裝"
 msgid "Installed Add-ons"
 msgstr "管理已安裝外掛"
 
+# Android/iOS/Windows, Invert game controller thumbstick axis horizontally
+msgid "Invert Horizontally"
+msgstr "水平反轉"
+
+# Android/iOS/Windows, Invert game controller thumbstick axis vertically
+msgid "Invert Vertically"
+msgstr "垂直反轉"
+
 # Mac, Set simulation time based on Julian date
 msgid "Julian Date:"
 msgstr "儒略曆："
@@ -863,6 +927,14 @@ msgstr "語言"
 # Android/iOS/Mac/Windows, Coordinates
 msgid "Latitude"
 msgstr "緯度"
+
+# Android/iOS/Windows, Game controller button
+msgid "LB / L1"
+msgstr "LB / L1"
+
+# Android/iOS/Windows, Text for the link in Flight mode decides how you move around in Celestia. Learn more…
+msgid "Learn more…"
+msgstr "瞭解詳情…"
 
 # Mac, Yaw angle left
 msgid "Left"
@@ -931,6 +1003,10 @@ msgstr "回顧"
 # Android/iOS/Mac/Windows, Low resolution
 msgid "Low"
 msgstr "低"
+
+# Android/iOS/Windows, Game controller button
+msgid "LT / L2"
+msgstr "LT / L2"
 
 # Windows, Lunar eclipses.
 msgid "Lunar"
@@ -1189,9 +1265,21 @@ msgstr "貼上網址"
 msgid "Pause"
 msgstr "暫停"
 
+# Android/iOS/Windows, Flight mode, coordinate system
+msgid "Phase Lock"
+msgstr "相位鎖定"
+
 # Android/iOS/Mac, Camera control
 msgid "Pitch"
 msgstr "Pitch"
+
+# Android/iOS/Windows, Game controller action
+msgid "Pitch Down"
+msgstr "Pitch Down"
+
+# Android/iOS/Windows, Game controller action
+msgid "Pitch Up"
+msgstr "Pitch Up"
 
 # Android/iOS/Mac/Windows
 msgid "Planet Rings"
@@ -1276,6 +1364,10 @@ msgstr "半徑"
 msgid "Radius"
 msgstr "半徑"
 
+# Android/iOS/Windows, Game controller button
+msgid "RB / R1"
+msgstr "RB / R1"
+
 # Mac/Windows, Reset time speed to 1x
 msgid "Real Time"
 msgstr "實時"
@@ -1283,6 +1375,10 @@ msgstr "實時"
 # Mac, In Eclipse Finder
 msgid "Receiver"
 msgstr "觀測地"
+
+# Android/iOS/Windows, Used in Flight Mode
+msgid "Reference Object"
+msgstr "參照天體"
 
 # Android/iOS/Mac/Windows, Reference vectors for an object
 msgid "Reference Vectors"
@@ -1353,9 +1449,17 @@ msgstr "反轉"
 msgid "Reverse Direction"
 msgstr "反轉朝向"
 
+# Android/iOS/Windows, Game controller action
+msgid "Reverse Observer Orientation"
+msgstr "反轉朝向"
+
 # Mac/Windows
 msgid "Reverse Time"
 msgstr "時間倒轉"
+
+# Android/iOS/Windows, Game controller action
+msgid "Reverse Travel Direction"
+msgstr "反轉移動方向"
 
 # Mac, Yaw angle right
 msgid "Right"
@@ -1372,6 +1476,18 @@ msgstr "環狀陰影"
 # Android/iOS/Mac, Camera control
 msgid "Roll"
 msgstr "Roll"
+
+# Android/iOS/Windows, Game controller action
+msgid "Roll Left"
+msgstr "Roll Left"
+
+# Android/iOS/Windows, Game controller action
+msgid "Roll Right"
+msgstr "Roll Right"
+
+# Android/iOS/Windows, Game controller button
+msgid "RT / R2"
+msgstr "RT / R2"
 
 # Android/iOS/Windows, Run a script
 msgid "Run"
@@ -1659,9 +1775,17 @@ msgstr "同步軌道"
 msgid "Sync Orbit Selection"
 msgstr "與選取的星體軌道同步"
 
+# Android/iOS/Windows, Game controller action
+msgid "Tap Center"
+msgstr "點選中央"
+
 # Android/iOS
 msgid "Tap the mode button on the sidebar to switch between object mode and camera mode."
 msgstr "輕按邊欄的模式按鈕以在相對天體模式和相機模式之間切換。"
+
+# Android/iOS/Windows, Used in Flight Mode
+msgid "Target Object"
+msgstr "目標天體"
 
 # Android/iOS/Windows
 msgid "Temperature Scale"
@@ -1694,6 +1818,10 @@ msgstr "第三方依賴"
 # Android/iOS/Windows, Note for Script System Access Policy
 msgid "This policy decides whether Lua scripts have access to the files on the system or not."
 msgstr "此策略決定 Lua 指令碼是否有許可權訪問系統檔案。"
+
+# Android/iOS/Windows, Settings for game controller thumbsticks
+msgid "Thumbsticks"
+msgstr "搖桿"
 
 # Android/iOS/Mac/Windows
 msgid "Time"
@@ -1758,6 +1886,14 @@ msgstr "翻譯"
 # Mac, Travel menu
 msgid "Travel"
 msgstr "旅行"
+
+# Android/iOS/Windows, Game controller action
+msgid "Travel Faster"
+msgstr "加快速度"
+
+# Android/iOS/Windows, Game controller action
+msgid "Travel Slower"
+msgstr "減慢速度"
 
 # Android/iOS/Mac/Windows, Marker
 msgid "Triangle"
@@ -1891,9 +2027,25 @@ msgstr "視窗"
 msgid "X"
 msgstr "X"
 
+# Android/iOS/Windows, Game controller button
+msgid "X / Square"
+msgstr "X / 方形"
+
+# Android/iOS/Windows, Game controller button
+msgid "Y / Triangle"
+msgstr "Y / 三角形"
+
 # Android/iOS/Mac, Camera control
 msgid "Yaw"
 msgstr "Yaw"
+
+# Android/iOS/Windows, Game controller action
+msgid "Yaw Left"
+msgstr "Yaw Left"
+
+# Android/iOS/Windows, Game controller action
+msgid "Yaw Right"
+msgstr "Yaw Right"
 
 # Android/iOS, Zoom in/out on FOV/object  Mac, System menu item, Zoom a window
 msgid "Zoom"

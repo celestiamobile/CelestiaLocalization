@@ -80,6 +80,10 @@ msgstr "10x schneller"
 msgid "10x Slower"
 msgstr "10x langsamer"
 
+# Android/iOS/Windows, Game controller button
+msgid "A / X"
+msgstr ""
+
 # Android/iOS, About Celstia...
 msgid "About"
 msgstr "Über"
@@ -177,6 +181,10 @@ msgstr ""
 msgid "Auto Mag"
 msgstr "Automatische Helligkeit"
 
+# Android/iOS/Windows, Game controller button
+msgid "B / Circle"
+msgstr ""
+
 # Android/iOS/Mac, Galactic coordinates
 #, c-format
 msgid "B: %d° %d′ %.2f″"
@@ -213,6 +221,10 @@ msgstr ""
 # Mac, System menu item, bring all windows to front
 msgid "Bring All to Front"
 msgstr "Alles nach vorne bringen"
+
+# Android/iOS/Windows, Settings for game controller buttons
+msgid "Buttons"
+msgstr ""
 
 # Android/iOS/Mac
 msgid "c (lightspeed)"
@@ -334,6 +346,14 @@ msgstr "Sternbilder"
 msgid "Constellations in Latin"
 msgstr "Lateinische Sternbildnamen"
 
+# Android/iOS, Used in Flight Mode
+msgid "Coordinate System"
+msgstr ""
+
+# Windows, Used in Flight Mode
+msgid "Coordinate System:"
+msgstr ""
+
 # Mac, Longitude and latitude (in Go to)
 msgid "Coordinate:"
 msgstr "Koordinaten:"
@@ -369,6 +389,22 @@ msgstr "Aktuelle Zeit"
 # Android/iOS
 msgid "Custom"
 msgstr "Benutzerdefiniert"
+
+# Android/iOS/Windows, Game controller button
+msgid "D-pad Down"
+msgstr ""
+
+# Android/iOS/Windows, Game controller button
+msgid "D-pad Left"
+msgstr ""
+
+# Android/iOS/Windows, Game controller button
+msgid "D-pad Right"
+msgstr ""
+
+# Android/iOS/Windows, Game controller button
+msgid "D-pad Up"
+msgstr ""
 
 # Android/iOS/Mac, Directory to load data from
 msgid "Data Directory"
@@ -548,6 +584,10 @@ msgstr "Äquatorradius: %s"
 msgid "Error loading data, fallback to original configuration."
 msgstr "Fehler beim Laden der Daten, lade Originalkonfiguration."
 
+# Android/iOS/Windows, Game controller action
+msgid "Esc"
+msgstr ""
+
 # Android/Windows, Exit Celestia
 msgid "Exit"
 msgstr "Beenden"
@@ -620,6 +660,14 @@ msgstr "Gefülltes Quadrat"
 msgid "Find"
 msgstr "Suchen"
 
+# Android/iOS/Windows
+msgid "Flight Mode"
+msgstr ""
+
+# Android/iOS/Windows
+msgid "Flight mode decides how you move around in Celestia. Learn more…"
+msgstr ""
+
 # Windows, Enter name for new created folder
 msgid "Folder name"
 msgstr "Ordnername"
@@ -642,6 +690,10 @@ msgstr "Vorwärts"
 
 # Android/iOS, Frame rate of simulation
 msgid "Frame Rate"
+msgstr ""
+
+# Android/iOS/Windows, Flight mode, coordinate system
+msgid "Free Flight"
 msgstr ""
 
 # Windows, Freeze time
@@ -679,6 +731,10 @@ msgstr "Galaxien (spiralförmig)"
 # Android/iOS, Render parameter
 msgid "Galaxy Brightness"
 msgstr "Galaxie Helligkeit"
+
+# Android/iOS/Windows, Settings for game controller
+msgid "Game Controller"
+msgstr ""
 
 # Mac/Windows, In settings
 msgid "General"
@@ -824,6 +880,14 @@ msgstr ""
 msgid "Installed Add-ons"
 msgstr ""
 
+# Android/iOS/Windows, Invert game controller thumbstick axis horizontally
+msgid "Invert Horizontally"
+msgstr ""
+
+# Android/iOS/Windows, Invert game controller thumbstick axis vertically
+msgid "Invert Vertically"
+msgstr ""
+
 # Mac, Set simulation time based on Julian date
 msgid "Julian Date:"
 msgstr "Julianisches Datum:"
@@ -864,6 +928,14 @@ msgstr ""
 # Android/iOS/Mac/Windows, Coordinates
 msgid "Latitude"
 msgstr "Breitengrad"
+
+# Android/iOS/Windows, Game controller button
+msgid "LB / L1"
+msgstr ""
+
+# Android/iOS/Windows, Text for the link in Flight mode decides how you move around in Celestia. Learn more…
+msgid "Learn more…"
+msgstr ""
 
 # Mac, Yaw angle left
 msgid "Left"
@@ -932,6 +1004,10 @@ msgstr "Zurückblicken"
 # Android/iOS/Mac/Windows, Low resolution
 msgid "Low"
 msgstr "Gering"
+
+# Android/iOS/Windows, Game controller button
+msgid "LT / L2"
+msgstr ""
 
 # Windows, Lunar eclipses.
 msgid "Lunar"
@@ -1190,9 +1266,21 @@ msgstr "URL einfügen"
 msgid "Pause"
 msgstr "Pause"
 
+# Android/iOS/Windows, Flight mode, coordinate system
+msgid "Phase Lock"
+msgstr ""
+
 # Android/iOS/Mac, Camera control
 msgid "Pitch"
 msgstr "Nicken"
+
+# Android/iOS/Windows, Game controller action
+msgid "Pitch Down"
+msgstr ""
+
+# Android/iOS/Windows, Game controller action
+msgid "Pitch Up"
+msgstr ""
 
 # Android/iOS/Mac/Windows
 msgid "Planet Rings"
@@ -1277,6 +1365,10 @@ msgstr "Radien"
 msgid "Radius"
 msgstr "Radius"
 
+# Android/iOS/Windows, Game controller button
+msgid "RB / R1"
+msgstr ""
+
 # Mac/Windows, Reset time speed to 1x
 msgid "Real Time"
 msgstr "Echtzeit"
@@ -1284,6 +1376,10 @@ msgstr "Echtzeit"
 # Mac, In Eclipse Finder
 msgid "Receiver"
 msgstr "Verdunkelter Himmelskörper"
+
+# Android/iOS/Windows, Used in Flight Mode
+msgid "Reference Object"
+msgstr ""
 
 # Android/iOS/Mac/Windows, Reference vectors for an object
 msgid "Reference Vectors"
@@ -1354,9 +1450,17 @@ msgstr ""
 msgid "Reverse Direction"
 msgstr "Richtung umkehren"
 
+# Android/iOS/Windows, Game controller action
+msgid "Reverse Observer Orientation"
+msgstr ""
+
 # Mac/Windows
 msgid "Reverse Time"
 msgstr "Zeitquelle:"
+
+# Android/iOS/Windows, Game controller action
+msgid "Reverse Travel Direction"
+msgstr ""
 
 # Mac, Yaw angle right
 msgid "Right"
@@ -1373,6 +1477,18 @@ msgstr "Ringschatten"
 # Android/iOS/Mac, Camera control
 msgid "Roll"
 msgstr "Rollen"
+
+# Android/iOS/Windows, Game controller action
+msgid "Roll Left"
+msgstr ""
+
+# Android/iOS/Windows, Game controller action
+msgid "Roll Right"
+msgstr ""
+
+# Android/iOS/Windows, Game controller button
+msgid "RT / R2"
+msgstr ""
 
 # Android/iOS/Windows, Run a script
 msgid "Run"
@@ -1660,9 +1776,17 @@ msgstr "Orbit synchronisieren"
 msgid "Sync Orbit Selection"
 msgstr "Synchr. Orbit um Auswahl"
 
+# Android/iOS/Windows, Game controller action
+msgid "Tap Center"
+msgstr ""
+
 # Android/iOS
 msgid "Tap the mode button on the sidebar to switch between object mode and camera mode."
 msgstr "Modusbutton in Sidebar drücken, um zwischen Objekt- und Kameramodus umzuschalten."
+
+# Android/iOS/Windows, Used in Flight Mode
+msgid "Target Object"
+msgstr ""
 
 # Android/iOS/Windows
 msgid "Temperature Scale"
@@ -1694,6 +1818,10 @@ msgstr ""
 
 # Android/iOS/Windows, Note for Script System Access Policy
 msgid "This policy decides whether Lua scripts have access to the files on the system or not."
+msgstr ""
+
+# Android/iOS/Windows, Settings for game controller thumbsticks
+msgid "Thumbsticks"
 msgstr ""
 
 # Android/iOS/Mac/Windows
@@ -1759,6 +1887,14 @@ msgstr "Übersetzer"
 # Mac, Travel menu
 msgid "Travel"
 msgstr "Schub"
+
+# Android/iOS/Windows, Game controller action
+msgid "Travel Faster"
+msgstr ""
+
+# Android/iOS/Windows, Game controller action
+msgid "Travel Slower"
+msgstr ""
 
 # Android/iOS/Mac/Windows, Marker
 msgid "Triangle"
@@ -1892,9 +2028,25 @@ msgstr "Fenster"
 msgid "X"
 msgstr "X"
 
+# Android/iOS/Windows, Game controller button
+msgid "X / Square"
+msgstr ""
+
+# Android/iOS/Windows, Game controller button
+msgid "Y / Triangle"
+msgstr ""
+
 # Android/iOS/Mac, Camera control
 msgid "Yaw"
 msgstr "Gieren"
+
+# Android/iOS/Windows, Game controller action
+msgid "Yaw Left"
+msgstr ""
+
+# Android/iOS/Windows, Game controller action
+msgid "Yaw Right"
+msgstr ""
 
 # Android/iOS, Zoom in/out on FOV/object  Mac, System menu item, Zoom a window
 msgid "Zoom"
