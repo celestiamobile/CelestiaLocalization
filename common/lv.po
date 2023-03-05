@@ -201,6 +201,10 @@ msgstr "Atpakaļ"
 msgid "Beginning"
 msgstr ""
 
+# Android/iOS/Windows, Star colors option
+msgid "Blackbody D65"
+msgstr ""
+
 # Mac/Windows
 msgid "Bookmark Organizer"
 msgstr ""
@@ -296,6 +300,10 @@ msgstr "Rinķis"
 # Android/iOS/Mac/Windows
 msgid "Cities"
 msgstr "Pilsētas"
+
+# Android/iOS/Windows, Star colors option
+msgid "Classic Colors"
+msgstr ""
 
 # Android/iOS/Mac
 msgid "Close"
@@ -504,6 +512,10 @@ msgstr ""
 
 # Android/iOS
 msgid "Do you want to uninstall this add-on?"
+msgstr ""
+
+# Windows
+msgid "Don't show this message again"
 msgstr ""
 
 # iOS, Exit edit mode
@@ -790,6 +802,10 @@ msgstr ""
 # Android/iOS/Mac/Windows
 msgid "Help"
 msgstr "Palīdzība"
+
+# Windows here as in `Welcome to Celestia. To learn more about using Celestia on Xbox, please visit here.`
+msgid "here"
+msgstr ""
 
 # Android/iOS, Action to hide the tool overlay
 msgid "Hide"
@@ -1711,6 +1727,10 @@ msgstr "Kvadrāts"
 msgid "Star Browser"
 msgstr "Debesu pārlūks"
 
+# Android/iOS/Windows
+msgid "Star Colors"
+msgstr ""
+
 # Android/iOS/Mac/Windows
 msgid "Star Style"
 msgstr "Zvaigznes izskatās kā"
@@ -1839,8 +1859,16 @@ msgstr ""
 msgid "Time:"
 msgstr "Laiks:"
 
-# Android/iOS/Mac/Windows
+# Mac
 msgid "Tinted Illumination"
+msgstr ""
+
+# Android/iOS/Windows
+msgid "Tinted Illumination Saturation"
+msgstr ""
+
+# Android/iOS/Windows
+msgid "Tinted illumination saturation setting is only effective with Blackbody D65 star colors."
 msgstr ""
 
 # Android/iOS, Toggle console log display on overlay
@@ -1857,6 +1885,10 @@ msgstr ""
 
 # Android/iOS, Touch interaction mode
 msgid "Toggle Interaction Mode"
+msgstr ""
+
+# Windows, Tools menu title
+msgid "Tools"
 msgstr ""
 
 # Windows
@@ -2009,6 +2041,10 @@ msgstr ""
 
 # Android/iOS, Welcome message
 msgid "Welcome to Celestia"
+msgstr ""
+
+# Windows
+msgid "Welcome to Celestia. To learn more about using Celestia on Xbox, please visit here."
 msgstr ""
 
 # Mac, System menu, window management

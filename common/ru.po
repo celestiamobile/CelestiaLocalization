@@ -200,6 +200,10 @@ msgstr "Назад"
 msgid "Beginning"
 msgstr "Начало"
 
+# Android/iOS/Windows, Star colors option
+msgid "Blackbody D65"
+msgstr ""
+
 # Mac/Windows
 msgid "Bookmark Organizer"
 msgstr "Упорядочить закладки"
@@ -295,6 +299,10 @@ msgstr "Окружность"
 # Android/iOS/Mac/Windows
 msgid "Cities"
 msgstr "Города"
+
+# Android/iOS/Windows, Star colors option
+msgid "Classic Colors"
+msgstr ""
 
 # Android/iOS/Mac
 msgid "Close"
@@ -504,6 +512,10 @@ msgstr "Вы хотите прервать загрузку?"
 # Android/iOS
 msgid "Do you want to uninstall this add-on?"
 msgstr "Вы хотите удалить это дополнение?"
+
+# Windows
+msgid "Don't show this message again"
+msgstr ""
 
 # iOS, Exit edit mode
 msgid "Done"
@@ -789,6 +801,10 @@ msgstr "Есть кольца"
 # Android/iOS/Mac/Windows
 msgid "Help"
 msgstr "Справка"
+
+# Windows here as in `Welcome to Celestia. To learn more about using Celestia on Xbox, please visit here.`
+msgid "here"
+msgstr ""
 
 # Android/iOS, Action to hide the tool overlay
 msgid "Hide"
@@ -1718,6 +1734,10 @@ msgstr "Квадрат"
 msgid "Star Browser"
 msgstr "Каталог"
 
+# Android/iOS/Windows
+msgid "Star Colors"
+msgstr ""
+
 # Android/iOS/Mac/Windows
 msgid "Star Style"
 msgstr "Отрисовка звёзд"
@@ -1846,9 +1866,17 @@ msgstr "Часовой пояс:"
 msgid "Time:"
 msgstr "Время:"
 
-# Android/iOS/Mac/Windows
+# Mac
 msgid "Tinted Illumination"
 msgstr "Тонированное освещение"
+
+# Android/iOS/Windows
+msgid "Tinted Illumination Saturation"
+msgstr ""
+
+# Android/iOS/Windows
+msgid "Tinted illumination saturation setting is only effective with Blackbody D65 star colors."
+msgstr ""
 
 # Android/iOS, Toggle console log display on overlay
 msgid "Toggle Console Display"
@@ -1864,6 +1892,10 @@ msgstr ""
 
 # Android/iOS, Touch interaction mode
 msgid "Toggle Interaction Mode"
+msgstr ""
+
+# Windows, Tools menu title
+msgid "Tools"
 msgstr ""
 
 # Windows
@@ -2017,6 +2049,10 @@ msgstr "WebView недоступен"
 # Android/iOS, Welcome message
 msgid "Welcome to Celestia"
 msgstr "Добро пожаловать в Celestia"
+
+# Windows
+msgid "Welcome to Celestia. To learn more about using Celestia on Xbox, please visit here."
+msgstr ""
 
 # Mac, System menu, window management
 msgid "Window"

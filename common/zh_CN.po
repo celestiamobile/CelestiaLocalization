@@ -202,6 +202,10 @@ msgstr "后退"
 msgid "Beginning"
 msgstr "开始"
 
+# Android/iOS/Windows, Star colors option
+msgid "Blackbody D65"
+msgstr "黑体 D65"
+
 # Mac/Windows
 msgid "Bookmark Organizer"
 msgstr "管理书签"
@@ -297,6 +301,10 @@ msgstr "圆"
 # Android/iOS/Mac/Windows
 msgid "Cities"
 msgstr "城市"
+
+# Android/iOS/Windows, Star colors option
+msgid "Classic Colors"
+msgstr "经典色彩"
 
 # Android/iOS/Mac
 msgid "Close"
@@ -506,6 +514,10 @@ msgstr "您是否希望取消该任务？"
 # Android/iOS
 msgid "Do you want to uninstall this add-on?"
 msgstr "您是否希望卸载该插件？"
+
+# Windows
+msgid "Don't show this message again"
+msgstr "不要再显示这条信息"
 
 # iOS, Exit edit mode
 msgid "Done"
@@ -791,6 +803,10 @@ msgstr "存在星环"
 # Android/iOS/Mac/Windows
 msgid "Help"
 msgstr "帮助"
+
+# Windows here as in `Welcome to Celestia. To learn more about using Celestia on Xbox, please visit here.`
+msgid "here"
+msgstr "这里"
 
 # Android/iOS, Action to hide the tool overlay
 msgid "Hide"
@@ -1720,6 +1736,10 @@ msgstr "正方形"
 msgid "Star Browser"
 msgstr "星体浏览器"
 
+# Android/iOS/Windows
+msgid "Star Colors"
+msgstr "恒星色彩"
+
 # Android/iOS/Mac/Windows
 msgid "Star Style"
 msgstr "恒星样式"
@@ -1848,9 +1868,17 @@ msgstr "时区："
 msgid "Time:"
 msgstr "时间："
 
-# Android/iOS/Mac/Windows
+# Mac
 msgid "Tinted Illumination"
 msgstr "有色照明"
+
+# Android/iOS/Windows
+msgid "Tinted Illumination Saturation"
+msgstr "有色照明饱和度"
+
+# Android/iOS/Windows
+msgid "Tinted illumination saturation setting is only effective with Blackbody D65 star colors."
+msgstr "有色照明饱和度设置仅在黑体 D65 恒星色彩时生效。"
 
 # Android/iOS, Toggle console log display on overlay
 msgid "Toggle Console Display"
@@ -1867,6 +1895,10 @@ msgstr "切换全屏显示"
 # Android/iOS, Touch interaction mode
 msgid "Toggle Interaction Mode"
 msgstr "切换交互模式"
+
+# Windows, Tools menu title
+msgid "Tools"
+msgstr "工具"
 
 # Windows
 msgid "Tour Guide"
@@ -2019,6 +2051,10 @@ msgstr "WebView 不可用。"
 # Android/iOS, Welcome message
 msgid "Welcome to Celestia"
 msgstr "欢迎使用Celestia"
+
+# Windows
+msgid "Welcome to Celestia. To learn more about using Celestia on Xbox, please visit here."
+msgstr "欢迎来到 Celestia。了解更多 Xbox 版本 Celestia 使用方式，请前往这里。"
 
 # Mac, System menu, window management
 msgid "Window"
