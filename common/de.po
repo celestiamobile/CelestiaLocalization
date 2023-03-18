@@ -1916,6 +1916,10 @@ msgstr "Auswahl folgen"
 msgid "Translators"
 msgstr "Übersetzer"
 
+# Windows, Translators for Celestia
+msgid "Translators:"
+msgstr ""
+
 # Mac, Travel menu
 msgid "Travel"
 msgstr "Schub"

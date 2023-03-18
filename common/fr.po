@@ -1909,6 +1909,10 @@ msgstr "Maintenir la sélection centrée (Pister)"
 msgid "Translators"
 msgstr ""
 
+# Windows, Translators for Celestia
+msgid "Translators:"
+msgstr ""
+
 # Mac, Travel menu
 msgid "Travel"
 msgstr "Déplacement"

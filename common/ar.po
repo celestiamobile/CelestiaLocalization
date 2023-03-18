@@ -1907,6 +1907,10 @@ msgstr "اختيار الطريق"
 msgid "Translators"
 msgstr ""
 
+# Windows, Translators for Celestia
+msgid "Translators:"
+msgstr ""
+
 # Mac, Travel menu
 msgid "Travel"
 msgstr ""

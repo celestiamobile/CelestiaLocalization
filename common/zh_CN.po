@@ -1916,6 +1916,10 @@ msgstr "保持居中"
 msgid "Translators"
 msgstr "翻译"
 
+# Windows, Translators for Celestia
+msgid "Translators:"
+msgstr "翻译："
+
 # Mac, Travel menu
 msgid "Travel"
 msgstr "移动"

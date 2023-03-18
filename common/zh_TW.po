@@ -1915,6 +1915,10 @@ msgstr "跟隨所選"
 msgid "Translators"
 msgstr "翻譯"
 
+# Windows, Translators for Celestia
+msgid "Translators:"
+msgstr "翻譯："
+
 # Mac, Travel menu
 msgid "Travel"
 msgstr "旅行"

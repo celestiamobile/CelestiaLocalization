@@ -1907,6 +1907,10 @@ msgstr "선택한 천체를 화면 가운데 유지"
 msgid "Translators"
 msgstr ""
 
+# Windows, Translators for Celestia
+msgid "Translators:"
+msgstr ""
+
 # Mac, Travel menu
 msgid "Travel"
 msgstr ""

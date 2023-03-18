@@ -1909,6 +1909,10 @@ msgstr "Mantener selección centrada (Traquear)"
 msgid "Translators"
 msgstr ""
 
+# Windows, Translators for Celestia
+msgid "Translators:"
+msgstr ""
+
 # Mac, Travel menu
 msgid "Travel"
 msgstr "Viajar"

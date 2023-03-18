@@ -1914,6 +1914,10 @@ msgstr "Следовать за выделенным"
 msgid "Translators"
 msgstr "Переводчики"
 
+# Windows, Translators for Celestia
+msgid "Translators:"
+msgstr ""
+
 # Mac, Travel menu
 msgid "Travel"
 msgstr "Перемещение"
