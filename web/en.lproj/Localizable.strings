@@ -30,6 +30,7 @@
 "ADDON_CATEGORY_DESCRIPTION_SHOW_MORE" = "...";
 
 "TAB_HOME_TITLE" = "Home";
+"TAB_DOWNLOADS_TITLE" = "Downloads";
 "TAB_NEWS_TITLE" = "News";
 "TAB_TUTORIALS_TITLE" = "Tutorials";
 "TAB_TOOLS_TITLE" = "Tools";

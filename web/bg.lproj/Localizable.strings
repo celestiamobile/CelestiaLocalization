@@ -30,6 +30,7 @@
 "ADDON_CATEGORY_DESCRIPTION_SHOW_MORE" = "...";
 
 "TAB_HOME_TITLE" = "Начало";
+"TAB_DOWNLOADS_TITLE" = "Изтегляне";
 "TAB_NEWS_TITLE" = "Новини";
 "TAB_TUTORIALS_TITLE" = "Упътвания";
 "TAB_TOOLS_TITLE" = "Инструменти";
