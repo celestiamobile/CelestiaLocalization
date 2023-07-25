@@ -226,6 +226,10 @@ msgstr ""
 msgid "Bring All to Front"
 msgstr "すべてを前面に表示"
 
+# Android/iOS/Windows, Default email title for bug report
+msgid "Bug report for Celestia"
+msgstr ""
+
 # Android/iOS/Windows, Settings for game controller buttons
 msgid "Buttons"
 msgstr ""
@@ -651,6 +655,10 @@ msgstr "致命的なエラー"
 # Android/iOS, Favorites (currently bookmarks and scripts)
 msgid "Favorites"
 msgstr "お気に入り"
+
+# Android/iOS/Windows, Default email title for feature suggestion
+msgid "Feature suggestion for Celestia"
+msgstr ""
 
 # Android/iOS/Mac/Windows
 msgid "Features"
@@ -1314,6 +1322,14 @@ msgstr "天体名が正しいか確認してください。"
 msgid "Please choose an object."
 msgstr "天体を選択してください。"
 
+# Android/iOS/Windows, Default email body for feature suggestion
+msgid "Please describe the feature you want to see in Celestia."
+msgstr ""
+
+# Android/iOS/Windows, Default email body for bug report
+msgid "Please describe the issue and repro steps, if known."
+msgstr ""
+
 # Android, Custom config/data directory path have to be under a specific path
 #, c-format
 msgid "Please ensure that you have selected a path under %s."
@@ -1437,6 +1453,10 @@ msgstr "レンダリング設定"
 # Android/iOS/Mac/Windows, In settings
 msgid "Renderer"
 msgstr "レンダリング"
+
+# Android/iOS/Windows
+msgid "Report a Bug"
+msgstr ""
 
 # Android, Finished requesting permission needed for Celestia
 msgid "Requesting permission finished"
@@ -1573,6 +1593,10 @@ msgstr "時刻を選択"
 # Android, Select a destination in tour guide
 msgid "Select your destination:"
 msgstr "目的地を選択してください:"
+
+# Android/iOS
+msgid "Send Feedback"
+msgstr ""
 
 # Mac, System menu
 msgid "Services"
@@ -1776,6 +1800,10 @@ msgstr "停止"
 msgid "Subsystem"
 msgstr "周回する天体"
 
+# Android/iOS/Windows
+msgid "Suggest a Feature"
+msgstr ""
+
 # Android/iOS
 msgid "Support Forum"
 msgstr "サポートフォーラム"
@@ -1918,7 +1946,7 @@ msgstr "翻訳者"
 
 # Windows, Translators for Celestia
 msgid "Translators:"
-msgstr ""
+msgstr "翻訳者: "
 
 # Mac, Travel menu
 msgid "Travel"

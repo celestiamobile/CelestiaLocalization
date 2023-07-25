@@ -226,6 +226,10 @@ msgstr "Най-ярки звезди (абсолютна величина)"
 msgid "Bring All to Front"
 msgstr "Всички отпред"
 
+# Android/iOS/Windows, Default email title for bug report
+msgid "Bug report for Celestia"
+msgstr ""
+
 # Android/iOS/Windows, Settings for game controller buttons
 msgid "Buttons"
 msgstr ""
@@ -651,6 +655,10 @@ msgstr "Фатална грешка"
 # Android/iOS, Favorites (currently bookmarks and scripts)
 msgid "Favorites"
 msgstr "Предпочитани"
+
+# Android/iOS/Windows, Default email title for feature suggestion
+msgid "Feature suggestion for Celestia"
+msgstr ""
 
 # Android/iOS/Mac/Windows
 msgid "Features"
@@ -1314,6 +1322,14 @@ msgstr "Моля, проверете наименованието на обек�
 msgid "Please choose an object."
 msgstr "Моля, изберете обект."
 
+# Android/iOS/Windows, Default email body for feature suggestion
+msgid "Please describe the feature you want to see in Celestia."
+msgstr ""
+
+# Android/iOS/Windows, Default email body for bug report
+msgid "Please describe the issue and repro steps, if known."
+msgstr ""
+
 # Android, Custom config/data directory path have to be under a specific path
 #, c-format
 msgid "Please ensure that you have selected a path under %s."
@@ -1437,6 +1453,10 @@ msgstr "Параметри на възпроизвеждането"
 # Android/iOS/Mac/Windows, In settings
 msgid "Renderer"
 msgstr "Възпроизвеждане"
+
+# Android/iOS/Windows
+msgid "Report a Bug"
+msgstr ""
 
 # Android, Finished requesting permission needed for Celestia
 msgid "Requesting permission finished"
@@ -1573,6 +1593,10 @@ msgstr "Избери времето"
 # Android, Select a destination in tour guide
 msgid "Select your destination:"
 msgstr "Избери дестинация:"
+
+# Android/iOS
+msgid "Send Feedback"
+msgstr ""
 
 # Mac, System menu
 msgid "Services"
@@ -1776,6 +1800,10 @@ msgstr "Спри"
 msgid "Subsystem"
 msgstr "Подсистема"
 
+# Android/iOS/Windows
+msgid "Suggest a Feature"
+msgstr ""
+
 # Android/iOS
 msgid "Support Forum"
 msgstr "Форум за поддръжка"
@@ -1918,7 +1946,7 @@ msgstr "Преводачи"
 
 # Windows, Translators for Celestia
 msgid "Translators:"
-msgstr ""
+msgstr "Преводачи:"
 
 # Mac, Travel menu
 msgid "Travel"

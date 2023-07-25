@@ -225,6 +225,10 @@ msgstr ""
 msgid "Bring All to Front"
 msgstr ""
 
+# Android/iOS/Windows, Default email title for bug report
+msgid "Bug report for Celestia"
+msgstr ""
+
 # Android/iOS/Windows, Settings for game controller buttons
 msgid "Buttons"
 msgstr ""
@@ -649,6 +653,10 @@ msgstr ""
 
 # Android/iOS, Favorites (currently bookmarks and scripts)
 msgid "Favorites"
+msgstr ""
+
+# Android/iOS/Windows, Default email title for feature suggestion
+msgid "Feature suggestion for Celestia"
 msgstr ""
 
 # Android/iOS/Mac/Windows
@@ -1305,6 +1313,14 @@ msgstr ""
 msgid "Please choose an object."
 msgstr ""
 
+# Android/iOS/Windows, Default email body for feature suggestion
+msgid "Please describe the feature you want to see in Celestia."
+msgstr ""
+
+# Android/iOS/Windows, Default email body for bug report
+msgid "Please describe the issue and repro steps, if known."
+msgstr ""
+
 # Android, Custom config/data directory path have to be under a specific path
 #, c-format
 msgid "Please ensure that you have selected a path under %s."
@@ -1427,6 +1443,10 @@ msgstr ""
 
 # Android/iOS/Mac/Windows, In settings
 msgid "Renderer"
+msgstr ""
+
+# Android/iOS/Windows
+msgid "Report a Bug"
 msgstr ""
 
 # Android, Finished requesting permission needed for Celestia
@@ -1564,6 +1584,10 @@ msgstr ""
 # Android, Select a destination in tour guide
 msgid "Select your destination:"
 msgstr "Velg ditt mål:"
+
+# Android/iOS
+msgid "Send Feedback"
+msgstr ""
 
 # Mac, System menu
 msgid "Services"
@@ -1765,6 +1789,10 @@ msgstr ""
 
 # Android/iOS, Subsystem of an object (e.g. planetarium system)
 msgid "Subsystem"
+msgstr ""
+
+# Android/iOS/Windows
+msgid "Suggest a Feature"
 msgstr ""
 
 # Android/iOS

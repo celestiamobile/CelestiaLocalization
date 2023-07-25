@@ -225,6 +225,10 @@ msgstr "最亮的恆星（絕對星等）"
 msgid "Bring All to Front"
 msgstr "將此程式所有視窗移至最前"
 
+# Android/iOS/Windows, Default email title for bug report
+msgid "Bug report for Celestia"
+msgstr "Celestia Bug 報告"
+
 # Android/iOS/Windows, Settings for game controller buttons
 msgid "Buttons"
 msgstr "按鈕"
@@ -651,6 +655,10 @@ msgstr "致命錯誤"
 msgid "Favorites"
 msgstr "收藏"
 
+# Android/iOS/Windows, Default email title for feature suggestion
+msgid "Feature suggestion for Celestia"
+msgstr "Celestia 功能建議"
+
 # Android/iOS/Mac/Windows
 msgid "Features"
 msgstr "顯示特徵"
@@ -677,7 +685,7 @@ msgstr "飛航模式"
 
 # Android/iOS/Windows
 msgid "Flight mode decides how you move around in Celestia. Learn more…"
-msgstr "飛航模式決定你在 Celestia 的移動方式。瞭解詳情…"
+msgstr "飛航模式決定您在 Celestia 的移動方式。瞭解詳情…"
 
 # Windows, Enter name for new created folder
 msgid "Folder name"
@@ -1313,6 +1321,14 @@ msgstr "請檢查輸入的天體名是否正確。"
 msgid "Please choose an object."
 msgstr "請選擇一個天體。"
 
+# Android/iOS/Windows, Default email body for feature suggestion
+msgid "Please describe the feature you want to see in Celestia."
+msgstr "請描述您希望在 Celestia 中看到的功能。"
+
+# Android/iOS/Windows, Default email body for bug report
+msgid "Please describe the issue and repro steps, if known."
+msgstr "請描述您看到的問題，如果您知道如何復現此問題，請描述復現方法。"
+
 # Android, Custom config/data directory path have to be under a specific path
 #, c-format
 msgid "Please ensure that you have selected a path under %s."
@@ -1436,6 +1452,10 @@ msgstr "渲染引數"
 # Android/iOS/Mac/Windows, In settings
 msgid "Renderer"
 msgstr "渲染"
+
+# Android/iOS/Windows
+msgid "Report a Bug"
+msgstr "報告 Bug"
 
 # Android, Finished requesting permission needed for Celestia
 msgid "Requesting permission finished"
@@ -1572,6 +1592,10 @@ msgstr "選擇時間"
 # Android, Select a destination in tour guide
 msgid "Select your destination:"
 msgstr "選擇您的目標:"
+
+# Android/iOS
+msgid "Send Feedback"
+msgstr "傳送反饋"
 
 # Mac, System menu
 msgid "Services"
@@ -1774,6 +1798,10 @@ msgstr "停止"
 # Android/iOS, Subsystem of an object (e.g. planetarium system)
 msgid "Subsystem"
 msgstr "子系統"
+
+# Android/iOS/Windows
+msgid "Suggest a Feature"
+msgstr "功能建議"
 
 # Android/iOS
 msgid "Support Forum"
