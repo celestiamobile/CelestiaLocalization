@@ -574,6 +574,10 @@ msgstr "Eclittica"
 msgid "Edit"
 msgstr ""
 
+# Windows, Template for displaying when end time cannot be correctly formatted by the system
+msgid "End Julian day: %.4f"
+msgstr ""
+
 # Android/iOS, In eclipse finder, range of time to find eclipse in
 msgid "End Time"
 msgstr ""
@@ -897,6 +901,10 @@ msgstr ""
 msgid "Installed Add-ons"
 msgstr ""
 
+# Windows, The input of julian day is not valid
+msgid "Invalid Julian day string."
+msgstr ""
+
 # Android/iOS/Windows, Invert game controller thumbstick axis horizontally
 msgid "Invert Horizontally"
 msgstr ""
@@ -907,6 +915,10 @@ msgstr ""
 
 # Mac, Set simulation time based on Julian date
 msgid "Julian Date:"
+msgstr ""
+
+# Windows, Select time via entering Julian day
+msgid "Julian Day"
 msgstr ""
 
 # Android/iOS/Mac/Windows, Temperature scale
@@ -1285,6 +1297,10 @@ msgstr ""
 msgid "Phase Lock"
 msgstr ""
 
+# Windows, Select time via picker
+msgid "Picker"
+msgstr ""
+
 # Android/iOS/Mac, Camera control
 msgid "Pitch"
 msgstr ""
@@ -1585,6 +1601,10 @@ msgstr ""
 msgid "Select your destination:"
 msgstr "Seleziona la destinazione:"
 
+# Windows, Error message, the time in the picker is considered out of range by the system
+msgid "Selected time is out of range."
+msgstr ""
+
 # Android/iOS
 msgid "Send Feedback"
 msgstr ""
@@ -1769,6 +1789,10 @@ msgstr "Stelle"
 
 # Android/iOS/Mac/Windows
 msgid "Stars with Planets"
+msgstr ""
+
+# Windows, Template for displaying when start time cannot be correctly formatted by the system
+msgid "Start Julian day: %.4f"
 msgstr ""
 
 # Android/iOS, In eclipse finder, range of time to find eclipse in

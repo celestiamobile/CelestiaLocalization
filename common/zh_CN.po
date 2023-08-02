@@ -575,6 +575,10 @@ msgstr "黄道线"
 msgid "Edit"
 msgstr "编辑"
 
+# Windows, Template for displaying when end time cannot be correctly formatted by the system
+msgid "End Julian day: %.4f"
+msgstr "结束儒略日：%.4f"
+
 # Android/iOS, In eclipse finder, range of time to find eclipse in
 msgid "End Time"
 msgstr "结束时间"
@@ -904,6 +908,10 @@ msgstr "已安装"
 msgid "Installed Add-ons"
 msgstr "已安装插件"
 
+# Windows, The input of julian day is not valid
+msgid "Invalid Julian day string."
+msgstr "无效的儒略日字符串。"
+
 # Android/iOS/Windows, Invert game controller thumbstick axis horizontally
 msgid "Invert Horizontally"
 msgstr "水平反转"
@@ -915,6 +923,10 @@ msgstr "垂直反转"
 # Mac, Set simulation time based on Julian date
 msgid "Julian Date:"
 msgstr "儒略日："
+
+# Windows, Select time via entering Julian day
+msgid "Julian Day"
+msgstr "儒略日"
 
 # Android/iOS/Mac/Windows, Temperature scale
 msgid "Kelvin"
@@ -1294,6 +1306,10 @@ msgstr "暂停"
 msgid "Phase Lock"
 msgstr "相位锁定"
 
+# Windows, Select time via picker
+msgid "Picker"
+msgstr "选择器"
+
 # Android/iOS/Mac, Camera control
 msgid "Pitch"
 msgstr "Pitch"
@@ -1594,6 +1610,10 @@ msgstr "选择时间"
 msgid "Select your destination:"
 msgstr "选择目标："
 
+# Windows, Error message, the time in the picker is considered out of range by the system
+msgid "Selected time is out of range."
+msgstr "选定的时间超出范围。"
+
 # Android/iOS
 msgid "Send Feedback"
 msgstr "发送反馈"
@@ -1779,6 +1799,10 @@ msgstr "恒星"
 # Android/iOS/Mac/Windows
 msgid "Stars with Planets"
 msgstr "有行星的恒星"
+
+# Windows, Template for displaying when start time cannot be correctly formatted by the system
+msgid "Start Julian day: %.4f"
+msgstr "开始儒略日：%.4f"
 
 # Android/iOS, In eclipse finder, range of time to find eclipse in
 msgid "Start Time"
