@@ -267,6 +267,14 @@ msgid "Beginning"
 msgstr "Início"
 
 # Android/iOS/Windows, Star colors option
+msgid "Blackbody (Solar Whitepoint)"
+msgstr ""
+
+# Android/iOS/Windows, Star colors option
+msgid "Blackbody (Vega Whitepoint)"
+msgstr ""
+
+# Android/iOS/Windows, Star colors option
 msgid "Blackbody D65"
 msgstr ""
 
@@ -2087,7 +2095,7 @@ msgid "Tinted Illumination Saturation"
 msgstr ""
 
 # Android/iOS/Windows
-msgid "Tinted illumination saturation setting is only effective with Blackbody D65 star colors."
+msgid "Tinted illumination saturation setting is only effective with Blackbody star colors."
 msgstr ""
 
 # Android/iOS, Toggle console log display on overlay

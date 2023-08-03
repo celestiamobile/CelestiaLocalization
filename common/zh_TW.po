@@ -266,6 +266,14 @@ msgid "Beginning"
 msgstr "開始"
 
 # Android/iOS/Windows, Star colors option
+msgid "Blackbody (Solar Whitepoint)"
+msgstr "黑體（太陽白點）"
+
+# Android/iOS/Windows, Star colors option
+msgid "Blackbody (Vega Whitepoint)"
+msgstr "黑體（織女星白點）"
+
+# Android/iOS/Windows, Star colors option
 msgid "Blackbody D65"
 msgstr "黑體 D65"
 
@@ -2086,8 +2094,8 @@ msgid "Tinted Illumination Saturation"
 msgstr "有色照明飽和度"
 
 # Android/iOS/Windows
-msgid "Tinted illumination saturation setting is only effective with Blackbody D65 star colors."
-msgstr "有色照明飽和度設定僅在黑體 D65 恆星色彩時生效。"
+msgid "Tinted illumination saturation setting is only effective with Blackbody star colors."
+msgstr "有色照明飽和度設定僅在黑體恆星色彩時生效。"
 
 # Android/iOS, Toggle console log display on overlay
 msgid "Toggle Console Display"
