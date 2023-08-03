@@ -27,6 +27,34 @@ msgstr "%.2f dias"
 msgid "%.2f hours"
 msgstr "%.2f horas"
 
+# iOS
+msgid "%@ days"
+msgstr "%@ dias"
+
+# iOS
+msgid "%@ FPS"
+msgstr ""
+
+# iOS, Unit foot
+msgid "%@ ft"
+msgstr ""
+
+# iOS
+msgid "%@ hours"
+msgstr "%@ horas"
+
+# iOS, Unit kilometer
+msgid "%@ km"
+msgstr "%@ km"
+
+# iOS, Unit meter
+msgid "%@ m"
+msgstr "%@ m"
+
+# iOS, Unit mile
+msgid "%@ mi"
+msgstr ""
+
 # Android/iOS
 #, c-format
 msgid "%d FPS"
@@ -50,6 +78,34 @@ msgstr "%d m"
 # Android/iOS, Unit mile
 #, c-format
 msgid "%d mi"
+msgstr ""
+
+# Android/Windows
+msgid "%s days"
+msgstr "%s dias"
+
+# Android/Windows
+msgid "%s FPS"
+msgstr ""
+
+# Android/Windows, Unit foot
+msgid "%s ft"
+msgstr ""
+
+# Android/Windows
+msgid "%s hours"
+msgstr "%s horas"
+
+# Android/Windows, Unit kilometer
+msgid "%s km"
+msgstr "%s km"
+
+# Android/Windows, Unit meter
+msgid "%s m"
+msgstr "%s m"
+
+# Android/Windows, Unit mile
+msgid "%s mi"
 msgstr ""
 
 # Android/iOS/Mac, Speed unit
@@ -185,10 +241,18 @@ msgstr "Mag. Automática"
 msgid "B / Circle"
 msgstr ""
 
+# iOS, Galactic coordinates
+msgid "B: %@° %@′ %@″"
+msgstr "B: %@° %@′ %@″"
+
 # Android/iOS/Mac, Galactic coordinates
 #, c-format
 msgid "B: %d° %d′ %.2f″"
 msgstr "B: %d° %d′ %.2f″"
+
+# Android/Windows, Galactic coordinates
+msgid "B: %s° %s′ %s″"
+msgstr "B: %s° %s′ %s″"
 
 # Windows
 msgid "B: {0}° {1}′ {2:N2}″"
@@ -438,10 +502,18 @@ msgstr "Formato de Data"
 msgid "Debug"
 msgstr "Depuração"
 
+# iOS, Equatorial coordinate
+msgid "DEC: %@° %@′ %@″"
+msgstr "DEC: %@° %@′ %@″"
+
 # Android/iOS/Mac, Equatorial coordinate
 #, c-format
 msgid "DEC: %d° %d′ %.2f″"
 msgstr "DEC: %d° %d′ %.2f″"
+
+# Android/Windows, Equatorial coordinate
+msgid "DEC: %s° %s′ %s″"
+msgstr "DEC: %s° %s′ %s″"
 
 # Windows
 msgid "DEC: {0}° {1}′ {2:N2}″"
@@ -579,6 +651,14 @@ msgstr "Editar"
 msgid "End Julian day: %.4f"
 msgstr ""
 
+# iOS, Template for displaying when end time cannot be correctly formatted by the system
+msgid "End Julian day: %@"
+msgstr ""
+
+# Android/Windows, Template for displaying when end time cannot be correctly formatted by the system
+msgid "End Julian day: %s"
+msgstr ""
+
 # Android/iOS, In eclipse finder, range of time to find eclipse in
 msgid "End Time"
 msgstr ""
@@ -587,7 +667,11 @@ msgstr ""
 msgid "End time:"
 msgstr ""
 
-# Android/iOS/Windows, Template for the end time of a body, usually a spacecraft
+# iOS, Template for the end time of a body, usually a spacecraft
+msgid "End time: %@"
+msgstr ""
+
+# Android/Windows, Template for the end time of a body, usually a spacecraft
 msgid "End time: %s"
 msgstr ""
 
@@ -595,7 +679,12 @@ msgstr ""
 msgid "Equatorial"
 msgstr "Equatorial"
 
-# Android/iOS/Mac/Windows
+# iOS
+#, c-format
+msgid "Equatorial radius: %@"
+msgstr "Raio equatorial: %@"
+
+# Android/Windows
 #, c-format
 msgid "Equatorial radius: %s"
 msgstr "Raio equatorial: %s"
@@ -908,7 +997,7 @@ msgstr ""
 msgid "Installed Add-ons"
 msgstr ""
 
-# Windows, The input of julian day is not valid
+# Android/iOS/Windows, The input of julian day is not valid
 msgid "Invalid Julian day string."
 msgstr ""
 
@@ -924,7 +1013,7 @@ msgstr ""
 msgid "Julian Date:"
 msgstr "Data Juliana:"
 
-# Windows, Select time via entering Julian day
+# Android/iOS/Windows, Select time via entering Julian day
 msgid "Julian Day"
 msgstr ""
 
@@ -936,10 +1025,18 @@ msgstr ""
 msgid "km"
 msgstr "km"
 
+# iOS, Galactic coordinates
+msgid "L: %@° %@′ %@″"
+msgstr "L: %@° %@′ %@″"
+
 # Android/iOS/Mac, Galactic coordinates
 #, c-format
 msgid "L: %d° %d′ %.2f″"
 msgstr "L: %d° %d′ %.2f″"
+
+# Android/Windows, Galactic coordinates
+msgid "L: %s° %s′ %s″"
+msgstr "L: %s° %s′ %s″"
 
 # Windows
 msgid "L: {0}° {1}′ {2:N2}″"
@@ -981,7 +1078,12 @@ msgstr "Esquerda"
 msgid "Left Arrow"
 msgstr "Seta Esquerda"
 
-# Android/iOS/Mac/Windows
+# iOS
+#, c-format
+msgid "Length of day: %@"
+msgstr "Duração do dia: %@"
+
+# Android/Windows
 #, c-format
 msgid "Length of day: %s"
 msgstr "Duração do dia: %s"
@@ -995,6 +1097,11 @@ msgstr "Falha ao carregar o Celestia…"
 #, c-format
 msgid "Loading configuration…"
 msgstr "Carregando configuração…"
+
+# iOS, Celestia initialization, loading file
+#, c-format
+msgid "Loading: %@"
+msgstr "Carregando: %@"
 
 # Android/iOS/Windows, Celestia initialization, loading file
 #, c-format
@@ -1069,9 +1176,17 @@ msgstr "Marcadores"
 msgid "Mass"
 msgstr "Massa"
 
+# iOS
+msgid "Maximum (%@ FPS)"
+msgstr ""
+
 # Android/iOS
 #, c-format
 msgid "Maximum (%d FPS)"
+msgstr ""
+
+# Android/Windows
+msgid "Maximum (%s FPS)"
 msgstr ""
 
 # Android/iOS/Windows, Measurement system
@@ -1359,7 +1474,16 @@ msgstr "Por favor digite um novo nome."
 msgid "Please enter an object name."
 msgstr "Por favor digite o nome de um objeto."
 
-# Android/iOS
+# Android/iOS, In time settings, enter Julian day for the simulation
+msgid "Please enter Julian day."
+msgstr ""
+
+# iOS
+#, c-format
+msgid "Please enter the time in \"%@\" format."
+msgstr ""
+
+# Android
 #, c-format
 msgid "Please enter the time in \"%s\" format."
 msgstr ""
@@ -1396,10 +1520,18 @@ msgstr "Sair"
 msgid "Quit Celestia"
 msgstr "Sair do Celestia"
 
+# iOS, Equatorial coordinate
+msgid "RA: %@h %@m %@s"
+msgstr "AR: %@h %@m %2fs"
+
 # Android/iOS/Mac, Equatorial coordinate
 #, c-format
 msgid "RA: %dh %dm %.2fs"
 msgstr "AR: %dh %dm %2fs"
+
+# Android/Windows, Equatorial coordinate
+msgid "RA: %sh %sm %ss"
+msgstr "AR: %sh %sm %2fs"
 
 # Windows
 msgid "RA: {0}h {1}m {2:N2}s"
@@ -1722,12 +1854,22 @@ msgstr "Mostrar Terminador"
 msgid "Show Velocity Vector"
 msgstr "Mostrar Vetor de Velocidade"
 
-# Android/iOS/Mac/Windows
+# iOS
+#, c-format
+msgid "Sidereal rotation period: %@"
+msgstr "Período de rotação sideral: %@"
+
+# Android/Windows
 #, c-format
 msgid "Sidereal rotation period: %s"
 msgstr "Período de rotação sideral: %s"
 
-# Android/iOS/Mac/Windows, Size of an object
+# iOS, Size of an object
+#, c-format
+msgid "Size: %@"
+msgstr "Tamanho: %@"
+
+# Android/Windows, Size of an object
 #, c-format
 msgid "Size: %s"
 msgstr "Tamanho: %s"
@@ -1752,7 +1894,11 @@ msgstr "Sistema Solar"
 msgid "Spacecraft"
 msgstr "Naves Espaciais"
 
-# Android/iOS/Windows
+# iOS
+msgid "Spectral type: %@"
+msgstr ""
+
+# Android/Windows
 msgid "Spectral type: %s"
 msgstr ""
 
@@ -1804,6 +1950,14 @@ msgstr "Estrelas com Planetas"
 msgid "Start Julian day: %.4f"
 msgstr ""
 
+# iOS, Template for displaying when start time cannot be correctly formatted by the system
+msgid "Start Julian day: %@"
+msgstr ""
+
+# Android/Windows, Template for displaying when start time cannot be correctly formatted by the system
+msgid "Start Julian day: %s"
+msgstr ""
+
 # Android/iOS, In eclipse finder, range of time to find eclipse in
 msgid "Start Time"
 msgstr "Iníciar em tele cheia"
@@ -1812,7 +1966,11 @@ msgstr "Iníciar em tele cheia"
 msgid "Start time:"
 msgstr ""
 
-# Android/iOS/Windows, Template for the start time of a body, usually a spacecraft
+# iOS, Template for the start time of a body, usually a spacecraft
+msgid "Start time: %@"
+msgstr ""
+
+# Android/Windows, Template for the start time of a body, usually a spacecraft
 msgid "Start time: %s"
 msgstr ""
 
