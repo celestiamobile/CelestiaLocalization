@@ -1530,16 +1530,16 @@ msgstr "Sair do Celestia"
 
 # iOS, Equatorial coordinate
 msgid "RA: %@h %@m %@s"
-msgstr "AR: %@h %@m %2fs"
+msgstr "AR: %@h %@m %@s"
 
 # Android/iOS/Mac, Equatorial coordinate
 #, c-format
 msgid "RA: %dh %dm %.2fs"
-msgstr "AR: %dh %dm %2fs"
+msgstr "AR: %dh %dm %.2fs"
 
 # Android/Windows, Equatorial coordinate
 msgid "RA: %sh %sm %ss"
-msgstr "AR: %sh %sm %2fs"
+msgstr "AR: %sh %sm %ss"
 
 # Windows
 msgid "RA: {0}h {1}m {2:N2}s"
