@@ -28,30 +28,37 @@ msgid "%.2f hours"
 msgstr "%.2f horas"
 
 # iOS
+#, c-format
 msgid "%@ days"
 msgstr "%@ dias"
 
 # iOS
+#, c-format
 msgid "%@ FPS"
 msgstr ""
 
 # iOS, Unit foot
+#, c-format
 msgid "%@ ft"
 msgstr ""
 
 # iOS
+#, c-format
 msgid "%@ hours"
 msgstr "%@ horas"
 
 # iOS, Unit kilometer
+#, c-format
 msgid "%@ km"
 msgstr "%@ km"
 
 # iOS, Unit meter
+#, c-format
 msgid "%@ m"
 msgstr "%@ m"
 
 # iOS, Unit mile
+#, c-format
 msgid "%@ mi"
 msgstr ""
 
@@ -81,30 +88,37 @@ msgid "%d mi"
 msgstr ""
 
 # Android/Windows
+#, c-format
 msgid "%s days"
 msgstr "%s dias"
 
 # Android/Windows
+#, c-format
 msgid "%s FPS"
 msgstr ""
 
 # Android/Windows, Unit foot
+#, c-format
 msgid "%s ft"
 msgstr ""
 
 # Android/Windows
+#, c-format
 msgid "%s hours"
 msgstr "%s horas"
 
 # Android/Windows, Unit kilometer
+#, c-format
 msgid "%s km"
 msgstr "%s km"
 
 # Android/Windows, Unit meter
+#, c-format
 msgid "%s m"
 msgstr "%s m"
 
 # Android/Windows, Unit mile
+#, c-format
 msgid "%s mi"
 msgstr ""
 
@@ -242,6 +256,7 @@ msgid "B / Circle"
 msgstr ""
 
 # iOS, Galactic coordinates
+#, c-format
 msgid "B: %@° %@′ %@″"
 msgstr "B: %@° %@′ %@″"
 
@@ -251,6 +266,7 @@ msgid "B: %d° %d′ %.2f″"
 msgstr "B: %d° %d′ %.2f″"
 
 # Android/Windows, Galactic coordinates
+#, c-format
 msgid "B: %s° %s′ %s″"
 msgstr "B: %s° %s′ %s″"
 
@@ -430,6 +446,14 @@ msgstr "Constelações"
 msgid "Constellations in Latin"
 msgstr "Constelações em Latim"
 
+# Android/iOS, Settings for whether context menu is enabled
+msgid "Context Menu"
+msgstr ""
+
+# Android/iOS, Description for how a context menu is triggered
+msgid "Context menu by long press or context click"
+msgstr ""
+
 # Android/iOS, Used in Flight Mode
 msgid "Coordinate System"
 msgstr ""
@@ -511,6 +535,7 @@ msgid "Debug"
 msgstr "Depuração"
 
 # iOS, Equatorial coordinate
+#, c-format
 msgid "DEC: %@° %@′ %@″"
 msgstr "DEC: %@° %@′ %@″"
 
@@ -520,6 +545,7 @@ msgid "DEC: %d° %d′ %.2f″"
 msgstr "DEC: %d° %d′ %.2f″"
 
 # Android/Windows, Equatorial coordinate
+#, c-format
 msgid "DEC: %s° %s′ %s″"
 msgstr "DEC: %s° %s′ %s″"
 
@@ -660,10 +686,12 @@ msgid "End Julian day: %.4f"
 msgstr ""
 
 # iOS, Template for displaying when end time cannot be correctly formatted by the system
+#, c-format
 msgid "End Julian day: %@"
 msgstr ""
 
 # Android/Windows, Template for displaying when end time cannot be correctly formatted by the system
+#, c-format
 msgid "End Julian day: %s"
 msgstr ""
 
@@ -676,10 +704,12 @@ msgid "End time:"
 msgstr ""
 
 # iOS, Template for the end time of a body, usually a spacecraft
+#, c-format
 msgid "End time: %@"
 msgstr ""
 
 # Android/Windows, Template for the end time of a body, usually a spacecraft
+#, c-format
 msgid "End time: %s"
 msgstr ""
 
@@ -1005,6 +1035,10 @@ msgstr ""
 msgid "Installed Add-ons"
 msgstr ""
 
+# Android/iOS, Settings for interaction
+msgid "Interaction"
+msgstr ""
+
 # Android/iOS/Windows, The input of julian day is not valid
 msgid "Invalid Julian day string."
 msgstr ""
@@ -1034,6 +1068,7 @@ msgid "km"
 msgstr "km"
 
 # iOS, Galactic coordinates
+#, c-format
 msgid "L: %@° %@′ %@″"
 msgstr "L: %@° %@′ %@″"
 
@@ -1043,6 +1078,7 @@ msgid "L: %d° %d′ %.2f″"
 msgstr "L: %d° %d′ %.2f″"
 
 # Android/Windows, Galactic coordinates
+#, c-format
 msgid "L: %s° %s′ %s″"
 msgstr "L: %s° %s′ %s″"
 
@@ -1160,6 +1196,10 @@ msgstr "Baixa"
 msgid "LT / L2"
 msgstr ""
 
+# Android/iOS/Windows, Note for Script System Access Policy
+msgid "Lua scripts' access to the file system"
+msgstr ""
+
 # Windows, Lunar eclipses.
 msgid "Lunar"
 msgstr ""
@@ -1185,6 +1225,7 @@ msgid "Mass"
 msgstr "Massa"
 
 # iOS
+#, c-format
 msgid "Maximum (%@ FPS)"
 msgstr ""
 
@@ -1194,6 +1235,7 @@ msgid "Maximum (%d FPS)"
 msgstr ""
 
 # Android/Windows
+#, c-format
 msgid "Maximum (%s FPS)"
 msgstr ""
 
@@ -1529,6 +1571,7 @@ msgid "Quit Celestia"
 msgstr "Sair do Celestia"
 
 # iOS, Equatorial coordinate
+#, c-format
 msgid "RA: %@h %@m %@s"
 msgstr "AR: %@h %@m %@s"
 
@@ -1538,6 +1581,7 @@ msgid "RA: %dh %dm %.2fs"
 msgstr "AR: %dh %dm %.2fs"
 
 # Android/Windows, Equatorial coordinate
+#, c-format
 msgid "RA: %sh %sm %ss"
 msgstr "AR: %sh %sm %ss"
 
@@ -1758,6 +1802,14 @@ msgstr ""
 msgid "Send Feedback"
 msgstr ""
 
+# Android/iOS/Windows, Setting for sensitivity for selecting an object
+msgid "Sensitivity"
+msgstr ""
+
+# Android/iOS/Windows, Notes for the sensitivity setting
+msgid "Sensitivity for object selection"
+msgstr ""
+
 # Mac, System menu
 msgid "Services"
 msgstr "Serviços"
@@ -1903,10 +1955,12 @@ msgid "Spacecraft"
 msgstr "Naves Espaciais"
 
 # iOS
+#, c-format
 msgid "Spectral type: %@"
 msgstr ""
 
 # Android/Windows
+#, c-format
 msgid "Spectral type: %s"
 msgstr ""
 
@@ -1959,10 +2013,12 @@ msgid "Start Julian day: %.4f"
 msgstr ""
 
 # iOS, Template for displaying when start time cannot be correctly formatted by the system
+#, c-format
 msgid "Start Julian day: %@"
 msgstr ""
 
 # Android/Windows, Template for displaying when start time cannot be correctly formatted by the system
+#, c-format
 msgid "Start Julian day: %s"
 msgstr ""
 
@@ -1975,10 +2031,12 @@ msgid "Start time:"
 msgstr ""
 
 # iOS, Template for the start time of a body, usually a spacecraft
+#, c-format
 msgid "Start time: %@"
 msgstr ""
 
 # Android/Windows, Template for the start time of a body, usually a spacecraft
+#, c-format
 msgid "Start time: %s"
 msgstr ""
 
@@ -2052,10 +2110,6 @@ msgstr "Resolução de Textura:"
 
 # Android/iOS, URL for Third Party Dependencies wiki
 msgid "Third Party Dependencies"
-msgstr ""
-
-# Android/iOS/Windows, Note for Script System Access Policy
-msgid "This policy decides whether Lua scripts have access to the files on the system or not."
 msgstr ""
 
 # Android/iOS/Windows, Settings for game controller thumbsticks
