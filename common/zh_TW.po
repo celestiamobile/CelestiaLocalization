@@ -1179,6 +1179,10 @@ msgstr "鎖定"
 msgid "Long press on stepper to change orientation."
 msgstr "長按來控制方向。"
 
+# Android/iOS
+msgid "Long press on stepper to zoom in/out."
+msgstr "長按來控制縮放。"
+
 # Android/iOS/Mac/Windows, Coordinates
 msgid "Longitude"
 msgstr "經度"
@@ -2362,6 +2366,10 @@ msgstr "Yaw Right"
 # Android/iOS, Zoom in/out on FOV/object  Mac, System menu item, Zoom a window
 msgid "Zoom"
 msgstr "縮放"
+
+# Android/iOS, Zoom in/out in Camera Control, this changes the relative distance to the object
+msgid "Zoom (Distance)"
+msgstr "縮放（距離）"
 
 # Android/iOS
 msgid "Zoom In"

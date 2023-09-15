@@ -1178,6 +1178,10 @@ msgstr "Блокировка фазы"
 msgid "Long press on stepper to change orientation."
 msgstr "Удерживайте кнопки для вращения камеры."
 
+# Android/iOS
+msgid "Long press on stepper to zoom in/out."
+msgstr ""
+
 # Android/iOS/Mac/Windows, Coordinates
 msgid "Longitude"
 msgstr "Долгота"
@@ -2361,6 +2365,10 @@ msgstr "Шаг вправо"
 # Android/iOS, Zoom in/out on FOV/object  Mac, System menu item, Zoom a window
 msgid "Zoom"
 msgstr "Масштабирование"
+
+# Android/iOS, Zoom in/out in Camera Control, this changes the relative distance to the object
+msgid "Zoom (Distance)"
+msgstr ""
 
 # Android/iOS
 msgid "Zoom In"

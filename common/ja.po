@@ -1180,6 +1180,10 @@ msgstr "2天体同期"
 msgid "Long press on stepper to change orientation."
 msgstr "'+'または'-'を長押しして方向を変更します。"
 
+# Android/iOS
+msgid "Long press on stepper to zoom in/out."
+msgstr ""
+
 # Android/iOS/Mac/Windows, Coordinates
 msgid "Longitude"
 msgstr "経度"
@@ -2363,6 +2367,10 @@ msgstr ""
 # Android/iOS, Zoom in/out on FOV/object  Mac, System menu item, Zoom a window
 msgid "Zoom"
 msgstr "ズーム"
+
+# Android/iOS, Zoom in/out in Camera Control, this changes the relative distance to the object
+msgid "Zoom (Distance)"
+msgstr ""
 
 # Android/iOS
 msgid "Zoom In"

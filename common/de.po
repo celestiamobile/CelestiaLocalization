@@ -1180,6 +1180,10 @@ msgstr "Verbinden"
 msgid "Long press on stepper to change orientation."
 msgstr "Langes Drücken der Schritt-Buttons ändert die Ausrichtung."
 
+# Android/iOS
+msgid "Long press on stepper to zoom in/out."
+msgstr ""
+
 # Android/iOS/Mac/Windows, Coordinates
 msgid "Longitude"
 msgstr "Längengrad"
@@ -2363,6 +2367,10 @@ msgstr ""
 # Android/iOS, Zoom in/out on FOV/object  Mac, System menu item, Zoom a window
 msgid "Zoom"
 msgstr "Zoom"
+
+# Android/iOS, Zoom in/out in Camera Control, this changes the relative distance to the object
+msgid "Zoom (Distance)"
+msgstr ""
 
 # Android/iOS
 msgid "Zoom In"

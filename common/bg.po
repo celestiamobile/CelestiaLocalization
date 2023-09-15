@@ -1180,6 +1180,10 @@ msgstr "Заключи фазата"
 msgid "Long press on stepper to change orientation."
 msgstr "Натисни продължително бутона за промяна на ориентацията."
 
+# Android/iOS
+msgid "Long press on stepper to zoom in/out."
+msgstr ""
+
 # Android/iOS/Mac/Windows, Coordinates
 msgid "Longitude"
 msgstr "Географска дължина"
@@ -2363,6 +2367,10 @@ msgstr ""
 # Android/iOS, Zoom in/out on FOV/object  Mac, System menu item, Zoom a window
 msgid "Zoom"
 msgstr "Увеличи"
+
+# Android/iOS, Zoom in/out in Camera Control, this changes the relative distance to the object
+msgid "Zoom (Distance)"
+msgstr ""
 
 # Android/iOS
 msgid "Zoom In"
