@@ -362,6 +362,10 @@ msgstr "星体浏览器"
 msgid "Celestia Help"
 msgstr "Celestia 帮助"
 
+# Android/iOS, Name for the subscription service
+msgid "Celestia PLUS"
+msgstr "Celestia PLUS"
+
 # Android/iOS/Mac/Windows, Temperature scale
 msgid "Celsius"
 msgstr "摄氏度"
@@ -374,6 +378,10 @@ msgstr "居中"
 msgid "Center Selection"
 msgstr "居中所选天体"
 
+# Android, Change subscription service
+msgid "Change"
+msgstr "修改"
+
 # Mac, Choose another location for celestia.cfg and data to load
 msgid "Change Config File"
 msgstr "修改配置文件"
@@ -385,6 +393,10 @@ msgstr "追赶"
 # Mac, Choose location for celestia.cfg
 msgid "Choose Config File"
 msgstr "选择配置文件"
+
+# Android/iOS
+msgid "Choose one of the plans below to get Celestia PLUS"
+msgstr "选择其中一个方案获取 Celestia PLUS"
 
 # Android/iOS/Mac/Windows, Marker
 msgid "Circle"
@@ -433,6 +445,10 @@ msgstr "配置会在重启后生效。"
 # Mac, Confirm and relaunch Celestia
 msgid "Confirm and Relaunch"
 msgstr "确认并重启"
+
+# Android/iOS
+msgid "Congratulations, you are a Celestia PLUS user"
+msgstr "恭喜，您拥有 Celestia PLUS"
 
 # Android/iOS
 msgid "Constellation Labels"
@@ -648,6 +664,10 @@ msgstr "下"
 # Android/iOS/Mac/Windows, Marker
 msgid "Down Arrow"
 msgstr "下箭头"
+
+# iOS, Downgrade subscription service
+msgid "Downgrade"
+msgstr "降级"
 
 # Android/iOS/Mac/Windows, Tab for deep sky objects in Star Browser
 msgid "DSOs"
@@ -895,6 +915,10 @@ msgstr "通用"
 msgid "Generating sharing link…"
 msgstr "生成分享链接…"
 
+# Android/iOS, Purchase subscription service
+msgid "Get"
+msgstr "获取"
+
 # Android/iOS/Windows, Open webpage for downloading add-ons
 msgid "Get Add-ons"
 msgstr "下载插件"
@@ -902,6 +926,10 @@ msgstr "下载插件"
 # Android/iOS, Action for getting info about current selected object
 msgid "Get Info"
 msgstr "获取信息"
+
+# Android/iOS, Benefits of Celestia PLUS
+msgid "Get latest add-ons, updates, and trending add-ons."
+msgstr "获取最新插件，插件更新和热门插件。"
 
 # Android/iOS/Mac/Windows
 msgid "Globulars"
@@ -1212,6 +1240,10 @@ msgstr "月食"
 msgid "Manage Add-ons"
 msgstr "管理插件"
 
+# Android
+msgid "Manage Subscription"
+msgstr "管理订阅"
+
 # Android/iOS/Mac/Windows, Location labels
 msgid "Maria (Seas)"
 msgstr "海洋"
@@ -1282,6 +1314,10 @@ msgstr "其他"
 # Android/iOS/Mac/Windows, Location labels
 msgid "Montes (Mountains)"
 msgstr "山脉"
+
+# Android/iOS, Monthly subscription
+msgid "Monthly"
+msgstr "包月"
 
 # Android/iOS/Mac/Windows
 msgid "Moons"
@@ -1609,6 +1645,10 @@ msgstr "RB / R1"
 msgid "Real Time"
 msgstr "实时"
 
+# Android/iOS, Benefits of Celestia PLUS
+msgid "Receive timely feedback on feature requests and bug reports."
+msgstr "在功能建议和 Bug 报告上得到更加及时的回复。"
+
 # Mac, In Eclipse Finder
 msgid "Receiver"
 msgstr "观测地"
@@ -1677,6 +1717,10 @@ msgstr "重置"
 # Android/iOS, Reset celestia.cfg, data directory location
 msgid "Reset to Default"
 msgstr "恢复默认"
+
+# iOS, Refresh purchase status
+msgid "Restore Purchase"
+msgstr "恢复购买"
 
 # Android/iOS, Resume or pause time/script
 msgid "Resume or Pause"
@@ -2060,6 +2104,10 @@ msgstr "功能建议"
 msgid "Support Forum"
 msgstr "论坛"
 
+# Android/iOS, Benefits of Celestia PLUS
+msgid "Support the developer community and keep the project going."
+msgstr "支持开发者团队和项目。"
+
 # Android/iOS, Move/zoom camera FOV
 msgid "Switched to camera mode"
 msgstr "已切换至相机模式"
@@ -2276,6 +2324,10 @@ msgstr "上"
 msgid "Up Arrow"
 msgstr "上箭头"
 
+# iOS, Upgrade subscription service
+msgid "Upgrade"
+msgstr "升级"
+
 # Android/iOS, Sharing option, URL
 msgid "URL"
 msgstr "URL"
@@ -2320,6 +2372,14 @@ msgstr "视图"
 msgid "Volcanoes"
 msgstr "火山"
 
+# Android
+msgid "We are processing your purchase"
+msgstr "我们正在处理您的购买"
+
+# Android/iOS, Error loading the subscription page
+msgid "We encountered an error."
+msgstr "我们遇到了一个错误"
+
 # Android/iOS/Windows, Web info for an object
 msgid "Web Info"
 msgstr "在线信息"
@@ -2363,6 +2423,14 @@ msgstr "Yaw Left"
 # Android/iOS/Windows, Game controller action
 msgid "Yaw Right"
 msgstr "Yaw Right"
+
+# Android/iOS, Yearly subscription
+msgid "Yearly"
+msgstr "包年"
+
+# Android/iOS
+msgid "Your purchase is pending"
+msgstr "正在等待您的付款"
 
 # Android/iOS, Zoom in/out on FOV/object  Mac, System menu item, Zoom a window
 msgid "Zoom"

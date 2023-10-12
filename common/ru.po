@@ -360,6 +360,10 @@ msgstr "Каталог"
 msgid "Celestia Help"
 msgstr "Помощь по Celestia"
 
+# Android/iOS, Name for the subscription service
+msgid "Celestia PLUS"
+msgstr ""
+
 # Android/iOS/Mac/Windows, Temperature scale
 msgid "Celsius"
 msgstr "Цельсия"
@@ -372,6 +376,10 @@ msgstr "Центрировать"
 msgid "Center Selection"
 msgstr "Центрировать выделенное"
 
+# Android, Change subscription service
+msgid "Change"
+msgstr ""
+
 # Mac, Choose another location for celestia.cfg and data to load
 msgid "Change Config File"
 msgstr "Изменить файл конфигурации"
@@ -383,6 +391,10 @@ msgstr "Следовать"
 # Mac, Choose location for celestia.cfg
 msgid "Choose Config File"
 msgstr "Выбрать файл конфигурации"
+
+# Android/iOS
+msgid "Choose one of the plans below to get Celestia PLUS"
+msgstr ""
 
 # Android/iOS/Mac/Windows, Marker
 msgid "Circle"
@@ -431,6 +443,10 @@ msgstr "Конфигурация вступит в силу после пере�
 # Mac, Confirm and relaunch Celestia
 msgid "Confirm and Relaunch"
 msgstr "Подтвердить и перезапустить"
+
+# Android/iOS
+msgid "Congratulations, you are a Celestia PLUS user"
+msgstr ""
 
 # Android/iOS
 msgid "Constellation Labels"
@@ -646,6 +662,10 @@ msgstr "Вниз"
 # Android/iOS/Mac/Windows, Marker
 msgid "Down Arrow"
 msgstr "Стрелка вниз"
+
+# iOS, Downgrade subscription service
+msgid "Downgrade"
+msgstr ""
 
 # Android/iOS/Mac/Windows, Tab for deep sky objects in Star Browser
 msgid "DSOs"
@@ -893,6 +913,10 @@ msgstr "Основное"
 msgid "Generating sharing link…"
 msgstr "Создание ссылки…"
 
+# Android/iOS, Purchase subscription service
+msgid "Get"
+msgstr ""
+
 # Android/iOS/Windows, Open webpage for downloading add-ons
 msgid "Get Add-ons"
 msgstr "Скачать дополнения"
@@ -900,6 +924,10 @@ msgstr "Скачать дополнения"
 # Android/iOS, Action for getting info about current selected object
 msgid "Get Info"
 msgstr "Информация"
+
+# Android/iOS, Benefits of Celestia PLUS
+msgid "Get latest add-ons, updates, and trending add-ons."
+msgstr ""
 
 # Android/iOS/Mac/Windows
 msgid "Globulars"
@@ -1210,6 +1238,10 @@ msgstr "Лунные"
 msgid "Manage Add-ons"
 msgstr "Управление дополнениями"
 
+# Android
+msgid "Manage Subscription"
+msgstr ""
+
 # Android/iOS/Mac/Windows, Location labels
 msgid "Maria (Seas)"
 msgstr "Моря"
@@ -1280,6 +1312,10 @@ msgstr "Другое"
 # Android/iOS/Mac/Windows, Location labels
 msgid "Montes (Mountains)"
 msgstr "Горы"
+
+# Android/iOS, Monthly subscription
+msgid "Monthly"
+msgstr ""
 
 # Android/iOS/Mac/Windows
 msgid "Moons"
@@ -1607,6 +1643,10 @@ msgstr "RB / R1"
 msgid "Real Time"
 msgstr "Прямой ход времени"
 
+# Android/iOS, Benefits of Celestia PLUS
+msgid "Receive timely feedback on feature requests and bug reports."
+msgstr ""
+
 # Mac, In Eclipse Finder
 msgid "Receiver"
 msgstr "Затмеваемый"
@@ -1675,6 +1715,10 @@ msgstr "Сброс"
 # Android/iOS, Reset celestia.cfg, data directory location
 msgid "Reset to Default"
 msgstr "Вернуть настройки по умолчанию"
+
+# iOS, Refresh purchase status
+msgid "Restore Purchase"
+msgstr ""
 
 # Android/iOS, Resume or pause time/script
 msgid "Resume or Pause"
@@ -2058,6 +2102,10 @@ msgstr "Предложить идею"
 msgid "Support Forum"
 msgstr "Форум"
 
+# Android/iOS, Benefits of Celestia PLUS
+msgid "Support the developer community and keep the project going."
+msgstr ""
+
 # Android/iOS, Move/zoom camera FOV
 msgid "Switched to camera mode"
 msgstr "Включён режим работы с камерой"
@@ -2274,6 +2322,10 @@ msgstr "Вверх"
 msgid "Up Arrow"
 msgstr "Стрелка вверх"
 
+# iOS, Upgrade subscription service
+msgid "Upgrade"
+msgstr ""
+
 # Android/iOS, Sharing option, URL
 msgid "URL"
 msgstr "Ссылка"
@@ -2318,6 +2370,14 @@ msgstr "Экраны"
 msgid "Volcanoes"
 msgstr "Вулканы"
 
+# Android
+msgid "We are processing your purchase"
+msgstr ""
+
+# Android/iOS, Error loading the subscription page
+msgid "We encountered an error."
+msgstr ""
+
 # Android/iOS/Windows, Web info for an object
 msgid "Web Info"
 msgstr "Информация в интернете"
@@ -2361,6 +2421,14 @@ msgstr "Шаг влево"
 # Android/iOS/Windows, Game controller action
 msgid "Yaw Right"
 msgstr "Шаг вправо"
+
+# Android/iOS, Yearly subscription
+msgid "Yearly"
+msgstr ""
+
+# Android/iOS
+msgid "Your purchase is pending"
+msgstr ""
 
 # Android/iOS, Zoom in/out on FOV/object  Mac, System menu item, Zoom a window
 msgid "Zoom"
