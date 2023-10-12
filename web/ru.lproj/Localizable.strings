@@ -23,11 +23,9 @@
 "ERROR_INCORRECT_PARAMETERS" = "Некоторые параметры запроса были некорректны.";
 "ERROR_INTERNAL_ERROR" = "Внутренняя ошибка сервера.";
 
-"ADDON_POPULAR_TITLE" = "Популярные дополнения";
-
 "ADDON_INSTALL_HINT_NO_DEMO_OBJECT" = "Примечание: перезапустите Celestia для активации новых установленных дополнений. Данное дополнение не содержит объекта для демонстрации, поэтому доступна только возможность «Удалить». Пожалуйста, перемещайтесь к объекту самостоятельно.";
 
-"ADDON_CATEGORY_DESCRIPTION_SHOW_MORE" = "...";
+"COMMON_DESCRIPTION_SHOW_MORE" = "...";
 
 "TAB_HOME_TITLE" = "Главная";
 "TAB_DOWNLOADS_TITLE" = "Скачать";
@@ -59,3 +57,13 @@
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "здесь";
 
 "SUPPORT_ON_PATREON_ACTION_TEXT" = "Поддержите нас на Patreon";
+
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Most Viewed";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Recently Published";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Recently Updated";
+
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_DESCRIPTION" = "Here is a list of add-ons that are most viewed.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_DESCRIPTION" = "Here is a list of add-ons that are recently published.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_DESCRIPTION" = "Here is a list of add-ons that are recently updated.";
+
+"CELESTIA_PLUS_LABEL" = "PLUS";

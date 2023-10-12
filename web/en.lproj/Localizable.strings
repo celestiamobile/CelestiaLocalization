@@ -23,11 +23,9 @@
 "ERROR_INCORRECT_PARAMETERS" = "Some parameters were incorrect.";
 "ERROR_INTERNAL_ERROR" = "Internal server error.";
 
-"ADDON_POPULAR_TITLE" = "Popular Add-ons";
-
 "ADDON_INSTALL_HINT_NO_DEMO_OBJECT" = "Note: restarting Celestia is needed to use any new installed add-on. This add-on does not have a demo object, so only \"Uninstall\" option is visible, please navigate to the object by using search.";
 
-"ADDON_CATEGORY_DESCRIPTION_SHOW_MORE" = "...";
+"COMMON_DESCRIPTION_SHOW_MORE" = "...";
 
 "TAB_HOME_TITLE" = "Home";
 "TAB_DOWNLOADS_TITLE" = "Downloads";
@@ -59,3 +57,13 @@
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "here";
 
 "SUPPORT_ON_PATREON_ACTION_TEXT" = "Support Us on Patreon";
+
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Most Viewed";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Recently Published";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Recently Updated";
+
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_DESCRIPTION" = "Here is a list of add-ons that are most viewed.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_DESCRIPTION" = "Here is a list of add-ons that are recently published.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_DESCRIPTION" = "Here is a list of add-ons that are recently updated.";
+
+"CELESTIA_PLUS_LABEL" = "PLUS";
