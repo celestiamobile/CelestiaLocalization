@@ -294,6 +294,10 @@ msgstr "黑体（织女星白点）"
 msgid "Blackbody D65"
 msgstr "黑体 D65"
 
+# Android/iOS, Bold font style
+msgid "Bold"
+msgstr "粗体"
+
 # Mac/Windows
 msgid "Bookmark Organizer"
 msgstr "管理书签"
@@ -513,6 +517,10 @@ msgstr "当前时间"
 # Android/iOS
 msgid "Custom"
 msgstr "自定义"
+
+# Android/iOS, Benefits of Celestia PLUS
+msgid "Customize the visual appearance of Celestia."
+msgstr "定制 Celestia 的用户界面。"
 
 # Android/iOS/Windows, Game controller button
 msgid "D-pad Down"
@@ -851,6 +859,10 @@ msgstr "跟随"
 msgid "Follow Selection"
 msgstr "跟随所选天体"
 
+# Android/iOS
+msgid "Font"
+msgstr "字体"
+
 # Mac, Format for time
 msgid "Format:"
 msgstr "格式："
@@ -922,6 +934,10 @@ msgstr "获取"
 # Android/iOS/Windows, Open webpage for downloading add-ons
 msgid "Get Add-ons"
 msgstr "下载插件"
+
+# Android/iOS
+msgid "Get Celestia PLUS"
+msgstr "获取 Celestia PLUS"
 
 # Android/iOS, Action for getting info about current selected object
 msgid "Get Info"
@@ -1394,6 +1410,10 @@ msgstr "无响应"
 # Android/iOS/Mac/Windows, Empty HUD display
 msgid "None"
 msgstr "无"
+
+# Android/iOS, Normal font style
+msgid "Normal"
+msgstr "基本"
 
 # Windows
 msgid "Note: restarting Celestia is needed to use any new installed add-on."
@@ -2124,6 +2144,10 @@ msgstr "同步轨道"
 msgid "Sync Orbit Selection"
 msgstr "同步轨道于所选天体"
 
+# Android/iOS
+msgid "System Fonts"
+msgstr "系统字体"
+
 # Android/iOS/Windows, Game controller action
 msgid "Tap Center"
 msgstr "点击中央"
@@ -2163,6 +2187,10 @@ msgstr "纹理分辨率："
 # Android/iOS, URL for Third Party Dependencies wiki
 msgid "Third Party Dependencies"
 msgstr "第三方依赖"
+
+# Android/iOS
+msgid "This feature is only available to Celestia PLUS users."
+msgstr "需要开通 Celestia PLUS 使用此功能"
 
 # Android/iOS/Windows, Settings for game controller thumbsticks
 msgid "Thumbsticks"

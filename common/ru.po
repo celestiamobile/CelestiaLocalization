@@ -292,6 +292,10 @@ msgstr ""
 msgid "Blackbody D65"
 msgstr "Чёрнотельные D65"
 
+# Android/iOS, Bold font style
+msgid "Bold"
+msgstr ""
+
 # Mac/Windows
 msgid "Bookmark Organizer"
 msgstr "Упорядочить закладки"
@@ -511,6 +515,10 @@ msgstr "Внутреннее время"
 # Android/iOS
 msgid "Custom"
 msgstr "Вручную"
+
+# Android/iOS, Benefits of Celestia PLUS
+msgid "Customize the visual appearance of Celestia."
+msgstr ""
 
 # Android/iOS/Windows, Game controller button
 msgid "D-pad Down"
@@ -849,6 +857,10 @@ msgstr "Наблюдение"
 msgid "Follow Selection"
 msgstr "Наблюдение"
 
+# Android/iOS
+msgid "Font"
+msgstr ""
+
 # Mac, Format for time
 msgid "Format:"
 msgstr "Формат:"
@@ -920,6 +932,10 @@ msgstr ""
 # Android/iOS/Windows, Open webpage for downloading add-ons
 msgid "Get Add-ons"
 msgstr "Скачать дополнения"
+
+# Android/iOS
+msgid "Get Celestia PLUS"
+msgstr ""
 
 # Android/iOS, Action for getting info about current selected object
 msgid "Get Info"
@@ -1392,6 +1408,10 @@ msgstr "Нет ответа"
 # Android/iOS/Mac/Windows, Empty HUD display
 msgid "None"
 msgstr "Нет"
+
+# Android/iOS, Normal font style
+msgid "Normal"
+msgstr ""
 
 # Windows
 msgid "Note: restarting Celestia is needed to use any new installed add-on."
@@ -2122,6 +2142,10 @@ msgstr "Синх. вращение"
 msgid "Sync Orbit Selection"
 msgstr "Синхронное вращение"
 
+# Android/iOS
+msgid "System Fonts"
+msgstr ""
+
 # Android/iOS/Windows, Game controller action
 msgid "Tap Center"
 msgstr "Нажать по центру"
@@ -2161,6 +2185,10 @@ msgstr "Разрешение текстур:"
 # Android/iOS, URL for Third Party Dependencies wiki
 msgid "Third Party Dependencies"
 msgstr "Сторонние зависимости"
+
+# Android/iOS
+msgid "This feature is only available to Celestia PLUS users."
+msgstr ""
 
 # Android/iOS/Windows, Settings for game controller thumbsticks
 msgid "Thumbsticks"

@@ -294,6 +294,10 @@ msgstr ""
 msgid "Blackbody D65"
 msgstr ""
 
+# Android/iOS, Bold font style
+msgid "Bold"
+msgstr ""
+
 # Mac/Windows
 msgid "Bookmark Organizer"
 msgstr "Организатор на отметките"
@@ -513,6 +517,10 @@ msgstr "Текущо време"
 # Android/iOS
 msgid "Custom"
 msgstr "Персонализирано"
+
+# Android/iOS, Benefits of Celestia PLUS
+msgid "Customize the visual appearance of Celestia."
+msgstr ""
 
 # Android/iOS/Windows, Game controller button
 msgid "D-pad Down"
@@ -851,6 +859,10 @@ msgstr "Следвай"
 msgid "Follow Selection"
 msgstr "Следвай селекцията"
 
+# Android/iOS
+msgid "Font"
+msgstr ""
+
 # Mac, Format for time
 msgid "Format:"
 msgstr "Формат:"
@@ -922,6 +934,10 @@ msgstr ""
 # Android/iOS/Windows, Open webpage for downloading add-ons
 msgid "Get Add-ons"
 msgstr "Изтегли добавки"
+
+# Android/iOS
+msgid "Get Celestia PLUS"
+msgstr ""
 
 # Android/iOS, Action for getting info about current selected object
 msgid "Get Info"
@@ -1394,6 +1410,10 @@ msgstr "Няма отговор"
 # Android/iOS/Mac/Windows, Empty HUD display
 msgid "None"
 msgstr "Нищо"
+
+# Android/iOS, Normal font style
+msgid "Normal"
+msgstr ""
 
 # Windows
 msgid "Note: restarting Celestia is needed to use any new installed add-on."
@@ -2124,6 +2144,10 @@ msgstr "Синхронизирай с орбитата"
 msgid "Sync Orbit Selection"
 msgstr "Синхронизирай с избраната орбита"
 
+# Android/iOS
+msgid "System Fonts"
+msgstr ""
+
 # Android/iOS/Windows, Game controller action
 msgid "Tap Center"
 msgstr ""
@@ -2163,6 +2187,10 @@ msgstr "Резолюция на текстурите:"
 # Android/iOS, URL for Third Party Dependencies wiki
 msgid "Third Party Dependencies"
 msgstr "Зависимости от трети страни"
+
+# Android/iOS
+msgid "This feature is only available to Celestia PLUS users."
+msgstr ""
 
 # Android/iOS/Windows, Settings for game controller thumbsticks
 msgid "Thumbsticks"
