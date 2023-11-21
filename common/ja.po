@@ -753,6 +753,10 @@ msgstr ""
 msgid "End time: %s"
 msgstr ""
 
+# iOS
+msgid "End User License Agreements (EULA)"
+msgstr ""
+
 # Android/iOS/Mac/Windows, Grids
 msgid "Equatorial"
 msgstr "赤道座標"

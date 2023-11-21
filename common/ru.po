@@ -751,6 +751,10 @@ msgstr "До: %@"
 msgid "End time: %s"
 msgstr "До: %s"
 
+# iOS
+msgid "End User License Agreements (EULA)"
+msgstr ""
+
 # Android/iOS/Mac/Windows, Grids
 msgid "Equatorial"
 msgstr "Экваториальная"

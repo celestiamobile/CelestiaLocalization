@@ -752,6 +752,10 @@ msgstr "結束時間：%@"
 msgid "End time: %s"
 msgstr "結束時間：%s"
 
+# iOS
+msgid "End User License Agreements (EULA)"
+msgstr "終端使用者許可協議（EULA）"
+
 # Android/iOS/Mac/Windows, Grids
 msgid "Equatorial"
 msgstr "赤道"
