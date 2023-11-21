@@ -165,6 +165,10 @@ msgstr "關於 Celestia"
 msgid "Abs. mag"
 msgstr "絕對星等"
 
+# Android, Accessibility description for icon representing a toolbar action
+msgid "Action Icon"
+msgstr "動作圖示"
+
 # Android, Add a new item (bookmark)
 msgid "Add"
 msgstr "新增"
@@ -172,6 +176,10 @@ msgstr "新增"
 # Mac/Windows, Add a new bookmark
 msgid "Add Bookmark"
 msgstr "新增書籤"
+
+# Android, Accessibility description for an add button
+msgid "Add Button"
+msgstr "新增按鈕"
 
 # iOS, Add a new item (bookmark)
 msgid "Add new…"
@@ -675,6 +683,10 @@ msgstr "下箭號"
 # iOS, Downgrade subscription service
 msgid "Downgrade"
 msgstr "降級"
+
+# Android, Accessibility description for the drag handle for reorder
+msgid "Drag Handle"
+msgstr "拖拽把手"
 
 # Android/iOS/Mac/Windows, Tab for deep sky objects in Star Browser
 msgid "DSOs"
@@ -2246,6 +2258,10 @@ msgstr "切換全屏顯示"
 # Android/iOS, Touch interaction mode
 msgid "Toggle Interaction Mode"
 msgstr "切換互動模式"
+
+# Android/iOS, Toolbar customization entry in Settings
+msgid "Toolbar"
+msgstr "工具欄"
 
 # Windows, Tools menu title
 msgid "Tools"

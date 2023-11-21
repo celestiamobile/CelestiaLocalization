@@ -165,6 +165,10 @@ msgstr "Celestia Hakkında"
 msgid "Abs. mag"
 msgstr "Mtlk. kad"
 
+# Android, Accessibility description for icon representing a toolbar action
+msgid "Action Icon"
+msgstr ""
+
 # Android, Add a new item (bookmark)
 msgid "Add"
 msgstr ""
@@ -172,6 +176,10 @@ msgstr ""
 # Mac/Windows, Add a new bookmark
 msgid "Add Bookmark"
 msgstr "Yerimi Ekle"
+
+# Android, Accessibility description for an add button
+msgid "Add Button"
+msgstr ""
 
 # iOS, Add a new item (bookmark)
 msgid "Add new…"
@@ -674,6 +682,10 @@ msgstr "Aşağı Ok"
 
 # iOS, Downgrade subscription service
 msgid "Downgrade"
+msgstr ""
+
+# Android, Accessibility description for the drag handle for reorder
+msgid "Drag Handle"
 msgstr ""
 
 # Android/iOS/Mac/Windows, Tab for deep sky objects in Star Browser
@@ -2237,6 +2249,10 @@ msgstr ""
 
 # Android/iOS, Touch interaction mode
 msgid "Toggle Interaction Mode"
+msgstr ""
+
+# Android/iOS, Toolbar customization entry in Settings
+msgid "Toolbar"
 msgstr ""
 
 # Windows, Tools menu title

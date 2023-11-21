@@ -164,6 +164,10 @@ msgstr "О программе"
 msgid "Abs. mag"
 msgstr "Абс. зв. вел."
 
+# Android, Accessibility description for icon representing a toolbar action
+msgid "Action Icon"
+msgstr ""
+
 # Android, Add a new item (bookmark)
 msgid "Add"
 msgstr "Добавить"
@@ -171,6 +175,10 @@ msgstr "Добавить"
 # Mac/Windows, Add a new bookmark
 msgid "Add Bookmark"
 msgstr "Добавить закладку"
+
+# Android, Accessibility description for an add button
+msgid "Add Button"
+msgstr ""
 
 # iOS, Add a new item (bookmark)
 msgid "Add new…"
@@ -673,6 +681,10 @@ msgstr "Стрелка вниз"
 
 # iOS, Downgrade subscription service
 msgid "Downgrade"
+msgstr ""
+
+# Android, Accessibility description for the drag handle for reorder
+msgid "Drag Handle"
 msgstr ""
 
 # Android/iOS/Mac/Windows, Tab for deep sky objects in Star Browser
@@ -2245,6 +2257,10 @@ msgstr "Включить полноэкранный режим"
 # Android/iOS, Touch interaction mode
 msgid "Toggle Interaction Mode"
 msgstr "Включить интерактивный режим"
+
+# Android/iOS, Toolbar customization entry in Settings
+msgid "Toolbar"
+msgstr ""
 
 # Windows, Tools menu title
 msgid "Tools"
