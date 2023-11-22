@@ -1638,6 +1638,10 @@ msgstr "偏好设置…"
 msgid "Privacy Policy and Service Agreement"
 msgstr "隐私政策与服务协议"
 
+# Android
+msgid "Purchase will be available immediately. Cancel at anytime in Subscriptions on Google Play."
+msgstr "付费将会立即生效。您可以在任何时间在 Google Play 的订阅页面取消。"
+
 # Mac, Quit Celestia
 msgid "Quit"
 msgstr "退出"

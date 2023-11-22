@@ -1638,6 +1638,10 @@ msgstr "Предпочитания…"
 msgid "Privacy Policy and Service Agreement"
 msgstr "Декларация за поверителност и Споразумение за обслужване"
 
+# Android
+msgid "Purchase will be available immediately. Cancel at anytime in Subscriptions on Google Play."
+msgstr ""
+
 # Mac, Quit Celestia
 msgid "Quit"
 msgstr "Изход"
