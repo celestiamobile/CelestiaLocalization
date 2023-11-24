@@ -1639,7 +1639,7 @@ msgid "Privacy Policy and Service Agreement"
 msgstr "Декларация за поверителност и Споразумение за обслужване"
 
 # Android
-msgid "Purchase will be available immediately. Cancel at anytime in Subscriptions on Google Play."
+msgid "Purchase will be available immediately. Subscription will be automatically renewed and you will be charged the price listed here each year (for Yearly) or each month (for Monthly). Cancel at anytime in Subscriptions on Google Play."
 msgstr ""
 
 # Mac, Quit Celestia
