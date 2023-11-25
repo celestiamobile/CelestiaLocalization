@@ -509,6 +509,10 @@ msgstr "複製資料…"
 msgid "Craters"
 msgstr "隕坑(Craters)"
 
+# Android/iOS
+msgid "Create a new bookmark with \"+\" button"
+msgstr "使用“+”按鈕新增書籤"
+
 # Android/iOS/Mac/Windows, Marker
 msgid "Crosshair"
 msgstr "瞄準線"
@@ -756,6 +760,10 @@ msgstr "結束時間：%s"
 msgid "End User License Agreements (EULA)"
 msgstr "終端使用者許可協議（EULA）"
 
+# Androd/iOS/Windows
+msgid "Enhance Celestia with online add-ons"
+msgstr "使用線上外掛增強 Celestia"
+
 # Android/iOS/Mac/Windows, Grids
 msgid "Equatorial"
 msgstr "赤道"
@@ -853,6 +861,14 @@ msgstr "填滿的方形"
 # Android/iOS/Mac, Find (eclipses)
 msgid "Find"
 msgstr "尋找"
+
+# Windows
+msgid "Find eclipses for an object in a time range"
+msgstr "查詢天體在某一時間段的日月食"
+
+# Android/iOS
+msgid "Find stars, DSOs, and nearby objects"
+msgstr "查詢恆星、深空天體和附近天體"
 
 # Android/iOS/Windows
 msgid "Flight Mode"
@@ -1410,6 +1426,10 @@ msgstr "夜間照明"
 msgid "No data"
 msgstr "無資料"
 
+# Android/iOS/Windows
+msgid "No eclipse is found for the given object in the time range"
+msgstr "對於給定天體和時間段未找到日月食"
+
 # Mac, In Go to
 msgid "No object name entered"
 msgstr "星體名稱"
@@ -1421,6 +1441,14 @@ msgstr "無描述。"
 # iOS, No response received for a request
 msgid "No response"
 msgstr "無響應"
+
+# Android/iOS
+msgid "No result found"
+msgstr "無結果"
+
+# Windows
+msgid "No saved bookmarks"
+msgstr "無儲存書籤"
 
 # Android/iOS/Mac/Windows, Empty HUD display
 msgid "None"

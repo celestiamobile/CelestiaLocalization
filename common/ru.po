@@ -508,6 +508,10 @@ msgstr "Копирование данных…"
 msgid "Craters"
 msgstr "Кратеры"
 
+# Android/iOS
+msgid "Create a new bookmark with \"+\" button"
+msgstr ""
+
 # Android/iOS/Mac/Windows, Marker
 msgid "Crosshair"
 msgstr "Указатель"
@@ -755,6 +759,10 @@ msgstr "До: %s"
 msgid "End User License Agreements (EULA)"
 msgstr ""
 
+# Androd/iOS/Windows
+msgid "Enhance Celestia with online add-ons"
+msgstr ""
+
 # Android/iOS/Mac/Windows, Grids
 msgid "Equatorial"
 msgstr "Экваториальная"
@@ -852,6 +860,14 @@ msgstr "Закрашенный квадрат"
 # Android/iOS/Mac, Find (eclipses)
 msgid "Find"
 msgstr "Найти"
+
+# Windows
+msgid "Find eclipses for an object in a time range"
+msgstr ""
+
+# Android/iOS
+msgid "Find stars, DSOs, and nearby objects"
+msgstr ""
 
 # Android/iOS/Windows
 msgid "Flight Mode"
@@ -1409,6 +1425,10 @@ msgstr "Свет ночной стороны"
 msgid "No data"
 msgstr "Нет данных"
 
+# Android/iOS/Windows
+msgid "No eclipse is found for the given object in the time range"
+msgstr ""
+
 # Mac, In Go to
 msgid "No object name entered"
 msgstr "Нет объекта с указанным названием"
@@ -1420,6 +1440,14 @@ msgstr "Обзор недоступен."
 # iOS, No response received for a request
 msgid "No response"
 msgstr "Нет ответа"
+
+# Android/iOS
+msgid "No result found"
+msgstr ""
+
+# Windows
+msgid "No saved bookmarks"
+msgstr ""
 
 # Android/iOS/Mac/Windows, Empty HUD display
 msgid "None"

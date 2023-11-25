@@ -509,6 +509,10 @@ msgstr ""
 msgid "Craters"
 msgstr "Kratery"
 
+# Android/iOS
+msgid "Create a new bookmark with \"+\" button"
+msgstr ""
+
 # Android/iOS/Mac/Windows, Marker
 msgid "Crosshair"
 msgstr ""
@@ -756,6 +760,10 @@ msgstr ""
 msgid "End User License Agreements (EULA)"
 msgstr ""
 
+# Androd/iOS/Windows
+msgid "Enhance Celestia with online add-ons"
+msgstr ""
+
 # Android/iOS/Mac/Windows, Grids
 msgid "Equatorial"
 msgstr "Równikowy"
@@ -852,6 +860,14 @@ msgstr "Wypełniony kwadrat"
 
 # Android/iOS/Mac, Find (eclipses)
 msgid "Find"
+msgstr ""
+
+# Windows
+msgid "Find eclipses for an object in a time range"
+msgstr ""
+
+# Android/iOS
+msgid "Find stars, DSOs, and nearby objects"
 msgstr ""
 
 # Android/iOS/Windows
@@ -1404,6 +1420,10 @@ msgstr ""
 msgid "No data"
 msgstr ""
 
+# Android/iOS/Windows
+msgid "No eclipse is found for the given object in the time range"
+msgstr ""
+
 # Mac, In Go to
 msgid "No object name entered"
 msgstr ""
@@ -1414,6 +1434,14 @@ msgstr ""
 
 # iOS, No response received for a request
 msgid "No response"
+msgstr ""
+
+# Android/iOS
+msgid "No result found"
+msgstr ""
+
+# Windows
+msgid "No saved bookmarks"
 msgstr ""
 
 # Android/iOS/Mac/Windows, Empty HUD display

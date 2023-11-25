@@ -510,6 +510,10 @@ msgstr "Kopiere Daten…"
 msgid "Craters"
 msgstr "Krater"
 
+# Android/iOS
+msgid "Create a new bookmark with \"+\" button"
+msgstr ""
+
 # Android/iOS/Mac/Windows, Marker
 msgid "Crosshair"
 msgstr "Fadenkreuz"
@@ -757,6 +761,10 @@ msgstr ""
 msgid "End User License Agreements (EULA)"
 msgstr ""
 
+# Androd/iOS/Windows
+msgid "Enhance Celestia with online add-ons"
+msgstr ""
+
 # Android/iOS/Mac/Windows, Grids
 msgid "Equatorial"
 msgstr "Äquatorial"
@@ -854,6 +862,14 @@ msgstr "Gefülltes Quadrat"
 # Android/iOS/Mac, Find (eclipses)
 msgid "Find"
 msgstr "Suchen"
+
+# Windows
+msgid "Find eclipses for an object in a time range"
+msgstr ""
+
+# Android/iOS
+msgid "Find stars, DSOs, and nearby objects"
+msgstr ""
 
 # Android/iOS/Windows
 msgid "Flight Mode"
@@ -1411,6 +1427,10 @@ msgstr "Nachtlichter"
 msgid "No data"
 msgstr "Keine Daten"
 
+# Android/iOS/Windows
+msgid "No eclipse is found for the given object in the time range"
+msgstr ""
+
 # Mac, In Go to
 msgid "No object name entered"
 msgstr "Kein Objektname eingegeben"
@@ -1422,6 +1442,14 @@ msgstr "Keine Übersicht verfügbar."
 # iOS, No response received for a request
 msgid "No response"
 msgstr "Keine Rückmeldung"
+
+# Android/iOS
+msgid "No result found"
+msgstr ""
+
+# Windows
+msgid "No saved bookmarks"
+msgstr ""
 
 # Android/iOS/Mac/Windows, Empty HUD display
 msgid "None"
