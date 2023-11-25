@@ -56,8 +56,6 @@
 "COMMON_TRANSLATE_THIS_PAGE_TEMPLATE" = "Искате ли да преведете тази страница? Натиснете %@.";
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "тук";
 
-"SUPPORT_ON_PATREON_ACTION_TEXT" = "Подкрепете ни в „Patreon“";
-
 "ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Most Viewed";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Recently Published";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Recently Updated";

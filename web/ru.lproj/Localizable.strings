@@ -56,8 +56,6 @@
 "COMMON_TRANSLATE_THIS_PAGE_TEMPLATE" = "Вы можете помочь нам перевести эту страницу %@.";
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "здесь";
 
-"SUPPORT_ON_PATREON_ACTION_TEXT" = "Поддержите нас на Patreon";
-
 "ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Most Viewed";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Recently Published";
 "ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Recently Updated";
