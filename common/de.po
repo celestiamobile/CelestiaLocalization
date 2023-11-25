@@ -16,6 +16,7 @@ msgstr ""
 "Last-Translator: Olaf Senninger <olafsenninger@googlemail.com>\n"
 "Language-Team: \n"
 "X-Generator: Poedit 2.3.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # Android/iOS/Mac/Windows
 #, c-format

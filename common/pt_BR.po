@@ -16,6 +16,7 @@ msgstr ""
 "Last-Translator: Pedro Garcia\n"
 "Language-Team: \n"
 "X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 # Android/iOS/Mac/Windows
 #, c-format
