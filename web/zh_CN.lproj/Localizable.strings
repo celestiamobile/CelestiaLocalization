@@ -25,7 +25,7 @@
 
 "ADDON_INSTALL_HINT_NO_DEMO_OBJECT" = "注意: 需要重新启动 Celestia 以使用新插件。此插件没有演示天体，所以在 App 上只有“卸载”选项，请通过搜索自行前往。";
 
-"COMMON_DESCRIPTION_SHOW_MORE" = "...";
+"COMMON_DESCRIPTION_SHOW_MORE" = "…";
 
 "TAB_HOME_TITLE" = "主页";
 "TAB_DOWNLOADS_TITLE" = "下载";
@@ -65,3 +65,5 @@
 "ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_DESCRIPTION" = "以下是最近更新的插件列表。";
 
 "CELESTIA_PLUS_LABEL" = "PLUS";
+
+"COMMON_SEARCH_PLACEHOLDER" = "搜索…";
