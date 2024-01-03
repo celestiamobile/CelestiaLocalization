@@ -694,6 +694,10 @@ msgstr "降级"
 msgid "Drag Handle"
 msgstr "拖拽把手"
 
+# Android/iOS/Windows
+msgid "Dragging behavior based on change of pick rays instead of screen coordinates"
+msgstr "拖拽行为基于拾取射线而非屏幕坐标变化"
+
 # Android/iOS/Mac/Windows, Tab for deep sky objects in Star Browser
 msgid "DSOs"
 msgstr "深空天体"
@@ -879,6 +883,10 @@ msgstr "飞行模式"
 # Android/iOS/Windows
 msgid "Flight mode decides how you move around in Celestia. Learn more…"
 msgstr "飞行模式决定您在 Celestia 的移动方式。了解详情…"
+
+# Android/iOS/Windows
+msgid "Focus Zooming"
+msgstr "焦点缩放"
 
 # Windows, Enter name for new created folder
 msgid "Folder name"
@@ -1706,6 +1714,10 @@ msgstr "倍半径"
 msgid "Radius"
 msgstr "半径"
 
+# Android/iOS/Windows
+msgid "Ray-Based Dragging"
+msgstr "基于射线的拖拽"
+
 # Android/iOS/Windows, Game controller button
 msgid "RB / R1"
 msgstr "RB / R1"
@@ -1802,6 +1814,10 @@ msgstr "反转"
 # Android/iOS/Mac, Reverse camera direction, reverse travel direction
 msgid "Reverse Direction"
 msgstr "反转朝向"
+
+# Android/iOS/Windows
+msgid "Reverse Mouse Wheel"
+msgstr "反转鼠标滚轮"
 
 # Android/iOS/Windows, Game controller action
 msgid "Reverse Observer Orientation"
@@ -2066,6 +2082,10 @@ msgstr "日食"
 # Android/iOS/Mac/Windows, Tab for solar system in Star Browser
 msgid "Solar System"
 msgstr "太阳系"
+
+# Android/iOS/Windows
+msgid "Some configurations will take effect after a restart."
+msgstr "一些配置将在重启后生效。"
 
 # Android/iOS/Mac/Windows, Plural
 msgid "Spacecraft"
@@ -2528,3 +2548,7 @@ msgstr "放大"
 # Android/iOS
 msgid "Zoom Out"
 msgstr "缩小"
+
+# Android/iOS/Windows
+msgid "Zooming behavior keeping the original focus location on screen"
+msgstr "缩放过程中保持焦点在屏幕上的位置"

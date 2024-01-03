@@ -693,6 +693,10 @@ msgstr ""
 msgid "Drag Handle"
 msgstr ""
 
+# Android/iOS/Windows
+msgid "Dragging behavior based on change of pick rays instead of screen coordinates"
+msgstr ""
+
 # Android/iOS/Mac/Windows, Tab for deep sky objects in Star Browser
 msgid "DSOs"
 msgstr ""
@@ -877,6 +881,10 @@ msgstr ""
 
 # Android/iOS/Windows
 msgid "Flight mode decides how you move around in Celestia. Learn more…"
+msgstr ""
+
+# Android/iOS/Windows
+msgid "Focus Zooming"
 msgstr ""
 
 # Windows, Enter name for new created folder
@@ -1697,6 +1705,10 @@ msgstr "ακτίνα"
 msgid "Radius"
 msgstr ""
 
+# Android/iOS/Windows
+msgid "Ray-Based Dragging"
+msgstr ""
+
 # Android/iOS/Windows, Game controller button
 msgid "RB / R1"
 msgstr ""
@@ -1792,6 +1804,10 @@ msgstr ""
 
 # Android/iOS/Mac, Reverse camera direction, reverse travel direction
 msgid "Reverse Direction"
+msgstr ""
+
+# Android/iOS/Windows
+msgid "Reverse Mouse Wheel"
 msgstr ""
 
 # Android/iOS/Windows, Game controller action
@@ -2057,6 +2073,10 @@ msgstr ""
 # Android/iOS/Mac/Windows, Tab for solar system in Star Browser
 msgid "Solar System"
 msgstr "Ηλιακό Σύστημα"
+
+# Android/iOS/Windows
+msgid "Some configurations will take effect after a restart."
+msgstr ""
 
 # Android/iOS/Mac/Windows, Plural
 msgid "Spacecraft"
@@ -2518,4 +2538,8 @@ msgstr ""
 
 # Android/iOS
 msgid "Zoom Out"
+msgstr ""
+
+# Android/iOS/Windows
+msgid "Zooming behavior keeping the original focus location on screen"
 msgstr ""
