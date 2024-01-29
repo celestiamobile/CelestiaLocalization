@@ -322,7 +322,7 @@ msgstr "取消"
 
 #  Platforms: Apple, Android
 msgid "Cancel Script"
-msgstr ""
+msgstr "取消執行指令碼"
 
 #  Platforms: Apple, Android
 #  Failed to add a favorite item (currently a bookmark)
@@ -350,7 +350,7 @@ msgstr "Celestia PLUS"
 
 #  Platforms: Windows
 msgid "Celestia Screenshot"
-msgstr ""
+msgstr "Celestia 截圖"
 
 #  Platforms: Apple, Android, Windows
 #  Temperature scale
@@ -614,7 +614,7 @@ msgstr "距離"
 
 #  Platforms: Apple
 msgid "Distance Unit"
-msgstr ""
+msgstr "距離單位"
 
 #  Platforms: Apple, Android
 #  Prompt to ask to cancel downloading an add-on
@@ -764,7 +764,7 @@ msgstr "華氏度"
 
 #  Platforms: Windows
 msgid "Failed in capturing screenshot."
-msgstr ""
+msgstr "獲取截圖失敗。"
 
 #  Platforms: Apple
 msgid "Failed to connect to the external screen."
@@ -1679,7 +1679,7 @@ msgstr "恢復或暫停"
 
 #  Platforms: Apple, Android
 msgid "Resume/Pause"
-msgstr ""
+msgstr "繼續/暫停"
 
 #  Platforms: Android
 #  Reverse time or travel direction
@@ -2146,7 +2146,7 @@ msgstr "第三方依賴"
 
 #  Platforms: Android
 msgid "This feature is not supported."
-msgstr ""
+msgstr "不支援的功能"
 
 #  Platforms: Apple, Android
 msgid ""
