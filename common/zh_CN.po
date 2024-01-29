@@ -19,1071 +19,1000 @@ msgstr ""
 "X-Generator: Poedit 2.3\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#  Android/iOS/Mac/Windows
-#, c-format
-msgid "%.2f days"
-msgstr "%.2f 天"
-
-#  Android/iOS/Mac/Windows
-#, c-format
-msgid "%.2f hours"
-msgstr "%.2f 小时"
-
-#  iOS
+#  Platforms: Apple
 #, c-format
 msgid "%@ days"
 msgstr "%@ 天"
 
-#  iOS
+#  Platforms: Apple
 #, c-format
 msgid "%@ FPS"
 msgstr "%@ FPS"
 
-#  iOS, Unit foot
+#  Platforms: Apple
+#  Unit foot
 #, c-format
 msgid "%@ ft"
 msgstr "%@ ft"
 
-#  iOS
+#  Platforms: Apple
 #, c-format
 msgid "%@ hours"
 msgstr "%@ 小时"
 
-#  iOS, Unit kilometer
+#  Platforms: Apple
+#  Unit kilometer
 #, c-format
 msgid "%@ km"
 msgstr "%@ 千米"
 
-#  iOS, Unit meter
+#  Platforms: Apple
+#  Unit meter
 #, c-format
 msgid "%@ m"
 msgstr "%@ 米"
 
-#  iOS, Unit mile
+#  Platforms: Apple
+#  Unit mile
 #, c-format
 msgid "%@ mi"
 msgstr "%@ mi"
 
-#  Android/iOS
-#, c-format
-msgid "%d FPS"
-msgstr "%d FPS"
-
-#  Android/iOS, Unit foot
-#, c-format
-msgid "%d ft"
-msgstr "%d ft"
-
-#  Android/iOS/Mac/Windows, Unit kilometer
-#, c-format
-msgid "%d km"
-msgstr "%d 千米"
-
-#  Android/iOS/Mac/Windows, Unit meter
-#, c-format
-msgid "%d m"
-msgstr "%d 米"
-
-#  Android/iOS, Unit mile
-#, c-format
-msgid "%d mi"
-msgstr "%d mi"
-
-#  Android/Windows
+#  Platforms: Android, Windows
 #, c-format
 msgid "%s days"
 msgstr "%s 天"
 
-#  Android/Windows
+#  Platforms: Android
 #, c-format
 msgid "%s FPS"
 msgstr "%s FPS"
 
-#  Android/Windows, Unit foot
+#  Platforms: Android, Windows
+#  Unit foot
 #, c-format
 msgid "%s ft"
 msgstr "%s ft"
 
-#  Android/Windows
+#  Platforms: Android, Windows
 #, c-format
 msgid "%s hours"
 msgstr "%s 小时"
 
-#  Android/Windows, Unit kilometer
+#  Platforms: Android, Windows
+#  Unit kilometer
 #, c-format
 msgid "%s km"
 msgstr "%s 千米"
 
-#  Android/Windows, Unit meter
+#  Platforms: Android, Windows
+#  Unit meter
 #, c-format
 msgid "%s m"
 msgstr "%s 米"
 
-#  Android/Windows, Unit mile
+#  Platforms: Android, Windows
+#  Unit mile
 #, c-format
 msgid "%s mi"
 msgstr "%s mi"
 
-#  Android/iOS/Mac, Speed unit
+#  Platforms: Apple, Android
+#  Speed unit
 msgid "1 AU/s"
 msgstr "1 天文单位/秒"
 
-#  Android/iOS/Mac, Speed unit
+#  Platforms: Apple, Android
+#  Speed unit
 msgid "1 km/s"
 msgstr "1 千米/秒"
 
-#  Android/iOS/Mac, Speed unit
+#  Platforms: Apple, Android
+#  Speed unit
 msgid "1 ly/s"
 msgstr "1 光年/秒"
 
-#  Android/iOS/Mac, Speed unit
+#  Platforms: Apple, Android
+#  Speed unit
 msgid "10c"
 msgstr "10倍光速"
 
-#  Windows, 10x time speed
+#  Platforms: Apple, Windows
+#  10x time speed
 msgid "10x Faster"
 msgstr "加快 10 倍"
 
-#  Windows, 0.1x time speed
+#  Platforms: Apple, Windows
+#  0.1x time speed
 msgid "10x Slower"
 msgstr "减慢至 1/10"
 
-#  Android/iOS/Mac, Speed unit
+#  Platforms: Apple, Android
+#  Speed unit
 msgid "1000 km/s"
 msgstr "1000 千米/秒"
 
-#  Android/iOS/Windows, Game controller button
+#  Platforms: Apple, Android, Windows
+#  Game controller button
 msgid "A / X"
 msgstr "A / X"
 
-#  Android/iOS, About Celstia...
+#  Platforms: Apple, Android
+#  About Celstia...
 msgid "About"
 msgstr "关于"
 
-#  Mac/Windows, System menu item
+#  Platforms: Apple, Android, Windows
+#  System menu item
 msgid "About Celestia"
 msgstr "关于 Celestia"
 
-#  Mac, Absolute magnitude
-msgid "Abs. mag"
-msgstr "绝对星等"
-
-#  Android, Accessibility description for icon representing a toolbar action
-msgid "Action Icon"
-msgstr "动作图标"
-
-#  Android, Add a new item (bookmark)
+#  Platforms: Apple, Android
+#  Add a new item (bookmark)
 msgid "Add"
 msgstr "添加"
 
-#  Mac/Windows, Add a new bookmark
+#  Platforms: Apple, Windows
+#  Add a new bookmark
 msgid "Add Bookmark"
 msgstr "添加书签"
 
-#  Android, Accessibility description for an add button
+#  Platforms: Android
+#  Accessibility description for an add button
 msgid "Add Button"
 msgstr "添加按钮"
 
-#  iOS, Add a new item (bookmark)
-msgid "Add new…"
-msgstr "添加…"
-
-#  iOS
+#  Platforms: Apple
 msgid "Add-on directory does not exist."
 msgstr "插件文件夹不存在。"
 
-#  Android/iOS/Windows
-msgid "Add-ons"
-msgstr "插件"
-
-#  Mac
-msgid "Add/Subtract Light Travel Delay"
-msgstr "增加/减少光速延迟"
-
-#  Android/iOS/Windows, Advanced setting items
+#  Platforms: Apple, Android, Windows
+#  Advanced setting items
 msgid "Advanced"
 msgstr "高级"
 
-#  Mac, Traveling forward
-msgid "Ahead"
-msgstr "向前"
-
-#  Android/iOS/Windows, Script system access policy option
+#  Platforms: Apple, Android, Windows
+#  Script system access policy option
 msgid "Allow"
 msgstr "允许"
 
-#  Android/iOS/Mac/Windows, Alternative textures to display
+#  Platforms: Apple, Android, Windows
+#  Alternative textures to display
 msgid "Alternate Surfaces"
 msgstr "替换表面"
 
-#  Android/iOS/Mac/Windows, In setting
+#  Platforms: Apple, Android, Windows
+#  In setting
 msgid "Ambient Light"
 msgstr "环境光"
 
-#  iOS
+#  Platforms: Apple
 msgid ""
 "An external screen is connected, do you want to "
 "display Celestia on the external screen?"
 msgstr "检测到已连接新的屏幕，您是否想在外接屏幕上显示 Celestia ？"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Windows
 msgid "Anti-aliasing"
 msgstr "抗锯齿"
 
-#  Android/iOS/Windows, Script system access policy option
+#  Platforms: Apple, Android, Windows
+#  Script system access policy option
 msgid "Ask"
 msgstr "询问"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Asteroids"
 msgstr "小行星"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Atmospheres"
 msgstr "大气"
 
-#  Android/iOS/Mac/Windows, Astronomical unit
+#  Platforms: Apple, Android, Windows
+#  Astronomical unit
 msgid "au"
 msgstr "天文单位"
 
-#  Android/iOS, Authors for Celestia
+#  Platforms: Apple, Android
+#  Authors for Celestia
 msgid "Authors"
 msgstr "软件作者"
 
-#  Windows, Authors for Celestia
+#  Platforms: Windows
+#  Authors for Celestia
 msgid "Authors:"
 msgstr "作者："
 
-#  Windows, Authors for an add-on
-#, c-format
-msgid "Authors: %s"
-msgstr "作者: %s"
-
-#  Android/iOS/Mac/Windows, Auto mag for star display
+#  Platforms: Apple, Android, Windows
+#  Auto mag for star display
 msgid "Auto Mag"
 msgstr "自动增强"
 
-#  Android/iOS/Windows, Game controller button
+#  Platforms: Apple, Android, Windows
+#  Game controller button
 msgid "B / Circle"
 msgstr "B / 圆形"
 
-#  Windows
-msgid "B: {0}° {1}′ {2:N2}″"
-msgstr "B: {0}° {1}′ {2:N2}″"
-
-#  iOS, Galactic coordinates
+#  Platforms: Apple
+#  Galactic coordinates
 #, c-format
 msgid "B: %@° %@′ %@″"
 msgstr "B: %@° %@′ %@″"
 
-#  Android/iOS/Mac, Galactic coordinates
-#, c-format
-msgid "B: %d° %d′ %.2f″"
-msgstr "B: %d° %d′ %.2f″"
-
-#  Android/Windows, Galactic coordinates
+#  Platforms: Android, Windows
+#  Galactic coordinates
 #, c-format
 msgid "B: %s° %s′ %s″"
 msgstr "B: %s° %s′ %s″"
 
-#  Mac, Undo an operation
+#  Platforms: Apple
+#  Undo an operation
 msgid "Back"
 msgstr "后退"
 
-#  Mac, Beginning time (for eclipse)
-msgid "Beginning"
-msgstr "开始"
-
-#  Android/iOS/Windows, Star colors option
+#  Platforms: Apple, Android, Windows
+#  Star colors option
 msgid "Blackbody (Solar Whitepoint)"
 msgstr "黑体（太阳白点）"
 
-#  Android/iOS/Windows, Star colors option
+#  Platforms: Apple, Android, Windows
+#  Star colors option
 msgid "Blackbody (Vega Whitepoint)"
 msgstr "黑体（织女星白点）"
 
-#  Android/iOS/Windows, Star colors option
+#  Platforms: Apple, Android, Windows
+#  Star colors option
 msgid "Blackbody D65"
 msgstr "黑体 D65"
 
-#  Android/iOS, Bold font style
+#  Platforms: Apple, Android
+#  Bold font style
 msgid "Bold"
 msgstr "粗体"
 
-#  Mac/Windows
+#  Platforms: Windows
 msgid "Bookmark Organizer"
 msgstr "管理书签"
 
-#  Android/iOS/Mac/Windows, URL bookmarks
+#  Platforms: Apple, Android, Windows
+#  URL bookmarks
 msgid "Bookmarks"
 msgstr "书签"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Brightest Stars"
 msgstr "最亮的恒星"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Brightest Stars (Absolute Magnitude)"
 msgstr "最亮的恒星（绝对星等）"
 
-#  Mac, System menu item, bring all windows to front
-msgid "Bring All to Front"
-msgstr "前置全部窗口"
-
-#  Android/iOS/Windows, Default email title for bug report
+#  Platforms: Apple, Android, Windows
+#  Default email title for bug report
 msgid "Bug report for Celestia"
 msgstr "Celestia Bug 报告"
 
-#  Android/iOS/Windows, Settings for game controller buttons
+#  Platforms: Apple, Android, Windows
+#  Settings for game controller buttons
 msgid "Buttons"
 msgstr "按钮"
 
-#  Android/iOS/Mac
+#  Platforms: Apple, Android
 msgid "c (lightspeed)"
 msgstr "c (光速)"
 
-#  Android/iOS, Calculating for eclipses
+#  Platforms: Apple, Android
+#  Calculating for eclipses
 msgid "Calculating…"
 msgstr "计算中…"
 
-#  Android/iOS, Observer control
+#  Platforms: Apple, Android
+#  Observer control
 msgid "Camera Control"
 msgstr "镜头控制"
 
-#  Android/iOS, Interaction mode for touch
+#  Platforms: Apple
+#  Interaction mode for touch
 msgid "Camera Mode"
 msgstr "相机模式"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Cancel"
 msgstr "取消"
 
-#  Android/iOS, Failed to add a favorite item (currently a bookmark)
+#  Platforms: Apple, Android
+msgid "Cancel Script"
+msgstr ""
+
+#  Platforms: Apple, Android
+#  Failed to add a favorite item (currently a bookmark)
 msgid "Cannot add object"
 msgstr "无法添加对象"
 
-#  Android/iOS, Failed to share a URL
+#  Platforms: Apple
+#  Failed to share a URL
 msgid "Cannot share URL"
 msgstr "分享 URL 失败"
 
-#  Windows, Take a screenshot in Celestia
+#  Platforms: Apple, Windows
+#  Take a screenshot in Celestia
 msgid "Capture Image"
 msgstr "捕捉图像"
 
-#  Mac, Object browser
-msgid "Celestia Browser"
-msgstr "星体浏览器"
-
-#  Mac
+#  Platforms: Windows
 msgid "Celestia Help"
 msgstr "Celestia 帮助"
 
-#  Android/iOS, Name for the subscription service
+#  Platforms: Apple, Android
+#  Name for the subscription service
 msgid "Celestia PLUS"
 msgstr "Celestia PLUS"
 
-#  Android/iOS/Mac/Windows, Temperature scale
+#  Platforms: Windows
+msgid "Celestia Screenshot"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Temperature scale
 msgid "Celsius"
 msgstr "摄氏度"
 
-#  Android/iOS/Mac, Center an object
+#  Platforms: Apple
+#  Center an object
 msgid "Center"
 msgstr "居中"
 
-#  Mac/Windows, Center selected object
+#  Platforms: Apple, Windows
+#  Center selected object
 msgid "Center Selection"
 msgstr "居中所选天体"
 
-#  Android, Change subscription service
+#  Platforms: Android
+#  Change subscription service
 msgid "Change"
 msgstr "修改"
 
-#  Mac, Choose another location for celestia.cfg and data to load
-msgid "Change Config File"
-msgstr "修改配置文件"
-
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Chase"
 msgstr "追赶"
 
-#  Mac, Choose location for celestia.cfg
-msgid "Choose Config File"
-msgstr "选择配置文件"
-
-#  Android/iOS
+#  Platforms: Apple, Android
 msgid "Choose one of the plans below to get Celestia PLUS"
 msgstr "选择其中一个方案获取 Celestia PLUS"
 
-#  Android/iOS/Mac/Windows, Marker
+#  Platforms: Apple, Android, Windows
+#  Marker
 msgid "Circle"
 msgstr "圆"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Cities"
 msgstr "城市"
 
-#  Android/iOS/Windows, Star colors option
+#  Platforms: Apple, Android, Windows
+#  Star colors option
 msgid "Classic Colors"
 msgstr "经典色彩"
 
-#  Android/iOS/Mac
+#  Platforms: Apple, Android
 msgid "Close"
 msgstr "关闭"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Cloud Shadows"
 msgstr "云层投影"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Clouds"
 msgstr "云层"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Comet Tails"
 msgstr "彗尾"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Comets"
 msgstr "彗星"
 
-#  Windows, Compute for eclipses
+#  Platforms: Windows
+#  Compute for eclipses
 msgid "Compute"
 msgstr "计算"
 
-#  Android/iOS/Mac, celestia.cfg
+#  Platforms: Apple, Android
+#  celestia.cfg
 msgid "Config File"
 msgstr "配置文件"
 
-#  Android/iOS, Change requires a restart
+#  Platforms: Apple, Android
+#  Change requires a restart
 msgid "Configuration will take effect after a restart."
 msgstr "配置会在重启后生效。"
 
-#  Mac, Confirm and relaunch Celestia
-msgid "Confirm and Relaunch"
-msgstr "确认并重启"
-
-#  Android/iOS
+#  Platforms: Apple, Android
 msgid "Congratulations, you are a Celestia PLUS user"
 msgstr "恭喜，您拥有 Celestia PLUS"
 
-#  Android/iOS
-msgid "Constellation Labels"
-msgstr "星座标签"
-
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Constellations"
 msgstr "星座"
 
-#  Mac, display constellation labels in latin
-msgid "Constellations in Latin"
-msgstr "拉丁名星座标签"
-
-#  Android/iOS, Settings for whether context menu is enabled
+#  Platforms: Apple, Android
+#  Settings for whether context menu is enabled
 msgid "Context Menu"
 msgstr "快捷菜单"
 
-#  Android/iOS, Description for how a context menu is triggered
+#  Platforms: Apple, Android
+#  Description for how a context menu is triggered
 msgid "Context menu by long press or context click"
 msgstr "长按或右键点按（按住 Control 键点按）显示快捷菜单"
 
-#  Android/iOS, Used in Flight Mode
+#  Platforms: Apple, Android
+#  Used in Flight Mode
 msgid "Coordinate System"
 msgstr "坐标系统"
 
-#  Windows, Used in Flight Mode
+#  Platforms: Windows
+#  Used in Flight Mode
 msgid "Coordinate System:"
 msgstr "坐标系统："
 
-#  Mac, Longitude and latitude (in Go to)
-msgid "Coordinate:"
-msgstr "坐标："
-
-#  Android/iOS, Longitude and latitude (in Go to)
+#  Platforms: Apple, Android
+#  Longitude and latitude (in Go to)
 msgid "Coordinates"
 msgstr "坐标"
 
-#  Mac/Windows, Copy current URL to pasteboard
+#  Platforms: Apple, Windows
+#  Copy current URL to pasteboard
 msgid "Copy URL"
 msgstr "拷贝URL"
 
-#  Android, Copying default data from APK
+#  Platforms: Android
+#  Copying default data from APK
 msgid "Copying data…"
 msgstr "复制数据…"
 
-#  Android/iOS/Mac/Windows, Location labels
+#  Platforms: Apple, Android, Windows
+#  Location labels
 msgid "Craters"
 msgstr "陨石坑"
 
-#  Android/iOS
+#  Platforms: Apple, Android
 msgid "Create a new bookmark with \"+\" button"
 msgstr "使用“+”按钮添加书签"
 
-#  Android/iOS/Mac/Windows, Marker
+#  Platforms: Apple, Android, Windows
+#  Marker
 msgid "Crosshair"
 msgstr "瞄准线"
 
-#  Android, Current display language
+#  Platforms: Android
+#  Current display language
 msgid "Current Language"
 msgstr "当前语言"
 
-#  Android/iOS/Mac
+#  Platforms: Apple, Android
 msgid "Current Time"
 msgstr "当前时间"
 
-#  Android/iOS
+#  Platforms: Apple, Android
 msgid "Custom"
 msgstr "自定义"
 
-#  Android/iOS, Benefits of Celestia PLUS
+#  Platforms: Apple, Android
+#  Benefits of Celestia PLUS
 msgid "Customize the visual appearance of Celestia."
 msgstr "定制 Celestia 的用户界面。"
 
-#  Android/iOS/Windows, Game controller button
+#  Platforms: Apple, Android, Windows
+#  Game controller button
 msgid "D-pad Down"
 msgstr "方向键下"
 
-#  Android/iOS/Windows, Game controller button
+#  Platforms: Apple, Android, Windows
+#  Game controller button
 msgid "D-pad Left"
 msgstr "方向键左"
 
-#  Android/iOS/Windows, Game controller button
+#  Platforms: Apple, Android, Windows
+#  Game controller button
 msgid "D-pad Right"
 msgstr "方向键右"
 
-#  Android/iOS/Windows, Game controller button
+#  Platforms: Apple, Android, Windows
+#  Game controller button
 msgid "D-pad Up"
 msgstr "方向键上"
 
-#  Android/iOS/Mac, Directory to load data from
+#  Platforms: Apple, Android
+#  Directory to load data from
 msgid "Data Directory"
 msgstr "数据目录"
 
-#  Android/iOS, Title for celestia.cfg, data location setting
+#  Platforms: Apple, Android
+#  Title for celestia.cfg, data location setting
 msgid "Data Location"
 msgstr "数据位置"
 
-#  Mac, The date that a specifc eclipse takes place
-msgid "Date"
-msgstr "日期"
-
-#  Android/iOS/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Date Format"
 msgstr "日期格式"
 
-#  Android/iOS, Debug menu
+#  Platforms: Apple, Android
+#  Debug menu
 msgid "Debug"
 msgstr "调试操作"
 
-#  Windows
-msgid "DEC: {0}° {1}′ {2:N2}″"
-msgstr "DEC: {0}° {1}′ {2:N2}″"
-
-#  iOS, Equatorial coordinate
+#  Platforms: Apple
+#  Equatorial coordinate
 #, c-format
 msgid "DEC: %@° %@′ %@″"
 msgstr "DEC: %@° %@′ %@″"
 
-#  Android/iOS/Mac, Equatorial coordinate
-#, c-format
-msgid "DEC: %d° %d′ %.2f″"
-msgstr "DEC: %d° %d′ %.2f″"
-
-#  Android/Windows, Equatorial coordinate
+#  Platforms: Android, Windows
+#  Equatorial coordinate
 #, c-format
 msgid "DEC: %s° %s′ %s″"
 msgstr "DEC: %s° %s′ %s″"
 
-#  Android/iOS/Mac
+#  Platforms: Apple, Android
 msgid "Deep Sky Objects"
 msgstr "深空天体"
 
-#  Androd/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Default"
 msgstr "默认"
 
-#  Android/iOS/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Delete"
 msgstr "删除"
 
-#  Mac/Windows, Delete current view (in split view mode)
+#  Platforms: Apple, Windows
+#  Delete current view (in split view mode)
 msgid "Delete Active View"
 msgstr "删除当前视图"
 
-#  Mac/Windows, Delete views other than current view (in split view mode)
+#  Platforms: Apple, Windows
+#  Delete views other than current view (in split view mode)
 msgid "Delete Other Views"
 msgstr "删除其他视图"
 
-#  Android/iOS/Windows, Script system access policy option
+#  Platforms: Apple, Android, Windows
+#  Script system access policy option
 msgid "Deny"
 msgstr "拒绝"
 
-#  iOS, Title for share link
-msgid "Description"
-msgstr "描述"
-
-#  Android/iOS, A list of destinations in guide
+#  Platforms: Apple, Android
+#  A list of destinations in guide
 msgid "Destinations"
 msgstr "目的地"
 
-#  Android/iOS, URL for Development wiki
+#  Platforms: Apple, Android
+#  URL for Development wiki
 msgid "Development"
 msgstr "开发"
 
-#  Android/iOS/Mac/Windows, Marker
+#  Platforms: Apple, Android, Windows
+#  Marker
 msgid "Diamond"
 msgstr "菱形"
 
-#  Mac, Camera direction
-msgid "Direction"
-msgstr "方向"
-
-#  Android/iOS/Mac/Windows, Marker
+#  Platforms: Apple, Android, Windows
+#  Marker
 msgid "Disk"
 msgstr "填充的圆"
 
-#  Android/iOS/Mac/Windows, Display settings
+#  Platforms: Apple, Android, Windows
+#  Display settings
 msgid "Display"
 msgstr "显示"
 
-#  Mac
-msgid "Display Light Travel Delay"
-msgstr "显示光速延迟"
-
-#  Android/iOS/Windows, Distance to the object (in Go to)
+#  Platforms: Apple, Android, Windows
+#  Distance to the object (in Go to)
 msgid "Distance"
 msgstr "距离"
 
-#  Mac, Distance to the object (in Go to)
-msgid "Distance:"
-msgstr "距离:"
+#  Platforms: Apple
+msgid "Distance Unit"
+msgstr ""
 
-#  Android/iOS, Prompt to ask to cancel downloading an add-on
+#  Platforms: Apple, Android
+#  Prompt to ask to cancel downloading an add-on
 msgid "Do you want to cancel this task?"
 msgstr "您是否希望取消该任务？"
 
-#  Android/iOS
+#  Platforms: Apple, Android
 msgid "Do you want to uninstall this add-on?"
 msgstr "您是否希望卸载该插件？"
 
-#  Windows
+#  Platforms: Windows
 msgid "Don't show this message again"
 msgstr "不要再显示这条信息"
 
-#  iOS, Exit edit mode
+#  Platforms: Apple
+#  Exit edit mode
 msgid "Done"
 msgstr "完成"
 
-#  Mac, In eclipse finder
-msgid "Double click on item to go"
-msgstr "双击条目前往"
-
-#  Mac, In bookmark organizer
-msgid ""
-"Double-click item to open or control-click for "
-"contextual menu. Drag items to reorganize."
-msgstr "双击项目前往，右键点击项目打开菜单。拖拽项目进行管理。"
-
-#  Mac, Pitch angle down
-msgid "Down"
-msgstr "下"
-
-#  Android/iOS/Mac/Windows, Marker
+#  Platforms: Apple, Android, Windows
+#  Marker
 msgid "Down Arrow"
 msgstr "下箭头"
 
-#  iOS, Downgrade subscription service
+#  Platforms: Apple, Android
+#  Downgrade subscription service
 msgid "Downgrade"
 msgstr "降级"
 
-#  Android, Accessibility description for the drag handle for reorder
+#  Platforms: Android
+#  Accessibility description for the drag handle for reorder
 msgid "Drag Handle"
 msgstr "拖拽把手"
 
-#  Android/iOS/Windows
+#  Platforms: Apple, Android, Windows
 msgid ""
 "Dragging behavior based on change of pick rays "
 "instead of screen coordinates"
 msgstr "拖拽行为基于拾取射线而非屏幕坐标变化"
 
-#  Android/iOS/Mac/Windows, Tab for deep sky objects in Star Browser
+#  Platforms: Apple, Android, Windows
+#  Tab for deep sky objects in Star Browser
 msgid "DSOs"
 msgstr "深空天体"
 
-#  Mac, Duration for an eclipse
-msgid "Duration"
-msgstr "持续时间"
-
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Dwarf Planets"
 msgstr "矮行星"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Eclipse Finder"
 msgstr "日月食查找"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Eclipse Shadows"
 msgstr "日月食投影"
 
-#  Android/iOS/Mac/Windows, Grids
+#  Platforms: Apple, Android, Windows
+#  Grids
 msgid "Ecliptic"
 msgstr "黄道座标系"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Ecliptic Line"
 msgstr "黄道线"
 
-#  iOS, Enter edit mode for favorite items
+#  Platforms: Apple
+#  Enter edit mode for favorite items
 msgid "Edit"
 msgstr "编辑"
 
-#  Windows, Template for displaying when end time cannot be correctly formatted by the system
-msgid "End Julian day: %.4f"
-msgstr "结束儒略日：%.4f"
-
-#  iOS, Template for displaying when end time cannot be correctly formatted by the system
-#, c-format
-msgid "End Julian day: %@"
-msgstr "结束儒略日：%@"
-
-#  Android/Windows, Template for displaying when end time cannot be correctly formatted by the system
+#  Platforms: Windows
+#  Template for displaying when end time cannot be correctly formatted by the system
 #, c-format
 msgid "End Julian day: %s"
 msgstr "结束儒略日：%s"
 
-#  Android/iOS, In eclipse finder, range of time to find eclipse in
+#  Platforms: Apple, Android
+#  In eclipse finder, range of time to find eclipse in
 msgid "End Time"
 msgstr "结束时间"
 
-#  Mac/Windows, In eclipse finder, range of time to find eclipse in
+#  Platforms: Windows
+#  In eclipse finder, range of time to find eclipse in
 msgid "End time:"
 msgstr "结束时间："
 
-#  iOS, Template for the end time of a body, usually a spacecraft
+#  Platforms: Apple
+#  Template for the end time of a body, usually a spacecraft
 #, c-format
 msgid "End time: %@"
 msgstr "结束时间：%@"
 
-#  Android/Windows, Template for the end time of a body, usually a spacecraft
+#  Platforms: Android, Windows
+#  Template for the end time of a body, usually a spacecraft
 #, c-format
 msgid "End time: %s"
 msgstr "结束时间：%s"
 
-#  iOS
+#  Platforms: Apple
 msgid "End User License Agreements (EULA)"
 msgstr "最终用户许可协议（EULA）"
 
-#  Androd/iOS/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Enhance Celestia with online add-ons"
 msgstr "使用在线插件增强 Celestia"
 
-#  Android/iOS/Mac/Windows, Grids
+#  Platforms: Apple, Android, Windows
+#  Grids
 msgid "Equatorial"
 msgstr "赤道坐标系"
 
-#  iOS
+#  Platforms: Apple
 #, c-format
 msgid "Equatorial radius: %@"
 msgstr "赤道半径: %@"
 
-#  Android/Windows
+#  Platforms: Android, Windows
 #, c-format
 msgid "Equatorial radius: %s"
 msgstr "赤道半径: %s"
 
-#  Android/iOS/Windows
+#  Platforms: Apple, Android, Windows
 msgid ""
 "Error loading data, fallback to original "
 "configuration."
 msgstr "加载数据失败，尝试加载默认配置。"
 
-#  Android/iOS/Windows, Game controller action
+#  Platforms: Apple, Android, Windows
+#  Game controller action
 msgid "Esc"
 msgstr "Esc"
 
-#  Android/Windows, Exit Celestia
+#  Platforms: Windows
+#  Exit Celestia
 msgid "Exit"
 msgstr "退出"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Fading Orbits"
 msgstr "渐退轨道"
 
-#  Android/iOS/Mac/Windows, Temperature scale
+#  Platforms: Apple, Android, Windows
+#  Temperature scale
 msgid "Fahrenheit"
 msgstr "华氏度"
 
-#  iOS
+#  Platforms: Windows
+msgid "Failed in capturing screenshot."
+msgstr ""
+
+#  Platforms: Apple
 msgid "Failed to connect to the external screen."
 msgstr "连接到外接屏幕失败。"
 
-#  Android/iOS
+#  Platforms: Android
 msgid "Failed to download or install this add-on."
 msgstr "下载或安装插件失败。"
 
-#  Android/iOS
-msgid "Failed to load add-ons."
-msgstr "无法加载插件列表。"
-
-#  Android/iOS
-msgid "Failed to load news."
-msgstr "加载新闻失败。"
-
-#  Mac
-msgid "Failed to start OpenGL."
-msgstr "无法启用OpenGL。"
-
-#  Mac
-msgid "Failed to start renderer."
-msgstr "无法启用渲染器。"
-
-#  Android/iOS/Mac/Windows, Control the faintest star that Celestia should display
+#  Platforms: Apple, Android, Windows
+#  Control the faintest star that Celestia should display
 msgid "Faintest Stars"
 msgstr "最暗的星"
 
-#  Mac, Make time go faster
+#  Platforms: Apple, Android
+#  Make time go faster
 msgid "Faster"
 msgstr "加快"
 
-#  Mac
-msgid "Fatal Error"
-msgstr "致命错误"
-
-#  Android/iOS, Favorites (currently bookmarks and scripts)
+#  Platforms: Apple, Android
+#  Favorites (currently bookmarks and scripts)
 msgid "Favorites"
 msgstr "收藏"
 
-#  Android/iOS/Windows, Default email title for feature suggestion
+#  Platforms: Apple, Android, Windows
+#  Default email title for feature suggestion
 msgid "Feature suggestion for Celestia"
 msgstr "Celestia 功能建议"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Features"
 msgstr "特征"
 
-#  Windows
-msgid "Fewer Stars Visible"
-msgstr "显示更少星体"
-
-#  Mac/Windows, File menu
+#  Platforms: Windows
+#  File menu
 msgid "File"
 msgstr "文件"
 
-#  Android/iOS/Mac/Windows, Marker
+#  Platforms: Apple, Android, Windows
+#  Marker
 msgid "Filled Square"
 msgstr "填充的正方形"
 
-#  Android/iOS/Mac, Find (eclipses)
+#  Platforms: Apple, Android
+#  Find (eclipses)
 msgid "Find"
 msgstr "查找"
 
-#  Windows
+#  Platforms: Windows
 msgid "Find eclipses for an object in a time range"
 msgstr "查找天体在某一时间段的日月食"
 
-#  Android/iOS
+#  Platforms: Apple, Android
 msgid "Find stars, DSOs, and nearby objects"
 msgstr "查找恒星、深空天体和附近天体"
 
-#  Android/iOS/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Flight Mode"
 msgstr "飞行模式"
 
-#  Android/iOS/Windows
+#  Platforms: Apple, Android, Windows
 msgid ""
 "Flight mode decides how you move around in "
 "Celestia. Learn more…"
 msgstr "飞行模式决定您在 Celestia 的移动方式。了解详情…"
 
-#  Android/iOS/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Focus Zooming"
 msgstr "焦点缩放"
 
-#  Windows, Enter name for new created folder
+#  Platforms: Windows
+#  Enter name for new created folder
 msgid "Folder name"
 msgstr "文件夹名称"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Follow"
 msgstr "跟随"
 
-#  Windows
+#  Platforms: Apple, Windows
 msgid "Follow Selection"
 msgstr "跟随所选天体"
 
-#  Android/iOS
+#  Platforms: Apple, Android
 msgid "Font"
 msgstr "字体"
 
-#  Mac, Format for time
-msgid "Format:"
-msgstr "格式："
-
-#  Mac, Redo an operation
-msgid "Forward"
-msgstr "前进"
-
-#  Android/iOS, Frame rate of simulation
+#  Platforms: Apple, Android
+#  Frame rate of simulation
 msgid "Frame Rate"
 msgstr "帧率"
 
-#  Android/iOS/Windows, Flight mode, coordinate system
+#  Platforms: Apple, Android, Windows
+#  Flight mode, coordinate system
 msgid "Free Flight"
 msgstr "自由飞行"
 
-#  Windows, Freeze time
+#  Platforms: Apple, Windows
+#  Freeze time
 msgid "Freeze"
 msgstr "停止"
 
-#  Android/iOS/Mac/Windows, Star style
+#  Platforms: Apple, Android, Windows
+#  Star style
 msgid "Fuzzy Points"
 msgstr "模糊点"
 
-#  Android/iOS/Mac/Windows, Grids
+#  Platforms: Apple, Android, Windows
+#  Grids
 msgid "Galactic"
 msgstr "银道座标系"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Galaxies"
 msgstr "星系"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Galaxies (Barred Spiral)"
 msgstr "棒旋星系"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Galaxies (Elliptical)"
 msgstr "椭圆星系"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Galaxies (Irregular)"
 msgstr "不规则星系"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Galaxies (Spiral)"
 msgstr "漩涡星系"
 
-#  Android/iOS, Render parameter
+#  Platforms: Apple, Android, Windows
+#  Render parameter
 msgid "Galaxy Brightness"
 msgstr "星系亮度"
 
-#  Android/iOS/Windows, Settings for game controller
+#  Platforms: Apple, Android, Windows
+#  Settings for game controller
 msgid "Game Controller"
 msgstr "手柄"
 
-#  Mac/Windows, In settings
-msgid "General"
-msgstr "通用"
-
-#  Android/iOS
-msgid "Generating sharing link…"
-msgstr "生成分享链接…"
-
-#  Android/iOS, Purchase subscription service
+#  Platforms: Apple, Android
+#  Purchase subscription service
 msgid "Get"
 msgstr "获取"
 
-#  Android/iOS/Windows, Open webpage for downloading add-ons
+#  Platforms: Apple, Android, Windows
+#  Open webpage for downloading add-ons
 msgid "Get Add-ons"
 msgstr "下载插件"
 
-#  Android/iOS
+#  Platforms: Apple, Android
 msgid "Get Celestia PLUS"
 msgstr "获取 Celestia PLUS"
 
-#  Android/iOS, Action for getting info about current selected object
+#  Platforms: Apple, Android, Windows
+#  Action for getting info about current selected object
 msgid "Get Info"
 msgstr "获取信息"
 
-#  Android/iOS, Benefits of Celestia PLUS
+#  Platforms: Apple, Android
+#  Benefits of Celestia PLUS
 msgid "Get latest add-ons, updates, and trending add-ons."
 msgstr "获取最新插件，插件更新和热门插件。"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Globulars"
 msgstr "球状星团"
 
-#  Android/iOS/Mac/Windows, Go to an object
+#  Platforms: Apple, Android, Windows
+#  Go to an object
 msgid "Go"
 msgstr "前往"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Go to Object"
 msgstr "转到目标"
 
-#  Mac
-msgid "Go to Object…"
-msgstr "转到目标…"
-
-#  Mac/Windows, Go to selected object
+#  Platforms: Apple, Windows
+#  Go to selected object
 msgid "Go to Selection"
 msgstr "转到所选"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Grids"
 msgstr "坐标系"
 
-#  Mac/Windows, Grids, labels, orbits, markers
+#  Platforms: Windows
+#  Grids, labels, orbits, markers
 msgid "Guides"
 msgstr "向导"
 
-#  Android/iOS/Mac/Windows, Indicate that an object has atmosphere
+#  Platforms: Apple, Android, Windows
+#  Indicate that an object has atmosphere
 msgid "Has atmosphere"
 msgstr "存在大气"
 
-#  Android/iOS/Mac/Windows, Indicate that an object has rings
+#  Platforms: Apple, Android, Windows
+#  Indicate that an object has rings
 msgid "Has rings"
 msgstr "存在星环"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Windows
 msgid "Help"
 msgstr "帮助"
 
-#  Windows here as in `Welcome to Celestia. To learn more about using Celestia on Xbox, please visit here.`
+#  Platforms: Windows
 msgid "here"
 msgstr "这里"
 
-#  Android/iOS, Action to hide the tool overlay
+#  Platforms: Apple, Android
+#  Action to hide the tool overlay
 msgid "Hide"
 msgstr "隐藏"
 
-#  Mac, System menu item, hide Celestia window
-msgid "Hide Celestia"
-msgstr "隐藏 Celestia"
-
-#  Mac, System menu item, hide windows other than Celestia
-msgid "Hide Others"
-msgstr "隐藏其他"
-
-#  Android/iOS/Mac/Windows, HiDPI support in display
+#  Platforms: Apple, Windows
+#  HiDPI support in display
 msgid "HiDPI"
 msgstr "高分屏显示"
 
-#  Android/iOS/Mac/Windows, High resolution
+#  Platforms: Apple, Android, Windows
+#  High resolution
 msgid "High"
 msgstr "高"
 
-#  Mac, Operation history menu
-msgid "History"
-msgstr "历史"
-
-#  Android/iOS/Mac, Home object, sun.
+#  Platforms: Apple, Android
+#  Home object, sun.
 msgid "Home (Sol)"
 msgstr "主地点 (太阳)"
 
-#  Android/iOS/Mac/Windows, Grids
+#  Platforms: Apple, Android, Windows
+#  Grids
 msgid "Horizontal"
 msgstr "地平座标系"
 
-#  Android/iOS, Sharing option, image
+#  Platforms: Apple, Android, Windows
+#  Sharing option, image
 msgid "Image"
 msgstr "图片"
 
-#  Android/iOS, Imperial measurement system
+#  Platforms: Apple, Android, Windows
+#  Imperial measurement system
 msgid "Imperial"
 msgstr "英制"
 
-#  Android/iOS
+#  Platforms: Apple, Android
 msgid ""
 "In camera mode, drag to move field of view.\n"
 "\n"
@@ -1093,7 +1022,7 @@ msgstr ""
 "\n"
 "双指捏合以缩放视野。"
 
-#  Android/iOS
+#  Platforms: Apple, Android
 msgid ""
 "In object mode, drag to rotate around an object.\n"
 "\n"
@@ -1103,601 +1032,539 @@ msgstr ""
 "\n"
 "双指捏合以缩放天体。"
 
-#  Mac, HUD display
-msgid "Info"
-msgstr "信息"
-
-#  Android/iOS/Windows, HUD display
+#  Platforms: Apple, Android, Windows
+#  HUD display
 msgid "Info Display"
 msgstr "信息显示"
 
-#  Mac, HUD display
-msgid "Info Display:"
-msgstr "信息显示 :"
-
-#  Android/iOS, Information of an object
-msgid "Information"
-msgstr "信息"
-
-#  Android/iOS/Windows, Install an add-on
+#  Platforms: Apple, Android, Windows
+#  Install an add-on
 msgid "Install"
 msgstr "安装"
 
-#  Android/iOS/Windows, Title for the list of installed add-ons
+#  Platforms: Apple, Android, Windows
+#  Title for the list of installed add-ons
 msgid "Installed"
 msgstr "已安装"
 
-#  Android/iOS/Windows, Open a page for managing installed add-ons
+#  Platforms: Apple, Android, Windows
+#  Open a page for managing installed add-ons
 msgid "Installed Add-ons"
 msgstr "已安装插件"
 
-#  Android/iOS, Settings for interaction
+#  Platforms: Apple, Android, Windows
+#  Settings for interaction
 msgid "Interaction"
 msgstr "交互"
 
-#  Android/iOS/Windows, The input of julian day is not valid
+#  Platforms: Apple, Android, Windows
+#  The input of julian day is not valid
 msgid "Invalid Julian day string."
 msgstr "无效的儒略日字符串。"
 
-#  Android/iOS/Windows, Invert game controller thumbstick axis horizontally
+#  Platforms: Apple, Android, Windows
+#  Invert game controller thumbstick axis horizontally
 msgid "Invert Horizontally"
 msgstr "水平反转"
 
-#  Android/iOS/Windows, Invert game controller thumbstick axis vertically
+#  Platforms: Apple, Android, Windows
+#  Invert game controller thumbstick axis vertically
 msgid "Invert Vertically"
 msgstr "垂直反转"
 
-#  Mac, Set simulation time based on Julian date
-msgid "Julian Date:"
-msgstr "儒略日："
-
-#  Android/iOS/Windows, Select time via entering Julian day
+#  Platforms: Apple, Android, Windows
+#  Select time via entering Julian day
 msgid "Julian Day"
 msgstr "儒略日"
 
-#  Android/iOS/Mac/Windows, Temperature scale
+#  Platforms: Apple, Android, Windows
+#  Temperature scale
 msgid "Kelvin"
 msgstr "开尔文"
 
-#  Android/iOS/Mac/Windows, Unit
+#  Platforms: Apple, Android, Windows
+#  Unit
 msgid "km"
 msgstr "千米"
 
-#  Windows
-msgid "L: {0}° {1}′ {2:N2}″"
-msgstr "L: {0}° {1}′ {2:N2}″"
-
-#  iOS, Galactic coordinates
+#  Platforms: Apple
+#  Galactic coordinates
 #, c-format
 msgid "L: %@° %@′ %@″"
 msgstr "L: %@° %@′ %@″"
 
-#  Android/iOS/Mac, Galactic coordinates
-#, c-format
-msgid "L: %d° %d′ %.2f″"
-msgstr "L: %d° %d′ %.2f″"
-
-#  Android/Windows, Galactic coordinates
+#  Platforms: Android, Windows
+#  Galactic coordinates
 #, c-format
 msgid "L: %s° %s′ %s″"
 msgstr "L: %s° %s′ %s″"
 
-#  Mac/Windows, Labels to display
+#  Platforms: Windows
+#  Labels to display
 msgid "Labels"
 msgstr "标签"
 
-#  Android/iOS, Go to surface of an object
+#  Platforms: Apple, Android
+#  Go to surface of an object
 msgid "Land"
 msgstr "着陆"
 
-#  Android/iOS/Mac/Windows, Location labels
+#  Platforms: Apple, Android, Windows
+#  Location labels
 msgid "Landing Sites"
 msgstr "着陆点"
 
-#  Android/Windows, Display language setting
+#  Platforms: Android, Windows
+#  Display language setting
 msgid "Language"
 msgstr "语言"
 
-#  Android/iOS/Mac/Windows, Coordinates
+#  Platforms: Apple, Android, Windows
+#  Coordinates
 msgid "Latitude"
 msgstr "纬度"
 
-#  Android/iOS/Windows, Game controller button
+#  Platforms: Apple, Android, Windows
+#  Game controller button
 msgid "LB / L1"
 msgstr "LB / L1"
 
-#  Android/iOS/Windows, Text for the link in Flight mode decides how you move around in Celestia. Learn more…
+#  Platforms: Apple, Android, Windows
+#  Text for the link in Flight mode decides how you move around in Celestia. Learn more…
 msgid "Learn more…"
 msgstr "了解详情…"
 
-#  Mac, Yaw angle left
-msgid "Left"
-msgstr "左"
-
-#  Android/iOS/Mac/Windows, Marker
+#  Platforms: Apple, Android, Windows
+#  Marker
 msgid "Left Arrow"
 msgstr "左箭头"
 
-#  iOS
+#  Platforms: Apple
 #, c-format
 msgid "Length of day: %@"
 msgstr "日长: %@"
 
-#  Android/Windows
+#  Platforms: Android, Windows
 #, c-format
 msgid "Length of day: %s"
 msgstr "日长: %s"
 
-#  Android/iOS/Windows, Celestia loading failed
-#, c-format
+#  Platforms: Apple, Android, Windows
+#  Celestia loading failed
 msgid "Loading Celestia failed…"
 msgstr "Celestia加载失败"
 
-#  Android, Loading Celestia configuration
-#, c-format
-msgid "Loading configuration…"
-msgstr "加载配置…"
-
-#  iOS, Celestia initialization, loading file
+#  Platforms: Apple
+#  Celestia initialization, loading file
 #, c-format
 msgid "Loading: %@"
 msgstr "加载中: %@"
 
-#  Android/iOS/Windows, Celestia initialization, loading file
+#  Platforms: Android, Windows
+#  Celestia initialization, loading file
 #, c-format
 msgid "Loading: %s"
 msgstr "加载中: %s"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Local Time"
 msgstr "本地时间"
 
-#  Mac, Menu, location for observation
-msgid "Location"
-msgstr "位置"
-
-#  Mac/Windows, Type of locations to display
-msgid "Location Types"
-msgstr "位置类型"
-
-#  Android/iOS/Mac/Windows, Location labels to display
+#  Platforms: Apple, Android, Windows
+#  Location labels to display
 msgid "Locations"
 msgstr "位置"
 
-#  Android/iOS
+#  Platforms: Apple
 msgid "Lock"
 msgstr "锁定"
 
-#  Mac/Windows
+#  Platforms: Windows
 msgid "Lock Phase"
 msgstr "锁定相位"
 
-#  Android/iOS
+#  Platforms: Apple, Android
 msgid "Long press on stepper to change orientation."
 msgstr "长按来控制方向。"
 
-#  Android/iOS
+#  Platforms: Apple, Android
 msgid "Long press on stepper to zoom in/out."
 msgstr "长按来控制缩放。"
 
-#  Android/iOS/Mac/Windows, Coordinates
+#  Platforms: Apple, Android, Windows
+#  Coordinates
 msgid "Longitude"
 msgstr "经度"
 
-#  Mac, Reverse camera direction
-msgid "Look Back"
-msgstr "转向"
-
-#  Android/iOS/Mac/Windows, Low resolution
+#  Platforms: Apple, Android, Windows
+#  Low resolution
 msgid "Low"
 msgstr "低"
 
-#  Android/iOS/Windows, Game controller button
+#  Platforms: Apple, Android, Windows
+#  Game controller button
 msgid "LT / L2"
 msgstr "LT / L2"
 
-#  Android/iOS/Windows, Note for Script System Access Policy
+#  Platforms: Apple, Android, Windows
+#  Note for Script System Access Policy
 msgid "Lua scripts' access to the file system"
 msgstr "Lua 脚本的文件系统访问权限"
 
-#  Windows, Lunar eclipses.
+#  Platforms: Windows
+#  Lunar eclipses.
 msgid "Lunar"
 msgstr "月食"
 
-#  Windows, window title for add-on list
+#  Platforms: Windows
+#  window title for add-on list
 msgid "Manage Add-ons"
 msgstr "管理插件"
 
-#  Android
+#  Platforms: Android
 msgid "Manage Subscription"
 msgstr "管理订阅"
 
-#  Android/iOS/Mac/Windows, Location labels
+#  Platforms: Apple, Android, Windows
+#  Location labels
 msgid "Maria (Seas)"
 msgstr "海洋"
 
-#  Android/iOS/Mac/Windows, Mark an object
+#  Platforms: Apple, Android, Windows
+#  Mark an object
 msgid "Mark"
 msgstr "标记"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Markers"
 msgstr "标记"
 
-#  Mac, Mass of an object
-msgid "Mass"
-msgstr "质量"
-
-#  iOS
+#  Platforms: Apple
 #, c-format
 msgid "Maximum (%@ FPS)"
 msgstr "最大值（%@ FPS）"
 
-#  Android/iOS
-#, c-format
-msgid "Maximum (%d FPS)"
-msgstr "最大值（%d FPS）"
-
-#  Android/Windows
+#  Platforms: Android
 #, c-format
 msgid "Maximum (%s FPS)"
 msgstr "最大值（%s FPS）"
 
-#  Android/iOS/Windows, Measurement system
+#  Platforms: Apple, Android, Windows
+#  Measurement system
 msgid "Measure Units"
 msgstr "测量单位"
 
-#  Mac, Measurement system
-msgid "Measure Units:"
-msgstr "测量单位："
-
-#  Android/iOS/Mac/Windows, Medium resolution
+#  Platforms: Apple, Android, Windows
+#  Medium resolution
 msgid "Medium"
 msgstr "中"
 
-#  Android/iOS, Menu button
+#  Platforms: Apple, Android
+#  Menu button
 msgid "Menu"
 msgstr "菜单"
 
-#  Android/iOS, Metric measurement system
+#  Platforms: Apple, Android, Windows
+#  Metric measurement system
 msgid "Metric"
 msgstr "公制"
 
-#  Mac, System menu item, minimize window
-msgid "Minimize"
-msgstr "最小化窗口"
-
-#  Android/iOS/Mac/Windows, Minimum feature size that we should display a label for
+#  Platforms: Apple, Android, Windows
+#  Minimum feature size that we should display a label for
 msgid "Minimum Labeled Feature Size"
 msgstr "最小带标签纹理尺寸"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Minor Moons"
 msgstr "子卫星"
 
-#  Mac/Windows
+#  Platforms: Windows
 msgid "Miscellaneous"
 msgstr "其他"
 
-#  Android/iOS/Mac/Windows, Location labels
+#  Platforms: Apple, Android, Windows
+#  Location labels
 msgid "Montes (Mountains)"
 msgstr "山脉"
 
-#  Android/iOS, Monthly subscription
+#  Platforms: Apple, Android
+#  Monthly subscription
 msgid "Monthly"
 msgstr "包月"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Moons"
 msgstr "卫星"
 
-#  Windows
-msgid "More Stars Visible"
-msgstr "显示更多星体"
-
-#  Android/iOS, Guide to control Celestia with a mouse/keyboard
+#  Platforms: Apple, Android
+#  Guide to control Celestia with a mouse/keyboard
 msgid "Mouse/Keyboard Controls"
 msgstr "鼠标/键盘控制"
 
-#  Mac, Move closer to the object
-msgid "Move Closer"
-msgstr "拉近"
-
-#  Mac, Move farther away from the object
-msgid "Move Farther"
-msgstr "推远"
-
-#  Mac, Name of an object
-msgid "Name"
-msgstr "名称"
-
-#  Windows, Navigation menu
+#  Platforms: Apple, Windows
+#  Navigation menu
 msgid "Navigation"
 msgstr "导航"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Nearest Stars"
 msgstr "最近的恒星"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Nebulae"
 msgstr "星云"
 
-#  Mac/Windows, Create a folder in bookmark organizer
+#  Platforms: Windows
+#  Create a folder in bookmark organizer
 msgid "New Folder"
 msgstr "新建文件夹…"
 
-#  Windows, Enter new name for a bookmark node
+#  Platforms: Windows
+#  Enter new name for a bookmark node
 msgid "New name"
 msgstr "新名称"
 
-#  Android/iOS, Updates and featured content
-msgid "News"
-msgstr "新闻"
-
-#  Android/iOS, Archive for updates and featured content
+#  Platforms: Apple, Android
+#  Archive for updates and featured content
 msgid "News Archive"
 msgstr "新闻存档"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Night Lights"
 msgstr "夜间照明"
 
-#  iOS, No data received for a request
-msgid "No data"
-msgstr "无数据"
-
-#  Android/iOS/Windows
+#  Platforms: Apple, Android, Windows
 msgid ""
 "No eclipse is found for the given object in the "
 "time range"
 msgstr "对于给定天体和时间段未找到日月食"
 
-#  Mac, In Go to
-msgid "No object name entered"
-msgstr "没有输入天体名称"
-
-#  Android/iOS/Mac/Windows, No overview for an object
+#  Platforms: Apple, Android, Windows
+#  No overview for an object
 msgid "No overview available."
 msgstr "无描述。"
 
-#  iOS, No response received for a request
-msgid "No response"
-msgstr "无响应"
-
-#  Android/iOS
+#  Platforms: Apple, Android
 msgid "No result found"
 msgstr "无结果"
 
-#  Windows
+#  Platforms: Windows
 msgid "No saved bookmarks"
 msgstr "无保存书签"
 
-#  Android/iOS/Mac/Windows, Empty HUD display
+#  Platforms: Apple, Android, Windows
+#  Empty HUD display
 msgid "None"
 msgstr "无"
 
-#  Android/iOS, Normal font style
+#  Platforms: Apple, Android
+#  Normal font style
 msgid "Normal"
 msgstr "基本"
 
-#  Mac, Hint for specifying time in eclipse finder
-msgid ""
-"Note:\n"
-"Specifying a large time interval may cause long "
-"search times and a very large number of results."
-msgstr ""
-"注意: \n"
-"计算较长的时间范围会需要更多的时间，且可能会产生过多的数据结果。"
-
-#  Windows
-msgid ""
-"Note: restarting Celestia is needed to use any "
-"new installed add-on."
-msgstr "注意: 需要重新启动 Celestia 以使用新插件。"
-
-#  Android/iOS, In eclipse finder, object to find eclipse with, or in go to
+#  Platforms: Apple, Android
+#  In eclipse finder, object to find eclipse with, or in go to
 msgid "Object"
 msgstr "天体"
 
-#  Android/iOS, Labels
+#  Platforms: Apple, Android
+#  Labels
 msgid "Object Labels"
 msgstr "天体标签"
 
-#  Android/iOS, Interaction mode for touch
+#  Platforms: Apple
+#  Interaction mode for touch
 msgid "Object Mode"
 msgstr "相对天体模式"
 
-#  Windows
+#  Platforms: Windows
 msgid "Object Name"
 msgstr "天体名称"
 
-#  Mac/Windows
+#  Platforms: Windows
 msgid "Object name:"
 msgstr "天体名称："
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Object not found"
 msgstr "找不到对象"
 
-#  Mac, In Go to, Windows, In eclipse finder, object to find eclipse with
+#  Platforms: Windows
+#  In Go to, Windows, In eclipse finder, object to find eclipse with
 msgid "Object:"
 msgstr "目标："
 
-#  Android/iOS
+#  Platforms: Apple, Android, Windows
 msgid "Objects"
 msgstr "天体"
 
-#  Android/iOS/Mac/Windows, Location labels
+#  Platforms: Apple, Android, Windows
+#  Location labels
 msgid "Observatories"
 msgstr "观测站"
 
-#  Mac, In eclipse finder
-msgid "Occulter"
-msgstr "遮光体"
-
-#  Android/iOS
+#  Platforms: Apple, Android
 msgid "Official Website"
 msgstr "官方网站"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "OK"
 msgstr "确定"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Open Clusters"
 msgstr "疏散星团"
 
-#  Windows, Open folder for customization
+#  Platforms: Windows
+#  Open folder for customization
 msgid "Open Custom Folder"
 msgstr "打开自定义文件夹"
 
-#  Android/iOS/Mac/Windows, Request user consent to open a URL
+#  Platforms: Apple, Android, Windows
+#  Request user consent to open a URL
 msgid "Open URL?"
 msgstr "打开URL？"
 
-#  Mac, Open web URL for an object
-msgid "Open Web URL"
-msgstr "打开网页"
-
-#  Mac/Windows
+#  Platforms: Apple, Windows
 msgid "OpenGL Info"
 msgstr "OpenGL 信息"
 
-#  Android
+#  Platforms: Android
 msgid "Opening external file or URL…"
 msgstr "打开外部文件或URL…"
 
-#  iOS
+#  Platforms: Apple
 msgid "Operation not permitted."
 msgstr "操作不被允许。"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Orbits"
 msgstr "轨道"
 
-#  Mac/Windows
+#  Platforms: Apple, Windows
 msgid "Organize Bookmarks…"
 msgstr "管理书签…"
 
-#  Android/iOS/Mac/Windows, Other location labels; Android/iOS, Other objects to choose from in Eclipse Finder
+#  Platforms: Apple, Android, Windows
+#  Other location labels; Android/iOS, Other objects to choose from in Eclipse Finder
 msgid "Other"
 msgstr "其他"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Partial Trajectories"
 msgstr "部分轨迹"
 
-#  Mac/Windows, Paste URL from pasteboard
+#  Platforms: Apple, Windows
+#  Paste URL from pasteboard
 msgid "Paste URL"
 msgstr "粘贴URL"
 
-#  Mac, Pause time
-msgid "Pause"
-msgstr "暂停"
-
-#  Android/iOS/Windows, Flight mode, coordinate system
+#  Platforms: Apple, Android, Windows
+#  Flight mode, coordinate system
 msgid "Phase Lock"
 msgstr "相位锁定"
 
-#  Windows, Select time via picker
+#  Platforms: Windows
+#  Select time via picker
 msgid "Picker"
 msgstr "选择器"
 
-#  Android/iOS/Mac, Camera control
+#  Platforms: Apple, Android
+#  Camera control
 msgid "Pitch"
 msgstr "Pitch"
 
-#  Android/iOS/Windows, Game controller action
+#  Platforms: Apple, Android, Windows
+#  Game controller action
 msgid "Pitch Down"
 msgstr "Pitch Down"
 
-#  Android/iOS/Windows, Game controller action
+#  Platforms: Apple, Android, Windows
+#  Game controller action
 msgid "Pitch Up"
 msgstr "Pitch Up"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Planet Rings"
 msgstr "行星环"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Planets"
 msgstr "行星"
 
-#  Mac, In Go to/Eclipse Finder
-msgid "Please check that the object name is correct."
-msgstr "请检查输入的天体名是否正确。"
-
-#  Android/iOS, In eclipse finder, choose an object to find eclipse wth
+#  Platforms: Apple, Android
+#  In eclipse finder, choose an object to find eclipse wth
 msgid "Please choose an object."
 msgstr "请选择一个天体。"
 
-#  Android/iOS/Windows, Default email body for feature suggestion
+#  Platforms: Apple, Android, Windows
+#  Default email body for feature suggestion
 msgid ""
 "Please describe the feature you want to see in "
 "Celestia."
 msgstr "请描述您希望在 Celestia 中看到的功能。"
 
-#  Android/iOS/Windows, Default email body for bug report
+#  Platforms: Apple, Android, Windows
+#  Default email body for bug report
 msgid ""
 "Please describe the issue and repro steps, if "
 "known."
 msgstr "请描述您看到的问题，如果您知道如何复现此问题，请描述复现方法。"
 
-#  Android, Custom config/data directory path have to be under a specific path
+#  Platforms: Android
+#  Custom config/data directory path have to be under a specific path
 #, c-format
 msgid ""
 "Please ensure that you have selected a path under "
 "%s."
 msgstr "请确保您选择的路径在%s下。"
 
-#  iOS, Message for renaming a favorite item (currently bookmark)
+#  Platforms: Apple
+#  Message for renaming a favorite item (currently bookmark)
 msgid "Please enter a new name."
 msgstr "请输入新名称。"
 
-#  Android/iOS/Mac, In Go to; Android/iOS, Enter the name of an object in Eclipse Finder
+#  Platforms: Apple, Android
+#  In Go to; Android/iOS, Enter the name of an object in Eclipse Finder
 msgid "Please enter an object name."
 msgstr "请输入天体名称。"
 
-#  Android/iOS, In time settings, enter Julian day for the simulation
+#  Platforms: Apple, Android
+#  In time settings, enter Julian day for the simulation
 msgid "Please enter Julian day."
 msgstr "请输入儒略日"
 
-#  iOS
+#  Platforms: Apple
 #, c-format
 msgid "Please enter the time in \"%@\" format."
 msgstr "请以“%@”格式输入时间"
 
-#  Android
+#  Platforms: Android
 #, c-format
 msgid "Please enter the time in \"%s\" format."
 msgstr "请以“%s”格式输入时间"
 
-#  Android, Possibly due to memory issue, Celestia needs to be restarted
-msgid "Please restart Celestia"
-msgstr "请重启Celestia"
-
-#  Android/iOS/Mac/Windows, Marker
+#  Platforms: Apple, Android, Windows
+#  Marker
 msgid "Plus"
 msgstr "加号"
 
-#  Android/iOS/Mac/Windows, Star style
+#  Platforms: Apple, Android, Windows
+#  Star style
 msgid "Points"
 msgstr "点"
 
-#  Mac, Settings window title
-msgid "Preferences"
-msgstr "偏好设置"
-
-#  iOS/Mac, Settings
+#  Platforms: Apple
+#  Settings
 msgid "Preferences…"
 msgstr "偏好设置…"
 
-#  Android/iOS, Privacy Policy and Service Agreement
+#  Platforms: Apple, Android
+#  Privacy Policy and Service Agreement
 msgid "Privacy Policy and Service Agreement"
 msgstr "隐私政策与服务协议"
 
-#  Android
+#  Platforms: Android
 msgid ""
 "Purchase will be available immediately. "
 "Subscription will be automatically renewed and "
@@ -1708,893 +1575,875 @@ msgstr ""
 "付款将立即生效。订阅会在每月（包月）或者每年（包年）会自动续费，价格如上所示。您可以在任意时间在 "
 "Google Play 的订阅页面取消订阅。"
 
-#  Mac, Quit Celestia
-msgid "Quit"
-msgstr "退出"
-
-#  Mac, System menu item
-msgid "Quit Celestia"
-msgstr "退出 Celestia"
-
-#  Windows
-msgid "RA: {0}h {1}m {2:N2}s"
-msgstr "RA: {0}h {1}m {2:N2}s"
-
-#  iOS, Equatorial coordinate
+#  Platforms: Apple
+#  Equatorial coordinate
 #, c-format
 msgid "RA: %@h %@m %@s"
 msgstr "RA: %@h %@m %@s"
 
-#  Android/iOS/Mac, Equatorial coordinate
-#, c-format
-msgid "RA: %dh %dm %.2fs"
-msgstr "RA: %dh %dm %.2fs"
-
-#  Android/Windows, Equatorial coordinate
+#  Platforms: Android, Windows
+#  Equatorial coordinate
 #, c-format
 msgid "RA: %sh %sm %ss"
 msgstr "RA: %sh %sm %ss"
 
-#  Android/iOS/Mac/Windows, In Go to, specify the distance based on the object radius
+#  Platforms: Apple, Android, Windows
+#  In Go to, specify the distance based on the object radius
 msgid "radii"
 msgstr "倍半径"
 
-#  Mac, Radius of an object
-msgid "Radius"
-msgstr "半径"
-
-#  Android/iOS/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Ray-Based Dragging"
 msgstr "基于射线的拖拽"
 
-#  Android/iOS/Windows, Game controller button
+#  Platforms: Apple, Android, Windows
+#  Game controller button
 msgid "RB / R1"
 msgstr "RB / R1"
 
-#  Mac/Windows, Reset time speed to 1x
+#  Platforms: Apple, Windows
+#  Reset time speed to 1x
 msgid "Real Time"
 msgstr "实时"
 
-#  Android/iOS, Benefits of Celestia PLUS
+#  Platforms: Apple, Android
+#  Benefits of Celestia PLUS
 msgid ""
 "Receive timely feedback on feature requests and "
 "bug reports."
 msgstr "在功能建议和 Bug 报告上得到更加及时的回复。"
 
-#  Mac, In Eclipse Finder
-msgid "Receiver"
-msgstr "观测地"
-
-#  Android/iOS/Windows, Used in Flight Mode
+#  Platforms: Apple, Android, Windows
+#  Used in Flight Mode
 msgid "Reference Object"
 msgstr "参照天体"
 
-#  Android/iOS/Mac/Windows, Reference vectors for an object
+#  Platforms: Apple, Android, Windows
+#  Reference vectors for an object
 msgid "Reference Vectors"
 msgstr "参考向量"
 
-#  Android/iOS
+#  Platforms: Apple, Android
 msgid ""
 "Reference vectors are only visible for the "
 "current selected solar system object."
 msgstr "参考向量只对当前选中的太阳系天体有效。"
 
-#  Android/iOS, Button to refresh this list
+#  Platforms: Apple, Android
+#  Button to refresh this list
 msgid "Refresh"
 msgstr "刷新"
 
-#  Windows, Regions settings
+#  Platforms: Windows
+#  Regions settings
 msgid "Region"
 msgstr "区域"
 
-#  Windows, Release date for an add-on
-#, c-format
-msgid "Release date: %s"
-msgstr "发布日期: %s"
-
-#  Android/Windows, Rename a favorite item (currently bookmark)
+#  Platforms: Android, Windows
+#  Rename a favorite item (currently bookmark)
 msgid "Rename"
 msgstr "重命名"
 
-#  Windows, Render menu
-msgid "Render"
-msgstr "渲染"
-
-#  Android/iOS, Information about renderer
+#  Platforms: Apple, Android
+#  Information about renderer
 msgid "Render Info"
 msgstr "渲染信息"
 
-#  Android/iOS/Mac/Windows, Render parameters in setting
+#  Platforms: Apple, Android
+#  Render parameters in setting
 msgid "Render Parameters"
 msgstr "渲染参数"
 
-#  Android/iOS/Mac/Windows, In settings
+#  Platforms: Apple, Android, Windows
+#  In settings
 msgid "Renderer"
 msgstr "渲染"
 
-#  Android/iOS/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Report a Bug"
 msgstr "报告 Bug"
 
-#  Android, Finished requesting permission needed for Celestia
-msgid "Requesting permission finished"
-msgstr "完成请求权限"
-
-#  Mac, Run the previous script again
-msgid "Rerun Script"
-msgstr "重新运行脚本"
-
-#  Mac, Reset celestia.cfg, data directory location
-msgid "Reset"
-msgstr "重置"
-
-#  Android/iOS, Reset celestia.cfg, data directory location
+#  Platforms: Apple, Android
+#  Reset celestia.cfg, data directory location
 msgid "Reset to Default"
 msgstr "恢复默认"
 
-#  iOS, Refresh purchase status
+#  Platforms: Apple
+#  Refresh purchase status
 msgid "Restore Purchase"
 msgstr "恢复购买"
 
-#  Android/iOS, Resume or pause time/script
+#  Platforms: Android
+#  Resume or pause time/script
 msgid "Resume or Pause"
 msgstr "恢复或暂停"
 
-#  Android/iOS, Reverse time or travel direction
+#  Platforms: Apple, Android
+msgid "Resume/Pause"
+msgstr ""
+
+#  Platforms: Android
+#  Reverse time or travel direction
 msgid "Reverse"
 msgstr "反转"
 
-#  Android/iOS/Mac, Reverse camera direction, reverse travel direction
+#  Platforms: Apple, Android
+#  Reverse camera direction, reverse travel direction
 msgid "Reverse Direction"
 msgstr "反转朝向"
 
-#  Android/iOS/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Reverse Mouse Wheel"
 msgstr "反转鼠标滚轮"
 
-#  Android/iOS/Windows, Game controller action
+#  Platforms: Apple, Android, Windows
+#  Game controller action
 msgid "Reverse Observer Orientation"
 msgstr "反转朝向"
 
-#  Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Reverse Time"
 msgstr "反转时间"
 
-#  Android/iOS/Windows, Game controller action
+#  Platforms: Apple, Android, Windows
+#  Game controller action
 msgid "Reverse Travel Direction"
 msgstr "反转移动方向"
 
-#  Mac, Yaw angle right
-msgid "Right"
-msgstr "右"
-
-#  Android/iOS/Mac/Windows, Marker
+#  Platforms: Apple, Android, Windows
+#  Marker
 msgid "Right Arrow"
 msgstr "右箭头"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Ring Shadows"
 msgstr "星环投影"
 
-#  Android/iOS/Mac, Camera control
+#  Platforms: Apple, Android
+#  Camera control
 msgid "Roll"
 msgstr "Roll"
 
-#  Android/iOS/Windows, Game controller action
+#  Platforms: Apple, Android, Windows
+#  Game controller action
 msgid "Roll Left"
 msgstr "Roll Left"
 
-#  Android/iOS/Windows, Game controller action
+#  Platforms: Apple, Android, Windows
+#  Game controller action
 msgid "Roll Right"
 msgstr "Roll Right"
 
-#  Android/iOS/Windows, Game controller button
+#  Platforms: Apple, Android, Windows
+#  Game controller button
 msgid "RT / R2"
 msgstr "RT / R2"
 
-#  Android/iOS/Windows, Run a script
+#  Platforms: Apple, Android, Windows
+#  Run a script
 msgid "Run"
 msgstr "运行"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Run Demo"
 msgstr "运行演示"
 
-#  Android/iOS/Mac/Windows, Request user consent to run a script
+#  Platforms: Apple, Android, Windows
+#  Request user consent to run a script
 msgid "Run script?"
 msgstr "运行脚本？"
 
-#  iOS/Mac/Windows
+#  Platforms: Apple, Windows
 msgid "Run Script…"
 msgstr "运行脚本…"
 
-#  Android/iOS/Mac/Windows, Star style
+#  Platforms: Apple, Android, Windows
+#  Star style
 msgid "Scaled Discs"
 msgstr "缩放点"
 
-#  Android/iOS
+#  Platforms: Apple, Android
 msgid "Script Control"
 msgstr "脚本控制"
 
-#  Android/iOS/Windows, Policy for managing lua script's access to the system
+#  Platforms: Apple, Android, Windows
+#  Policy for managing lua script's access to the system
 msgid "Script System Access Policy"
 msgstr "脚本系统访问策略"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Scripts"
 msgstr "脚本"
 
-#  Android/iOS, URL for Scripts and URLs wiki
+#  Platforms: Apple, Android
+#  URL for Scripts and URLs wiki
 msgid "Scripts and URLs"
 msgstr "脚本和URL"
 
-#  Android/iOS
+#  Platforms: Apple, Android
 msgid "Search"
 msgstr "查找"
 
-#  Android/iOS/Windows, Security settings title
+#  Platforms: Apple, Android, Windows
+#  Security settings title
 msgid "Security"
 msgstr "安全"
 
-#  Android/iOS/Mac/Windows, Select an object
+#  Platforms: Apple, Android, Windows
+#  Select an object
 msgid "Select"
 msgstr "选择"
 
-#  Mac, Select next view (in split view)
-msgid "Select Next View"
-msgstr "选择下一个视图"
-
-#  Windows, Select an object
+#  Platforms: Windows
+#  Select an object
 msgid "Select Object"
 msgstr "选择天体"
 
-#  Windows
+#  Platforms: Apple, Windows
 msgid "Select Sol"
 msgstr "选择太阳"
 
-#  Android, Select simulation time
+#  Platforms: Apple, Android
+#  Select simulation time
 msgid "Select Time"
 msgstr "选择时间"
 
-#  Android, Select a destination in tour guide
+#  Platforms: Windows
+#  Select a destination in tour guide
 msgid "Select your destination:"
 msgstr "选择目标："
 
-#  Windows, Error message, the time in the picker is considered out of range by the system
+#  Platforms: Windows
+#  Error message, the time in the picker is considered out of range by the system
 msgid "Selected time is out of range."
 msgstr "选定的时间超出范围。"
 
-#  Android/iOS
+#  Platforms: Apple, Android
 msgid "Send Feedback"
 msgstr "发送反馈"
 
-#  Android/iOS/Windows, Setting for sensitivity for selecting an object
+#  Platforms: Apple, Android, Windows
+#  Setting for sensitivity for selecting an object
 msgid "Sensitivity"
 msgstr "灵敏度"
 
-#  Android/iOS/Windows, Notes for the sensitivity setting
+#  Platforms: Apple, Android, Windows
+#  Notes for the sensitivity setting
 msgid "Sensitivity for object selection"
 msgstr "天体选择灵敏度"
 
-#  Mac, System menu
-msgid "Services"
-msgstr "服务"
-
-#  Windows, Set date to eclipse date and view eclipse
+#  Platforms: Windows
+#  Set date to eclipse date and view eclipse
 msgid "Set Date and Go to Planet"
 msgstr "设定日期并转到行星"
 
-#  Mac/Windows, Button to confirm selected simulation time
+#  Platforms: Windows
+#  Button to confirm selected simulation time
 msgid "Set Time"
 msgstr "设置时间…"
 
-#  Mac/Windows, Select simulation time
+#  Platforms: Apple, Windows
+#  Select simulation time
 msgid "Set Time…"
 msgstr "设置时间…"
 
-#  Android/iOS/Windows, Set simulation time to device
+#  Platforms: Apple, Android, Windows
+#  Set simulation time to device
 msgid "Set to Current Time"
 msgstr "设置为当前时间"
 
-#  Android/iOS/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Settings"
 msgstr "设置"
 
-#  iOS
+#  Platforms: Apple
 msgid "Settings…"
 msgstr "设置…"
 
-#  Android/iOS
+#  Platforms: Apple, Android
 msgid "Share"
 msgstr "分享"
 
-#  Mac, System menu item, Show all windows
-msgid "Show All"
-msgstr "显示全部"
-
-#  Android/iOS/Mac/Windows, Reference vector
+#  Platforms: Apple, Android, Windows
+#  Reference vector
 msgid "Show Body Axes"
 msgstr "显示赤道轴"
 
-#  Android/iOS/Mac/Windows, Show constellation boundaries
+#  Platforms: Apple, Android, Windows
+#  Show constellation boundaries
 msgid "Show Boundaries"
 msgstr "显示星座边界"
 
-#  Mac
-msgid "Show Constellation Labels"
-msgstr "显示星座标签"
-
-#  Mac
-msgid "Show Constellations"
-msgstr "显示星座"
-
-#  Android/iOS, Show a list of destinations in guide
-msgid "Show Destinations"
-msgstr "查看目的地"
-
-#  Android/iOS/Windows, Show constellation diagrams
+#  Platforms: Apple, Android, Windows
+#  Show constellation diagrams
 msgid "Show Diagrams"
 msgstr "显示星座线"
 
-#  Android/iOS/Mac/Windows, Reference vector
+#  Platforms: Apple, Android, Windows
+#  Reference vector
 msgid "Show Frame Axes"
 msgstr "显示黄道轴"
 
-#  Mac/Windows, Show info for an object
-msgid "Show Info"
-msgstr "显示简介"
-
-#  Android/iOS/Windows, Constellation labels
+#  Platforms: Apple, Android, Windows
+#  Constellation labels
 msgid "Show Labels"
 msgstr "显示星座标签"
 
-#  Android/iOS/Windows, Constellation labels in Latin
+#  Platforms: Apple, Android, Windows
+#  Constellation labels in Latin
 msgid "Show Labels in Latin"
 msgstr "显示拉丁名星座标签"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Show Locations"
 msgstr "显示位置"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android
 msgid "Show Markers"
 msgstr "显示标记器"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Show Orbits"
 msgstr "显示轨道"
 
-#  Android/iOS/Mac/Windows, Reference vector
+#  Platforms: Apple, Android, Windows
+#  Reference vector
 msgid "Show Planetographic Grid"
 msgstr "显示经纬网格"
 
-#  Android/iOS/Mac/Windows, Reference vector
+#  Platforms: Apple, Android, Windows
+#  Reference vector
 msgid "Show Sun Direction"
 msgstr "显示太阳方向"
 
-#  Android/iOS/Mac/Windows, Reference vector
+#  Platforms: Apple, Android, Windows
+#  Reference vector
 msgid "Show Terminator"
 msgstr "显示明暗边界线"
 
-#  Android/iOS/Mac/Windows, Reference vector
+#  Platforms: Apple, Android, Windows
+#  Reference vector
 msgid "Show Velocity Vector"
 msgstr "显示速度向量"
 
-#  iOS
+#  Platforms: Apple
 #, c-format
 msgid "Sidereal rotation period: %@"
 msgstr "自转周期: %@"
 
-#  Android/Windows
+#  Platforms: Android, Windows
 #, c-format
 msgid "Sidereal rotation period: %s"
 msgstr "自转周期: %s"
 
-#  iOS, Size of an object
+#  Platforms: Apple
+#  Size of an object
 #, c-format
 msgid "Size: %@"
 msgstr "尺寸: %@"
 
-#  Android/Windows, Size of an object
+#  Platforms: Android, Windows
+#  Size of an object
 #, c-format
 msgid "Size: %s"
 msgstr "尺寸: %s"
 
-#  Mac, Make time go more slowly
+#  Platforms: Apple, Android
+#  Make time go more slowly
 msgid "Slower"
 msgstr "减慢"
 
-#  Android/iOS/Mac/Windows, Smooth lines for rendering
+#  Platforms: Apple, Android, Windows
+#  Smooth lines for rendering
 msgid "Smooth Lines"
 msgstr "线性平滑"
 
-#  Windows, Solar eclipses.
+#  Platforms: Windows
+#  Solar eclipses.
 msgid "Solar"
 msgstr "日食"
 
-#  Android/iOS/Mac/Windows, Tab for solar system in Star Browser
+#  Platforms: Apple, Android, Windows
+#  Tab for solar system in Star Browser
 msgid "Solar System"
 msgstr "太阳系"
 
-#  Android/iOS/Windows
+#  Platforms: Apple, Android, Windows
 msgid ""
 "Some configurations will take effect after a "
 "restart."
 msgstr "一些配置将在重启后生效。"
 
-#  Android/iOS/Mac/Windows, Plural
+#  Platforms: Apple, Android, Windows
+#  Plural
 msgid "Spacecraft"
 msgstr "航天器"
 
-#  iOS
+#  Platforms: Apple
 #, c-format
 msgid "Spectral type: %@"
 msgstr "光谱类型：%@"
 
-#  Android/Windows
+#  Platforms: Android, Windows
 #, c-format
 msgid "Spectral type: %s"
 msgstr "光谱类型：%s"
 
-#  Android/iOS, Speed control
+#  Platforms: Apple, Android
+#  Speed control
 msgid "Speed Control"
 msgstr "速度控制"
 
-#  Android/iOS, Action to show a list of presets in speed
+#  Platforms: Apple, Android
+#  Action to show a list of presets in speed
 msgid "Speed Presets"
 msgstr "预设速度"
 
-#  Mac/Windows, Split view
+#  Platforms: Apple, Windows
+#  Split view
 msgid "Split Horizontally"
 msgstr "水平分割"
 
-#  Mac/Windows, Split view
+#  Platforms: Apple, Windows
+#  Split view
 msgid "Split Vertically"
 msgstr "垂直分割"
 
-#  Android/iOS/Mac/Windows, Marker
+#  Platforms: Apple, Android
+#  Marker
 msgid "Square"
 msgstr "正方形"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Star Browser"
 msgstr "星体浏览器"
 
-#  Android/iOS/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Star Colors"
 msgstr "恒星色彩"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Star Style"
 msgstr "恒星样式"
 
-#  Mac
-msgid "Star Style:"
-msgstr "恒星样式 :"
-
-#  Android/iOS/Mac/Windows, Tab for stars in Star Browser
+#  Platforms: Apple, Android, Windows
+#  Tab for stars in Star Browser
 msgid "Stars"
 msgstr "恒星"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Stars with Planets"
 msgstr "有行星的恒星"
 
-#  Windows, Template for displaying when start time cannot be correctly formatted by the system
-msgid "Start Julian day: %.4f"
-msgstr "开始儒略日：%.4f"
-
-#  iOS, Template for displaying when start time cannot be correctly formatted by the system
-#, c-format
-msgid "Start Julian day: %@"
-msgstr "开始儒略日：%@"
-
-#  Android/Windows, Template for displaying when start time cannot be correctly formatted by the system
+#  Platforms: Windows
+#  Template for displaying when start time cannot be correctly formatted by the system
 #, c-format
 msgid "Start Julian day: %s"
 msgstr "开始儒略日：%s"
 
-#  Android/iOS, In eclipse finder, range of time to find eclipse in
+#  Platforms: Apple, Android
+#  In eclipse finder, range of time to find eclipse in
 msgid "Start Time"
 msgstr "开始时间"
 
-#  Mac/Windows, In eclipse finder, range of time to find eclipse in
+#  Platforms: Windows
+#  In eclipse finder, range of time to find eclipse in
 msgid "Start time:"
 msgstr "开始时间："
 
-#  iOS, Template for the start time of a body, usually a spacecraft
+#  Platforms: Apple
+#  Template for the start time of a body, usually a spacecraft
 #, c-format
 msgid "Start time: %@"
 msgstr "开始时间：%@"
 
-#  Android/Windows, Template for the start time of a body, usually a spacecraft
+#  Platforms: Android, Windows
+#  Template for the start time of a body, usually a spacecraft
 #, c-format
 msgid "Start time: %s"
 msgstr "开始时间：%s"
 
-#  Android/iOS/Mac, Interupt the process of finding eclipse/Set traveling speed to 0
+#  Platforms: Apple, Android, Windows
+#  Interupt the process of finding eclipse/Set traveling speed to 0
 msgid "Stop"
 msgstr "停止"
 
-#  Android/iOS, Subsystem of an object (e.g. planetarium system)
+#  Platforms: Apple, Android
+#  Subsystem of an object (e.g. planetarium system)
 msgid "Subsystem"
 msgstr "子系统"
 
-#  Android/iOS/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Suggest a Feature"
 msgstr "功能建议"
 
-#  Android/iOS
-msgid "Support Forum"
-msgstr "论坛"
-
-#  Android/iOS, Benefits of Celestia PLUS
+#  Platforms: Apple, Android
+#  Benefits of Celestia PLUS
 msgid ""
 "Support the developer community and keep the "
 "project going."
 msgstr "支持开发者团队和项目。"
 
-#  Android/iOS, Move/zoom camera FOV
+#  Platforms: Apple, Android
+#  Move/zoom camera FOV
 msgid "Switched to camera mode"
 msgstr "已切换至相机模式"
 
-#  Android/iOS, Move/zoom on an object
+#  Platforms: Apple, Android
+#  Move/zoom on an object
 msgid "Switched to object mode"
 msgstr "已切换至相对天体模式"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Sync Orbit"
 msgstr "同步轨道"
 
-#  Windows
+#  Platforms: Apple, Windows
 msgid "Sync Orbit Selection"
 msgstr "同步轨道于所选天体"
 
-#  Android/iOS
+#  Platforms: Android
 msgid "System Fonts"
 msgstr "系统字体"
 
-#  Android/iOS/Windows, Game controller action
+#  Platforms: Apple, Android, Windows
+#  Game controller action
 msgid "Tap Center"
 msgstr "点击中央"
 
-#  Android/iOS
+#  Platforms: Apple, Android
 msgid ""
 "Tap the mode button on the sidebar to switch "
 "between object mode and camera mode."
 msgstr "轻按边栏的模式按钮以在相对天体模式和相机模式之间切换。"
 
-#  Android/iOS/Windows, Used in Flight Mode
+#  Platforms: Apple, Android, Windows
+#  Used in Flight Mode
 msgid "Target Object"
 msgstr "目标天体"
 
-#  Android/iOS/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Temperature Scale"
 msgstr "温度单位"
 
-#  Mac
-msgid "Temperature Scale:"
-msgstr "温度单位："
-
-#  Android/iOS/Mac/Windows, Location labels
+#  Platforms: Apple, Android, Windows
+#  Location labels
 msgid "Terrae (Land masses)"
 msgstr "陆地"
 
-#  Android/iOS/Mac/Windows, Terse HUD display
+#  Platforms: Apple, Android, Windows
+#  Terse HUD display
 msgid "Terse"
 msgstr "简单"
 
-#  Android/iOS/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Texture Resolution"
 msgstr "纹理分辨率"
 
-#  Mac
-msgid "Texture Resolution:"
-msgstr "纹理分辨率："
-
-#  Android/iOS, URL for Third Party Dependencies wiki
+#  Platforms: Apple, Android
+#  URL for Third Party Dependencies wiki
 msgid "Third Party Dependencies"
 msgstr "第三方依赖"
 
-#  Android/iOS
+#  Platforms: Android
+msgid "This feature is not supported."
+msgstr ""
+
+#  Platforms: Apple, Android
 msgid ""
 "This feature is only available to Celestia PLUS "
 "users."
 msgstr "需要开通 Celestia PLUS 使用此功能"
 
-#  Android/iOS/Windows, Settings for game controller thumbsticks
+#  Platforms: Apple, Android, Windows
+#  Settings for game controller thumbsticks
 msgid "Thumbsticks"
 msgstr "摇杆"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Windows
 msgid "Time"
 msgstr "时间"
 
-#  Android/iOS/Windows, time and region related settings
+#  Platforms: Apple, Android, Windows
+#  time and region related settings
 msgid "Time & Region"
 msgstr "时间和区域"
 
-#  Android/iOS
+#  Platforms: Apple, Android
 msgid "Time Control"
 msgstr "时间控制"
 
-#  Android/iOS/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Time Zone"
 msgstr "时区"
 
-#  Mac
-msgid "Time Zone:"
-msgstr "时区："
-
-#  Mac, Set simulation time based on Julian date
-msgid "Time:"
-msgstr "时间："
-
-#  Mac
-msgid "Tinted Illumination"
-msgstr "有色照明"
-
-#  Android/iOS/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Tinted Illumination Saturation"
 msgstr "有色照明饱和度"
 
-#  Android/iOS/Windows
+#  Platforms: Apple, Android, Windows
 msgid ""
 "Tinted illumination saturation setting is only "
 "effective with Blackbody star colors."
 msgstr "有色照明饱和度设置仅在黑体 D65 恒星色彩时生效。"
 
-#  Android/iOS, Toggle console log display on overlay
+#  Platforms: Apple, Android
+#  Toggle console log display on overlay
 msgid "Toggle Console Display"
 msgstr "切换控制台输出显示"
 
-#  Android/iOS, Toggle FPS display on overlay
+#  Platforms: Apple, Android
+#  Toggle FPS display on overlay
 msgid "Toggle FPS Display"
 msgstr "切换FPS显示"
 
-#  Windows
+#  Platforms: Windows
 msgid "Toggle Fullscreen"
 msgstr "切换全屏显示"
 
-#  Android/iOS, Touch interaction mode
+#  Platforms: Apple, Android
+#  Touch interaction mode
 msgid "Toggle Interaction Mode"
 msgstr "切换交互模式"
 
-#  Android/iOS, Toolbar customization entry in Settings
+#  Platforms: Apple, Android
+#  Toolbar customization entry in Settings
 msgid "Toolbar"
 msgstr "工具栏"
 
-#  Windows, Tools menu title
+#  Platforms: Apple, Windows
+#  Tools menu title
 msgid "Tools"
 msgstr "工具"
 
-#  Windows
+#  Platforms: Windows
 msgid "Tour Guide"
 msgstr "向导"
 
-#  Android/iOS/Mac/Windows, Track an object
+#  Platforms: Apple, Windows
+#  Track an object
 msgid "Track"
 msgstr "保持居中"
 
-#  Mac/Windows, Track selected object
+#  Platforms: Apple, Windows
+#  Track selected object
 msgid "Track Selection"
 msgstr "保持居中"
 
-#  Android/iOS, Translators for Celestia
+#  Platforms: Apple, Android
+#  Translators for Celestia
 msgid "Translators"
 msgstr "翻译"
 
-#  Windows, Translators for Celestia
+#  Platforms: Windows
+#  Translators for Celestia
 msgid "Translators:"
 msgstr "翻译："
 
-#  Mac, Travel menu
-msgid "Travel"
-msgstr "移动"
-
-#  Android/iOS/Windows, Game controller action
+#  Platforms: Apple, Android, Windows
+#  Game controller action
 msgid "Travel Faster"
 msgstr "加快速度"
 
-#  Android/iOS/Windows, Game controller action
+#  Platforms: Apple, Android, Windows
+#  Game controller action
 msgid "Travel Slower"
 msgstr "减慢速度"
 
-#  Android/iOS/Mac/Windows, Marker
+#  Platforms: Apple, Android, Windows
+#  Marker
 msgid "Triangle"
 msgstr "三角形"
 
-#  Android/iOS
+#  Platforms: Apple
 msgid "Tutorial"
 msgstr "教程"
 
-#  Mac, Type of a star
-msgid "Type"
-msgstr "类型"
-
-#  Mac
-msgid "Unable to capture video"
-msgstr "无法录制视频"
-
-#  Android/iOS, Failed to generate an image for sharing
+#  Platforms: Android
+#  Failed to generate an image for sharing
 msgid "Unable to generate image."
 msgstr "无法生成图片。"
 
-#  Android, Custom config/data directory path have to be under a specific path
+#  Platforms: Android
+#  Custom config/data directory path have to be under a specific path
 msgid "Unable to resolve path"
 msgstr "无法获取路径"
 
-#  Android/iOS
+#  Platforms: Apple, Android
 msgid "Unable to uninstall add-on."
 msgstr "无法卸载插件。"
 
-#  Android/iOS/Windows, Uninstall an add-on
+#  Platforms: Apple, Android, Windows
+#  Uninstall an add-on
 msgid "Uninstall"
 msgstr "卸载"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "Unknown"
 msgstr "未知"
 
-#  iOS/Android
+#  Platforms: Android
 msgid "Unknown error"
 msgstr "未知错误"
 
-#  Android/iOS/Mac/Windows, Unmark an object
+#  Platforms: Apple, Android, Windows
+#  Unmark an object
 msgid "Unmark"
 msgstr "取消标记"
 
-#  Android/iOS, Unmark all objects
+#  Platforms: Apple, Android
+#  Unmark all objects
 msgid "Unmark All"
 msgstr "取消所有标记"
 
-#  Android/iOS, String not in correct format
+#  Platforms: Apple, Android
+#  String not in correct format
 msgid "Unrecognized time string."
 msgstr "无法识别字符串。"
 
-#  Android
+#  Platforms: Android
 msgid "Unsupported action."
 msgstr "不支持的操作。"
 
-#  Mac, Default name for a newly created folder
-msgid "Untitled"
-msgstr "未命名"
-
-#  Mac, Pitch angle up
-msgid "Up"
-msgstr "上"
-
-#  Android/iOS/Mac/Windows, Marker
+#  Platforms: Apple, Android, Windows
+#  Marker
 msgid "Up Arrow"
 msgstr "上箭头"
 
-#  iOS, Upgrade subscription service
+#  Platforms: Apple, Android
+#  Upgrade subscription service
 msgid "Upgrade"
 msgstr "升级"
 
-#  Android/iOS, Sharing option, URL
+#  Platforms: Apple, Android
+#  Sharing option, URL
 msgid "URL"
 msgstr "URL"
 
-#  Android/iOS, URL for Use Add-ons and Scripts wiki
+#  Platforms: Apple, Android
+#  URL for Use Add-ons and Scripts wiki
 msgid "Use Add-ons and Scripts"
 msgstr "使用插件和脚本"
 
-#  Windows
-msgid "User Guide"
-msgstr "用户向导"
-
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "UTC"
 msgstr "UTC"
 
-#  Android/iOS/Mac/Windows
+#  Platforms: Apple, Android, Windows
 msgid "UTC Offset"
 msgstr "UTC偏移"
 
-#  Android/iOS/Mac/Windows, Location labels
+#  Platforms: Apple, Android, Windows
+#  Location labels
 msgid "Valles (Valleys)"
 msgstr "峡谷"
 
-#  Mac, Menu for velocity of traveling
-msgid "Velocity"
-msgstr "速度"
-
-#  Android/iOS/Mac/Windows, Verbose HUD display
+#  Platforms: Apple, Android, Windows
+#  Verbose HUD display
 msgid "Verbose"
 msgstr "详细"
 
-#  Android/iOS
+#  Platforms: Apple, Android
 msgid "Version"
 msgstr "版本"
 
-#  Mac/Windows, Menu for split views
+#  Platforms: Windows
+#  Menu for split views
 msgid "Views"
 msgstr "视图"
 
-#  Android/iOS/Mac/Windows, Location labels
+#  Platforms: Apple, Android, Windows
+#  Location labels
 msgid "Volcanoes"
 msgstr "火山"
 
-#  Android
+#  Platforms: Android
 msgid "We are processing your purchase"
 msgstr "我们正在处理您的购买"
 
-#  Android/iOS, Error loading the subscription page
+#  Platforms: Apple, Android
+#  Error loading the subscription page
 msgid "We encountered an error."
 msgstr "我们遇到了一个错误"
 
-#  Android/iOS/Windows, Web info for an object
+#  Platforms: Apple, Android
+#  Web info for an object
 msgid "Web Info"
 msgstr "在线信息"
 
-#  Android, WebView component is missing or disabled
+#  Platforms: Android, Windows
+#  WebView component is missing or disabled
 msgid "WebView is not available."
 msgstr "WebView 不可用。"
 
-#  Android/iOS, Welcome message
+#  Platforms: Apple, Android
+#  Welcome message
 msgid "Welcome to Celestia"
 msgstr "欢迎使用Celestia"
 
-#  Windows
+#  Platforms: Windows
 msgid ""
 "Welcome to Celestia. To learn more about using "
 "Celestia on Xbox, please visit here."
 msgstr "欢迎来到 Celestia。了解更多 Xbox 版本 Celestia 使用方式，请前往这里。"
 
-#  Mac, System menu, window management
-msgid "Window"
-msgstr "窗口"
-
-#  Android/iOS/Mac/Windows, Marker
+#  Platforms: Apple, Android, Windows
+#  Marker
 msgid "X"
 msgstr "X"
 
-#  Android/iOS/Windows, Game controller button
+#  Platforms: Apple, Android, Windows
+#  Game controller button
 msgid "X / Square"
 msgstr "X / 方形"
 
-#  Android/iOS/Windows, Game controller button
+#  Platforms: Apple, Android, Windows
+#  Game controller button
 msgid "Y / Triangle"
 msgstr "Y / 三角形"
 
-#  Android/iOS/Mac, Camera control
+#  Platforms: Apple, Android
+#  Camera control
 msgid "Yaw"
 msgstr "Yaw"
 
-#  Android/iOS/Windows, Game controller action
+#  Platforms: Apple, Android, Windows
+#  Game controller action
 msgid "Yaw Left"
 msgstr "Yaw Left"
 
-#  Android/iOS/Windows, Game controller action
+#  Platforms: Apple, Android, Windows
+#  Game controller action
 msgid "Yaw Right"
 msgstr "Yaw Right"
 
-#  Android/iOS, Yearly subscription
+#  Platforms: Apple, Android
+#  Yearly subscription
 msgid "Yearly"
 msgstr "包年"
 
-#  Android/iOS
+#  Platforms: Apple, Android
 msgid "Your purchase is pending"
 msgstr "正在等待您的付款"
 
-#  Android/iOS, Zoom in/out on FOV/object  Mac, System menu item, Zoom a window
-msgid "Zoom"
-msgstr "缩放"
+#  Platforms: Apple, Android, Windows
+msgid "YYYY MMM DD HH:MM:SS TZ"
+msgstr ""
 
-#  Android/iOS, Zoom in/out in Camera Control, this changes the relative distance to the object
+#  Platforms: Apple, Android
+#  Zoom in/out in Camera Control, this changes the relative distance to the object
 msgid "Zoom (Distance)"
 msgstr "缩放（距离）"
 
-#  Android/iOS
+#  Platforms: Apple, Android
 msgid "Zoom In"
 msgstr "放大"
 
-#  Android/iOS
+#  Platforms: Apple, Android
 msgid "Zoom Out"
 msgstr "缩小"
 
-#  Android/iOS/Windows
+#  Platforms: Apple, Android, Windows
 msgid ""
 "Zooming behavior keeping the original focus "
 "location on screen"
