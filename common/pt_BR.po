@@ -166,6 +166,13 @@ msgstr ""
 msgid "Add-on directory does not exist."
 msgstr ""
 
+#  Platforms: Apple
+#  Description for Pinch Zoom setting
+msgid ""
+"Adjust view with pinch gestures by changing FOV "
+"or distance"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 #  Advanced setting items
 msgid "Advanced"
@@ -616,6 +623,12 @@ msgid "Distance"
 msgstr ""
 
 #  Platforms: Apple
+#  Pinch zoom setting option
+msgctxt "Pinch Zoom"
+msgid "Distance"
+msgstr ""
+
+#  Platforms: Apple
 msgid "Distance Unit"
 msgstr ""
 
@@ -626,10 +639,6 @@ msgstr ""
 
 #  Platforms: Apple, Android
 msgid "Do you want to uninstall this add-on?"
-msgstr ""
-
-#  Platforms: Windows
-msgid "Don't show this message again"
 msgstr ""
 
 #  Platforms: Apple
@@ -857,6 +866,12 @@ msgstr "Seguir a Selecção"
 msgid "Font"
 msgstr ""
 
+#  Platforms: Apple
+#  Pinch zoom setting option
+msgctxt "Pinch Zoom"
+msgid "FOV"
+msgstr ""
+
 #  Platforms: Apple, Android
 #  Frame rate of simulation
 msgid "Frame Rate"
@@ -976,10 +991,6 @@ msgstr "Possui anéis"
 #  Platforms: Apple, Windows
 msgid "Help"
 msgstr "Ajuda"
-
-#  Platforms: Windows
-msgid "here"
-msgstr ""
 
 #  Platforms: Apple, Android
 #  Action to hide the tool overlay
@@ -1475,6 +1486,11 @@ msgstr ""
 #  Platforms: Windows
 #  Select time via picker
 msgid "Picker"
+msgstr ""
+
+#  Platforms: Apple
+#  Settings for whether to pinch to zoom by FOV or by distance
+msgid "Pinch Zoom"
 msgstr ""
 
 #  Platforms: Apple, Android
@@ -2388,12 +2404,6 @@ msgstr ""
 #  Welcome message
 msgid "Welcome to Celestia"
 msgstr "Bem-vindo ao Celestia"
-
-#  Platforms: Windows
-msgid ""
-"Welcome to Celestia. To learn more about using "
-"Celestia on Xbox, please visit here."
-msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Marker

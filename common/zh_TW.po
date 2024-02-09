@@ -165,6 +165,13 @@ msgstr "新增按鈕"
 msgid "Add-on directory does not exist."
 msgstr "外掛資料夾不存在。"
 
+#  Platforms: Apple
+#  Description for Pinch Zoom setting
+msgid ""
+"Adjust view with pinch gestures by changing FOV "
+"or distance"
+msgstr "使用捏拉手勢調整視場角或距離"
+
 #  Platforms: Apple, Android, Windows
 #  Advanced setting items
 msgid "Advanced"
@@ -613,6 +620,12 @@ msgid "Distance"
 msgstr "距離"
 
 #  Platforms: Apple
+#  Pinch zoom setting option
+msgctxt "Pinch Zoom"
+msgid "Distance"
+msgstr "距離"
+
+#  Platforms: Apple
 msgid "Distance Unit"
 msgstr "距離單位"
 
@@ -624,10 +637,6 @@ msgstr "您是否希望取消該任務？"
 #  Platforms: Apple, Android
 msgid "Do you want to uninstall this add-on?"
 msgstr "您是否希望解除安裝該外掛？"
-
-#  Platforms: Windows
-msgid "Don't show this message again"
-msgstr "不要再顯示這條資訊"
 
 #  Platforms: Apple
 #  Exit edit mode
@@ -852,6 +861,12 @@ msgstr "跟隨選取星體"
 msgid "Font"
 msgstr "字型"
 
+#  Platforms: Apple
+#  Pinch zoom setting option
+msgctxt "Pinch Zoom"
+msgid "FOV"
+msgstr "視場角"
+
 #  Platforms: Apple, Android
 #  Frame rate of simulation
 msgid "Frame Rate"
@@ -971,10 +986,6 @@ msgstr "存在星環"
 #  Platforms: Apple, Windows
 msgid "Help"
 msgstr "說明"
-
-#  Platforms: Windows
-msgid "here"
-msgstr "這裡"
 
 #  Platforms: Apple, Android
 #  Action to hide the tool overlay
@@ -1467,6 +1478,11 @@ msgstr "相位鎖定"
 #  Select time via picker
 msgid "Picker"
 msgstr "選擇器"
+
+#  Platforms: Apple
+#  Settings for whether to pinch to zoom by FOV or by distance
+msgid "Pinch Zoom"
+msgstr "捏拉縮放"
 
 #  Platforms: Apple, Android
 #  Camera control
@@ -2379,12 +2395,6 @@ msgstr "WebView 不可用。"
 #  Welcome message
 msgid "Welcome to Celestia"
 msgstr "歡迎使用Celestia"
-
-#  Platforms: Windows
-msgid ""
-"Welcome to Celestia. To learn more about using "
-"Celestia on Xbox, please visit here."
-msgstr "歡迎來到 Celestia。瞭解更多 Xbox 版本 Celestia 使用方式，請前往這裡。"
 
 #  Platforms: Apple, Android, Windows
 #  Marker

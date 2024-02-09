@@ -164,6 +164,13 @@ msgstr ""
 msgid "Add-on directory does not exist."
 msgstr "Папка для дополнений отсутствует."
 
+#  Platforms: Apple
+#  Description for Pinch Zoom setting
+msgid ""
+"Adjust view with pinch gestures by changing FOV "
+"or distance"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 #  Advanced setting items
 msgid "Advanced"
@@ -614,6 +621,12 @@ msgid "Distance"
 msgstr "Расстояние"
 
 #  Platforms: Apple
+#  Pinch zoom setting option
+msgctxt "Pinch Zoom"
+msgid "Distance"
+msgstr "Расстояние"
+
+#  Platforms: Apple
 msgid "Distance Unit"
 msgstr ""
 
@@ -625,10 +638,6 @@ msgstr "Вы хотите прервать загрузку?"
 #  Platforms: Apple, Android
 msgid "Do you want to uninstall this add-on?"
 msgstr "Вы хотите удалить это дополнение?"
-
-#  Platforms: Windows
-msgid "Don't show this message again"
-msgstr "Не показывать это сообщение снова"
 
 #  Platforms: Apple
 #  Exit edit mode
@@ -859,6 +868,12 @@ msgstr "Наблюдение"
 msgid "Font"
 msgstr ""
 
+#  Platforms: Apple
+#  Pinch zoom setting option
+msgctxt "Pinch Zoom"
+msgid "FOV"
+msgstr ""
+
 #  Platforms: Apple, Android
 #  Frame rate of simulation
 msgid "Frame Rate"
@@ -978,10 +993,6 @@ msgstr "Есть кольца"
 #  Platforms: Apple, Windows
 msgid "Help"
 msgstr "Справка"
-
-#  Platforms: Windows
-msgid "here"
-msgstr "сюда"
 
 #  Platforms: Apple, Android
 #  Action to hide the tool overlay
@@ -1475,6 +1486,11 @@ msgstr "Блокировка фазы"
 #  Platforms: Windows
 #  Select time via picker
 msgid "Picker"
+msgstr ""
+
+#  Platforms: Apple
+#  Settings for whether to pinch to zoom by FOV or by distance
+msgid "Pinch Zoom"
 msgstr ""
 
 #  Platforms: Apple, Android
@@ -2397,14 +2413,6 @@ msgstr "WebView недоступен"
 #  Welcome message
 msgid "Welcome to Celestia"
 msgstr "Добро пожаловать в Celestia"
-
-#  Platforms: Windows
-msgid ""
-"Welcome to Celestia. To learn more about using "
-"Celestia on Xbox, please visit here."
-msgstr ""
-"Добро пожаловать в Celestia. Чтобы узнать больше "
-"об использовании Celestia на Xbox, перейдите сюда."
 
 #  Platforms: Apple, Android, Windows
 #  Marker
