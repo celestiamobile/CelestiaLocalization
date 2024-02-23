@@ -37,7 +37,7 @@
 
 "FRONT_PAGE_WELCOME_MESSAGE" = "Добро пожаловать в Celestia";
 "FRONT_PAGE_TITLE" = "Celestia";
-"FRONT_PAGE_DESCRIPTION_MESSAGE" = "Celestia — это космический симулятор в реальном времени.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE" = "Celestia — космический симулятор в реальном времени.";
 "DOWNLOAD_AVAILABILITY_TEMPLATE" = "Celestia доступна на %@, %@, %@, %@, %@, %@, %@, %@.";
 "DOWNLOAD_PLATFORM_IOS" = "iOS";
 "DOWNLOAD_PLATFORM_IOS_TESTFLIGHT" = "iOS (TestFlight)";
@@ -50,20 +50,20 @@
 
 "PAGE_DESCRIPTION_DEFAULT" = "Получить Celestia";
 
-"FRONT_PAGE_PROMOTION_TEMPLATE" = "Хотите продвигать свои творения? Отправьте %@ свою работу.";
+"FRONT_PAGE_PROMOTION_TEMPLATE" = "Хотите распространить своё творение? Отправьте %@ свою работу.";
 "FRONT_PAGE_PROMOTION_LINK_TEXT" = "сюда";
 
 "COMMON_TRANSLATE_THIS_PAGE_TEMPLATE" = "Вы можете помочь нам перевести эту страницу %@.";
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "здесь";
 
-"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Most Viewed";
-"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Recently Published";
-"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Recently Updated";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Самые просматриваемые";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Недавно опубликованные";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Недавно обновлённые";
 
-"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_DESCRIPTION" = "Here is a list of add-ons that are most viewed.";
-"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_DESCRIPTION" = "Here is a list of add-ons that are recently published.";
-"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_DESCRIPTION" = "Here is a list of add-ons that are recently updated.";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_DESCRIPTION" = "Здесь представлен список самых просматриваемых дополнений.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_DESCRIPTION" = "Здесь представлен список недавно опубликованных дополнений.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_DESCRIPTION" = "Здесь представлен список недавно обновлённых дополнений.";
 
 "CELESTIA_PLUS_LABEL" = "PLUS";
 
-"COMMON_SEARCH_PLACEHOLDER" = "Search…";
+"COMMON_SEARCH_PLACEHOLDER" = "Поиск…";
