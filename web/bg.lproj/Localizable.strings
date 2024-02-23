@@ -56,14 +56,14 @@
 "COMMON_TRANSLATE_THIS_PAGE_TEMPLATE" = "Искате ли да преведете тази страница? Натиснете %@.";
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "тук";
 
-"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Most Viewed";
-"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Recently Published";
-"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Recently Updated";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Популярни";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Нови";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Обновени";
 
-"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_DESCRIPTION" = "Here is a list of add-ons that are most viewed.";
-"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_DESCRIPTION" = "Here is a list of add-ons that are recently published.";
-"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_DESCRIPTION" = "Here is a list of add-ons that are recently updated.";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_DESCRIPTION" = "Това е списък с популярните добавки.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_DESCRIPTION" = "Това е списък с новите добавки.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_DESCRIPTION" = "Това е списък с обновените добавки.";
 
-"CELESTIA_PLUS_LABEL" = "PLUS";
+"CELESTIA_PLUS_LABEL" = "ПЛЮС";
 
-"COMMON_SEARCH_PLACEHOLDER" = "Search…";
+"COMMON_SEARCH_PLACEHOLDER" = "Търсене…";
