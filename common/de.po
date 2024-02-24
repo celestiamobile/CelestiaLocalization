@@ -618,13 +618,13 @@ msgstr "Anzeige"
 #  Platforms: Apple, Android, Windows
 #  Distance to the object (in Go to)
 msgid "Distance"
-msgstr ""
+msgstr "Entfernung"
 
 #  Platforms: Apple
 #  Pinch zoom setting option
 msgctxt "Pinch Zoom"
 msgid "Distance"
-msgstr ""
+msgstr "Entfernung"
 
 #  Platforms: Apple
 msgid "Distance Unit"
@@ -1299,7 +1299,7 @@ msgstr "Kleine Monde"
 
 #  Platforms: Windows
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Verschiedenes"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -1379,7 +1379,7 @@ msgstr "Keine Information"
 #  Platforms: Apple, Android
 #  Normal font style
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #  Platforms: Apple, Android
 #  In eclipse finder, object to find eclipse with, or in go to
@@ -1398,7 +1398,7 @@ msgstr ""
 
 #  Platforms: Windows
 msgid "Object Name"
-msgstr ""
+msgstr "Objektname"
 
 #  Platforms: Windows
 msgid "Object name:"
