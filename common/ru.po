@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: celestia 1.7.0\n"
 "Report-Msgid-Bugs-To: team@celestia.space\n"
 "POT-Creation-Date: 2020-04-15 20:22+0800\n"
-"PO-Revision-Date: 2023-07-25 12:00+0300\n"
+"PO-Revision-Date: 2024-02-23 20:42+0300\n"
 "Last-Translator: Askaniy Anpilogov <askaniy1625@gmail.com>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -31,7 +31,7 @@ msgstr "%@ FPS"
 #  Unit foot
 #, c-format
 msgid "%@ ft"
-msgstr "%@ фут(ов)"
+msgstr "%@ (в футах)"
 
 #  Platforms: Apple
 #, c-format
@@ -54,7 +54,7 @@ msgstr "%@ м"
 #  Unit mile
 #, c-format
 msgid "%@ mi"
-msgstr "%@ миль"
+msgstr "%@ (в милях)"
 
 #  Platforms: Android, Windows
 #, c-format
@@ -70,7 +70,7 @@ msgstr "%s FPS"
 #  Unit foot
 #, c-format
 msgid "%s ft"
-msgstr "%s фут(ов)"
+msgstr "%s (в футах)"
 
 #  Platforms: Android, Windows
 #, c-format
@@ -93,7 +93,7 @@ msgstr "%s м"
 #  Unit mile
 #, c-format
 msgid "%s mi"
-msgstr "%s миль"
+msgstr "%s (в милях)"
 
 #  Platforms: Apple, Android
 #  Speed unit
@@ -158,7 +158,7 @@ msgstr "Добавить закладку"
 #  Platforms: Android
 #  Accessibility description for an add button
 msgid "Add Button"
-msgstr ""
+msgstr "Добавить кнопку"
 
 #  Platforms: Apple
 msgid "Add-on directory does not exist."
@@ -170,6 +170,8 @@ msgid ""
 "Adjust view with pinch gestures by changing FOV "
 "or distance"
 msgstr ""
+"Настройте вид щипком двумя пальцами, меняя "
+"поле зрения или расстояние"
 
 #  Platforms: Apple, Android, Windows
 #  Advanced setting items
@@ -261,12 +263,12 @@ msgstr "Назад"
 #  Platforms: Apple, Android, Windows
 #  Star colors option
 msgid "Blackbody (Solar Whitepoint)"
-msgstr ""
+msgstr "Чёрнотельные (точка белого по Солнцу)"
 
 #  Platforms: Apple, Android, Windows
 #  Star colors option
 msgid "Blackbody (Vega Whitepoint)"
-msgstr ""
+msgstr "Чёрнотельные (точка белого по Веге)"
 
 #  Platforms: Apple, Android, Windows
 #  Star colors option
@@ -276,7 +278,7 @@ msgstr "Чёрнотельные D65"
 #  Platforms: Apple, Android
 #  Bold font style
 msgid "Bold"
-msgstr ""
+msgstr "Жирный"
 
 #  Platforms: Windows
 msgid "Bookmark Organizer"
@@ -330,7 +332,7 @@ msgstr "Отмена"
 
 #  Platforms: Apple, Android
 msgid "Cancel Script"
-msgstr ""
+msgstr "Остановить сценарий"
 
 #  Platforms: Apple, Android
 #  Failed to add a favorite item (currently a bookmark)
@@ -354,11 +356,11 @@ msgstr "Помощь по Celestia"
 #  Platforms: Apple, Android
 #  Name for the subscription service
 msgid "Celestia PLUS"
-msgstr ""
+msgstr "Celestia PLUS"
 
 #  Platforms: Windows
 msgid "Celestia Screenshot"
-msgstr ""
+msgstr "Снимок экрана Celestia"
 
 #  Platforms: Apple, Android, Windows
 #  Temperature scale
@@ -378,7 +380,7 @@ msgstr "Центрировать выделенное"
 #  Platforms: Android
 #  Change subscription service
 msgid "Change"
-msgstr ""
+msgstr "Сменить"
 
 #  Platforms: Apple, Android, Windows
 msgid "Chase"
@@ -386,7 +388,7 @@ msgstr "Следовать"
 
 #  Platforms: Apple, Android
 msgid "Choose one of the plans below to get Celestia PLUS"
-msgstr ""
+msgstr "Выберите один из планов подписки Celestia PLUS"
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -439,7 +441,7 @@ msgstr "Конфигурация вступит в силу после пере�
 
 #  Platforms: Apple, Android
 msgid "Congratulations, you are a Celestia PLUS user"
-msgstr ""
+msgstr "Поздравляем, вы — пользователь Celestia PLUS"
 
 #  Platforms: Apple, Android, Windows
 msgid "Constellations"
@@ -448,12 +450,12 @@ msgstr "Созвездия"
 #  Platforms: Apple, Android
 #  Settings for whether context menu is enabled
 msgid "Context Menu"
-msgstr ""
+msgstr "Контекстное меню"
 
 #  Platforms: Apple, Android
 #  Description for how a context menu is triggered
 msgid "Context menu by long press or context click"
-msgstr ""
+msgstr "Контекстное меню при долгом нажатии или контекстном клике"
 
 #  Platforms: Apple, Android
 #  Used in Flight Mode
@@ -487,7 +489,7 @@ msgstr "Кратеры"
 
 #  Platforms: Apple, Android
 msgid "Create a new bookmark with \"+\" button"
-msgstr ""
+msgstr "Создайте новую закладку с помощью кнопки «+»"
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -510,7 +512,7 @@ msgstr "Вручную"
 #  Platforms: Apple, Android
 #  Benefits of Celestia PLUS
 msgid "Customize the visual appearance of Celestia."
-msgstr ""
+msgstr "Настройте внешний вид Celestia."
 
 #  Platforms: Apple, Android, Windows
 #  Game controller button
@@ -628,7 +630,7 @@ msgstr "Расстояние"
 
 #  Platforms: Apple
 msgid "Distance Unit"
-msgstr ""
+msgstr "Единица расстояния"
 
 #  Platforms: Apple, Android
 #  Prompt to ask to cancel downloading an add-on
@@ -652,18 +654,20 @@ msgstr "Стрелка вниз"
 #  Platforms: Apple, Android
 #  Downgrade subscription service
 msgid "Downgrade"
-msgstr ""
+msgstr "Отменить подписку"
 
 #  Platforms: Android
 #  Accessibility description for the drag handle for reorder
 msgid "Drag Handle"
-msgstr ""
+msgstr "Перетащите за ручку"
 
 #  Platforms: Apple, Android, Windows
 msgid ""
 "Dragging behavior based on change of pick rays "
 "instead of screen coordinates"
 msgstr ""
+"Перетаскивание, отслеживающее точки под выпущенными лучами "
+"вместо координат на экране"
 
 #  Platforms: Apple, Android, Windows
 #  Tab for deep sky objects in Star Browser
@@ -700,7 +704,7 @@ msgstr "Редактировать"
 #  Template for displaying when end time cannot be correctly formatted by the system
 #, c-format
 msgid "End Julian day: %s"
-msgstr ""
+msgstr "До юлианской даты: %s"
 
 #  Platforms: Apple, Android
 #  In eclipse finder, range of time to find eclipse in
@@ -726,11 +730,11 @@ msgstr "До: %s"
 
 #  Platforms: Apple
 msgid "End User License Agreements (EULA)"
-msgstr ""
+msgstr "Пользовательское соглашение"
 
 #  Platforms: Apple, Android, Windows
 msgid "Enhance Celestia with online add-ons"
-msgstr ""
+msgstr "Расширьте Celestia дополнениями из сети"
 
 #  Platforms: Apple, Android, Windows
 #  Grids
@@ -776,7 +780,7 @@ msgstr "Фаренгейта"
 
 #  Platforms: Windows
 msgid "Failed in capturing screenshot."
-msgstr ""
+msgstr "Не удалось сделать снимок экрана."
 
 #  Platforms: Apple
 msgid "Failed to connect to the external screen."
@@ -784,9 +788,7 @@ msgstr "Не удалось подключиться к внешнему экр�
 
 #  Platforms: Android
 msgid "Failed to download or install this add-on."
-msgstr ""
-"Не удалось загрузить или установить это "
-"дополнение."
+msgstr "Не удалось загрузить или установить это дополнение."
 
 #  Platforms: Apple, Android, Windows
 #  Control the faintest star that Celestia should display
@@ -829,11 +831,11 @@ msgstr "Найти"
 
 #  Platforms: Windows
 msgid "Find eclipses for an object in a time range"
-msgstr ""
+msgstr "Найти затмения для объекта в промежутке времени"
 
 #  Platforms: Apple, Android
 msgid "Find stars, DSOs, and nearby objects"
-msgstr ""
+msgstr "Поиск близких объектов, звёзд и объектов глубокого космоса"
 
 #  Platforms: Apple, Android, Windows
 msgid "Flight Mode"
@@ -849,7 +851,7 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Focus Zooming"
-msgstr ""
+msgstr "Фокусировать приближаемое"
 
 #  Platforms: Windows
 #  Enter name for new created folder
@@ -866,13 +868,13 @@ msgstr "Наблюдение"
 
 #  Platforms: Apple, Android
 msgid "Font"
-msgstr ""
+msgstr "Шрифт"
 
 #  Platforms: Apple
 #  Pinch zoom setting option
 msgctxt "Pinch Zoom"
 msgid "FOV"
-msgstr ""
+msgstr "Поле зрения"
 
 #  Platforms: Apple, Android
 #  Frame rate of simulation
@@ -932,7 +934,7 @@ msgstr "Игровой контроллер"
 #  Platforms: Apple, Android
 #  Purchase subscription service
 msgid "Get"
-msgstr ""
+msgstr "Получить"
 
 #  Platforms: Apple, Android, Windows
 #  Open webpage for downloading add-ons
@@ -941,7 +943,7 @@ msgstr "Скачать дополнения"
 
 #  Platforms: Apple, Android
 msgid "Get Celestia PLUS"
-msgstr ""
+msgstr "Получить Celestia PLUS"
 
 #  Platforms: Apple, Android, Windows
 #  Action for getting info about current selected object
@@ -951,7 +953,7 @@ msgstr "Информация"
 #  Platforms: Apple, Android
 #  Benefits of Celestia PLUS
 msgid "Get latest add-ons, updates, and trending add-ons."
-msgstr ""
+msgstr "Получайте актуальные дополнения и обновления."
 
 #  Platforms: Apple, Android, Windows
 msgid "Globulars"
@@ -1035,8 +1037,7 @@ msgid ""
 "\n"
 "Pinch to zoom in/out field of view."
 msgstr ""
-"В режиме работы с камерой проведите пальцем для "
-"смещения поля зрения.\n"
+"В режиме работы с камерой проведите пальцем для смещения поля зрения.\n"
 "\n"
 "Щипок пальцами увеличит/уменьшит поле зрения."
 
@@ -1046,8 +1047,7 @@ msgid ""
 "\n"
 "Pinch to zoom in/out on an object."
 msgstr ""
-"В режиме работы с объектом проведите пальцем для "
-"вращения.\n"
+"В режиме работы с объектом проведите пальцем для вращения.\n"
 "\n"
 "Щипок пальцами приблизит/отдалит объект."
 
@@ -1074,12 +1074,12 @@ msgstr "Управление установленными дополнениям
 #  Platforms: Apple, Android, Windows
 #  Settings for interaction
 msgid "Interaction"
-msgstr ""
+msgstr "Взаимодействие"
 
 #  Platforms: Apple, Android, Windows
 #  The input of julian day is not valid
 msgid "Invalid Julian day string."
-msgstr ""
+msgstr "Недопустимая строка юлианской даты."
 
 #  Platforms: Apple, Android, Windows
 #  Invert game controller thumbstick axis horizontally
@@ -1094,7 +1094,7 @@ msgstr "Вертикальная инверсия"
 #  Platforms: Apple, Android, Windows
 #  Select time via entering Julian day
 msgid "Julian Day"
-msgstr ""
+msgstr "Юлианская дата"
 
 #  Platforms: Apple, Android, Windows
 #  Temperature scale
@@ -1208,7 +1208,7 @@ msgstr "Удерживайте кнопки для вращения камеры
 
 #  Platforms: Apple, Android
 msgid "Long press on stepper to zoom in/out."
-msgstr ""
+msgstr "Удерживайте кнопки для приближения/отдаления."
 
 #  Platforms: Apple, Android, Windows
 #  Coordinates
@@ -1228,7 +1228,7 @@ msgstr "LT / L2"
 #  Platforms: Apple, Android, Windows
 #  Note for Script System Access Policy
 msgid "Lua scripts' access to the file system"
-msgstr ""
+msgstr "Доступ сценариев Lua к файловой системе"
 
 #  Platforms: Windows
 #  Lunar eclipses.
@@ -1242,7 +1242,7 @@ msgstr "Управление дополнениями"
 
 #  Platforms: Android
 msgid "Manage Subscription"
-msgstr ""
+msgstr "Управление подпиской"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -1309,7 +1309,7 @@ msgstr "Горы"
 #  Platforms: Apple, Android
 #  Monthly subscription
 msgid "Monthly"
-msgstr ""
+msgstr "Месяц"
 
 #  Platforms: Apple, Android, Windows
 msgid "Moons"
@@ -1379,7 +1379,7 @@ msgstr "Нет"
 #  Platforms: Apple, Android
 #  Normal font style
 msgid "Normal"
-msgstr ""
+msgstr "Нормальный"
 
 #  Platforms: Apple, Android
 #  In eclipse finder, object to find eclipse with, or in go to
@@ -1486,12 +1486,12 @@ msgstr "Блокировка фазы"
 #  Platforms: Windows
 #  Select time via picker
 msgid "Picker"
-msgstr ""
+msgstr "Дата и время"
 
 #  Platforms: Apple
 #  Settings for whether to pinch to zoom by FOV or by distance
 msgid "Pinch Zoom"
-msgstr ""
+msgstr "Щипок изменения масштаба"
 
 #  Platforms: Apple, Android
 #  Camera control
@@ -1527,7 +1527,7 @@ msgid ""
 "Please describe the feature you want to see in "
 "Celestia."
 msgstr ""
-"Пожалуйста, опишите возможность, которую хотите "
+"Пожалуйста, опишите функцию, которую хотите "
 "увидеть в Celestia."
 
 #  Platforms: Apple, Android, Windows
@@ -1545,7 +1545,8 @@ msgstr ""
 msgid ""
 "Please ensure that you have selected a path under "
 "%s."
-msgstr "Пожалуйста, убедитесь, что вы выбрали путь по %s."
+msgstr "Пожалуйста, убедитесь, что вы выбрали папку в "
+"%s."
 
 #  Platforms: Apple
 #  Message for renaming a favorite item (currently bookmark)
@@ -1560,7 +1561,7 @@ msgstr "Введите название объекта."
 #  Platforms: Apple, Android
 #  In time settings, enter Julian day for the simulation
 msgid "Please enter Julian day."
-msgstr ""
+msgstr "Введите юлианскую дату."
 
 #  Platforms: Apple
 #, c-format
@@ -1600,6 +1601,11 @@ msgid ""
 "year (for Yearly) or each month (for Monthly). "
 "Cancel at anytime in Subscriptions on Google Play."
 msgstr ""
+"Покупка будет доступна сразу. "
+"Подписка будет продлеваться автоматически "
+"и с вас будет взиматься указанная "
+"ежегодная («Год») или ежемесячная («Месяц») плата. "
+"Подписка может быть отменена в любое время в разделе «Подписки» в Google Play."
 
 #  Platforms: Apple
 #  Equatorial coordinate
@@ -1620,7 +1626,7 @@ msgstr "в радиусах"
 
 #  Platforms: Apple, Android, Windows
 msgid "Ray-Based Dragging"
-msgstr ""
+msgstr "Перетаскивание через лучи"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller button
@@ -1638,6 +1644,8 @@ msgid ""
 "Receive timely feedback on feature requests and "
 "bug reports."
 msgstr ""
+"Получайте быструю обратную связь о предложенных функциях и "
+"найденных багах."
 
 #  Platforms: Apple, Android, Windows
 #  Used in Flight Mode
@@ -1699,7 +1707,7 @@ msgstr "Вернуть настройки по умолчанию"
 #  Platforms: Apple
 #  Refresh purchase status
 msgid "Restore Purchase"
-msgstr ""
+msgstr "Восстановить покупку"
 
 #  Platforms: Android
 #  Resume or pause time/script
@@ -1708,7 +1716,7 @@ msgstr "Возобновить или приостановить"
 
 #  Platforms: Apple, Android
 msgid "Resume/Pause"
-msgstr ""
+msgstr "Возобновить/приостановить"
 
 #  Platforms: Android
 #  Reverse time or travel direction
@@ -1722,12 +1730,12 @@ msgstr "Обернуться"
 
 #  Platforms: Apple, Android, Windows
 msgid "Reverse Mouse Wheel"
-msgstr ""
+msgstr "Обратить прокрутку мышью"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller action
 msgid "Reverse Observer Orientation"
-msgstr "Обратить ориентацию наблюдателя"
+msgstr "Обратить направление поля зрения"
 
 #  Platforms: Apple, Android, Windows
 msgid "Reverse Time"
@@ -1844,7 +1852,7 @@ msgstr "Выберите объект:"
 #  Platforms: Windows
 #  Error message, the time in the picker is considered out of range by the system
 msgid "Selected time is out of range."
-msgstr ""
+msgstr "Выбранное время выходит за пределы допустимого диапазона."
 
 #  Platforms: Apple, Android
 msgid "Send Feedback"
@@ -1853,12 +1861,12 @@ msgstr "Написать разработчику"
 #  Platforms: Apple, Android, Windows
 #  Setting for sensitivity for selecting an object
 msgid "Sensitivity"
-msgstr ""
+msgstr "Чувствительность"
 
 #  Platforms: Apple, Android, Windows
 #  Notes for the sensitivity setting
 msgid "Sensitivity for object selection"
-msgstr ""
+msgstr "Чувствительность выбора объектов"
 
 #  Platforms: Windows
 #  Set date to eclipse date and view eclipse
@@ -2001,6 +2009,8 @@ msgid ""
 "Some configurations will take effect after a "
 "restart."
 msgstr ""
+"Некоторые настройки вступят в силу после "
+"перезагрузки."
 
 #  Platforms: Apple, Android, Windows
 #  Plural
@@ -2067,7 +2077,7 @@ msgstr "Звёзды с планетами"
 #  Template for displaying when start time cannot be correctly formatted by the system
 #, c-format
 msgid "Start Julian day: %s"
-msgstr ""
+msgstr "От юлианской даты: %s"
 
 #  Platforms: Apple, Android
 #  In eclipse finder, range of time to find eclipse in
@@ -2103,7 +2113,7 @@ msgstr "Компоненты системы"
 
 #  Platforms: Apple, Android, Windows
 msgid "Suggest a Feature"
-msgstr "Предложить идею"
+msgstr "Предложить функцию"
 
 #  Platforms: Apple, Android
 #  Benefits of Celestia PLUS
@@ -2111,6 +2121,8 @@ msgid ""
 "Support the developer community and keep the "
 "project going."
 msgstr ""
+"Поддержите сообщество разработчиков и поспособствуйте "
+"развитию проекта."
 
 #  Platforms: Apple, Android
 #  Move/zoom camera FOV
@@ -2132,7 +2144,7 @@ msgstr "Синхронное вращение"
 
 #  Platforms: Android
 msgid "System Fonts"
-msgstr ""
+msgstr "Системные шрифты"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller action
@@ -2144,9 +2156,8 @@ msgid ""
 "Tap the mode button on the sidebar to switch "
 "between object mode and camera mode."
 msgstr ""
-"Переключение между режимами работы с объектом и "
-"камерой осуществляется через кнопку на боковой "
-"панели."
+"Режим работы с объектом или камерой переключается "
+"через кнопку на боковой панели."
 
 #  Platforms: Apple, Android, Windows
 #  Used in Flight Mode
@@ -2178,13 +2189,15 @@ msgstr "Сторонние зависимости"
 
 #  Platforms: Android
 msgid "This feature is not supported."
-msgstr ""
+msgstr "Данная функция не поддерживается."
 
 #  Platforms: Apple, Android
 msgid ""
 "This feature is only available to Celestia PLUS "
 "users."
 msgstr ""
+"Данная функция доступна только для пользователей "
+"Celestia PLUS."
 
 #  Platforms: Apple, Android, Windows
 #  Settings for game controller thumbsticks
@@ -2242,7 +2255,7 @@ msgstr "Включить интерактивный режим"
 #  Platforms: Apple, Android
 #  Toolbar customization entry in Settings
 msgid "Toolbar"
-msgstr ""
+msgstr "Панель инструментов"
 
 #  Platforms: Apple, Windows
 #  Tools menu title
@@ -2346,7 +2359,7 @@ msgstr "Стрелка вверх"
 #  Platforms: Apple, Android
 #  Upgrade subscription service
 msgid "Upgrade"
-msgstr ""
+msgstr "Обновить"
 
 #  Platforms: Apple, Android
 #  Sharing option, URL
@@ -2392,12 +2405,12 @@ msgstr "Вулканы"
 
 #  Platforms: Android
 msgid "We are processing your purchase"
-msgstr ""
+msgstr "Мы обрабатываем вашу покупку"
 
 #  Platforms: Apple, Android
 #  Error loading the subscription page
 msgid "We encountered an error."
-msgstr ""
+msgstr "Мы столкнулись с ошибкой."
 
 #  Platforms: Apple, Android
 #  Web info for an object
@@ -2447,20 +2460,20 @@ msgstr "Шаг вправо"
 #  Platforms: Apple, Android
 #  Yearly subscription
 msgid "Yearly"
-msgstr ""
+msgstr "Год"
 
 #  Platforms: Apple, Android
 msgid "Your purchase is pending"
-msgstr ""
+msgstr "Ваша покупка находится на рассмотрении"
 
 #  Platforms: Apple, Android, Windows
 msgid "YYYY MMM DD HH:MM:SS TZ"
-msgstr ""
+msgstr "ГГГГ МММ ДД ЧЧ:ММ:СС ППП"
 
 #  Platforms: Apple, Android
 #  Zoom in/out in Camera Control, this changes the relative distance to the object
 msgid "Zoom (Distance)"
-msgstr ""
+msgstr "Расстояние"
 
 #  Platforms: Apple, Android
 msgid "Zoom In"
@@ -2475,3 +2488,5 @@ msgid ""
 "Zooming behavior keeping the original focus "
 "location on screen"
 msgstr ""
+"Приближает/отдаляет выбранную область "
+"вместо центра поля зрения."
