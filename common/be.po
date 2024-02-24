@@ -260,17 +260,17 @@ msgstr "Назад"
 #  Platforms: Apple, Android, Windows
 #  Star colors option
 msgid "Blackbody (Solar Whitepoint)"
-msgstr ""
+msgstr "Чорнае цела (Белы пункт Сонца)"
 
 #  Platforms: Apple, Android, Windows
 #  Star colors option
 msgid "Blackbody (Vega Whitepoint)"
-msgstr ""
+msgstr "Чорнае цела (Белы пункт Вэгі)"
 
 #  Platforms: Apple, Android, Windows
 #  Star colors option
 msgid "Blackbody D65"
-msgstr ""
+msgstr "Чорнае цела D65"
 
 #  Platforms: Apple, Android
 #  Bold font style
@@ -617,13 +617,13 @@ msgstr "Паказаць"
 #  Platforms: Apple, Android, Windows
 #  Distance to the object (in Go to)
 msgid "Distance"
-msgstr ""
+msgstr "Адлегласьць"
 
 #  Platforms: Apple
 #  Pinch zoom setting option
 msgctxt "Pinch Zoom"
 msgid "Distance"
-msgstr ""
+msgstr "Адлегласьць"
 
 #  Platforms: Apple
 msgid "Distance Unit"
@@ -1284,7 +1284,7 @@ msgstr "Малыя месяцы"
 
 #  Platforms: Windows
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Рознае"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -1364,7 +1364,7 @@ msgstr "Нічога"
 #  Platforms: Apple, Android
 #  Normal font style
 msgid "Normal"
-msgstr ""
+msgstr "Нармальны"
 
 #  Platforms: Apple, Android
 #  In eclipse finder, object to find eclipse with, or in go to
@@ -1383,7 +1383,7 @@ msgstr ""
 
 #  Platforms: Windows
 msgid "Object Name"
-msgstr ""
+msgstr "Назва аб'екта"
 
 #  Platforms: Windows
 msgid "Object name:"

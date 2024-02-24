@@ -263,17 +263,17 @@ msgstr "Назад"
 #  Platforms: Apple, Android, Windows
 #  Star colors option
 msgid "Blackbody (Solar Whitepoint)"
-msgstr ""
+msgstr "Чернотелен (Бяла точка от Слънцето)"
 
 #  Platforms: Apple, Android, Windows
 #  Star colors option
 msgid "Blackbody (Vega Whitepoint)"
-msgstr ""
+msgstr "Чернотелен (Бяла точка от Вега)"
 
 #  Platforms: Apple, Android, Windows
 #  Star colors option
 msgid "Blackbody D65"
-msgstr ""
+msgstr "Чернотелен D65"
 
 #  Platforms: Apple, Android
 #  Bold font style
@@ -1380,7 +1380,7 @@ msgstr "Нищо"
 #  Platforms: Apple, Android
 #  Normal font style
 msgid "Normal"
-msgstr ""
+msgstr "Нормално"
 
 #  Platforms: Apple, Android
 #  In eclipse finder, object to find eclipse with, or in go to

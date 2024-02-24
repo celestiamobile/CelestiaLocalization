@@ -617,13 +617,13 @@ msgstr "Zobrazenie"
 #  Platforms: Apple, Android, Windows
 #  Distance to the object (in Go to)
 msgid "Distance"
-msgstr ""
+msgstr "Vzdialenosť"
 
 #  Platforms: Apple
 #  Pinch zoom setting option
 msgctxt "Pinch Zoom"
 msgid "Distance"
-msgstr ""
+msgstr "Vzdialenosť"
 
 #  Platforms: Apple
 msgid "Distance Unit"
@@ -1364,7 +1364,7 @@ msgstr "Žiadny"
 #  Platforms: Apple, Android
 #  Normal font style
 msgid "Normal"
-msgstr ""
+msgstr "Normálne"
 
 #  Platforms: Apple, Android
 #  In eclipse finder, object to find eclipse with, or in go to
@@ -1383,7 +1383,7 @@ msgstr ""
 
 #  Platforms: Windows
 msgid "Object Name"
-msgstr ""
+msgstr "Názov objektu"
 
 #  Platforms: Windows
 msgid "Object name:"

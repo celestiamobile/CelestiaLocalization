@@ -270,7 +270,7 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Star colors option
 msgid "Blackbody D65"
-msgstr ""
+msgstr "Siyah cisim D65"
 
 #  Platforms: Apple, Android
 #  Bold font style
@@ -617,13 +617,13 @@ msgstr "Görünüm"
 #  Platforms: Apple, Android, Windows
 #  Distance to the object (in Go to)
 msgid "Distance"
-msgstr ""
+msgstr "Mesafe"
 
 #  Platforms: Apple
 #  Pinch zoom setting option
 msgctxt "Pinch Zoom"
 msgid "Distance"
-msgstr ""
+msgstr "Mesafe"
 
 #  Platforms: Apple
 msgid "Distance Unit"
@@ -815,7 +815,7 @@ msgstr "Dosya"
 #  Platforms: Apple, Android, Windows
 #  Marker
 msgid "Filled Square"
-msgstr ""
+msgstr "Dolu Kare"
 
 #  Platforms: Apple, Android
 #  Find (eclipses)
@@ -1284,7 +1284,7 @@ msgstr "Uydular"
 
 #  Platforms: Windows
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Çeşitli"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -1364,7 +1364,7 @@ msgstr "Hiçbiri"
 #  Platforms: Apple, Android
 #  Normal font style
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #  Platforms: Apple, Android
 #  In eclipse finder, object to find eclipse with, or in go to
@@ -1383,7 +1383,7 @@ msgstr ""
 
 #  Platforms: Windows
 msgid "Object Name"
-msgstr ""
+msgstr "Nesne İsmi"
 
 #  Platforms: Windows
 msgid "Object name:"
@@ -2141,7 +2141,7 @@ msgstr "Terrae (kara kütleleri)"
 #  Platforms: Apple, Android, Windows
 #  Terse HUD display
 msgid "Terse"
-msgstr ""
+msgstr "Özlü"
 
 #  Platforms: Apple, Android, Windows
 msgid "Texture Resolution"
@@ -2348,7 +2348,7 @@ msgstr "Valles (vadiler)"
 #  Platforms: Apple, Android, Windows
 #  Verbose HUD display
 msgid "Verbose"
-msgstr ""
+msgstr "Ayrıntılı"
 
 #  Platforms: Apple, Android
 msgid "Version"

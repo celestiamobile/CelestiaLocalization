@@ -271,7 +271,7 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Star colors option
 msgid "Blackbody D65"
-msgstr ""
+msgstr "Blackbody D65"
 
 #  Platforms: Apple, Android
 #  Bold font style
@@ -618,13 +618,13 @@ msgstr "表示"
 #  Platforms: Apple, Android, Windows
 #  Distance to the object (in Go to)
 msgid "Distance"
-msgstr ""
+msgstr "距離"
 
 #  Platforms: Apple
 #  Pinch zoom setting option
 msgctxt "Pinch Zoom"
 msgid "Distance"
-msgstr ""
+msgstr "距離"
 
 #  Platforms: Apple
 msgid "Distance Unit"
@@ -1291,7 +1291,7 @@ msgstr "小衛星"
 
 #  Platforms: Windows
 msgid "Miscellaneous"
-msgstr ""
+msgstr "その他"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -1371,7 +1371,7 @@ msgstr "無し"
 #  Platforms: Apple, Android
 #  Normal font style
 msgid "Normal"
-msgstr ""
+msgstr "通常"
 
 #  Platforms: Apple, Android
 #  In eclipse finder, object to find eclipse with, or in go to
@@ -1390,7 +1390,7 @@ msgstr ""
 
 #  Platforms: Windows
 msgid "Object Name"
-msgstr ""
+msgstr "天体名"
 
 #  Platforms: Windows
 msgid "Object name:"

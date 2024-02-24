@@ -144,7 +144,7 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  System menu item
 msgid "About Celestia"
-msgstr ""
+msgstr "Celestia-ს შესახებ"
 
 #  Platforms: Apple, Android
 #  Add a new item (bookmark)
@@ -154,7 +154,7 @@ msgstr ""
 #  Platforms: Apple, Windows
 #  Add a new bookmark
 msgid "Add Bookmark"
-msgstr ""
+msgstr "სანიშნის დამატება"
 
 #  Platforms: Android
 #  Accessibility description for an add button
@@ -209,21 +209,21 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Asteroids"
-msgstr ""
+msgstr "ასტეროიდები"
 
 #  Platforms: Apple, Android, Windows
 msgid "Atmospheres"
-msgstr ""
+msgstr "ატმოსფერო"
 
 #  Platforms: Apple, Android, Windows
 #  Astronomical unit
 msgid "au"
-msgstr ""
+msgstr "აე"
 
 #  Platforms: Apple, Android
 #  Authors for Celestia
 msgid "Authors"
-msgstr ""
+msgstr "ავტორები"
 
 #  Platforms: Windows
 #  Authors for Celestia
@@ -284,11 +284,11 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  URL bookmarks
 msgid "Bookmarks"
-msgstr ""
+msgstr "სანიშნეები"
 
 #  Platforms: Apple, Android, Windows
 msgid "Brightest Stars"
-msgstr ""
+msgstr "ყველაზე კაშკაშა ვარსკვლავები"
 
 #  Platforms: Apple, Android, Windows
 msgid "Brightest Stars (Absolute Magnitude)"
@@ -325,7 +325,7 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Cancel"
-msgstr ""
+msgstr "გაუქმება"
 
 #  Platforms: Apple, Android
 msgid "Cancel Script"
@@ -372,7 +372,7 @@ msgstr ""
 #  Platforms: Apple, Windows
 #  Center selected object
 msgid "Center Selection"
-msgstr ""
+msgstr "მონიშვნის ცენტრირება"
 
 #  Platforms: Android
 #  Change subscription service
@@ -381,7 +381,7 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Chase"
-msgstr ""
+msgstr "მიდევნება"
 
 #  Platforms: Apple, Android
 msgid "Choose one of the plans below to get Celestia PLUS"
@@ -390,11 +390,11 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Marker
 msgid "Circle"
-msgstr ""
+msgstr "წრე"
 
 #  Platforms: Apple, Android, Windows
 msgid "Cities"
-msgstr ""
+msgstr "ქალაქები"
 
 #  Platforms: Apple, Android, Windows
 #  Star colors option
@@ -403,28 +403,28 @@ msgstr ""
 
 #  Platforms: Apple, Android
 msgid "Close"
-msgstr ""
+msgstr "დახურვა"
 
 #  Platforms: Apple, Android, Windows
 msgid "Cloud Shadows"
-msgstr ""
+msgstr "ღრუბლის ჩრდილები"
 
 #  Platforms: Apple, Android, Windows
 msgid "Clouds"
-msgstr ""
+msgstr "ღრუბლები"
 
 #  Platforms: Apple, Android, Windows
 msgid "Comet Tails"
-msgstr ""
+msgstr "კომეტის კუდები"
 
 #  Platforms: Apple, Android, Windows
 msgid "Comets"
-msgstr ""
+msgstr "კომეტები"
 
 #  Platforms: Windows
 #  Compute for eclipses
 msgid "Compute"
-msgstr ""
+msgstr "გამოთვლა"
 
 #  Platforms: Apple, Android
 #  celestia.cfg
@@ -442,7 +442,7 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Constellations"
-msgstr ""
+msgstr "თანავარსკვლავედები"
 
 #  Platforms: Apple, Android
 #  Settings for whether context menu is enabled
@@ -482,7 +482,7 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Craters"
-msgstr ""
+msgstr "კრატერები"
 
 #  Platforms: Apple, Android
 msgid "Create a new bookmark with \"+\" button"
@@ -504,7 +504,7 @@ msgstr ""
 
 #  Platforms: Apple, Android
 msgid "Custom"
-msgstr ""
+msgstr "ხელით"
 
 #  Platforms: Apple, Android
 #  Benefits of Celestia PLUS
@@ -564,7 +564,7 @@ msgstr ""
 
 #  Platforms: Apple, Android
 msgid "Deep Sky Objects"
-msgstr ""
+msgstr "ღრმა კოსმოსის ობიექტები"
 
 #  Platforms: Apple, Android, Windows
 msgid "Default"
@@ -572,7 +572,7 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Delete"
-msgstr ""
+msgstr "წაშლა"
 
 #  Platforms: Apple, Windows
 #  Delete current view (in split view mode)
@@ -602,12 +602,12 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Marker
 msgid "Diamond"
-msgstr ""
+msgstr "პრიზმა"
 
 #  Platforms: Apple, Android, Windows
 #  Marker
 msgid "Disk"
-msgstr ""
+msgstr "დისკი"
 
 #  Platforms: Apple, Android, Windows
 #  Display settings
@@ -617,13 +617,13 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Distance to the object (in Go to)
 msgid "Distance"
-msgstr ""
+msgstr "მანძილი"
 
 #  Platforms: Apple
 #  Pinch zoom setting option
 msgctxt "Pinch Zoom"
 msgid "Distance"
-msgstr ""
+msgstr "მანძილი"
 
 #  Platforms: Apple
 msgid "Distance Unit"
@@ -646,7 +646,7 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Marker
 msgid "Down Arrow"
-msgstr ""
+msgstr "ისარი ქვემოთ"
 
 #  Platforms: Apple, Android
 #  Downgrade subscription service
@@ -671,24 +671,24 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Dwarf Planets"
-msgstr ""
+msgstr "ჯუჯა პლანეტები"
 
 #  Platforms: Apple, Android, Windows
 msgid "Eclipse Finder"
-msgstr ""
+msgstr "&დაბნელების პოვნა"
 
 #  Platforms: Apple, Android, Windows
 msgid "Eclipse Shadows"
-msgstr ""
+msgstr "ოვალის ჩრდილები"
 
 #  Platforms: Apple, Android, Windows
 #  Grids
 msgid "Ecliptic"
-msgstr ""
+msgstr "ეკლიპტიკური"
 
 #  Platforms: Apple, Android, Windows
 msgid "Ecliptic Line"
-msgstr ""
+msgstr "ეკლიპტიკური ხაზი"
 
 #  Platforms: Apple
 #  Enter edit mode for favorite items
@@ -734,7 +734,7 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Grids
 msgid "Equatorial"
-msgstr ""
+msgstr "ეკვატორული"
 
 #  Platforms: Apple
 #, c-format
@@ -805,7 +805,7 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Features"
-msgstr ""
+msgstr "თვისებები"
 
 #  Platforms: Windows
 #  File menu
@@ -815,7 +815,7 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Marker
 msgid "Filled Square"
-msgstr ""
+msgstr "შევსებული მართკუთხედ"
 
 #  Platforms: Apple, Android
 #  Find (eclipses)
@@ -851,7 +851,7 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Follow"
-msgstr ""
+msgstr "გამოწერა"
 
 #  Platforms: Apple, Windows
 msgid "Follow Selection"
@@ -885,16 +885,16 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Star style
 msgid "Fuzzy Points"
-msgstr ""
+msgstr "ბუნდოვანი წერტილები"
 
 #  Platforms: Apple, Android, Windows
 #  Grids
 msgid "Galactic"
-msgstr ""
+msgstr "გალაქტინა"
 
 #  Platforms: Apple, Android, Windows
 msgid "Galaxies"
-msgstr ""
+msgstr "გალაქტიკები"
 
 #  Platforms: Apple, Android, Windows
 msgid "Galaxies (Barred Spiral)"
@@ -948,7 +948,7 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Globulars"
-msgstr ""
+msgstr "გლობულარები"
 
 #  Platforms: Apple, Android, Windows
 #  Go to an object
@@ -957,7 +957,7 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Go to Object"
-msgstr ""
+msgstr "ობიექტზე გადასვლა"
 
 #  Platforms: Apple, Windows
 #  Go to selected object
@@ -966,12 +966,12 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Grids"
-msgstr ""
+msgstr "ბადეები"
 
 #  Platforms: Windows
 #  Grids, labels, orbits, markers
 msgid "Guides"
-msgstr ""
+msgstr "გიდები"
 
 #  Platforms: Apple, Android, Windows
 #  Indicate that an object has atmosphere
@@ -1000,7 +1000,7 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  High resolution
 msgid "High"
-msgstr ""
+msgstr "მაღალი"
 
 #  Platforms: Apple, Android
 #  Home object, sun.
@@ -1010,7 +1010,7 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Grids
 msgid "Horizontal"
-msgstr ""
+msgstr "ჰორიზონტალური"
 
 #  Platforms: Apple, Android, Windows
 #  Sharing option, image
@@ -1089,7 +1089,7 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Unit
 msgid "km"
-msgstr ""
+msgstr "კმ"
 
 #  Platforms: Apple
 #  Galactic coordinates
@@ -1106,7 +1106,7 @@ msgstr ""
 #  Platforms: Windows
 #  Labels to display
 msgid "Labels"
-msgstr ""
+msgstr "ჭდეები"
 
 #  Platforms: Apple, Android
 #  Go to surface of an object
@@ -1116,7 +1116,7 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Landing Sites"
-msgstr ""
+msgstr "დაჯდომის ადგილები"
 
 #  Platforms: Android, Windows
 #  Display language setting
@@ -1141,7 +1141,7 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Marker
 msgid "Left Arrow"
-msgstr ""
+msgstr "ისარი მარცხნივ"
 
 #  Platforms: Apple
 #, c-format
@@ -1172,16 +1172,16 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Local Time"
-msgstr ""
+msgstr "ლოკალური დრო"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels to display
 msgid "Locations"
-msgstr ""
+msgstr "მდებარეობები"
 
 #  Platforms: Apple
 msgid "Lock"
-msgstr ""
+msgstr "ჩაკეტვა"
 
 #  Platforms: Windows
 msgid "Lock Phase"
@@ -1203,7 +1203,7 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Low resolution
 msgid "Low"
-msgstr ""
+msgstr "დაბალი"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller button
@@ -1241,7 +1241,7 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Markers"
-msgstr ""
+msgstr "სანიშნები"
 
 #  Platforms: Apple
 #, c-format
@@ -1261,7 +1261,7 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Medium resolution
 msgid "Medium"
-msgstr ""
+msgstr "საშუალო"
 
 #  Platforms: Apple, Android
 #  Menu button
@@ -1280,11 +1280,11 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Minor Moons"
-msgstr ""
+msgstr "მცირე მთვარეები"
 
 #  Platforms: Windows
 msgid "Miscellaneous"
-msgstr ""
+msgstr "სხვადასხვა"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -1298,7 +1298,7 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Moons"
-msgstr ""
+msgstr "მთვარეები"
 
 #  Platforms: Apple, Android
 #  Guide to control Celestia with a mouse/keyboard
@@ -1316,12 +1316,12 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Nebulae"
-msgstr ""
+msgstr "ნისლეულები"
 
 #  Platforms: Windows
 #  Create a folder in bookmark organizer
 msgid "New Folder"
-msgstr ""
+msgstr "ახალი საქაღალდე"
 
 #  Platforms: Windows
 #  Enter new name for a bookmark node
@@ -1359,17 +1359,17 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Empty HUD display
 msgid "None"
-msgstr ""
+msgstr "არაფერი"
 
 #  Platforms: Apple, Android
 #  Normal font style
 msgid "Normal"
-msgstr ""
+msgstr "ნორმალი"
 
 #  Platforms: Apple, Android
 #  In eclipse finder, object to find eclipse with, or in go to
 msgid "Object"
-msgstr ""
+msgstr "ობიექტი"
 
 #  Platforms: Apple, Android
 #  Labels
@@ -1383,11 +1383,11 @@ msgstr ""
 
 #  Platforms: Windows
 msgid "Object Name"
-msgstr ""
+msgstr "ობიექტის სახელი"
 
 #  Platforms: Windows
 msgid "Object name:"
-msgstr ""
+msgstr "ობიექტის სახელი:"
 
 #  Platforms: Apple, Android, Windows
 msgid "Object not found"
@@ -1400,12 +1400,12 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Objects"
-msgstr ""
+msgstr "ობიექტები"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Observatories"
-msgstr ""
+msgstr "ობსერვატორიები"
 
 #  Platforms: Apple, Android
 msgid "Official Website"
@@ -1413,11 +1413,11 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "OK"
-msgstr ""
+msgstr "დიახ"
 
 #  Platforms: Apple, Android, Windows
 msgid "Open Clusters"
-msgstr ""
+msgstr "ღია კლასტერები"
 
 #  Platforms: Windows
 #  Open folder for customization
@@ -1431,7 +1431,7 @@ msgstr ""
 
 #  Platforms: Apple, Windows
 msgid "OpenGL Info"
-msgstr ""
+msgstr "OpenGL-ის ინფორმაცია"
 
 #  Platforms: Android
 msgid "Opening external file or URL…"
@@ -1443,7 +1443,7 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Orbits"
-msgstr ""
+msgstr "ორბიტები"
 
 #  Platforms: Apple, Windows
 msgid "Organize Bookmarks…"
@@ -1499,7 +1499,7 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Planets"
-msgstr ""
+msgstr "პლანეტები"
 
 #  Platforms: Apple, Android
 #  In eclipse finder, choose an object to find eclipse wth
@@ -1556,12 +1556,12 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Marker
 msgid "Plus"
-msgstr ""
+msgstr "პლუსი"
 
 #  Platforms: Apple, Android, Windows
 #  Star style
 msgid "Points"
-msgstr ""
+msgstr "წერტილები"
 
 #  Platforms: Apple
 #  Settings
@@ -1597,7 +1597,7 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  In Go to, specify the distance based on the object radius
 msgid "radii"
-msgstr ""
+msgstr "radii"
 
 #  Platforms: Apple, Android, Windows
 msgid "Ray-Based Dragging"
@@ -1639,7 +1639,7 @@ msgstr ""
 #  Platforms: Apple, Android
 #  Button to refresh this list
 msgid "Refresh"
-msgstr ""
+msgstr "განახლება"
 
 #  Platforms: Windows
 #  Regions settings
@@ -1720,11 +1720,11 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Marker
 msgid "Right Arrow"
-msgstr ""
+msgstr "ისარი მარჯვნივ"
 
 #  Platforms: Apple, Android, Windows
 msgid "Ring Shadows"
-msgstr ""
+msgstr "რგოლის ჩრდილები"
 
 #  Platforms: Apple, Android
 #  Camera control
@@ -1767,7 +1767,7 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Star style
 msgid "Scaled Discs"
-msgstr ""
+msgstr "გადიდებული დისკები"
 
 #  Platforms: Apple, Android
 msgid "Script Control"
@@ -1780,7 +1780,7 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Scripts"
-msgstr ""
+msgstr "სკრიპტები"
 
 #  Platforms: Apple, Android
 #  URL for Scripts and URLs wiki
@@ -1804,7 +1804,7 @@ msgstr ""
 #  Platforms: Windows
 #  Select an object
 msgid "Select Object"
-msgstr ""
+msgstr "აირჩიეთ ობიექტი"
 
 #  Platforms: Apple, Windows
 msgid "Select Sol"
@@ -1842,12 +1842,12 @@ msgstr ""
 #  Platforms: Windows
 #  Set date to eclipse date and view eclipse
 msgid "Set Date and Go to Planet"
-msgstr ""
+msgstr "თარიღის დაყენება და პლანეტაზე გადასვლა"
 
 #  Platforms: Windows
 #  Button to confirm selected simulation time
 msgid "Set Time"
-msgstr ""
+msgstr "დროის დაყენება"
 
 #  Platforms: Apple, Windows
 #  Select simulation time
@@ -1874,7 +1874,7 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Reference vector
 msgid "Show Body Axes"
-msgstr ""
+msgstr "სხეულის ღერძებს ჩვენება"
 
 #  Platforms: Apple, Android, Windows
 #  Show constellation boundaries
@@ -1889,7 +1889,7 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Reference vector
 msgid "Show Frame Axes"
-msgstr ""
+msgstr "ჩარჩოს ღერძების ჩვენება"
 
 #  Platforms: Apple, Android, Windows
 #  Constellation labels
@@ -1916,22 +1916,22 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Reference vector
 msgid "Show Planetographic Grid"
-msgstr ""
+msgstr "პლანეტოგრაფიული ბადის ჩვენება"
 
 #  Platforms: Apple, Android, Windows
 #  Reference vector
 msgid "Show Sun Direction"
-msgstr ""
+msgstr "მზის მიმართულების ჩვენება"
 
 #  Platforms: Apple, Android, Windows
 #  Reference vector
 msgid "Show Terminator"
-msgstr ""
+msgstr "ტერმინატორის ჩვენება"
 
 #  Platforms: Apple, Android, Windows
 #  Reference vector
 msgid "Show Velocity Vector"
-msgstr ""
+msgstr "აჩქარების ვექტორის ჩვენება"
 
 #  Platforms: Apple
 #, c-format
@@ -1973,7 +1973,7 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Tab for solar system in Star Browser
 msgid "Solar System"
-msgstr ""
+msgstr "მზის სისტემა"
 
 #  Platforms: Apple, Android, Windows
 msgid ""
@@ -1984,7 +1984,7 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Plural
 msgid "Spacecraft"
-msgstr ""
+msgstr "კოსმოსური ხომალდი"
 
 #  Platforms: Apple
 #, c-format
@@ -2019,11 +2019,11 @@ msgstr ""
 #  Platforms: Apple, Android
 #  Marker
 msgid "Square"
-msgstr ""
+msgstr "კვადრატი"
 
 #  Platforms: Apple, Android, Windows
 msgid "Star Browser"
-msgstr ""
+msgstr "ვარსკლავის ძებნა"
 
 #  Platforms: Apple, Android, Windows
 msgid "Star Colors"
@@ -2036,7 +2036,7 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Tab for stars in Star Browser
 msgid "Stars"
-msgstr ""
+msgstr "ვარსკვლავი"
 
 #  Platforms: Apple, Android, Windows
 msgid "Stars with Planets"
@@ -2103,7 +2103,7 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Sync Orbit"
-msgstr ""
+msgstr "ორბიტის სინქრონიზაცია"
 
 #  Platforms: Apple, Windows
 msgid "Sync Orbit Selection"
@@ -2169,7 +2169,7 @@ msgstr ""
 
 #  Platforms: Apple, Windows
 msgid "Time"
-msgstr ""
+msgstr "დრო"
 
 #  Platforms: Apple, Android, Windows
 #  time and region related settings
@@ -2260,7 +2260,7 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Marker
 msgid "Triangle"
-msgstr ""
+msgstr "სამკუთხედი"
 
 #  Platforms: Apple
 msgid "Tutorial"
@@ -2287,7 +2287,7 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Unknown"
-msgstr ""
+msgstr "უცნობი"
 
 #  Platforms: Android
 msgid "Unknown error"
@@ -2315,7 +2315,7 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Marker
 msgid "Up Arrow"
-msgstr ""
+msgstr "ისარი ზემოთ"
 
 #  Platforms: Apple, Android
 #  Upgrade subscription service
@@ -2338,7 +2338,7 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "UTC Offset"
-msgstr ""
+msgstr "UTC დროიდან წანაცვლება"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -2362,7 +2362,7 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Volcanoes"
-msgstr ""
+msgstr "ვულკანები"
 
 #  Platforms: Android
 msgid "We are processing your purchase"
@@ -2391,7 +2391,7 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Marker
 msgid "X"
-msgstr ""
+msgstr "X"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller button

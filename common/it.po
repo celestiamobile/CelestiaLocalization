@@ -270,7 +270,7 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Star colors option
 msgid "Blackbody D65"
-msgstr ""
+msgstr "Corpo Nero D65"
 
 #  Platforms: Apple, Android
 #  Bold font style
@@ -617,13 +617,13 @@ msgstr "Display"
 #  Platforms: Apple, Android, Windows
 #  Distance to the object (in Go to)
 msgid "Distance"
-msgstr ""
+msgstr "Distanza"
 
 #  Platforms: Apple
 #  Pinch zoom setting option
 msgctxt "Pinch Zoom"
 msgid "Distance"
-msgstr ""
+msgstr "Distanza"
 
 #  Platforms: Apple
 msgid "Distance Unit"
@@ -1284,7 +1284,7 @@ msgstr "Lune minori"
 
 #  Platforms: Windows
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Varie"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -1364,7 +1364,7 @@ msgstr "Nessuno"
 #  Platforms: Apple, Android
 #  Normal font style
 msgid "Normal"
-msgstr ""
+msgstr "Normale"
 
 #  Platforms: Apple, Android
 #  In eclipse finder, object to find eclipse with, or in go to
@@ -1383,7 +1383,7 @@ msgstr ""
 
 #  Platforms: Windows
 msgid "Object Name"
-msgstr ""
+msgstr "Nome dell'Oggetto"
 
 #  Platforms: Windows
 msgid "Object name:"
