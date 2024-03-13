@@ -162,10 +162,6 @@ msgid "Add Button"
 msgstr "新增按鈕"
 
 #  Platforms: Apple
-msgid "Add-on directory does not exist."
-msgstr "外掛資料夾不存在。"
-
-#  Platforms: Apple
 #  Description for Pinch Zoom setting
 msgid ""
 "Adjust view with pinch gestures by changing FOV "
@@ -747,10 +743,30 @@ msgid "Equatorial radius: %s"
 msgstr "赤道半徑: %s"
 
 #  Platforms: Apple, Android, Windows
+msgid "Error creating directory for add-on"
+msgstr "建立外掛目錄時發生錯誤"
+
+#  Platforms: Apple, Android, Windows
+msgid "Error downloading add-on"
+msgstr "下載外掛時發生錯誤"
+
+#  Platforms: Apple, Android, Windows
 msgid ""
 "Error loading data, fallback to original "
 "configuration."
 msgstr "載入資料失敗，嘗試載入預設配置。"
+
+#  Platforms: Apple, Android, Windows
+msgid "Error opening file for saving add-on"
+msgstr "開啟檔案儲存外掛時發生錯誤"
+
+#  Platforms: Apple, Android, Windows
+msgid "Error unzipping add-on"
+msgstr "解壓外掛時發生錯誤"
+
+#  Platforms: Apple, Android, Windows
+msgid "Error writing data file for add-on"
+msgstr "寫入外掛資料時發生錯誤"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller action
@@ -779,7 +795,7 @@ msgstr "獲取截圖失敗。"
 msgid "Failed to connect to the external screen."
 msgstr "連線到外接螢幕失敗。"
 
-#  Platforms: Android
+#  Platforms: Apple, Android, Windows
 msgid "Failed to download or install this add-on."
 msgstr "下載或安裝外掛失敗。"
 

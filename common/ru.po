@@ -161,10 +161,6 @@ msgid "Add Button"
 msgstr "Добавить кнопку"
 
 #  Platforms: Apple
-msgid "Add-on directory does not exist."
-msgstr "Папка для дополнений отсутствует."
-
-#  Platforms: Apple
 #  Description for Pinch Zoom setting
 msgid ""
 "Adjust view with pinch gestures by changing FOV "
@@ -754,12 +750,32 @@ msgid "Equatorial radius: %s"
 msgstr "Экваториальный радиус: %s"
 
 #  Platforms: Apple, Android, Windows
+msgid "Error creating directory for add-on"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+msgid "Error downloading add-on"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 msgid ""
 "Error loading data, fallback to original "
 "configuration."
 msgstr ""
 "Ошибка загрузки данных, возврат к исходной "
 "конфигурации."
+
+#  Platforms: Apple, Android, Windows
+msgid "Error opening file for saving add-on"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+msgid "Error unzipping add-on"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+msgid "Error writing data file for add-on"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Game controller action
@@ -788,7 +804,7 @@ msgstr "Не удалось сделать снимок экрана."
 msgid "Failed to connect to the external screen."
 msgstr "Не удалось подключиться к внешнему экрану."
 
-#  Platforms: Android
+#  Platforms: Apple, Android, Windows
 msgid "Failed to download or install this add-on."
 msgstr ""
 "Не удалось загрузить или установить это "

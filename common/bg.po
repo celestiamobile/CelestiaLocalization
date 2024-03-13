@@ -2,6 +2,7 @@
 # Copyright (C) 2023-present Celestia Development Team
 # This file is distributed under the same license as the celestia package.
 #
+
 #, fuzzy
 msgid ""
 msgstr ""
@@ -9,8 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: team@celestia.space\n"
 "POT-Creation-Date: 2020-04-15 20:22+0800\n"
 "PO-Revision-Date: 2024-02-26 18:38+0200\n"
-"Last-Translator: Georgi Georgiev (RacerBG) <g.georgiev."
-"shumen@gmail.com>\n"
+"Last-Translator: Georgi Georgiev (RacerBG) <g.georgiev.shumen@gmail.com>\n"
 "Language-Team: Bulgarian <g.georgiev.shumen@gmail.com>\n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
@@ -163,14 +163,10 @@ msgid "Add Button"
 msgstr "Добави бутон"
 
 #  Platforms: Apple
-msgid "Add-on directory does not exist."
-msgstr "Папката на добавките не съществува."
-
-#  Platforms: Apple
 #  Description for Pinch Zoom setting
 msgid ""
-"Adjust view with pinch gestures by changing FOV or "
-"distance"
+"Adjust view with pinch gestures by changing FOV "
+"or distance"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
@@ -195,11 +191,11 @@ msgstr "Фонова светлина"
 
 #  Platforms: Apple
 msgid ""
-"An external screen is connected, do you want to display "
-"Celestia on the external screen?"
+"An external screen is connected, do you want to "
+"display Celestia on the external screen?"
 msgstr ""
-"Свързан е външен екран, искате ли „Celestia“ да го "
-"използва?"
+"Свързан е външен екран, искате ли „Celestia“ да "
+"го използва?"
 
 #  Platforms: Apple, Windows
 msgid "Anti-aliasing"
@@ -663,8 +659,8 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid ""
-"Dragging behavior based on change of pick rays instead "
-"of screen coordinates"
+"Dragging behavior based on change of pick rays "
+"instead of screen coordinates"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
@@ -750,11 +746,32 @@ msgid "Equatorial radius: %s"
 msgstr "Екваториален радиус: %s"
 
 #  Platforms: Apple, Android, Windows
-msgid ""
-"Error loading data, fallback to original configuration."
+msgid "Error creating directory for add-on"
 msgstr ""
-"Грешка при зареждане на данните, връщане към началната "
-"конфигурация."
+
+#  Platforms: Apple, Android, Windows
+msgid "Error downloading add-on"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+msgid ""
+"Error loading data, fallback to original "
+"configuration."
+msgstr ""
+"Грешка при зареждане на данните, връщане към "
+"началната конфигурация."
+
+#  Platforms: Apple, Android, Windows
+msgid "Error opening file for saving add-on"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+msgid "Error unzipping add-on"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+msgid "Error writing data file for add-on"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Game controller action
@@ -783,7 +800,7 @@ msgstr "Неуспешно прихващане на снимката."
 msgid "Failed to connect to the external screen."
 msgstr "Неуспешно свързване с външния екран."
 
-#  Platforms: Android
+#  Platforms: Apple, Android, Windows
 msgid "Failed to download or install this add-on."
 msgstr "Неуспешно изтегляне или инсталиране на добавката."
 
@@ -829,8 +846,8 @@ msgstr "Търси"
 #  Platforms: Windows
 msgid "Find eclipses for an object in a time range"
 msgstr ""
-"Намерете затъмнения за даден обект в определен времеви "
-"диапазон"
+"Намерете затъмнения за даден обект в определен "
+"времеви диапазон"
 
 #  Platforms: Apple, Android
 msgid "Find stars, DSOs, and nearby objects"
@@ -842,8 +859,8 @@ msgstr "Летателен режим"
 
 #  Platforms: Apple, Android, Windows
 msgid ""
-"Flight mode decides how you move around in Celestia. "
-"Learn more…"
+"Flight mode decides how you move around in "
+"Celestia. Learn more…"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
@@ -1037,8 +1054,8 @@ msgstr ""
 "В режим наблюдение, влачете за преместване на "
 "зрителното поле.\n"
 "\n"
-"Влачете с два пръста за увеличаване или намаляване на "
-"зрителното поле."
+"Влачете с два пръста за увеличаване или "
+"намаляване на зрителното поле."
 
 #  Platforms: Apple, Android
 msgid ""
@@ -1048,8 +1065,8 @@ msgid ""
 msgstr ""
 "В режим обекти, влачете за завъртане около обекта.\n"
 "\n"
-"Влачете с два пръста за увеличаване или намаляване на "
-"обекта."
+"Влачете с два пръста за увеличаване или "
+"намаляване на обекта."
 
 #  Platforms: Apple, Android, Windows
 #  HUD display
@@ -1356,11 +1373,11 @@ msgstr "Нощни светлини"
 
 #  Platforms: Apple, Android, Windows
 msgid ""
-"No eclipse is found for the given object in the time "
-"range"
+"No eclipse is found for the given object in the "
+"time range"
 msgstr ""
-"Няма намерено затъмнение за този обект в този времеви "
-"диапазон"
+"Няма намерено затъмнение за този обект в този "
+"времеви диапазон"
 
 #  Platforms: Apple, Android, Windows
 #  No overview for an object
@@ -1528,20 +1545,23 @@ msgstr "Моля, изберете обект."
 #  Platforms: Apple, Android, Windows
 #  Default email body for feature suggestion
 msgid ""
-"Please describe the feature you want to see in Celestia."
+"Please describe the feature you want to see in "
+"Celestia."
 msgstr "Моля, опишете Вашата идея за „Celestia“."
 
 #  Platforms: Apple, Android, Windows
 #  Default email body for bug report
 msgid ""
-"Please describe the issue and repro steps, if known."
+"Please describe the issue and repro steps, if "
+"known."
 msgstr "Моля, опишете проблема."
 
 #  Platforms: Android
 #  Custom config/data directory path have to be under a specific path
 #, c-format
 msgid ""
-"Please ensure that you have selected a path under %s."
+"Please ensure that you have selected a path under "
+"%s."
 msgstr "Моля, изберете път в %s."
 
 #  Platforms: Apple
@@ -1588,15 +1608,16 @@ msgstr "Предпочитания…"
 #  Privacy Policy and Service Agreement
 msgid "Privacy Policy and Service Agreement"
 msgstr ""
-"Декларация за поверителност и Споразумение за обслужване"
+"Декларация за поверителност и Споразумение за "
+"обслужване"
 
 #  Platforms: Android
 msgid ""
-"Purchase will be available immediately. Subscription "
-"will be automatically renewed and you will be charged "
-"the price listed here each year (for Yearly) or each "
-"month (for Monthly). Cancel at anytime in Subscriptions "
-"on Google Play."
+"Purchase will be available immediately. "
+"Subscription will be automatically renewed and "
+"you will be charged the price listed here each "
+"year (for Yearly) or each month (for Monthly). "
+"Cancel at anytime in Subscriptions on Google Play."
 msgstr ""
 
 #  Platforms: Apple
@@ -1633,8 +1654,8 @@ msgstr "Реално време"
 #  Platforms: Apple, Android
 #  Benefits of Celestia PLUS
 msgid ""
-"Receive timely feedback on feature requests and bug "
-"reports."
+"Receive timely feedback on feature requests and "
+"bug reports."
 msgstr ""
 "Получете обратна връзка за предложените идеи и "
 "докладите за неизправности."
@@ -1651,11 +1672,11 @@ msgstr "Отправни вектори"
 
 #  Platforms: Apple, Android
 msgid ""
-"Reference vectors are only visible for the current "
-"selected solar system object."
+"Reference vectors are only visible for the "
+"current selected solar system object."
 msgstr ""
-"Отправните вектори са видими само за текущия обект от "
-"Слънчевата система."
+"Отправните вектори са видими само за текущия "
+"обект от Слънчевата система."
 
 #  Platforms: Apple, Android
 #  Button to refresh this list
@@ -1998,9 +2019,11 @@ msgstr "Слънчева система"
 
 #  Platforms: Apple, Android, Windows
 msgid ""
-"Some configurations will take effect after a restart."
+"Some configurations will take effect after a "
+"restart."
 msgstr ""
-"Някои от промените ще бъдат приложени след рестартиране."
+"Някои от промените ще бъдат приложени след "
+"рестартиране."
 
 #  Platforms: Apple, Android, Windows
 #  Plural
@@ -2108,11 +2131,11 @@ msgstr "Предложи идея"
 #  Platforms: Apple, Android
 #  Benefits of Celestia PLUS
 msgid ""
-"Support the developer community and keep the project "
-"going."
+"Support the developer community and keep the "
+"project going."
 msgstr ""
-"Подкрепете общността на разработчиците и поддържайте "
-"проекта."
+"Подкрепете общността на разработчиците и "
+"поддържайте проекта."
 
 #  Platforms: Apple, Android
 #  Move/zoom camera FOV
@@ -2143,11 +2166,11 @@ msgstr ""
 
 #  Platforms: Apple, Android
 msgid ""
-"Tap the mode button on the sidebar to switch between "
-"object mode and camera mode."
+"Tap the mode button on the sidebar to switch "
+"between object mode and camera mode."
 msgstr ""
-"Докоснете бутона в страничната лента за превключване "
-"между режимите."
+"Докоснете бутона в страничната лента за "
+"превключване между режимите."
 
 #  Platforms: Apple, Android, Windows
 #  Used in Flight Mode
@@ -2183,7 +2206,8 @@ msgstr "Тази функция не се поддържа."
 
 #  Platforms: Apple, Android
 msgid ""
-"This feature is only available to Celestia PLUS users."
+"This feature is only available to Celestia PLUS "
+"users."
 msgstr "Тази функция е достъпна само в „Celestia“ ПЛЮС."
 
 #  Platforms: Apple, Android, Windows
@@ -2217,8 +2241,8 @@ msgid ""
 "Tinted illumination saturation setting is only "
 "effective with Blackbody star colors."
 msgstr ""
-"Тонираната наситеност на осветяването е ефективна само "
-"с чернотелните звездни цветове."
+"Тонираната наситеност на осветяването е ефективна "
+"само с чернотелните звездни цветове."
 
 #  Platforms: Apple, Android
 #  Toggle console log display on overlay
@@ -2472,6 +2496,6 @@ msgstr "Отдалечи"
 
 #  Platforms: Apple, Android, Windows
 msgid ""
-"Zooming behavior keeping the original focus location on "
-"screen"
+"Zooming behavior keeping the original focus "
+"location on screen"
 msgstr ""
