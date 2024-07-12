@@ -774,7 +774,7 @@ msgstr ""
 msgid "Esc"
 msgstr ""
 
-#  Platforms: Windows
+#  Platforms: Android, Windows
 #  Exit Celestia
 msgid "Exit"
 msgstr "終了"
@@ -1000,7 +1000,7 @@ msgstr "大気が存在"
 msgid "Has rings"
 msgstr "輪が存在"
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple, Android, Windows
 msgid "Help"
 msgstr "ヘルプ"
 

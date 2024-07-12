@@ -782,7 +782,7 @@ msgstr ""
 msgid "Esc"
 msgstr "Esc"
 
-#  Platforms: Windows
+#  Platforms: Android, Windows
 #  Exit Celestia
 msgid "Exit"
 msgstr "Выйти"
@@ -1014,7 +1014,7 @@ msgstr "Есть атмосфера"
 msgid "Has rings"
 msgstr "Есть кольца"
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple, Android, Windows
 msgid "Help"
 msgstr "Справка"
 

@@ -772,7 +772,7 @@ msgstr ""
 msgid "Esc"
 msgstr ""
 
-#  Platforms: Windows
+#  Platforms: Android, Windows
 #  Exit Celestia
 msgid "Exit"
 msgstr ""
@@ -998,7 +998,7 @@ msgstr ""
 msgid "Has rings"
 msgstr ""
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple, Android, Windows
 msgid "Help"
 msgstr ""
 

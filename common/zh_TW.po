@@ -773,7 +773,7 @@ msgstr "寫入外掛資料時發生錯誤"
 msgid "Esc"
 msgstr "Esc"
 
-#  Platforms: Windows
+#  Platforms: Android, Windows
 #  Exit Celestia
 msgid "Exit"
 msgstr "離開"
@@ -999,7 +999,7 @@ msgstr "存在大氣"
 msgid "Has rings"
 msgstr "存在星環"
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple, Android, Windows
 msgid "Help"
 msgstr "說明"
 

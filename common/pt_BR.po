@@ -778,7 +778,7 @@ msgstr ""
 msgid "Esc"
 msgstr ""
 
-#  Platforms: Windows
+#  Platforms: Android, Windows
 #  Exit Celestia
 msgid "Exit"
 msgstr "Sair"
@@ -1004,7 +1004,7 @@ msgstr "Possui atmosfera"
 msgid "Has rings"
 msgstr "Possui anéis"
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple, Android, Windows
 msgid "Help"
 msgstr "Ajuda"
 
