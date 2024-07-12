@@ -17,4 +17,6 @@
     <string name="privacy_policy_alert_show_policy_button_title">View Policy</string>
     <string name="privacy_policy_alert_accept_button_title">Agree</string>
     <string name="privacy_policy_alert_decline_button_title">Not Now</string>
+    <string name="exit_celestia_alert_title">Exit Celestia</string>
+    <string name="exit_celestia_alert_message">Are you sure you want to exit?</string>
 </resources>
