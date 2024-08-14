@@ -198,6 +198,11 @@ msgstr ""
 msgid "Anti-aliasing"
 msgstr ""
 
+#  Platforms: Android
+#  Alert content for the exit triggered by back button
+msgid "Are you sure you want to exit?"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 #  Script system access policy option
 msgid "Ask"
@@ -691,6 +696,16 @@ msgstr ", γραμμή"
 msgid "Edit"
 msgstr ""
 
+#  Platforms: Apple, Android, Windows
+#  Setting item to control whether left thumbstick should be enabled
+msgid "Enable Left Thumbstick"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Setting item to control whether right thumbstick should be enabled
+msgid "Enable Right Thumbstick"
+msgstr ""
+
 #  Platforms: Windows
 #  Template for displaying when end time cannot be correctly formatted by the system
 #, c-format
@@ -777,6 +792,11 @@ msgstr ""
 #  Exit Celestia
 msgid "Exit"
 msgstr "Έξοδος"
+
+#  Platforms: Android
+#  Alert title for the exit triggered by back button
+msgid "Exit Celestia"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Fading Orbits"

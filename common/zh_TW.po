@@ -198,6 +198,11 @@ msgstr "檢測到已連線新的螢幕，您是否想在外接螢幕上顯示 Ce
 msgid "Anti-aliasing"
 msgstr "抗鋸齒"
 
+#  Platforms: Android
+#  Alert content for the exit triggered by back button
+msgid "Are you sure you want to exit?"
+msgstr "確認需要退出？"
+
 #  Platforms: Apple, Android, Windows
 #  Script system access policy option
 msgid "Ask"
@@ -691,6 +696,16 @@ msgstr "黃道"
 msgid "Edit"
 msgstr "編輯"
 
+#  Platforms: Apple, Android, Windows
+#  Setting item to control whether left thumbstick should be enabled
+msgid "Enable Left Thumbstick"
+msgstr "啟用左搖桿"
+
+#  Platforms: Apple, Android, Windows
+#  Setting item to control whether right thumbstick should be enabled
+msgid "Enable Right Thumbstick"
+msgstr "啟用右搖桿"
+
 #  Platforms: Windows
 #  Template for displaying when end time cannot be correctly formatted by the system
 #, c-format
@@ -777,6 +792,11 @@ msgstr "Esc"
 #  Exit Celestia
 msgid "Exit"
 msgstr "離開"
+
+#  Platforms: Android
+#  Alert title for the exit triggered by back button
+msgid "Exit Celestia"
+msgstr "退出 Celestia"
 
 #  Platforms: Apple, Android, Windows
 msgid "Fading Orbits"
