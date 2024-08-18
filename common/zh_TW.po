@@ -337,6 +337,11 @@ msgstr "取消執行指令碼"
 msgid "Cannot add object"
 msgstr "無法新增物件"
 
+#  Platforms: Android
+#  Alert content when user cannot change add-on directory
+msgid "Cannot change add-on directory"
+msgstr "無法改變外掛目錄"
+
 #  Platforms: Apple
 #  Failed to share a URL
 msgid "Cannot share URL"
@@ -359,6 +364,20 @@ msgstr "Celestia PLUS"
 #  Platforms: Windows
 msgid "Celestia Screenshot"
 msgstr "Celestia 截圖"
+
+#  Platforms: Android
+msgid ""
+"Celestia will exit and perform migration the next "
+"time it is opened. Target directory will be "
+"replaced with content in the current directory. "
+"The current directory will be cleared after the "
+"content is copied. Future add-ons will be "
+"downloaded to the target directory. This "
+"operation cannot be undone, so please ensure you "
+"make a backup before you proceed."
+msgstr ""
+"Celestia "
+"將會退出並在下一次啟動時進行資料遷移。目標資料夾中的內容會被替換成當前使用的資料夾的內容。當前資料夾在其內容被複製後刪除。新的外掛會被下載到目標資料夾中。這個操作無法撤銷，請在繼續之前確保你進行了資料備份。"
 
 #  Platforms: Apple, Android, Windows
 #  Temperature scale
@@ -1314,6 +1333,17 @@ msgstr "選單"
 #  Metric measurement system
 msgid "Metric"
 msgstr "公制"
+
+#  Platforms: Android
+#  Action to migrate data where the add-on is downloaded
+msgid "Migrate Add-on Data"
+msgstr "遷移外掛資料"
+
+#  Platforms: Android
+#  Option to migrate add-on data to a directory. %s is the target directory
+#, c-format
+msgid "Migrate to %s"
+msgstr "遷移到 %s"
 
 #  Platforms: Apple, Android, Windows
 #  Minimum feature size that we should display a label for

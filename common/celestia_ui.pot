@@ -336,6 +336,11 @@ msgstr ""
 msgid "Cannot add object"
 msgstr ""
 
+#  Platforms: Android
+#  Alert content when user cannot change add-on directory
+msgid "Cannot change add-on directory"
+msgstr ""
+
 #  Platforms: Apple
 #  Failed to share a URL
 msgid "Cannot share URL"
@@ -357,6 +362,18 @@ msgstr ""
 
 #  Platforms: Windows
 msgid "Celestia Screenshot"
+msgstr ""
+
+#  Platforms: Android
+msgid ""
+"Celestia will exit and perform migration the next "
+"time it is opened. Target directory will be "
+"replaced with content in the current directory. "
+"The current directory will be cleared after the "
+"content is copied. Future add-ons will be "
+"downloaded to the target directory. This "
+"operation cannot be undone, so please ensure you "
+"make a backup before you proceed."
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
@@ -1306,6 +1323,17 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Metric measurement system
 msgid "Metric"
+msgstr ""
+
+#  Platforms: Android
+#  Action to migrate data where the add-on is downloaded
+msgid "Migrate Add-on Data"
+msgstr ""
+
+#  Platforms: Android
+#  Option to migrate add-on data to a directory. %s is the target directory
+#, c-format
+msgid "Migrate to %s"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
