@@ -382,7 +382,7 @@ msgstr ""
 msgid "Celsius"
 msgstr ""
 
-#  Platforms: Apple
+#  Platforms: Apple, Android
 #  Center an object
 msgid "Center"
 msgstr "Κέντρο"
@@ -1232,7 +1232,7 @@ msgstr "Τοπική ώρα"
 msgid "Locations"
 msgstr "Τοποθεσίες"
 
-#  Platforms: Apple
+#  Platforms: Apple, Android
 msgid "Lock"
 msgstr "Κλείδωμα"
 
@@ -2080,7 +2080,7 @@ msgstr "Οριζόντιος Διαχωρισμός"
 msgid "Split Vertically"
 msgstr "Κάθετος Διαχωρισμός"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  Marker
 msgid "Square"
 msgstr "Τετράγωνο"
@@ -2291,7 +2291,7 @@ msgstr ""
 msgid "Tour Guide"
 msgstr "Ταξιδιωτικός Οδηγός"
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple, Android, Windows
 #  Track an object
 msgid "Track"
 msgstr ""
@@ -2326,11 +2326,7 @@ msgstr ""
 msgid "Triangle"
 msgstr "Τρίγωνο"
 
-#  Platforms: Apple
-msgid "Tutorial"
-msgstr ""
-
-#  Platforms: Android
+#  Platforms: Apple, Android
 #  Failed to generate an image for sharing
 msgid "Unable to generate image."
 msgstr ""

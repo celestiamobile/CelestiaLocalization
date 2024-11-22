@@ -383,7 +383,7 @@ msgstr ""
 msgid "Celsius"
 msgstr ""
 
-#  Platforms: Apple
+#  Platforms: Apple, Android
 #  Center an object
 msgid "Center"
 msgstr "画面中央"
@@ -1239,7 +1239,7 @@ msgstr "ローカル時"
 msgid "Locations"
 msgstr "地名"
 
-#  Platforms: Apple
+#  Platforms: Apple, Android
 msgid "Lock"
 msgstr "2天体同期"
 
@@ -2087,7 +2087,7 @@ msgstr "ビューを左右に分割"
 msgid "Split Vertically"
 msgstr "ビューを上下に分割"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  Marker
 msgid "Square"
 msgstr "正方形(□)"
@@ -2298,7 +2298,7 @@ msgstr ""
 msgid "Tour Guide"
 msgstr "ツアーガイド"
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple, Android, Windows
 #  Track an object
 msgid "Track"
 msgstr "画面中央に保持"
@@ -2333,11 +2333,7 @@ msgstr ""
 msgid "Triangle"
 msgstr "三角形(△)"
 
-#  Platforms: Apple
-msgid "Tutorial"
-msgstr "チュートリアル"
-
-#  Platforms: Android
+#  Platforms: Apple, Android
 #  Failed to generate an image for sharing
 msgid "Unable to generate image."
 msgstr ""

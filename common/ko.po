@@ -382,7 +382,7 @@ msgstr ""
 msgid "Celsius"
 msgstr ""
 
-#  Platforms: Apple
+#  Platforms: Apple, Android
 #  Center an object
 msgid "Center"
 msgstr "가운데로"
@@ -1232,7 +1232,7 @@ msgstr "현지 시간"
 msgid "Locations"
 msgstr "지명"
 
-#  Platforms: Apple
+#  Platforms: Apple, Android
 msgid "Lock"
 msgstr "2천체 참조 동기"
 
@@ -2080,7 +2080,7 @@ msgstr "수평분할"
 msgid "Split Vertically"
 msgstr "수직분할"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  Marker
 msgid "Square"
 msgstr "사각형(□)"
@@ -2291,7 +2291,7 @@ msgstr ""
 msgid "Tour Guide"
 msgstr "길잡이"
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple, Android, Windows
 #  Track an object
 msgid "Track"
 msgstr ""
@@ -2326,11 +2326,7 @@ msgstr ""
 msgid "Triangle"
 msgstr "삼각형(△)"
 
-#  Platforms: Apple
-msgid "Tutorial"
-msgstr ""
-
-#  Platforms: Android
+#  Platforms: Apple, Android
 #  Failed to generate an image for sharing
 msgid "Unable to generate image."
 msgstr ""

@@ -385,7 +385,7 @@ msgstr ""
 msgid "Celsius"
 msgstr "Целзий"
 
-#  Platforms: Apple
+#  Platforms: Apple, Android
 #  Center an object
 msgid "Center"
 msgstr "Центрирай"
@@ -1248,7 +1248,7 @@ msgstr "Местно време"
 msgid "Locations"
 msgstr "Местоположения"
 
-#  Platforms: Apple
+#  Platforms: Apple, Android
 msgid "Lock"
 msgstr "Заключи"
 
@@ -2108,7 +2108,7 @@ msgstr "Раздели хоризонтално"
 msgid "Split Vertically"
 msgstr "Раздели вертикално"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  Marker
 msgid "Square"
 msgstr "Квадрат"
@@ -2325,7 +2325,7 @@ msgstr "Инструменти"
 msgid "Tour Guide"
 msgstr "Екскурзовод"
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple, Android, Windows
 #  Track an object
 msgid "Track"
 msgstr "Следвай"
@@ -2360,11 +2360,7 @@ msgstr "Пътувай по-бавно"
 msgid "Triangle"
 msgstr "Триъгълник"
 
-#  Platforms: Apple
-msgid "Tutorial"
-msgstr "Упътване"
-
-#  Platforms: Android
+#  Platforms: Apple, Android
 #  Failed to generate an image for sharing
 msgid "Unable to generate image."
 msgstr "Изображението не може да бъде създадено."

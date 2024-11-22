@@ -382,7 +382,7 @@ msgstr ""
 msgid "Celsius"
 msgstr ""
 
-#  Platforms: Apple
+#  Platforms: Apple, Android
 #  Center an object
 msgid "Center"
 msgstr "Centrer"
@@ -1232,7 +1232,7 @@ msgstr "Heure locale"
 msgid "Locations"
 msgstr "Points de repère"
 
-#  Platforms: Apple
+#  Platforms: Apple, Android
 msgid "Lock"
 msgstr "Bloquer"
 
@@ -2080,7 +2080,7 @@ msgstr "Diviser horizontalement"
 msgid "Split Vertically"
 msgstr "Diviser verticalement "
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  Marker
 msgid "Square"
 msgstr "Carré"
@@ -2291,7 +2291,7 @@ msgstr ""
 msgid "Tour Guide"
 msgstr "Guide de découverte"
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple, Android, Windows
 #  Track an object
 msgid "Track"
 msgstr "Maintenir la sélection centrée (Pister)"
@@ -2326,11 +2326,7 @@ msgstr ""
 msgid "Triangle"
 msgstr "Triangle"
 
-#  Platforms: Apple
-msgid "Tutorial"
-msgstr ""
-
-#  Platforms: Android
+#  Platforms: Apple, Android
 #  Failed to generate an image for sharing
 msgid "Unable to generate image."
 msgstr ""

@@ -384,7 +384,7 @@ msgstr ""
 msgid "Celsius"
 msgstr "攝氏度"
 
-#  Platforms: Apple
+#  Platforms: Apple, Android
 #  Center an object
 msgid "Center"
 msgstr "置中"
@@ -1240,7 +1240,7 @@ msgstr "本地時間"
 msgid "Locations"
 msgstr "位置"
 
-#  Platforms: Apple
+#  Platforms: Apple, Android
 msgid "Lock"
 msgstr "鎖定"
 
@@ -2090,7 +2090,7 @@ msgstr "水平分割"
 msgid "Split Vertically"
 msgstr "垂直分割"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  Marker
 msgid "Square"
 msgstr "方形"
@@ -2301,7 +2301,7 @@ msgstr "工具"
 msgid "Tour Guide"
 msgstr "遊歷指導"
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple, Android, Windows
 #  Track an object
 msgid "Track"
 msgstr "追蹤"
@@ -2336,11 +2336,7 @@ msgstr "減慢速度"
 msgid "Triangle"
 msgstr "三角形"
 
-#  Platforms: Apple
-msgid "Tutorial"
-msgstr "教程"
-
-#  Platforms: Android
+#  Platforms: Apple, Android
 #  Failed to generate an image for sharing
 msgid "Unable to generate image."
 msgstr "無法生成圖片。"
