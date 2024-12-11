@@ -1487,6 +1487,11 @@ msgstr "官方網站"
 msgid "OK"
 msgstr "確定"
 
+#  Platforms: Apple
+#  Open the folder for add-ons
+msgid "Open Add-on Folder"
+msgstr "開啟外掛資料夾"
+
 #  Platforms: Apple, Android, Windows
 msgid "Open Clusters"
 msgstr "疏散星團"
@@ -1495,6 +1500,11 @@ msgstr "疏散星團"
 #  Open folder for customization
 msgid "Open Custom Folder"
 msgstr "開啟自定義資料夾"
+
+#  Platforms: Apple
+#  Open the folder for scripts
+msgid "Open Script Folder"
+msgstr "開啟指令碼資料夾"
 
 #  Platforms: Apple, Android, Windows
 #  Request user consent to open a URL

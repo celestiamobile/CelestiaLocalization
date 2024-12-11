@@ -1488,6 +1488,11 @@ msgstr "官方网站"
 msgid "OK"
 msgstr "确定"
 
+#  Platforms: Apple
+#  Open the folder for add-ons
+msgid "Open Add-on Folder"
+msgstr "打开插件文件夹"
+
 #  Platforms: Apple, Android, Windows
 msgid "Open Clusters"
 msgstr "疏散星团"
@@ -1496,6 +1501,11 @@ msgstr "疏散星团"
 #  Open folder for customization
 msgid "Open Custom Folder"
 msgstr "打开自定义文件夹"
+
+#  Platforms: Apple
+#  Open the folder for scripts
+msgid "Open Script Folder"
+msgstr "打开脚本文件夹"
 
 #  Platforms: Apple, Android, Windows
 #  Request user consent to open a URL

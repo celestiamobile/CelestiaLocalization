@@ -1479,6 +1479,11 @@ msgstr ""
 msgid "OK"
 msgstr "Так"
 
+#  Platforms: Apple
+#  Open the folder for add-ons
+msgid "Open Add-on Folder"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 msgid "Open Clusters"
 msgstr "Адкрытыя скопішчы"
@@ -1486,6 +1491,11 @@ msgstr "Адкрытыя скопішчы"
 #  Platforms: Windows
 #  Open folder for customization
 msgid "Open Custom Folder"
+msgstr ""
+
+#  Platforms: Apple
+#  Open the folder for scripts
+msgid "Open Script Folder"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows

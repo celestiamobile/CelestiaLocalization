@@ -1499,6 +1499,11 @@ msgstr "Официална Интернет страница"
 msgid "OK"
 msgstr "Добре"
 
+#  Platforms: Apple
+#  Open the folder for add-ons
+msgid "Open Add-on Folder"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 msgid "Open Clusters"
 msgstr "Разсеяни звездни купове"
@@ -1507,6 +1512,11 @@ msgstr "Разсеяни звездни купове"
 #  Open folder for customization
 msgid "Open Custom Folder"
 msgstr "Отвори персонализираната папка"
+
+#  Platforms: Apple
+#  Open the folder for scripts
+msgid "Open Script Folder"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Request user consent to open a URL
