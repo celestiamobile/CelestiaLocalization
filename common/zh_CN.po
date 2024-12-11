@@ -1488,7 +1488,7 @@ msgstr "官方网站"
 msgid "OK"
 msgstr "确定"
 
-#  Platforms: Apple
+#  Platforms: Apple, Windows
 #  Open the folder for add-ons
 msgid "Open Add-on Folder"
 msgstr "打开插件文件夹"
@@ -1502,7 +1502,7 @@ msgstr "疏散星团"
 msgid "Open Custom Folder"
 msgstr "打开自定义文件夹"
 
-#  Platforms: Apple
+#  Platforms: Apple, Windows
 #  Open the folder for scripts
 msgid "Open Script Folder"
 msgstr "打开脚本文件夹"

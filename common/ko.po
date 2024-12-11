@@ -1479,7 +1479,7 @@ msgstr ""
 msgid "OK"
 msgstr "확인"
 
-#  Platforms: Apple
+#  Platforms: Apple, Windows
 #  Open the folder for add-ons
 msgid "Open Add-on Folder"
 msgstr ""
@@ -1493,7 +1493,7 @@ msgstr "산개성단"
 msgid "Open Custom Folder"
 msgstr ""
 
-#  Platforms: Apple
+#  Platforms: Apple, Windows
 #  Open the folder for scripts
 msgid "Open Script Folder"
 msgstr ""

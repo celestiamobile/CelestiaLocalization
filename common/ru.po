@@ -1502,7 +1502,7 @@ msgstr "Официальный сайт"
 msgid "OK"
 msgstr "OK"
 
-#  Platforms: Apple
+#  Platforms: Apple, Windows
 #  Open the folder for add-ons
 msgid "Open Add-on Folder"
 msgstr ""
@@ -1516,7 +1516,7 @@ msgstr "Рассеянные скопления"
 msgid "Open Custom Folder"
 msgstr "Открыть кастомизируемую папку"
 
-#  Platforms: Apple
+#  Platforms: Apple, Windows
 #  Open the folder for scripts
 msgid "Open Script Folder"
 msgstr ""

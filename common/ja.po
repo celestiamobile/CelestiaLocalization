@@ -1486,7 +1486,7 @@ msgstr "公式ウェブサイト"
 msgid "OK"
 msgstr "OK"
 
-#  Platforms: Apple
+#  Platforms: Apple, Windows
 #  Open the folder for add-ons
 msgid "Open Add-on Folder"
 msgstr ""
@@ -1500,7 +1500,7 @@ msgstr "散開星団"
 msgid "Open Custom Folder"
 msgstr ""
 
-#  Platforms: Apple
+#  Platforms: Apple, Windows
 #  Open the folder for scripts
 msgid "Open Script Folder"
 msgstr ""

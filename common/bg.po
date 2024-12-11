@@ -1499,7 +1499,7 @@ msgstr "Официална Интернет страница"
 msgid "OK"
 msgstr "Добре"
 
-#  Platforms: Apple
+#  Platforms: Apple, Windows
 #  Open the folder for add-ons
 msgid "Open Add-on Folder"
 msgstr ""
@@ -1513,7 +1513,7 @@ msgstr "Разсеяни звездни купове"
 msgid "Open Custom Folder"
 msgstr "Отвори персонализираната папка"
 
-#  Platforms: Apple
+#  Platforms: Apple, Windows
 #  Open the folder for scripts
 msgid "Open Script Folder"
 msgstr ""
