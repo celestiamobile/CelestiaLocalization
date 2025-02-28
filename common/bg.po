@@ -197,7 +197,7 @@ msgstr ""
 "Свързан е външен екран, искате ли „Celestia“ да "
 "го използва?"
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple, Android, Windows
 msgid "Anti-aliasing"
 msgstr "Изглаждане"
 
@@ -1052,7 +1052,7 @@ msgstr "Помощ"
 msgid "Hide"
 msgstr "Скрий"
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple, Android, Windows
 #  HiDPI support in display
 msgid "HiDPI"
 msgstr "HiDPI"

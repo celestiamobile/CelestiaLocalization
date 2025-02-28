@@ -194,7 +194,7 @@ msgid ""
 "display Celestia on the external screen?"
 msgstr ""
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple, Android, Windows
 msgid "Anti-aliasing"
 msgstr ""
 
@@ -1045,7 +1045,7 @@ msgstr ""
 msgid "Hide"
 msgstr ""
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple, Android, Windows
 #  HiDPI support in display
 msgid "HiDPI"
 msgstr ""

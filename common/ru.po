@@ -197,7 +197,7 @@ msgstr ""
 "Внешний дисплей подключён, подтверждаете его "
 "использование для Celestia?"
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple, Android, Windows
 msgid "Anti-aliasing"
 msgstr "Сглаживание"
 
@@ -1060,7 +1060,7 @@ msgstr "Справка"
 msgid "Hide"
 msgstr "Свернуть"
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple, Android, Windows
 #  HiDPI support in display
 msgid "HiDPI"
 msgstr "Высокая чёткость (HiDPI)"

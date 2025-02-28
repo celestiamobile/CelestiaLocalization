@@ -195,7 +195,7 @@ msgid ""
 "display Celestia on the external screen?"
 msgstr "检测到已连接新的屏幕，您是否想在外接屏幕上显示 Celestia ？"
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple, Android, Windows
 msgid "Anti-aliasing"
 msgstr "抗锯齿"
 
@@ -1048,7 +1048,7 @@ msgstr "帮助"
 msgid "Hide"
 msgstr "隐藏"
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple, Android, Windows
 #  HiDPI support in display
 msgid "HiDPI"
 msgstr "高分屏显示"
