@@ -147,7 +147,7 @@ msgstr "Über"
 msgid "About Celestia"
 msgstr "Über Celestia"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple
 #  Add a new item (bookmark)
 msgid "Add"
 msgstr "Hinzufügen"
@@ -160,6 +160,11 @@ msgstr "Lesezeichen hinzufügen"
 #  Platforms: Android
 #  Accessibility description for an add button
 msgid "Add Button"
+msgstr ""
+
+#  Platforms: Android
+#  Button to create a new favorite
+msgid "Add favorite"
 msgstr ""
 
 #  Platforms: Apple
@@ -333,7 +338,7 @@ msgstr "Abbrechen"
 msgid "Cancel Script"
 msgstr ""
 
-#  Platforms: Apple, Android
+#  Platforms: Apple
 #  Failed to add a favorite item (currently a bookmark)
 msgid "Cannot add object"
 msgstr "Objekt kann nicht hinzugefügt werden"
@@ -581,6 +586,11 @@ msgstr "DEK: %@° %@′ %@″"
 msgid "DEC: %s° %s′ %s″"
 msgstr "DEK: %s° %s′ %s″"
 
+#  Platforms: Android
+#  Button to decrement a certain value
+msgid "Decrement value"
+msgstr ""
+
 #  Platforms: Apple, Android
 msgid "Deep Sky Objects"
 msgstr "Deep-Sky-Objekte"
@@ -687,6 +697,10 @@ msgstr ""
 #  Tab for deep sky objects in Star Browser
 msgid "DSOs"
 msgstr "DSOs"
+
+#  Platforms: Android
+msgid "DSOs tab"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Dwarf Planets"
@@ -835,7 +849,7 @@ msgstr ""
 msgid "Failed to connect to the external screen."
 msgstr ""
 
-#  Platforms: Apple, Android, Windows
+#  Platforms: Apple, Windows
 msgid "Failed to download or install this add-on."
 msgstr ""
 
@@ -1011,6 +1025,11 @@ msgstr "Kugelsternhaufen"
 msgid "Go"
 msgstr "Los"
 
+#  Platforms: Android
+#  Button to go back to the previous page
+msgid "Go Back"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 msgid "Go to Object"
 msgstr "Gehe zu Objekt"
@@ -1101,6 +1120,11 @@ msgstr ""
 "\n"
 "Zwei-Finger-Pinch, um Objekte zu vergrößern oder "
 "zu verkleinern."
+
+#  Platforms: Android
+#  Button to increment a certain value
+msgid "Increment value"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  HUD display
@@ -1657,6 +1681,11 @@ msgstr "Punkte"
 msgid "Preferences…"
 msgstr "Einstellungen…"
 
+#  Platforms: Android
+#  Image preview of the selected link
+msgid "Preview image of the link"
+msgstr ""
+
 #  Platforms: Apple, Android
 #  Privacy Policy and Service Agreement
 msgid "Privacy Policy and Service Agreement"
@@ -2066,6 +2095,10 @@ msgstr ""
 msgid "Solar System"
 msgstr "Sonnensystem"
 
+#  Platforms: Android
+msgid "Solar system tab"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 msgid ""
 "Some configurations will take effect after a "
@@ -2128,6 +2161,10 @@ msgstr "Sterndarstellung"
 #  Tab for stars in Star Browser
 msgid "Stars"
 msgstr "Sterne"
+
+#  Platforms: Android
+msgid "Stars tab"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Stars with Planets"

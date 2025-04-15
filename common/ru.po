@@ -145,7 +145,7 @@ msgstr "О программе"
 msgid "About Celestia"
 msgstr "О программе"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple
 #  Add a new item (bookmark)
 msgid "Add"
 msgstr "Добавить"
@@ -159,6 +159,11 @@ msgstr "Добавить закладку"
 #  Accessibility description for an add button
 msgid "Add Button"
 msgstr "Добавить кнопку"
+
+#  Platforms: Android
+#  Button to create a new favorite
+msgid "Add favorite"
+msgstr ""
 
 #  Platforms: Apple
 #  Description for Pinch Zoom setting
@@ -335,7 +340,7 @@ msgstr "Отмена"
 msgid "Cancel Script"
 msgstr "Остановить сценарий"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple
 #  Failed to add a favorite item (currently a bookmark)
 msgid "Cannot add object"
 msgstr "Не удаётся добавить объект"
@@ -585,6 +590,11 @@ msgstr "Склонение: %@° %@′ %@″"
 msgid "DEC: %s° %s′ %s″"
 msgstr "Склонение: %s° %s′ %s″"
 
+#  Platforms: Android
+#  Button to decrement a certain value
+msgid "Decrement value"
+msgstr ""
+
 #  Platforms: Apple, Android
 msgid "Deep Sky Objects"
 msgstr "Объекты глубокого космоса"
@@ -693,6 +703,10 @@ msgstr ""
 #  Tab for deep sky objects in Star Browser
 msgid "DSOs"
 msgstr "Объекты глубокого космоса"
+
+#  Platforms: Android
+msgid "DSOs tab"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Dwarf Planets"
@@ -841,7 +855,7 @@ msgstr "Не удалось сделать снимок экрана."
 msgid "Failed to connect to the external screen."
 msgstr "Не удалось подключиться к внешнему экрану."
 
-#  Platforms: Apple, Android, Windows
+#  Platforms: Apple, Windows
 msgid "Failed to download or install this add-on."
 msgstr ""
 "Не удалось загрузить или установить это "
@@ -1023,6 +1037,11 @@ msgstr "Шаровые скопления"
 msgid "Go"
 msgstr "Перейти"
 
+#  Platforms: Android
+#  Button to go back to the previous page
+msgid "Go Back"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 msgid "Go to Object"
 msgstr "Перейти к объекту"
@@ -1111,6 +1130,11 @@ msgstr ""
 "вращения.\n"
 "\n"
 "Щипок пальцами приблизит/отдалит объект."
+
+#  Platforms: Android
+#  Button to increment a certain value
+msgid "Increment value"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  HUD display
@@ -1669,6 +1693,11 @@ msgstr "Точки"
 msgid "Preferences…"
 msgstr "Настройки…"
 
+#  Platforms: Android
+#  Image preview of the selected link
+msgid "Preview image of the link"
+msgstr ""
+
 #  Platforms: Apple, Android
 #  Privacy Policy and Service Agreement
 msgid "Privacy Policy and Service Agreement"
@@ -2088,6 +2117,10 @@ msgstr "Солнечные"
 msgid "Solar System"
 msgstr "Солнечная система"
 
+#  Platforms: Android
+msgid "Solar system tab"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 msgid ""
 "Some configurations will take effect after a "
@@ -2152,6 +2185,10 @@ msgstr "Отрисовка звёзд"
 #  Tab for stars in Star Browser
 msgid "Stars"
 msgstr "Звёзды"
+
+#  Platforms: Android
+msgid "Stars tab"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Stars with Planets"

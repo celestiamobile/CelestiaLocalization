@@ -147,7 +147,7 @@ msgstr "关于"
 msgid "About Celestia"
 msgstr "关于 Celestia"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple
 #  Add a new item (bookmark)
 msgid "Add"
 msgstr "添加"
@@ -161,6 +161,11 @@ msgstr "添加书签"
 #  Accessibility description for an add button
 msgid "Add Button"
 msgstr "添加按钮"
+
+#  Platforms: Android
+#  Button to create a new favorite
+msgid "Add favorite"
+msgstr "添加收藏"
 
 #  Platforms: Apple
 #  Description for Pinch Zoom setting
@@ -333,7 +338,7 @@ msgstr "取消"
 msgid "Cancel Script"
 msgstr "取消运行脚本"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple
 #  Failed to add a favorite item (currently a bookmark)
 msgid "Cannot add object"
 msgstr "无法添加对象"
@@ -583,6 +588,11 @@ msgstr "DEC: %@° %@′ %@″"
 msgid "DEC: %s° %s′ %s″"
 msgstr "DEC: %s° %s′ %s″"
 
+#  Platforms: Android
+#  Button to decrement a certain value
+msgid "Decrement value"
+msgstr "减少数值"
+
 #  Platforms: Apple, Android
 msgid "Deep Sky Objects"
 msgstr "深空天体"
@@ -689,6 +699,10 @@ msgstr "拖拽行为基于拾取射线而非屏幕坐标变化"
 #  Tab for deep sky objects in Star Browser
 msgid "DSOs"
 msgstr "深空天体"
+
+#  Platforms: Android
+msgid "DSOs tab"
+msgstr "深空天体栏"
 
 #  Platforms: Apple, Android, Windows
 msgid "Dwarf Planets"
@@ -835,7 +849,7 @@ msgstr "获取截图失败。"
 msgid "Failed to connect to the external screen."
 msgstr "连接到外接屏幕失败。"
 
-#  Platforms: Apple, Android, Windows
+#  Platforms: Apple, Windows
 msgid "Failed to download or install this add-on."
 msgstr "下载或安装插件失败。"
 
@@ -1011,6 +1025,11 @@ msgstr "球状星团"
 msgid "Go"
 msgstr "前往"
 
+#  Platforms: Android
+#  Button to go back to the previous page
+msgid "Go Back"
+msgstr "返回"
+
 #  Platforms: Apple, Android, Windows
 msgid "Go to Object"
 msgstr "转到目标"
@@ -1097,6 +1116,11 @@ msgstr ""
 "在相对天体模式，拖拽以绕天体旋转。\n"
 "\n"
 "双指捏合以缩放天体。"
+
+#  Platforms: Android
+#  Button to increment a certain value
+msgid "Increment value"
+msgstr "增加数值"
 
 #  Platforms: Apple, Android, Windows
 #  HUD display
@@ -1651,6 +1675,11 @@ msgstr "点"
 msgid "Preferences…"
 msgstr "偏好设置…"
 
+#  Platforms: Android
+#  Image preview of the selected link
+msgid "Preview image of the link"
+msgstr "链接预览图片"
+
 #  Platforms: Apple, Android
 #  Privacy Policy and Service Agreement
 msgid "Privacy Policy and Service Agreement"
@@ -2060,6 +2089,10 @@ msgstr "日食"
 msgid "Solar System"
 msgstr "太阳系"
 
+#  Platforms: Android
+msgid "Solar system tab"
+msgstr "太阳系栏"
+
 #  Platforms: Apple, Android, Windows
 msgid ""
 "Some configurations will take effect after a "
@@ -2122,6 +2155,10 @@ msgstr "恒星样式"
 #  Tab for stars in Star Browser
 msgid "Stars"
 msgstr "恒星"
+
+#  Platforms: Android
+msgid "Stars tab"
+msgstr "恒星栏"
 
 #  Platforms: Apple, Android, Windows
 msgid "Stars with Planets"
