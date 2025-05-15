@@ -146,7 +146,7 @@ msgstr ""
 msgid "About Celestia"
 msgstr "Acerca de Celestia"
 
-#  Platforms: Apple
+#  Platforms: Apple, Android
 #  Add a new item (bookmark)
 msgid "Add"
 msgstr ""
@@ -159,11 +159,6 @@ msgstr "Añadir señalador"
 #  Platforms: Android
 #  Accessibility description for an add button
 msgid "Add Button"
-msgstr ""
-
-#  Platforms: Android
-#  Button to create a new favorite
-msgid "Add favorite"
 msgstr ""
 
 #  Platforms: Apple
@@ -337,7 +332,7 @@ msgstr "Cancelar"
 msgid "Cancel Script"
 msgstr ""
 
-#  Platforms: Apple
+#  Platforms: Apple, Android
 #  Failed to add a favorite item (currently a bookmark)
 msgid "Cannot add object"
 msgstr ""
@@ -585,11 +580,6 @@ msgstr ""
 msgid "DEC: %s° %s′ %s″"
 msgstr ""
 
-#  Platforms: Android
-#  Button to decrement a certain value
-msgid "Decrement value"
-msgstr ""
-
 #  Platforms: Apple, Android
 msgid "Deep Sky Objects"
 msgstr " objetos de espacio profundo"
@@ -696,10 +686,6 @@ msgstr ""
 #  Tab for deep sky objects in Star Browser
 msgid "DSOs"
 msgstr "Objetos de cielo profundo"
-
-#  Platforms: Android
-msgid "DSOs tab"
-msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Dwarf Planets"
@@ -846,7 +832,7 @@ msgstr ""
 msgid "Failed to connect to the external screen."
 msgstr ""
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple, Android, Windows
 msgid "Failed to download or install this add-on."
 msgstr ""
 
@@ -1022,11 +1008,6 @@ msgstr "Cúmulos globulares"
 msgid "Go"
 msgstr "Ir"
 
-#  Platforms: Android
-#  Button to go back to the previous page
-msgid "Go Back"
-msgstr ""
-
 #  Platforms: Apple, Android, Windows
 msgid "Go to Object"
 msgstr "Ir a objeto"
@@ -1106,11 +1087,6 @@ msgid ""
 "In object mode, drag to rotate around an object.\n"
 "\n"
 "Pinch to zoom in/out on an object."
-msgstr ""
-
-#  Platforms: Android
-#  Button to increment a certain value
-msgid "Increment value"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
@@ -2078,10 +2054,6 @@ msgstr ""
 msgid "Solar System"
 msgstr "Sistema Solar"
 
-#  Platforms: Android
-msgid "Solar system tab"
-msgstr ""
-
 #  Platforms: Apple, Android, Windows
 msgid ""
 "Some configurations will take effect after a "
@@ -2144,10 +2116,6 @@ msgstr "Estilo de estrellas"
 #  Tab for stars in Star Browser
 msgid "Stars"
 msgstr "Estrellas"
-
-#  Platforms: Android
-msgid "Stars tab"
-msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Stars with Planets"

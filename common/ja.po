@@ -147,7 +147,7 @@ msgstr "Celestiaについて"
 msgid "About Celestia"
 msgstr "Celestiaについて"
 
-#  Platforms: Apple
+#  Platforms: Apple, Android
 #  Add a new item (bookmark)
 msgid "Add"
 msgstr "追加"
@@ -160,11 +160,6 @@ msgstr "ブックマークに追加"
 #  Platforms: Android
 #  Accessibility description for an add button
 msgid "Add Button"
-msgstr ""
-
-#  Platforms: Android
-#  Button to create a new favorite
-msgid "Add favorite"
 msgstr ""
 
 #  Platforms: Apple
@@ -338,7 +333,7 @@ msgstr "キャンセル"
 msgid "Cancel Script"
 msgstr ""
 
-#  Platforms: Apple
+#  Platforms: Apple, Android
 #  Failed to add a favorite item (currently a bookmark)
 msgid "Cannot add object"
 msgstr "天体を追加できません"
@@ -586,11 +581,6 @@ msgstr "赤緯: %@° %@′ %@″"
 msgid "DEC: %s° %s′ %s″"
 msgstr "赤緯: %s° %s′ %s″"
 
-#  Platforms: Android
-#  Button to decrement a certain value
-msgid "Decrement value"
-msgstr ""
-
 #  Platforms: Apple, Android
 msgid "Deep Sky Objects"
 msgstr " 個の深宇宙天体を読み込みました。"
@@ -697,10 +687,6 @@ msgstr ""
 #  Tab for deep sky objects in Star Browser
 msgid "DSOs"
 msgstr "遠距離天体"
-
-#  Platforms: Android
-msgid "DSOs tab"
-msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Dwarf Planets"
@@ -847,7 +833,7 @@ msgstr ""
 msgid "Failed to connect to the external screen."
 msgstr ""
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple, Android, Windows
 msgid "Failed to download or install this add-on."
 msgstr ""
 
@@ -1023,11 +1009,6 @@ msgstr "球状星団"
 msgid "Go"
 msgstr "移動"
 
-#  Platforms: Android
-#  Button to go back to the previous page
-msgid "Go Back"
-msgstr ""
-
 #  Platforms: Apple, Android, Windows
 msgid "Go to Object"
 msgstr "天体へ移動"
@@ -1114,11 +1095,6 @@ msgstr ""
 "天体モードでは、ドラッグして天体の周りを移動できます。\n"
 "\n"
 "ピンチイン/アウトで天体を縮小/拡大できます。"
-
-#  Platforms: Android
-#  Button to increment a certain value
-msgid "Increment value"
-msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  HUD display
@@ -2085,10 +2061,6 @@ msgstr ""
 msgid "Solar System"
 msgstr "太陽系"
 
-#  Platforms: Android
-msgid "Solar system tab"
-msgstr ""
-
 #  Platforms: Apple, Android, Windows
 msgid ""
 "Some configurations will take effect after a "
@@ -2151,10 +2123,6 @@ msgstr "恒星表示方法"
 #  Tab for stars in Star Browser
 msgid "Stars"
 msgstr "恒星"
-
-#  Platforms: Android
-msgid "Stars tab"
-msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Stars with Planets"

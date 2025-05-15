@@ -147,7 +147,7 @@ msgstr "Относно"
 msgid "About Celestia"
 msgstr "За „Celestia“"
 
-#  Platforms: Apple
+#  Platforms: Apple, Android
 #  Add a new item (bookmark)
 msgid "Add"
 msgstr "Добави"
@@ -161,11 +161,6 @@ msgstr "Добави отметка"
 #  Accessibility description for an add button
 msgid "Add Button"
 msgstr "Добави бутон"
-
-#  Platforms: Android
-#  Button to create a new favorite
-msgid "Add favorite"
-msgstr ""
 
 #  Platforms: Apple
 #  Description for Pinch Zoom setting
@@ -340,7 +335,7 @@ msgstr "Отказ"
 msgid "Cancel Script"
 msgstr "Спри скрипта"
 
-#  Platforms: Apple
+#  Platforms: Apple, Android
 #  Failed to add a favorite item (currently a bookmark)
 msgid "Cannot add object"
 msgstr "Обектът не може да бъде добавен"
@@ -588,11 +583,6 @@ msgstr "δ: %@° %@′ %@″"
 msgid "DEC: %s° %s′ %s″"
 msgstr "δ: %s° %s′ %s″"
 
-#  Platforms: Android
-#  Button to decrement a certain value
-msgid "Decrement value"
-msgstr ""
-
 #  Platforms: Apple, Android
 msgid "Deep Sky Objects"
 msgstr "Обекти от дълбокото небе"
@@ -699,10 +689,6 @@ msgstr ""
 #  Tab for deep sky objects in Star Browser
 msgid "DSOs"
 msgstr "ОДН"
-
-#  Platforms: Android
-msgid "DSOs tab"
-msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Dwarf Planets"
@@ -851,7 +837,7 @@ msgstr "Неуспешно прихващане на снимката."
 msgid "Failed to connect to the external screen."
 msgstr "Неуспешно свързване с външния екран."
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple, Android, Windows
 msgid "Failed to download or install this add-on."
 msgstr "Неуспешно изтегляне или инсталиране на добавката."
 
@@ -1029,11 +1015,6 @@ msgstr "Кълбовидни звездни купове"
 msgid "Go"
 msgstr "Отиди"
 
-#  Platforms: Android
-#  Button to go back to the previous page
-msgid "Go Back"
-msgstr ""
-
 #  Platforms: Apple, Android, Windows
 msgid "Go to Object"
 msgstr "Отиди до обекта"
@@ -1123,11 +1104,6 @@ msgstr ""
 "\n"
 "Влачете с два пръста за увеличаване или "
 "намаляване на обекта."
-
-#  Platforms: Android
-#  Button to increment a certain value
-msgid "Increment value"
-msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  HUD display
@@ -2104,10 +2080,6 @@ msgstr "Слънчеви"
 msgid "Solar System"
 msgstr "Слънчева система"
 
-#  Platforms: Android
-msgid "Solar system tab"
-msgstr ""
-
 #  Platforms: Apple, Android, Windows
 msgid ""
 "Some configurations will take effect after a "
@@ -2172,10 +2144,6 @@ msgstr "Стил на звездите"
 #  Tab for stars in Star Browser
 msgid "Stars"
 msgstr "Звезди"
-
-#  Platforms: Android
-msgid "Stars tab"
-msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Stars with Planets"
