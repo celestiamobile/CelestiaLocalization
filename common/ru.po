@@ -720,6 +720,11 @@ msgstr "Эклиптика"
 msgid "Edit"
 msgstr "Редактировать"
 
+#  Platforms: Apple, Android
+#  Enable gyroscope control for camera rotation
+msgid "Enable Gyroscope Control"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 #  Setting item to control whether left thumbstick should be enabled
 msgid "Enable Left Thumbstick"

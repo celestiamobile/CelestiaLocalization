@@ -716,6 +716,11 @@ msgstr "黄道线"
 msgid "Edit"
 msgstr "编辑"
 
+#  Platforms: Apple, Android
+#  Enable gyroscope control for camera rotation
+msgid "Enable Gyroscope Control"
+msgstr "启用陀螺仪控制"
+
 #  Platforms: Apple, Android, Windows
 #  Setting item to control whether left thumbstick should be enabled
 msgid "Enable Left Thumbstick"
