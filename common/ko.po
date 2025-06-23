@@ -1993,6 +1993,11 @@ msgstr "도시 보기"
 msgid "Show Markers"
 msgstr "마커 보기"
 
+#  Platforms: Apple
+#  Menu action to indicate that more items that are not shown in the menu
+msgid "Show More…"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 msgid "Show Orbits"
 msgstr "궤도 보기"

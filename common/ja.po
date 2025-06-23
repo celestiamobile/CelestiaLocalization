@@ -2000,6 +2000,11 @@ msgstr "地名を表示"
 msgid "Show Markers"
 msgstr "マーカーを表示"
 
+#  Platforms: Apple
+#  Menu action to indicate that more items that are not shown in the menu
+msgid "Show More…"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 msgid "Show Orbits"
 msgstr "軌道を表示"

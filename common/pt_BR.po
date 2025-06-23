@@ -2008,6 +2008,11 @@ msgstr "Mostrar Localizações"
 msgid "Show Markers"
 msgstr "Mostrar Marcadores"
 
+#  Platforms: Apple
+#  Menu action to indicate that more items that are not shown in the menu
+msgid "Show More…"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 msgid "Show Orbits"
 msgstr "Mostrar Órbitas"

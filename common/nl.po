@@ -1993,6 +1993,11 @@ msgstr "Namen van steden weergeven"
 msgid "Show Markers"
 msgstr "Markeringen weergeven"
 
+#  Platforms: Apple
+#  Menu action to indicate that more items that are not shown in the menu
+msgid "Show More…"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 msgid "Show Orbits"
 msgstr "Omloopbanen weergeven"

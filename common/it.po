@@ -1993,6 +1993,11 @@ msgstr "Mostra le città"
 msgid "Show Markers"
 msgstr "Mostra i marcatori"
 
+#  Platforms: Apple
+#  Menu action to indicate that more items that are not shown in the menu
+msgid "Show More…"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 msgid "Show Orbits"
 msgstr "Mostra le orbite"

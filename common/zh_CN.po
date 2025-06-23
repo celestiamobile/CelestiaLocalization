@@ -1399,7 +1399,7 @@ msgstr "星云"
 #  Platforms: Windows
 #  Create a folder in bookmark organizer
 msgid "New Folder"
-msgstr "新建文件夹…"
+msgstr "新建文件夹"
 
 #  Platforms: Windows
 #  Enter new name for a bookmark node
@@ -1942,7 +1942,7 @@ msgstr "设定日期并转到行星"
 #  Platforms: Windows
 #  Button to confirm selected simulation time
 msgid "Set Time"
-msgstr "设置时间…"
+msgstr "设置时间"
 
 #  Platforms: Apple, Windows
 #  Select simulation time
@@ -2003,6 +2003,11 @@ msgstr "显示位置"
 #  Platforms: Apple, Android
 msgid "Show Markers"
 msgstr "显示标记器"
+
+#  Platforms: Apple
+#  Menu action to indicate that more items that are not shown in the menu
+msgid "Show More…"
+msgstr "显示更多…"
 
 #  Platforms: Apple, Android, Windows
 msgid "Show Orbits"

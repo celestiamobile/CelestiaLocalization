@@ -1993,6 +1993,11 @@ msgstr "Εμφάνιση Τοποθεσιών Πόλεων"
 msgid "Show Markers"
 msgstr "Εμφάνιση Σημείων Επισήμανσης Τόπου"
 
+#  Platforms: Apple
+#  Menu action to indicate that more items that are not shown in the menu
+msgid "Show More…"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 msgid "Show Orbits"
 msgstr "Εμφάνιση Τροχιών"

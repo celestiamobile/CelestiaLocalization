@@ -1993,6 +1993,11 @@ msgstr "Vis byer"
 msgid "Show Markers"
 msgstr "Vis markører"
 
+#  Platforms: Apple
+#  Menu action to indicate that more items that are not shown in the menu
+msgid "Show More…"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 msgid "Show Orbits"
 msgstr "Vis omløpsbaner"

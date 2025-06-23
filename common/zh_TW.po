@@ -312,7 +312,7 @@ msgstr "c (光速)"
 #  Platforms: Apple, Android
 #  Calculating for eclipses
 msgid "Calculating…"
-msgstr "計算中…"
+msgstr "計算中⋯"
 
 #  Platforms: Apple, Android
 #  Observer control
@@ -497,7 +497,7 @@ msgstr "拷貝網址"
 #  Platforms: Android
 #  Copying default data from APK
 msgid "Copying data…"
-msgstr "複製資料…"
+msgstr "複製資料⋯"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -898,7 +898,7 @@ msgstr "飛航模式"
 msgid ""
 "Flight mode decides how you move around in "
 "Celestia. Learn more…"
-msgstr "飛航模式決定您在 Celestia 的移動方式。瞭解詳情…"
+msgstr "飛航模式決定您在 Celestia 的移動方式。瞭解詳情⋯"
 
 #  Platforms: Apple, Android, Windows
 msgid "Focus Zooming"
@@ -1202,7 +1202,7 @@ msgstr "LB / L1"
 #  Platforms: Apple, Android, Windows
 #  Text for the link in Flight mode decides how you move around in Celestia. Learn more…
 msgid "Learn more…"
-msgstr "瞭解詳情…"
+msgstr "瞭解詳情⋯"
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -1398,7 +1398,7 @@ msgstr "星雲"
 #  Platforms: Windows
 #  Create a folder in bookmark organizer
 msgid "New Folder"
-msgstr "新資料夾…"
+msgstr "新資料夾"
 
 #  Platforms: Windows
 #  Enter new name for a bookmark node
@@ -1522,7 +1522,7 @@ msgstr "OpenGL 資訊"
 
 #  Platforms: Android
 msgid "Opening external file or URL…"
-msgstr "開啟外部檔案或URL…"
+msgstr "開啟外部檔案或URL⋯"
 
 #  Platforms: Apple
 msgid "Operation not permitted."
@@ -1534,7 +1534,7 @@ msgstr "軌道"
 
 #  Platforms: Apple, Windows
 msgid "Organize Bookmarks…"
-msgstr "管理書籤…"
+msgstr "管理書籤⋯"
 
 #  Platforms: Apple, Android, Windows
 #  Other location labels; Android/iOS, Other objects to choose from in Eclipse Finder
@@ -1856,7 +1856,7 @@ msgstr "執行指令碼？"
 
 #  Platforms: Apple, Windows
 msgid "Run Script…"
-msgstr "執行工序指令"
+msgstr "執行工序指令⋯"
 
 #  Platforms: Apple, Android, Windows
 #  Star style
@@ -1941,12 +1941,12 @@ msgstr "設定日期並前往行星"
 #  Platforms: Windows
 #  Button to confirm selected simulation time
 msgid "Set Time"
-msgstr "設定時間…"
+msgstr "設定時間"
 
 #  Platforms: Apple, Windows
 #  Select simulation time
 msgid "Set Time…"
-msgstr "設定時間…"
+msgstr "設定時間⋯"
 
 #  Platforms: Apple, Android, Windows
 #  Set simulation time to device
@@ -1959,7 +1959,7 @@ msgstr "設定"
 
 #  Platforms: Apple
 msgid "Settings…"
-msgstr "設定…"
+msgstr "設定⋯"
 
 #  Platforms: Apple, Android
 msgid "Share"
@@ -2002,6 +2002,11 @@ msgstr "顯示位置"
 #  Platforms: Apple, Android
 msgid "Show Markers"
 msgstr "標記"
+
+#  Platforms: Apple
+#  Menu action to indicate that more items that are not shown in the menu
+msgid "Show More…"
+msgstr "顯示更多⋯"
 
 #  Platforms: Apple, Android, Windows
 msgid "Show Orbits"
