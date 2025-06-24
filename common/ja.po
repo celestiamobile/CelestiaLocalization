@@ -488,7 +488,12 @@ msgstr ""
 msgid "Coordinates"
 msgstr "座標"
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple
+#  Copy current URL to pasteboard
+msgid "Copy"
+msgstr ""
+
+#  Platforms: Windows
 #  Copy current URL to pasteboard
 msgid "Copy URL"
 msgstr "URLをコピー"
@@ -1544,7 +1549,12 @@ msgstr "その他"
 msgid "Partial Trajectories"
 msgstr ""
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple
+#  Paste URL from pasteboard
+msgid "Paste"
+msgstr ""
+
+#  Platforms: Windows
 #  Paste URL from pasteboard
 msgid "Paste URL"
 msgstr "URLをペースト"

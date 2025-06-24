@@ -492,7 +492,12 @@ msgstr "Система отсчёта:"
 msgid "Coordinates"
 msgstr "Координаты"
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple
+#  Copy current URL to pasteboard
+msgid "Copy"
+msgstr ""
+
+#  Platforms: Windows
 #  Copy current URL to pasteboard
 msgid "Copy URL"
 msgstr "Копировать ссылку"
@@ -1560,7 +1565,12 @@ msgstr "Прочее"
 msgid "Partial Trajectories"
 msgstr "Неполные траектории"
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple
+#  Paste URL from pasteboard
+msgid "Paste"
+msgstr ""
+
+#  Platforms: Windows
 #  Paste URL from pasteboard
 msgid "Paste URL"
 msgstr "Вставить ссылку"

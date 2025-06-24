@@ -490,7 +490,12 @@ msgstr "Координатна система:"
 msgid "Coordinates"
 msgstr "Координати"
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple
+#  Copy current URL to pasteboard
+msgid "Copy"
+msgstr ""
+
+#  Platforms: Windows
 #  Copy current URL to pasteboard
 msgid "Copy URL"
 msgstr "Копирай връзката"
@@ -1557,7 +1562,12 @@ msgstr "Други"
 msgid "Partial Trajectories"
 msgstr "Частични траектории"
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple
+#  Paste URL from pasteboard
+msgid "Paste"
+msgstr ""
+
+#  Platforms: Windows
 #  Paste URL from pasteboard
 msgid "Paste URL"
 msgstr "Постави връзката"

@@ -490,7 +490,12 @@ msgstr "坐标系统："
 msgid "Coordinates"
 msgstr "坐标"
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple
+#  Copy current URL to pasteboard
+msgid "Copy"
+msgstr "拷贝"
+
+#  Platforms: Windows
 #  Copy current URL to pasteboard
 msgid "Copy URL"
 msgstr "拷贝URL"
@@ -1546,7 +1551,12 @@ msgstr "其他"
 msgid "Partial Trajectories"
 msgstr "部分轨迹"
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple
+#  Paste URL from pasteboard
+msgid "Paste"
+msgstr "粘贴"
+
+#  Platforms: Windows
 #  Paste URL from pasteboard
 msgid "Paste URL"
 msgstr "粘贴URL"

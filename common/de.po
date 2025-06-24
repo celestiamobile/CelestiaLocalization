@@ -488,7 +488,12 @@ msgstr ""
 msgid "Coordinates"
 msgstr "Koordinaten"
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple
+#  Copy current URL to pasteboard
+msgid "Copy"
+msgstr ""
+
+#  Platforms: Windows
 #  Copy current URL to pasteboard
 msgid "Copy URL"
 msgstr "URL kopieren"
@@ -1552,7 +1557,12 @@ msgstr "Sonstige"
 msgid "Partial Trajectories"
 msgstr ""
 
-#  Platforms: Apple, Windows
+#  Platforms: Apple
+#  Paste URL from pasteboard
+msgid "Paste"
+msgstr ""
+
+#  Platforms: Windows
 #  Paste URL from pasteboard
 msgid "Paste URL"
 msgstr "URL einfügen"
