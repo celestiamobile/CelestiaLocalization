@@ -1878,6 +1878,11 @@ msgstr "缩放点"
 msgid "Script Control"
 msgstr "脚本控制"
 
+#  Platforms: Apple
+#  Alert title for scripts requesting system access
+msgid "Script System Access"
+msgstr "脚本系统访问"
+
 #  Platforms: Apple, Android, Windows
 #  Policy for managing lua script's access to the system
 msgid "Script System Access Policy"
@@ -2271,6 +2276,15 @@ msgid ""
 "This feature is only available to Celestia PLUS "
 "users."
 msgstr "需要开通 Celestia PLUS 使用此功能"
+
+#  Platforms: Apple
+#  Alert message for scripts requesting system access
+msgid ""
+"This script requests permission to read/write "
+"files and execute external programs. Allowing "
+"this can be dangerous.\n"
+"Do you trust the script and want to allow this?"
+msgstr "此脚本请求访问权限以读取/写入文件和执行外部程序。允许此操作可能会有危险。\n您是否信任该脚本并希望允许此操作？"
 
 #  Platforms: Apple, Android, Windows
 #  Settings for game controller thumbsticks
