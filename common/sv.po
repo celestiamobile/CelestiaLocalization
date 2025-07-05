@@ -136,6 +136,11 @@ msgstr ""
 msgid "A / X"
 msgstr ""
 
+#  Platforms: Android
+#, c-format
+msgid "A filename needed to be present for %s"
+msgstr ""
+
 #  Platforms: Apple, Android
 #  About Celstia...
 msgid "About"
@@ -351,6 +356,11 @@ msgstr ""
 #  Take a screenshot in Celestia
 msgid "Capture Image"
 msgstr "Fånga bild"
+
+#  Platforms: Android
+#, c-format
+msgid "Celestia does not know how to open %s"
+msgstr ""
 
 #  Platforms: Windows
 msgid "Celestia Help"
@@ -1868,6 +1878,11 @@ msgid "Script Control"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+#  Alert title for scripts requesting system access
+msgid "Script System Access"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Policy for managing lua script's access to the system
 msgid "Script System Access Policy"
 msgstr ""
@@ -2259,6 +2274,15 @@ msgstr ""
 msgid ""
 "This feature is only available to Celestia PLUS "
 "users."
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Alert message for scripts requesting system access
+msgid ""
+"This script requests permission to read/write "
+"files and execute external programs. Allowing "
+"this can be dangerous.\n"
+"Do you trust the script and want to allow this?"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows

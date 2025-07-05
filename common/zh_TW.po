@@ -136,6 +136,11 @@ msgstr "1000 千米/秒"
 msgid "A / X"
 msgstr "A / X"
 
+#  Platforms: Android
+#, c-format
+msgid "A filename needed to be present for %s"
+msgstr "%s 中需要包含一個檔名"
+
 #  Platforms: Apple, Android
 #  About Celstia...
 msgid "About"
@@ -351,6 +356,11 @@ msgstr "分享 URL 失敗"
 #  Take a screenshot in Celestia
 msgid "Capture Image"
 msgstr "抓取圖像"
+
+#  Platforms: Android
+#, c-format
+msgid "Celestia does not know how to open %s"
+msgstr "Celestia 無法開啟 %s"
 
 #  Platforms: Windows
 msgid "Celestia Help"
@@ -1878,6 +1888,11 @@ msgid "Script Control"
 msgstr "指令碼控制"
 
 #  Platforms: Apple, Android, Windows
+#  Alert title for scripts requesting system access
+msgid "Script System Access"
+msgstr "系統訪問許可權"
+
+#  Platforms: Apple, Android, Windows
 #  Policy for managing lua script's access to the system
 msgid "Script System Access Policy"
 msgstr "腳本系統訪問策略"
@@ -2270,6 +2285,17 @@ msgid ""
 "This feature is only available to Celestia PLUS "
 "users."
 msgstr "需要開通 Celestia PLUS 使用此功能"
+
+#  Platforms: Apple, Android, Windows
+#  Alert message for scripts requesting system access
+msgid ""
+"This script requests permission to read/write "
+"files and execute external programs. Allowing "
+"this can be dangerous.\n"
+"Do you trust the script and want to allow this?"
+msgstr ""
+"此指令碼請求訪問許可權以讀取/寫入檔案和執行外部程式。允許此操作可能會有危險。\n"
+"您是否信任該指令碼並希望允許此操作？"
 
 #  Platforms: Apple, Android, Windows
 #  Settings for game controller thumbsticks
