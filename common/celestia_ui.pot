@@ -178,6 +178,11 @@ msgid "Advanced"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+#  Option to align camera to surface when landing
+msgid "Align to Surface on Landing"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Script system access policy option
 msgid "Allow"
 msgstr ""
@@ -316,6 +321,11 @@ msgstr ""
 #  Platforms: Apple, Android
 #  Calculating for eclipses
 msgid "Calculating…"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Settings for camera control
+msgid "Camera"
 msgstr ""
 
 #  Platforms: Apple, Android
