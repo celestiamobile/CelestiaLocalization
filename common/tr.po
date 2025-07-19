@@ -1479,10 +1479,6 @@ msgstr ""
 msgid "Object Name"
 msgstr "Nesne İsmi"
 
-#  Platforms: Windows
-msgid "Object name:"
-msgstr "Cisim adı:"
-
 #  Platforms: Apple, Android, Windows
 msgid "Object not found"
 msgstr "Cisim Bulunamadı"
@@ -1906,8 +1902,13 @@ msgstr "Scriptler"
 msgid "Scripts and URLs"
 msgstr ""
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 msgid "Search"
+msgstr ""
+
+#  Platforms: Apple, Windows
+#  Menu item to start searching
+msgid "Search…"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
@@ -1919,11 +1920,6 @@ msgstr ""
 #  Select an object
 msgid "Select"
 msgstr "Seçin"
-
-#  Platforms: Windows
-#  Select an object
-msgid "Select Object"
-msgstr "Nesne Seçin"
 
 #  Platforms: Apple, Windows
 msgid "Select Sol"
@@ -2199,7 +2195,7 @@ msgstr ""
 msgid "Stop"
 msgstr ""
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  Subsystem of an object (e.g. planetarium system)
 msgid "Subsystem"
 msgstr ""
@@ -2459,6 +2455,11 @@ msgstr ""
 #  Platforms: Apple, Android
 #  URL for Use Add-ons and Scripts wiki
 msgid "Use Add-ons and Scripts"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Option to use a spacecraft as cockpit
+msgid "Use as Cockpit"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows

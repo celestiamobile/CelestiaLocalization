@@ -1486,10 +1486,6 @@ msgstr ""
 msgid "Object Name"
 msgstr "天体名"
 
-#  Platforms: Windows
-msgid "Object name:"
-msgstr "天体名:"
-
 #  Platforms: Apple, Android, Windows
 msgid "Object not found"
 msgstr "天体が見つかりません"
@@ -1913,9 +1909,14 @@ msgstr "スクリプト"
 msgid "Scripts and URLs"
 msgstr ""
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 msgid "Search"
 msgstr "検索"
+
+#  Platforms: Apple, Windows
+#  Menu item to start searching
+msgid "Search…"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Security settings title
@@ -1926,11 +1927,6 @@ msgstr ""
 #  Select an object
 msgid "Select"
 msgstr "選択"
-
-#  Platforms: Windows
-#  Select an object
-msgid "Select Object"
-msgstr "天体を選択"
 
 #  Platforms: Apple, Windows
 msgid "Select Sol"
@@ -2206,7 +2202,7 @@ msgstr ""
 msgid "Stop"
 msgstr "停止"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  Subsystem of an object (e.g. planetarium system)
 msgid "Subsystem"
 msgstr "周回する天体"
@@ -2466,6 +2462,11 @@ msgstr ""
 #  Platforms: Apple, Android
 #  URL for Use Add-ons and Scripts wiki
 msgid "Use Add-ons and Scripts"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Option to use a spacecraft as cockpit
+msgid "Use as Cockpit"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows

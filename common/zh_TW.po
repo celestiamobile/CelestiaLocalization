@@ -1487,10 +1487,6 @@ msgstr "相對天體模式"
 msgid "Object Name"
 msgstr "天體名稱"
 
-#  Platforms: Windows
-msgid "Object name:"
-msgstr "星體名稱"
-
 #  Platforms: Apple, Android, Windows
 msgid "Object not found"
 msgstr "天體"
@@ -1916,9 +1912,14 @@ msgstr "腳本"
 msgid "Scripts and URLs"
 msgstr "指令碼和URL"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 msgid "Search"
 msgstr "搜尋"
+
+#  Platforms: Apple, Windows
+#  Menu item to start searching
+msgid "Search…"
+msgstr "搜尋⋯"
 
 #  Platforms: Apple, Android, Windows
 #  Security settings title
@@ -1929,11 +1930,6 @@ msgstr "安全"
 #  Select an object
 msgid "Select"
 msgstr "選取"
-
-#  Platforms: Windows
-#  Select an object
-msgid "Select Object"
-msgstr "選擇星體"
 
 #  Platforms: Apple, Windows
 msgid "Select Sol"
@@ -2209,7 +2205,7 @@ msgstr "開始時間：%s"
 msgid "Stop"
 msgstr "停止"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  Subsystem of an object (e.g. planetarium system)
 msgid "Subsystem"
 msgstr "子系統"
@@ -2472,6 +2468,11 @@ msgstr "URL"
 #  URL for Use Add-ons and Scripts wiki
 msgid "Use Add-ons and Scripts"
 msgstr "使用外掛和指令碼"
+
+#  Platforms: Apple, Android, Windows
+#  Option to use a spacecraft as cockpit
+msgid "Use as Cockpit"
+msgstr "用作駕駛艙"
 
 #  Platforms: Apple, Android, Windows
 msgid "UTC"

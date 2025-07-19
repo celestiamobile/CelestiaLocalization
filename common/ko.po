@@ -1479,10 +1479,6 @@ msgstr ""
 msgid "Object Name"
 msgstr "천체 이름"
 
-#  Platforms: Windows
-msgid "Object name:"
-msgstr "천체 이름"
-
 #  Platforms: Apple, Android, Windows
 msgid "Object not found"
 msgstr "천체"
@@ -1906,9 +1902,14 @@ msgstr "스크립트"
 msgid "Scripts and URLs"
 msgstr ""
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 msgid "Search"
 msgstr "검색"
+
+#  Platforms: Apple, Windows
+#  Menu item to start searching
+msgid "Search…"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Security settings title
@@ -1918,11 +1919,6 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Select an object
 msgid "Select"
-msgstr "천체 선택"
-
-#  Platforms: Windows
-#  Select an object
-msgid "Select Object"
 msgstr "천체 선택"
 
 #  Platforms: Apple, Windows
@@ -2199,7 +2195,7 @@ msgstr ""
 msgid "Stop"
 msgstr ""
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  Subsystem of an object (e.g. planetarium system)
 msgid "Subsystem"
 msgstr ""
@@ -2459,6 +2455,11 @@ msgstr ""
 #  Platforms: Apple, Android
 #  URL for Use Add-ons and Scripts wiki
 msgid "Use Add-ons and Scripts"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Option to use a spacecraft as cockpit
+msgid "Use as Cockpit"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows

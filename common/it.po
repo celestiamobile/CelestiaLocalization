@@ -1479,10 +1479,6 @@ msgstr ""
 msgid "Object Name"
 msgstr "Nome dell'Oggetto"
 
-#  Platforms: Windows
-msgid "Object name:"
-msgstr "Nome dell'Oggetto"
-
 #  Platforms: Apple, Android, Windows
 msgid "Object not found"
 msgstr "Oggetto no trovato"
@@ -1906,9 +1902,14 @@ msgstr "Scripts"
 msgid "Scripts and URLs"
 msgstr ""
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 msgid "Search"
 msgstr "Cerca"
+
+#  Platforms: Apple, Windows
+#  Menu item to start searching
+msgid "Search…"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Security settings title
@@ -1919,11 +1920,6 @@ msgstr ""
 #  Select an object
 msgid "Select"
 msgstr "Seleziona "
-
-#  Platforms: Windows
-#  Select an object
-msgid "Select Object"
-msgstr "Seleziona Oggetto"
 
 #  Platforms: Apple, Windows
 msgid "Select Sol"
@@ -2199,7 +2195,7 @@ msgstr ""
 msgid "Stop"
 msgstr ""
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  Subsystem of an object (e.g. planetarium system)
 msgid "Subsystem"
 msgstr ""
@@ -2459,6 +2455,11 @@ msgstr ""
 #  Platforms: Apple, Android
 #  URL for Use Add-ons and Scripts wiki
 msgid "Use Add-ons and Scripts"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Option to use a spacecraft as cockpit
+msgid "Use as Cockpit"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
