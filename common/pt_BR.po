@@ -270,6 +270,10 @@ msgid "Back"
 msgstr "Voltar"
 
 #  Platforms: Apple, Android, Windows
+msgid "Barred Spiral Galaxies"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Star colors option
 msgid "Blackbody (Solar Whitepoint)"
 msgstr ""
@@ -403,7 +407,7 @@ msgstr ""
 msgid "Celsius"
 msgstr ""
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  Center an object
 msgid "Center"
 msgstr "Centralizar"
@@ -577,6 +581,10 @@ msgstr ""
 msgid "D-pad Up"
 msgstr ""
 
+#  Platforms: Apple, Android, Windows
+msgid "Dark Nebulae"
+msgstr ""
+
 #  Platforms: Apple, Android
 #  Directory to load data from
 msgid "Data Directory"
@@ -740,6 +748,14 @@ msgstr "Eclíptica"
 #  Enter edit mode for favorite items
 msgid "Edit"
 msgstr "Editar"
+
+#  Platforms: Apple, Android, Windows
+msgid "Elliptical Galaxies"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+msgid "Emission Nebulae"
+msgstr ""
 
 #  Platforms: Apple, Android
 #  Enable gyroscope control for camera rotation
@@ -985,22 +1001,6 @@ msgid "Galaxies"
 msgstr "Galáxias"
 
 #  Platforms: Apple, Android, Windows
-msgid "Galaxies (Barred Spiral)"
-msgstr "Galáxias (Espirais Barradas)"
-
-#  Platforms: Apple, Android, Windows
-msgid "Galaxies (Elliptical)"
-msgstr "Galáxias (Elípticas)"
-
-#  Platforms: Apple, Android, Windows
-msgid "Galaxies (Irregular)"
-msgstr "Galáxias (Irregulares)"
-
-#  Platforms: Apple, Android, Windows
-msgid "Galaxies (Spiral)"
-msgstr "Galáxias (Espirais)"
-
-#  Platforms: Apple, Android, Windows
 #  Render parameter
 msgid "Galaxy Brightness"
 msgstr ""
@@ -1060,6 +1060,10 @@ msgstr "Grades"
 #  Grids, labels, orbits, markers
 msgid "Guides"
 msgstr "Guias"
+
+#  Platforms: Apple, Android, Windows
+msgid "H II Regions"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Indicate that an object has atmosphere
@@ -1175,6 +1179,10 @@ msgid "Invert Vertically"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+msgid "Irregular Galaxies"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Select time via entering Julian day
 msgid "Julian Day"
 msgstr ""
@@ -1250,6 +1258,10 @@ msgstr "Duração do dia: %@"
 #, c-format
 msgid "Length of day: %s"
 msgstr "Duração do dia: %s"
+
+#  Platforms: Apple, Android, Windows
+msgid "Lenticular Galaxies"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Celestia loading failed
@@ -1618,6 +1630,10 @@ msgid "Planet Rings"
 msgstr "Anéis"
 
 #  Platforms: Apple, Android, Windows
+msgid "Planetary Nebulae"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 msgid "Planets"
 msgstr "Planetas"
 
@@ -1698,6 +1714,10 @@ msgstr ""
 msgid "Privacy Policy and Service Agreement"
 msgstr ""
 
+#  Platforms: Apple, Android, Windows
+msgid "Protoplanetary Nebulae"
+msgstr ""
+
 #  Platforms: Android
 msgid ""
 "Purchase will be available immediately. "
@@ -1759,6 +1779,10 @@ msgstr "Vetores de Referência"
 msgid ""
 "Reference vectors are only visible for the "
 "current selected solar system object."
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+msgid "Reflection Nebulae"
 msgstr ""
 
 #  Platforms: Apple, Android
@@ -2141,6 +2165,10 @@ msgstr ""
 msgid "Speed Presets"
 msgstr ""
 
+#  Platforms: Apple, Android, Windows
+msgid "Spiral Galaxies"
+msgstr ""
+
 #  Platforms: Apple, Windows
 #  Split view
 msgid "Split Horizontally"
@@ -2217,6 +2245,10 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Suggest a Feature"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+msgid "Supernova Remnants"
 msgstr ""
 
 #  Platforms: Apple, Android
@@ -2427,13 +2459,17 @@ msgstr ""
 msgid "Uninstall"
 msgstr ""
 
-#  Platforms: Apple, Android, Windows
+#  Platforms: Apple
 msgid "Unknown"
 msgstr "Desconhecido"
 
 #  Platforms: Android
 msgid "Unknown error"
 msgstr "Erro desconhecido"
+
+#  Platforms: Apple, Android, Windows
+msgid "Unknown Nebulae"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Unmark an object

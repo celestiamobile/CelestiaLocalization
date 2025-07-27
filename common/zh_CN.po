@@ -270,6 +270,10 @@ msgid "Back"
 msgstr "后退"
 
 #  Platforms: Apple, Android, Windows
+msgid "Barred Spiral Galaxies"
+msgstr "棒旋星系"
+
+#  Platforms: Apple, Android, Windows
 #  Star colors option
 msgid "Blackbody (Solar Whitepoint)"
 msgstr "黑体（太阳白点）"
@@ -405,7 +409,7 @@ msgstr ""
 msgid "Celsius"
 msgstr "摄氏度"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  Center an object
 msgid "Center"
 msgstr "居中"
@@ -577,6 +581,10 @@ msgstr "方向键右"
 msgid "D-pad Up"
 msgstr "方向键上"
 
+#  Platforms: Apple, Android, Windows
+msgid "Dark Nebulae"
+msgstr "暗星云"
+
 #  Platforms: Apple, Android
 #  Directory to load data from
 msgid "Data Directory"
@@ -740,6 +748,14 @@ msgstr "黄道线"
 #  Enter edit mode for favorite items
 msgid "Edit"
 msgstr "编辑"
+
+#  Platforms: Apple, Android, Windows
+msgid "Elliptical Galaxies"
+msgstr "椭圆星系"
+
+#  Platforms: Apple, Android, Windows
+msgid "Emission Nebulae"
+msgstr "发射星云"
 
 #  Platforms: Apple, Android
 #  Enable gyroscope control for camera rotation
@@ -983,22 +999,6 @@ msgid "Galaxies"
 msgstr "星系"
 
 #  Platforms: Apple, Android, Windows
-msgid "Galaxies (Barred Spiral)"
-msgstr "棒旋星系"
-
-#  Platforms: Apple, Android, Windows
-msgid "Galaxies (Elliptical)"
-msgstr "椭圆星系"
-
-#  Platforms: Apple, Android, Windows
-msgid "Galaxies (Irregular)"
-msgstr "不规则星系"
-
-#  Platforms: Apple, Android, Windows
-msgid "Galaxies (Spiral)"
-msgstr "漩涡星系"
-
-#  Platforms: Apple, Android, Windows
 #  Render parameter
 msgid "Galaxy Brightness"
 msgstr "星系亮度"
@@ -1058,6 +1058,10 @@ msgstr "坐标系"
 #  Grids, labels, orbits, markers
 msgid "Guides"
 msgstr "向导"
+
+#  Platforms: Apple, Android, Windows
+msgid "H II Regions"
+msgstr "电离氢区"
 
 #  Platforms: Apple, Android, Windows
 #  Indicate that an object has atmosphere
@@ -1169,6 +1173,10 @@ msgid "Invert Vertically"
 msgstr "垂直反转"
 
 #  Platforms: Apple, Android, Windows
+msgid "Irregular Galaxies"
+msgstr "不规则星系"
+
+#  Platforms: Apple, Android, Windows
 #  Select time via entering Julian day
 msgid "Julian Day"
 msgstr "儒略日"
@@ -1244,6 +1252,10 @@ msgstr "日长: %@"
 #, c-format
 msgid "Length of day: %s"
 msgstr "日长: %s"
+
+#  Platforms: Apple, Android, Windows
+msgid "Lenticular Galaxies"
+msgstr "透镜星系"
 
 #  Platforms: Apple, Android, Windows
 #  Celestia loading failed
@@ -1612,6 +1624,10 @@ msgid "Planet Rings"
 msgstr "行星环"
 
 #  Platforms: Apple, Android, Windows
+msgid "Planetary Nebulae"
+msgstr "行星状星云"
+
+#  Platforms: Apple, Android, Windows
 msgid "Planets"
 msgstr "行星"
 
@@ -1692,6 +1708,10 @@ msgstr "链接预览图片"
 msgid "Privacy Policy and Service Agreement"
 msgstr "隐私政策与服务协议"
 
+#  Platforms: Apple, Android, Windows
+msgid "Protoplanetary Nebulae"
+msgstr "原行星云"
+
 #  Platforms: Android
 msgid ""
 "Purchase will be available immediately. "
@@ -1756,6 +1776,10 @@ msgid ""
 "Reference vectors are only visible for the "
 "current selected solar system object."
 msgstr "参考向量只对当前选中的太阳系天体有效。"
+
+#  Platforms: Apple, Android, Windows
+msgid "Reflection Nebulae"
+msgstr "反射星云"
 
 #  Platforms: Apple, Android
 #  Button to refresh this list
@@ -2137,6 +2161,10 @@ msgstr "速度控制"
 msgid "Speed Presets"
 msgstr "预设速度"
 
+#  Platforms: Apple, Android, Windows
+msgid "Spiral Galaxies"
+msgstr "旋涡星系"
+
 #  Platforms: Apple, Windows
 #  Split view
 msgid "Split Horizontally"
@@ -2214,6 +2242,10 @@ msgstr "子系统"
 #  Platforms: Apple, Android, Windows
 msgid "Suggest a Feature"
 msgstr "功能建议"
+
+#  Platforms: Apple, Android, Windows
+msgid "Supernova Remnants"
+msgstr "超新星遗迹"
 
 #  Platforms: Apple, Android
 #  Benefits of Celestia PLUS
@@ -2423,13 +2455,17 @@ msgstr "无法卸载插件。"
 msgid "Uninstall"
 msgstr "卸载"
 
-#  Platforms: Apple, Android, Windows
+#  Platforms: Apple
 msgid "Unknown"
 msgstr "未知"
 
 #  Platforms: Android
 msgid "Unknown error"
 msgstr "未知错误"
+
+#  Platforms: Apple, Android, Windows
+msgid "Unknown Nebulae"
+msgstr "未知星云"
 
 #  Platforms: Apple, Android, Windows
 #  Unmark an object

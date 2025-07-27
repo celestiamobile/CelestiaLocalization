@@ -270,6 +270,10 @@ msgid "Back"
 msgstr "前の状態へ"
 
 #  Platforms: Apple, Android, Windows
+msgid "Barred Spiral Galaxies"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Star colors option
 msgid "Blackbody (Solar Whitepoint)"
 msgstr ""
@@ -403,7 +407,7 @@ msgstr ""
 msgid "Celsius"
 msgstr ""
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  Center an object
 msgid "Center"
 msgstr "画面中央"
@@ -575,6 +579,10 @@ msgstr ""
 msgid "D-pad Up"
 msgstr ""
 
+#  Platforms: Apple, Android, Windows
+msgid "Dark Nebulae"
+msgstr ""
+
 #  Platforms: Apple, Android
 #  Directory to load data from
 msgid "Data Directory"
@@ -738,6 +746,14 @@ msgstr "黄道面"
 #  Enter edit mode for favorite items
 msgid "Edit"
 msgstr "編集"
+
+#  Platforms: Apple, Android, Windows
+msgid "Elliptical Galaxies"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+msgid "Emission Nebulae"
+msgstr ""
 
 #  Platforms: Apple, Android
 #  Enable gyroscope control for camera rotation
@@ -981,22 +997,6 @@ msgid "Galaxies"
 msgstr "銀河"
 
 #  Platforms: Apple, Android, Windows
-msgid "Galaxies (Barred Spiral)"
-msgstr "棒渦巻銀河"
-
-#  Platforms: Apple, Android, Windows
-msgid "Galaxies (Elliptical)"
-msgstr "楕円銀河"
-
-#  Platforms: Apple, Android, Windows
-msgid "Galaxies (Irregular)"
-msgstr "不規則銀河"
-
-#  Platforms: Apple, Android, Windows
-msgid "Galaxies (Spiral)"
-msgstr "渦巻銀河"
-
-#  Platforms: Apple, Android, Windows
 #  Render parameter
 msgid "Galaxy Brightness"
 msgstr "銀河の明るさ"
@@ -1056,6 +1056,10 @@ msgstr "座標"
 #  Grids, labels, orbits, markers
 msgid "Guides"
 msgstr "ガイド"
+
+#  Platforms: Apple, Android, Windows
+msgid "H II Regions"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Indicate that an object has atmosphere
@@ -1167,6 +1171,10 @@ msgid "Invert Vertically"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+msgid "Irregular Galaxies"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Select time via entering Julian day
 msgid "Julian Day"
 msgstr ""
@@ -1242,6 +1250,10 @@ msgstr "1日の長さ: %@"
 #, c-format
 msgid "Length of day: %s"
 msgstr "1日の長さ: %s"
+
+#  Platforms: Apple, Android, Windows
+msgid "Lenticular Galaxies"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Celestia loading failed
@@ -1610,6 +1622,10 @@ msgid "Planet Rings"
 msgstr "惑星の輪"
 
 #  Platforms: Apple, Android, Windows
+msgid "Planetary Nebulae"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 msgid "Planets"
 msgstr "惑星"
 
@@ -1690,6 +1706,10 @@ msgstr ""
 msgid "Privacy Policy and Service Agreement"
 msgstr ""
 
+#  Platforms: Apple, Android, Windows
+msgid "Protoplanetary Nebulae"
+msgstr ""
+
 #  Platforms: Android
 msgid ""
 "Purchase will be available immediately. "
@@ -1752,6 +1772,10 @@ msgid ""
 "Reference vectors are only visible for the "
 "current selected solar system object."
 msgstr "参照ベクトルは、現在選択されている太陽系の天体に対してのみ表示されます。"
+
+#  Platforms: Apple, Android, Windows
+msgid "Reflection Nebulae"
+msgstr ""
 
 #  Platforms: Apple, Android
 #  Button to refresh this list
@@ -2133,6 +2157,10 @@ msgstr ""
 msgid "Speed Presets"
 msgstr ""
 
+#  Platforms: Apple, Android, Windows
+msgid "Spiral Galaxies"
+msgstr ""
+
 #  Platforms: Apple, Windows
 #  Split view
 msgid "Split Horizontally"
@@ -2209,6 +2237,10 @@ msgstr "周回する天体"
 
 #  Platforms: Apple, Android, Windows
 msgid "Suggest a Feature"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+msgid "Supernova Remnants"
 msgstr ""
 
 #  Platforms: Apple, Android
@@ -2417,13 +2449,17 @@ msgstr ""
 msgid "Uninstall"
 msgstr ""
 
-#  Platforms: Apple, Android, Windows
+#  Platforms: Apple
 msgid "Unknown"
 msgstr "不明"
 
 #  Platforms: Android
 msgid "Unknown error"
 msgstr "不明なエラー"
+
+#  Platforms: Apple, Android, Windows
+msgid "Unknown Nebulae"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Unmark an object
