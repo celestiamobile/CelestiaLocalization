@@ -685,7 +685,7 @@ msgstr ""
 msgid "Do you want to cancel this task?"
 msgstr ""
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 msgid "Do you want to uninstall this add-on?"
 msgstr ""
 
@@ -1405,6 +1405,11 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 msgid "Moons"
 msgstr "Holdak"
+
+#  Platforms: Apple, Android
+#  Button to show more actions to in the bottom toolbar
+msgid "More actions"
+msgstr ""
 
 #  Platforms: Apple, Android
 #  Guide to control Celestia with a mouse/keyboard
@@ -2143,11 +2148,6 @@ msgstr ""
 #  Platforms: Apple, Android
 #  Speed control
 msgid "Speed Control"
-msgstr ""
-
-#  Platforms: Apple, Android
-#  Action to show a list of presets in speed
-msgid "Speed Presets"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
