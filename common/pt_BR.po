@@ -417,7 +417,8 @@ msgstr "Centralizar"
 msgid "Center Selection"
 msgstr "Centralizar na Seleção"
 
-#  Platforms: Android
+#  Platforms: Android, Windows
+#  Change a value
 #  Change subscription service
 msgid "Change"
 msgstr ""
@@ -469,7 +470,7 @@ msgstr "Cometas"
 msgid "Compute"
 msgstr "Calcular"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  celestia.cfg
 msgid "Config File"
 msgstr "Arquivo de Configuração"
@@ -552,7 +553,7 @@ msgstr ""
 msgid "Current Time"
 msgstr "Hora Atual"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 msgid "Custom"
 msgstr "Personalizado"
 
@@ -585,12 +586,12 @@ msgstr ""
 msgid "Dark Nebulae"
 msgstr ""
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  Directory to load data from
 msgid "Data Directory"
 msgstr "Diretório de Dados"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  Title for celestia.cfg, data location setting
 msgid "Data Location"
 msgstr "Localização dos Dados"
@@ -1822,6 +1823,11 @@ msgstr "Renderizador"
 
 #  Platforms: Apple, Android, Windows
 msgid "Report a Bug"
+msgstr ""
+
+#  Platforms: Windows
+#  Reset a value to default
+msgid "Reset"
 msgstr ""
 
 #  Platforms: Apple, Android

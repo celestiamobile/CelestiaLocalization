@@ -418,7 +418,8 @@ msgstr "置中"
 msgid "Center Selection"
 msgstr "選取星體置中"
 
-#  Platforms: Android
+#  Platforms: Android, Windows
+#  Change a value
 #  Change subscription service
 msgid "Change"
 msgstr "修改"
@@ -470,7 +471,7 @@ msgstr "彗星"
 msgid "Compute"
 msgstr "計算"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  celestia.cfg
 msgid "Config File"
 msgstr "配置檔案"
@@ -551,7 +552,7 @@ msgstr "當前語言"
 msgid "Current Time"
 msgstr "當前時間"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 msgid "Custom"
 msgstr "自定義"
 
@@ -584,12 +585,12 @@ msgstr "方向鍵上"
 msgid "Dark Nebulae"
 msgstr "暗星雲"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  Directory to load data from
 msgid "Data Directory"
 msgstr "資料目錄"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  Title for celestia.cfg, data location setting
 msgid "Data Location"
 msgstr "資料位置"
@@ -1818,6 +1819,11 @@ msgstr "渲染"
 #  Platforms: Apple, Android, Windows
 msgid "Report a Bug"
 msgstr "報告 Bug"
+
+#  Platforms: Windows
+#  Reset a value to default
+msgid "Reset"
+msgstr "重置"
 
 #  Platforms: Apple, Android
 #  Reset celestia.cfg, data directory location
