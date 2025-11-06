@@ -2497,6 +2497,10 @@ msgstr "不支持的操作。"
 msgid "Up Arrow"
 msgstr "上箭头"
 
+#  Platforms: Apple, Android, Windows
+msgid "Update"
+msgstr "更新"
+
 #  Platforms: Apple, Android
 #  Upgrade subscription service
 msgid "Upgrade"

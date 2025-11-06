@@ -2518,6 +2518,10 @@ msgstr "Неподдържано действие."
 msgid "Up Arrow"
 msgstr "Стрелка нагоре"
 
+#  Platforms: Apple, Android, Windows
+msgid "Update"
+msgstr ""
+
 #  Platforms: Apple, Android
 #  Upgrade subscription service
 msgid "Upgrade"

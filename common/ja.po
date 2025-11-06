@@ -2491,6 +2491,10 @@ msgstr ""
 msgid "Up Arrow"
 msgstr "上矢印(↑)"
 
+#  Platforms: Apple, Android, Windows
+msgid "Update"
+msgstr ""
+
 #  Platforms: Apple, Android
 #  Upgrade subscription service
 msgid "Upgrade"

@@ -2484,6 +2484,10 @@ msgstr ""
 msgid "Up Arrow"
 msgstr "Săgeată sus"
 
+#  Platforms: Apple, Android, Windows
+msgid "Update"
+msgstr ""
+
 #  Platforms: Apple, Android
 #  Upgrade subscription service
 msgid "Upgrade"
