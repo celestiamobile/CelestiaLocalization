@@ -166,6 +166,17 @@ msgstr "Adicionar Marcardor"
 msgid "Add Button"
 msgstr ""
 
+#  Platforms: Apple, Android
+msgid "Add-on Updates"
+msgstr ""
+
+#  Platforms: Apple, Android
+#  Hint for requirement for updating add-ons.
+msgid ""
+"Add-on updates are only supported for add-ons "
+"installed on version 1.9.3 or above."
+msgstr ""
+
 #  Platforms: Apple
 #  Description for Pinch Zoom setting
 msgid ""
@@ -677,10 +688,6 @@ msgctxt "Pinch Zoom"
 msgid "Distance"
 msgstr "Distância"
 
-#  Platforms: Apple
-msgid "Distance Unit"
-msgstr ""
-
 #  Platforms: Apple, Android
 #  Prompt to ask to cancel downloading an add-on
 msgid "Do you want to cancel this task?"
@@ -819,6 +826,11 @@ msgstr ""
 #  Platforms: Android, Windows
 #, c-format
 msgid "Equatorial radius: %s"
+msgstr ""
+
+#  Platforms: Apple, Android
+#  Encountered error while checking updates.
+msgid "Error checking updates"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
@@ -1468,6 +1480,11 @@ msgstr ""
 msgid "No saved bookmarks"
 msgstr ""
 
+#  Platforms: Apple, Android
+#  Hint that there is no update for installed add-ons.
+msgid "No Update Available"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 #  Empty HUD display
 msgid "None"
@@ -1653,6 +1670,13 @@ msgstr ""
 msgid ""
 "Please ensure that you have selected a path under "
 "%s."
+msgstr ""
+
+#  Platforms: Apple, Android
+#  Encountered error while checking updates, possible recovery instruction.
+msgid ""
+"Please ensure you have a valid Celestia PLUS "
+"subscription or check again later."
 msgstr ""
 
 #  Platforms: Apple
@@ -2486,6 +2510,11 @@ msgstr "Seta para Cima"
 
 #  Platforms: Apple, Android, Windows
 msgid "Update"
+msgstr ""
+
+#  Platforms: Apple, Android
+#  View the list of add-ons that have pending updates.
+msgid "Updates"
 msgstr ""
 
 #  Platforms: Apple, Android

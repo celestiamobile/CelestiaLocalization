@@ -166,6 +166,17 @@ msgstr "新增書籤"
 msgid "Add Button"
 msgstr "新增按鈕"
 
+#  Platforms: Apple, Android
+msgid "Add-on Updates"
+msgstr "外掛更新"
+
+#  Platforms: Apple, Android
+#  Hint for requirement for updating add-ons.
+msgid ""
+"Add-on updates are only supported for add-ons "
+"installed on version 1.9.3 or above."
+msgstr "外掛更新僅支援版本 1.9.3 及更高版本安裝的外掛。"
+
 #  Platforms: Apple
 #  Description for Pinch Zoom setting
 msgid ""
@@ -679,10 +690,6 @@ msgctxt "Pinch Zoom"
 msgid "Distance"
 msgstr "距離"
 
-#  Platforms: Apple
-msgid "Distance Unit"
-msgstr "距離單位"
-
 #  Platforms: Apple, Android
 #  Prompt to ask to cancel downloading an add-on
 msgid "Do you want to cancel this task?"
@@ -822,6 +829,11 @@ msgstr "赤道半徑: %@"
 #, c-format
 msgid "Equatorial radius: %s"
 msgstr "赤道半徑: %s"
+
+#  Platforms: Apple, Android
+#  Encountered error while checking updates.
+msgid "Error checking updates"
+msgstr "檢查更新失敗"
 
 #  Platforms: Apple, Android, Windows
 msgid "Error creating directory for add-on"
@@ -1476,6 +1488,11 @@ msgstr "無結果"
 msgid "No saved bookmarks"
 msgstr "無儲存書籤"
 
+#  Platforms: Apple, Android
+#  Hint that there is no update for installed add-ons.
+msgid "No Update Available"
+msgstr "無可用更新"
+
 #  Platforms: Apple, Android, Windows
 #  Empty HUD display
 msgid "None"
@@ -1662,6 +1679,13 @@ msgid ""
 "Please ensure that you have selected a path under "
 "%s."
 msgstr "請確保您選擇的路徑在%s下。"
+
+#  Platforms: Apple, Android
+#  Encountered error while checking updates, possible recovery instruction.
+msgid ""
+"Please ensure you have a valid Celestia PLUS "
+"subscription or check again later."
+msgstr "請確保您擁有有效的 Celestia PLUS 訂閱，或稍後再試。"
 
 #  Platforms: Apple
 #  Message for renaming a favorite item (currently bookmark)
@@ -2498,6 +2522,11 @@ msgstr "上箭號"
 
 #  Platforms: Apple, Android, Windows
 msgid "Update"
+msgstr "更新"
+
+#  Platforms: Apple, Android
+#  View the list of add-ons that have pending updates.
+msgid "Updates"
 msgstr "更新"
 
 #  Platforms: Apple, Android
