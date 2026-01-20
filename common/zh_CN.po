@@ -143,7 +143,7 @@ msgid "A filename needed to be present for %s"
 msgstr "%s 中需要包含一个文件名"
 
 #  Platforms: Apple, Android
-#  About Celstia...
+#  About Celestia
 msgid "About"
 msgstr "关于"
 
@@ -876,6 +876,10 @@ msgstr "退出"
 #  Alert title for the exit triggered by back button
 msgid "Exit Celestia"
 msgstr "退出 Celestia"
+
+#  Platforms: Apple
+msgid "External screen connected"
+msgstr "已连接新的屏幕"
 
 #  Platforms: Apple, Android, Windows
 msgid "Fading Orbits"
