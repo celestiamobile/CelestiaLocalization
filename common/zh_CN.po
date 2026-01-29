@@ -210,7 +210,7 @@ msgstr "替换表面"
 msgid "Ambient Light"
 msgstr "环境光"
 
-#  Platforms: Apple
+#  Platforms: Apple, Android
 msgid ""
 "An external screen is connected, do you want to "
 "display Celestia on the external screen?"
@@ -367,11 +367,6 @@ msgstr "取消运行脚本"
 #  Failed to add a favorite item (currently a bookmark)
 msgid "Cannot add object"
 msgstr "无法添加对象"
-
-#  Platforms: Android
-#  Alert content when user cannot change add-on directory
-msgid "Cannot change add-on directory"
-msgstr "无法改变插件目录"
 
 #  Platforms: Apple
 #  Failed to share a URL
@@ -660,6 +655,11 @@ msgstr "拒绝"
 msgid "Destinations"
 msgstr "目的地"
 
+#  Platforms: Android
+#  Settings to support virtual display in external display
+msgid "Detect Virtual Display (Casting)"
+msgstr "检测虚拟显示（投屏）"
+
 #  Platforms: Apple, Android
 #  URL for Development wiki
 msgid "Development"
@@ -877,7 +877,12 @@ msgstr "退出"
 msgid "Exit Celestia"
 msgstr "退出 Celestia"
 
-#  Platforms: Apple
+#  Platforms: Android
+#  Section header text for settings
+msgid "External Display"
+msgstr "外部显示"
+
+#  Platforms: Apple, Android
 msgid "External screen connected"
 msgstr "已连接新的屏幕"
 
@@ -902,10 +907,20 @@ msgstr "连接到外接屏幕失败。"
 msgid "Failed to download or install this add-on."
 msgstr "下载或安装插件失败。"
 
+#  Platforms: Android
+#  WebView failed to load content
+msgid "Failed to load page."
+msgstr "加载页面失败。"
+
 #  Platforms: Apple, Android, Windows
 #  Control the faintest star that Celestia should display
 msgid "Faintest Stars"
 msgstr "最暗的星"
+
+#  Platforms: Android
+#  The text FAQ found in other text where FAQ indicates the link
+msgid "FAQ"
+msgstr "常见问题"
 
 #  Platforms: Apple, Android
 #  Make time go faster
@@ -1825,7 +1840,7 @@ msgstr "刷新"
 msgid "Region"
 msgstr "区域"
 
-#  Platforms: Android, Windows
+#  Platforms: Apple, Android, Windows
 #  Rename a favorite item (currently bookmark)
 msgid "Rename"
 msgstr "重命名"
@@ -2609,6 +2624,14 @@ msgstr "WebView 不可用。"
 #  Welcome message
 msgid "Welcome to Celestia"
 msgstr "欢迎使用Celestia"
+
+#  Platforms: Android
+#  Warning text for using virtual display in Celestia
+msgid ""
+"Wireless displays can sometimes stay 'active' "
+"after disconnecting. If casting fails, please "
+"check the FAQ."
+msgstr "无线显示器在断开连接后有时会保持'激活'状态。如果投屏失败，请查看常见问题。"
 
 #  Platforms: Apple, Android, Windows
 #  Marker

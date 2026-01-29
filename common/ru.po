@@ -210,7 +210,7 @@ msgstr "Альтернативные поверхности"
 msgid "Ambient Light"
 msgstr "Подсветка"
 
-#  Platforms: Apple
+#  Platforms: Apple, Android
 msgid ""
 "An external screen is connected, do you want to "
 "display Celestia on the external screen?"
@@ -369,11 +369,6 @@ msgstr "Остановить сценарий"
 #  Failed to add a favorite item (currently a bookmark)
 msgid "Cannot add object"
 msgstr "Не удаётся добавить объект"
-
-#  Platforms: Android
-#  Alert content when user cannot change add-on directory
-msgid "Cannot change add-on directory"
-msgstr ""
 
 #  Platforms: Apple
 #  Failed to share a URL
@@ -662,6 +657,11 @@ msgstr "Отклонить"
 msgid "Destinations"
 msgstr "Путеводитель"
 
+#  Platforms: Android
+#  Settings to support virtual display in external display
+msgid "Detect Virtual Display (Casting)"
+msgstr ""
+
 #  Platforms: Apple, Android
 #  URL for Development wiki
 msgid "Development"
@@ -883,7 +883,12 @@ msgstr "Выйти"
 msgid "Exit Celestia"
 msgstr ""
 
-#  Platforms: Apple
+#  Platforms: Android
+#  Section header text for settings
+msgid "External Display"
+msgstr ""
+
+#  Platforms: Apple, Android
 msgid "External screen connected"
 msgstr ""
 
@@ -910,10 +915,20 @@ msgstr ""
 "Не удалось загрузить или установить это "
 "дополнение."
 
+#  Platforms: Android
+#  WebView failed to load content
+msgid "Failed to load page."
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 #  Control the faintest star that Celestia should display
 msgid "Faintest Stars"
 msgstr "Предел звёздной величины"
+
+#  Platforms: Android
+#  The text FAQ found in other text where FAQ indicates the link
+msgid "FAQ"
+msgstr ""
 
 #  Platforms: Apple, Android
 #  Make time go faster
@@ -1851,7 +1866,7 @@ msgstr "Обновить"
 msgid "Region"
 msgstr "Регион"
 
-#  Platforms: Android, Windows
+#  Platforms: Apple, Android, Windows
 #  Rename a favorite item (currently bookmark)
 msgid "Rename"
 msgstr "Переименовать"
@@ -2645,6 +2660,14 @@ msgstr "WebView недоступен"
 #  Welcome message
 msgid "Welcome to Celestia"
 msgstr "Добро пожаловать в Celestia"
+
+#  Platforms: Android
+#  Warning text for using virtual display in Celestia
+msgid ""
+"Wireless displays can sometimes stay 'active' "
+"after disconnecting. If casting fails, please "
+"check the FAQ."
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Marker

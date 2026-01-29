@@ -210,7 +210,7 @@ msgstr "テククチャ選択"
 msgid "Ambient Light"
 msgstr "周辺光"
 
-#  Platforms: Apple
+#  Platforms: Apple, Android
 msgid ""
 "An external screen is connected, do you want to "
 "display Celestia on the external screen?"
@@ -367,11 +367,6 @@ msgstr ""
 #  Failed to add a favorite item (currently a bookmark)
 msgid "Cannot add object"
 msgstr "天体を追加できません"
-
-#  Platforms: Android
-#  Alert content when user cannot change add-on directory
-msgid "Cannot change add-on directory"
-msgstr ""
 
 #  Platforms: Apple
 #  Failed to share a URL
@@ -658,6 +653,11 @@ msgstr ""
 msgid "Destinations"
 msgstr ""
 
+#  Platforms: Android
+#  Settings to support virtual display in external display
+msgid "Detect Virtual Display (Casting)"
+msgstr ""
+
 #  Platforms: Apple, Android
 #  URL for Development wiki
 msgid "Development"
@@ -875,7 +875,12 @@ msgstr "終了"
 msgid "Exit Celestia"
 msgstr ""
 
-#  Platforms: Apple
+#  Platforms: Android
+#  Section header text for settings
+msgid "External Display"
+msgstr ""
+
+#  Platforms: Apple, Android
 msgid "External screen connected"
 msgstr ""
 
@@ -900,10 +905,20 @@ msgstr ""
 msgid "Failed to download or install this add-on."
 msgstr ""
 
+#  Platforms: Android
+#  WebView failed to load content
+msgid "Failed to load page."
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 #  Control the faintest star that Celestia should display
 msgid "Faintest Stars"
 msgstr "見える恒星の調整"
+
+#  Platforms: Android
+#  The text FAQ found in other text where FAQ indicates the link
+msgid "FAQ"
+msgstr ""
 
 #  Platforms: Apple, Android
 #  Make time go faster
@@ -1821,7 +1836,7 @@ msgstr "更新"
 msgid "Region"
 msgstr ""
 
-#  Platforms: Android, Windows
+#  Platforms: Apple, Android, Windows
 #  Rename a favorite item (currently bookmark)
 msgid "Rename"
 msgstr "名前を変更"
@@ -2603,6 +2618,14 @@ msgstr ""
 #  Welcome message
 msgid "Welcome to Celestia"
 msgstr "Celestiaへようこそ"
+
+#  Platforms: Android
+#  Warning text for using virtual display in Celestia
+msgid ""
+"Wireless displays can sometimes stay 'active' "
+"after disconnecting. If casting fails, please "
+"check the FAQ."
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Marker
