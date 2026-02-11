@@ -1018,6 +1018,11 @@ msgstr "Поле зрения"
 msgid "Frame Rate"
 msgstr "Частота кадров"
 
+#  Platforms: Apple, Android
+#  Subscription price indicating the subscription is free
+msgid "Free"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 #  Flight mode, coordinate system
 msgid "Free Flight"
@@ -1784,15 +1789,10 @@ msgid ""
 "Purchase will be available immediately. "
 "Subscription will be automatically renewed and "
 "you will be charged the price listed here each "
-"year (for Yearly) or each month (for Monthly). "
-"Cancel at anytime in Subscriptions on Google Play."
+"year (for Yearly), each month (for Monthly), or "
+"each week (for Weekly). Cancel at anytime in "
+"Subscriptions on Google Play."
 msgstr ""
-"Покупка будет доступна сразу. Подписка будет "
-"продлеваться автоматически и с вас будет "
-"взиматься указанная ежегодная («Год») или "
-"ежемесячная («Месяц») плата. Подписка может быть "
-"отменена в любое время в разделе «Подписки» в "
-"Google Play."
 
 #  Platforms: Apple
 #  Equatorial coordinate
@@ -2522,6 +2522,11 @@ msgid "Triangle"
 msgstr "Треугольник"
 
 #  Platforms: Apple, Android
+#  Free trial on subscription service
+msgid "Try for Free"
+msgstr ""
+
+#  Platforms: Apple, Android
 #  Failed to generate an image for sharing
 msgid "Unable to generate image."
 msgstr "Не удалось захватить изображение."
@@ -2655,6 +2660,11 @@ msgstr "Информация в интернете"
 #  WebView component is missing or disabled
 msgid "WebView is not available."
 msgstr "WebView недоступен"
+
+#  Platforms: Apple, Android
+#  Weekly subscription
+msgid "Weekly"
+msgstr ""
 
 #  Platforms: Apple, Android
 #  Welcome message

@@ -1002,6 +1002,11 @@ msgstr ""
 msgid "Frame Rate"
 msgstr ""
 
+#  Platforms: Apple, Android
+#  Subscription price indicating the subscription is free
+msgid "Free"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 #  Flight mode, coordinate system
 msgid "Free Flight"
@@ -1756,8 +1761,9 @@ msgid ""
 "Purchase will be available immediately. "
 "Subscription will be automatically renewed and "
 "you will be charged the price listed here each "
-"year (for Yearly) or each month (for Monthly). "
-"Cancel at anytime in Subscriptions on Google Play."
+"year (for Yearly), each month (for Monthly), or "
+"each week (for Weekly). Cancel at anytime in "
+"Subscriptions on Google Play."
 msgstr ""
 
 #  Platforms: Apple
@@ -2472,6 +2478,11 @@ msgid "Triangle"
 msgstr ""
 
 #  Platforms: Apple, Android
+#  Free trial on subscription service
+msgid "Try for Free"
+msgstr ""
+
+#  Platforms: Apple, Android
 #  Failed to generate an image for sharing
 msgid "Unable to generate image."
 msgstr ""
@@ -2604,6 +2615,11 @@ msgstr ""
 #  Platforms: Android, Windows
 #  WebView component is missing or disabled
 msgid "WebView is not available."
+msgstr ""
+
+#  Platforms: Apple, Android
+#  Weekly subscription
+msgid "Weekly"
 msgstr ""
 
 #  Platforms: Apple, Android

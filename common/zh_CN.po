@@ -1006,6 +1006,11 @@ msgstr "视场角"
 msgid "Frame Rate"
 msgstr "帧率"
 
+#  Platforms: Apple, Android
+#  Subscription price indicating the subscription is free
+msgid "Free"
+msgstr "免费"
+
 #  Platforms: Apple, Android, Windows
 #  Flight mode, coordinate system
 msgid "Free Flight"
@@ -1441,7 +1446,7 @@ msgstr "山脉"
 #  Platforms: Apple, Android
 #  Monthly subscription
 msgid "Monthly"
-msgstr "包月"
+msgstr "月付"
 
 #  Platforms: Apple, Android, Windows
 msgid "Moons"
@@ -1766,11 +1771,11 @@ msgid ""
 "Purchase will be available immediately. "
 "Subscription will be automatically renewed and "
 "you will be charged the price listed here each "
-"year (for Yearly) or each month (for Monthly). "
-"Cancel at anytime in Subscriptions on Google Play."
+"year (for Yearly), each month (for Monthly), or "
+"each week (for Weekly). Cancel at anytime in "
+"Subscriptions on Google Play."
 msgstr ""
-"付款将立即生效。订阅会在每月（包月）或者每年（包年）会自动续费，价格如上所示。您可以在任意时间在 "
-"Google Play 的订阅页面取消订阅。"
+"付款将立即生效。订阅会在每月（月付），每年（年付）或者每周（周付）会自动续费，价格如上所示。您可以在任意时间在 Google Play 的订阅页面取消订阅。"
 
 #  Platforms: Apple
 #  Equatorial coordinate
@@ -2486,6 +2491,11 @@ msgid "Triangle"
 msgstr "三角形"
 
 #  Platforms: Apple, Android
+#  Free trial on subscription service
+msgid "Try for Free"
+msgstr "免费试用"
+
+#  Platforms: Apple, Android
 #  Failed to generate an image for sharing
 msgid "Unable to generate image."
 msgstr "无法生成图片。"
@@ -2621,6 +2631,11 @@ msgid "WebView is not available."
 msgstr "WebView 不可用。"
 
 #  Platforms: Apple, Android
+#  Weekly subscription
+msgid "Weekly"
+msgstr "周付"
+
+#  Platforms: Apple, Android
 #  Welcome message
 msgid "Welcome to Celestia"
 msgstr "欢迎使用Celestia"
@@ -2666,7 +2681,7 @@ msgstr "Yaw Right"
 #  Platforms: Apple, Android
 #  Yearly subscription
 msgid "Yearly"
-msgstr "包年"
+msgstr "年付"
 
 #  Platforms: Apple, Android
 msgid "Your purchase is pending"
