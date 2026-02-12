@@ -18,6 +18,12 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
 
 #  Platforms: Apple
+#  Subscription plan name when the plan is the current plan user owns
+#, c-format
+msgid "%@ (Current)"
+msgstr ""
+
+#  Platforms: Apple
 #, c-format
 msgid "%@ days"
 msgstr "%@ сут."
@@ -55,6 +61,12 @@ msgstr "%@ м"
 #, c-format
 msgid "%@ mi"
 msgstr "%@ (в милях)"
+
+#  Platforms: Android
+#  Subscription plan name when the plan is the current plan user owns
+#, c-format
+msgid "%s (Current)"
+msgstr ""
 
 #  Platforms: Android, Windows
 #, c-format

@@ -19,6 +19,12 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #  Platforms: Apple
+#  Subscription plan name when the plan is the current plan user owns
+#, c-format
+msgid "%@ (Current)"
+msgstr "%@（當前）"
+
+#  Platforms: Apple
 #, c-format
 msgid "%@ days"
 msgstr "%@ 天"
@@ -56,6 +62,12 @@ msgstr "%@ 米"
 #, c-format
 msgid "%@ mi"
 msgstr "%@ mi"
+
+#  Platforms: Android
+#  Subscription plan name when the plan is the current plan user owns
+#, c-format
+msgid "%s (Current)"
+msgstr "%s（當前）"
 
 #  Platforms: Android, Windows
 #, c-format

@@ -18,6 +18,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #  Platforms: Apple
+#  Subscription plan name when the plan is the current plan user owns
+#, c-format
+msgid "%@ (Current)"
+msgstr ""
+
+#  Platforms: Apple
 #, c-format
 msgid "%@ days"
 msgstr ""
@@ -54,6 +60,12 @@ msgstr ""
 #  Unit mile
 #, c-format
 msgid "%@ mi"
+msgstr ""
+
+#  Platforms: Android
+#  Subscription plan name when the plan is the current plan user owns
+#, c-format
+msgid "%s (Current)"
 msgstr ""
 
 #  Platforms: Android, Windows
