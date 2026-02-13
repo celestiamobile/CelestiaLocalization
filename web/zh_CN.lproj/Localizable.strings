@@ -50,8 +50,14 @@
 
 "PAGE_DESCRIPTION_DEFAULT" = "获取 Celestia";
 
-"FRONT_PAGE_PROMOTION_TEMPLATE" = "想要宣传自己的作品？在%@上传。";
-"FRONT_PAGE_PROMOTION_LINK_TEXT" = "这里";
+"FRONT_PAGE_SUBHEADLINE_MESSAGE" = "实时三维太空可视化";
+"FRONT_PAGE_DOWNLOAD_BUTTON_TEXT" = "下载 Celestia";
+"FRONT_PAGE_DESCRIPTION_HEADER_1" = "三维太空模拟器";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_1" = "Celestia 模拟多种不同类型的天体。从行星和卫星到星团和星系，您可以访问可扩展数据库中的每个天体，并从空间和时间中的任意位置进行观察。太阳系天体的位置和运动以任意所需速率进行实时精确计算。";
+"FRONT_PAGE_DESCRIPTION_HEADER_2" = "交互式天文馆";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_2" = "Celestia 可作为天文馆使用——适用于任何天体上的观察者。您可以轻松导航到任何星球并降落在其表面。Celestia 在天空中显示太阳系天体的精确位置，带有标签和辅助功能，您可以随时开关。";
+"FRONT_PAGE_DESCRIPTION_HEADER_3" = "可扩展内容";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_RAW" = "Celestia 的目录可以通过插件轻松扩展，这些插件包含新天体（如彗星或恒星）、高分辨率纹理、小行星和航天器的精确轨迹三维模型，甚至来自知名科幻系列的虚构天体。想要宣传自己的作品？在<a href=\"https://github.com/celestiamobile/celestia-addon-validator\">这里</a>提交您的插件。";
 
 "COMMON_TRANSLATE_THIS_PAGE_TEMPLATE" = "点击%@帮助我们翻译这个页面。";
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "这里";
