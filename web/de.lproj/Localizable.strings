@@ -37,7 +37,7 @@
 
 "FRONT_PAGE_WELCOME_MESSAGE" = "Wilkommen in Celestia";
 "FRONT_PAGE_TITLE" = "Celestia";
-"FRONT_PAGE_DESCRIPTION_MESSAGE" = "Celestia ist ein Echtzeit-Weltraumsimulator.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE" = "Celestia ist ein kostenloser Weltraumsimulator für Windows, Linux, macOS, iOS und Android. Sie können den Weltraum frei in drei Dimensionen erkunden.";
 "DOWNLOAD_AVAILABILITY_TEMPLATE" = "Celestia ist Verfügbar für %@, %@, %@, %@, %@, %@, %@, %@.";
 "DOWNLOAD_PLATFORM_IOS" = "iOS";
 "DOWNLOAD_PLATFORM_IOS_TESTFLIGHT" = "iOS (TestFlight)";

@@ -37,7 +37,7 @@
 
 "FRONT_PAGE_WELCOME_MESSAGE" = "Добро пожаловать в Celestia";
 "FRONT_PAGE_TITLE" = "Celestia";
-"FRONT_PAGE_DESCRIPTION_MESSAGE" = "Celestia — космический симулятор в реальном времени.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE" = "Celestia — бесплатный космический симулятор для Windows, Linux, macOS, iOS и Android. Вы можете свободно исследовать космос в трёх измерениях.";
 "DOWNLOAD_AVAILABILITY_TEMPLATE" = "Celestia доступна на %@, %@, %@, %@, %@, %@, %@, %@.";
 "DOWNLOAD_PLATFORM_IOS" = "iOS";
 "DOWNLOAD_PLATFORM_IOS_TESTFLIGHT" = "iOS (TestFlight)";

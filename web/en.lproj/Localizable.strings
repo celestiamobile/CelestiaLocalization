@@ -37,7 +37,7 @@
 
 "FRONT_PAGE_WELCOME_MESSAGE" = "Welcome to Celestia";
 "FRONT_PAGE_TITLE" = "Celestia";
-"FRONT_PAGE_DESCRIPTION_MESSAGE" = "Celestia is a real-time space simulator.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE" = "Celestia is a free space simulator for Windows, Linux, macOS, iOS and Android. You can freely explore space in three dimensions.";
 "DOWNLOAD_AVAILABILITY_TEMPLATE" = "Celestia is available on %@, %@, %@, %@, %@, %@, %@, %@.";
 "DOWNLOAD_PLATFORM_IOS" = "iOS";
 "DOWNLOAD_PLATFORM_IOS_TESTFLIGHT" = "iOS (TestFlight)";

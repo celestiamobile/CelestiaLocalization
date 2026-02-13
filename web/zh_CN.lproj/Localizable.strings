@@ -37,7 +37,7 @@
 
 "FRONT_PAGE_WELCOME_MESSAGE" = "欢迎来到 Celestia";
 "FRONT_PAGE_TITLE" = "Celestia";
-"FRONT_PAGE_DESCRIPTION_MESSAGE" = "Celestia 是一个实时宇宙模拟器。";
+"FRONT_PAGE_DESCRIPTION_MESSAGE" = "Celestia 是一款适用于 Windows、Linux、macOS、iOS 和 Android 的免费太空模拟器。您可以在三维空间中自由探索宇宙。";
 "DOWNLOAD_AVAILABILITY_TEMPLATE" = "Celestia 提供 %@, %@, %@, %@, %@, %@, %@, %@ 版本。";
 "DOWNLOAD_PLATFORM_IOS" = "iOS";
 "DOWNLOAD_PLATFORM_IOS_TESTFLIGHT" = "iOS (TestFlight)";

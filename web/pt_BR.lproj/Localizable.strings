@@ -37,7 +37,7 @@
 
 "FRONT_PAGE_WELCOME_MESSAGE" = "Bem-vindo ao Celestia";
 "FRONT_PAGE_TITLE" = "Celestia";
-"FRONT_PAGE_DESCRIPTION_MESSAGE" = "O Celestia é um simulador espacial em tempo real.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE" = "O Celestia é um simulador espacial gratuito para Windows, Linux, macOS, iOS e Android. Você pode explorar o espaço livremente em três dimensões.";
 "DOWNLOAD_AVAILABILITY_TEMPLATE" = "O Celestia está disponível em %@, %@, %@, %@, %@, %@, %@, %@.";
 "DOWNLOAD_PLATFORM_IOS" = "iOS";
 "DOWNLOAD_PLATFORM_IOS_TESTFLIGHT" = "iOS (TestFlight)";
