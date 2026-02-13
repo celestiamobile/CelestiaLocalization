@@ -56,9 +56,31 @@
 "FRONT_PAGE_DESCRIPTION_MESSAGE_1" = "Celestia simulates many different types of celestial objects. From planets and moons to star clusters and galaxies, you can visit every object in the expandable database and view it from any point in space and time. The position and movement of solar system objects is calculated accurately in real time at any rate desired.";
 "FRONT_PAGE_DESCRIPTION_HEADER_2" = "Interactive Planetarium";
 "FRONT_PAGE_DESCRIPTION_MESSAGE_2" = "Celestia serves as a planetarium — for an observer on any celestial object. You can easily navigate to any world and land on its surface. Celestia shows accurate positions of solar system objects in the sky, with labels and supporting features you can toggle on and off.";
-"FRONT_PAGE_DESCRIPTION_HEADER_3" = "Expandable Content";
-"FRONT_PAGE_DESCRIPTION_MESSAGE_3_RAW" = "Celestia's catalogues can be easily expanded with add-ons containing new objects like comets or stars, high-resolution textures, 3D models for asteroids and spacecraft on precise trajectories, and even fictional objects from well-known sci-fi franchises. Want to promote your artwork? Submit your add-on <a href=\"https://github.com/celestiamobile/celestia-addon-validator\">here</a>.";
 
+"FRONT_PAGE_DESCRIPTION_HEADER_3" = "Expandable Content";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_TEMPLATE" = "Celestia's catalogues can be easily expanded with add-ons containing new objects like comets or stars, high-resolution textures, 3D models for asteroids and spacecraft on precise trajectories, and even fictional objects from well-known sci-fi franchises. Want to promote your artwork? Submit your add-on %@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_ARG1" = "here";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_4" = "Privacy & License";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_TEMPLATE" = "Celestia only collects data for analytic and diagnostic purposes. See the %1$@. Celestia is licensed under the %2$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG1" = "privacy policy";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG2" = "GNU General Public License";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_5" = "Development & Credits";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_TEMPLATE" = "Celestia is open source. The source code is available at %1$@ and %2$@. See the %3$@ and %4$@. Full list of %5$@ and %6$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG1" = "celestiamobile";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG2" = "CelestiaProject";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG3" = "build guide";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG4" = "third party libraries";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG5" = "authors";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG6" = "translators";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_6" = "Contacts";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_TEMPLATE" = "For the original Celestia project: %1$@ or %2$@. For the frontends or website: use in-app feedback, %3$@, or %4$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG1" = "forum";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG2" = "GitHub discussions";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG3" = "GitHub issues";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG4" = "e-mail";
 
 "COMMON_TRANSLATE_THIS_PAGE_TEMPLATE" = "Help us translate this page %@.";
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "here";

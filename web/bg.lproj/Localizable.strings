@@ -53,11 +53,33 @@
 "FRONT_PAGE_SUBHEADLINE_MESSAGE" = "Триизмерна визуализация на космоса в реално време";
 "FRONT_PAGE_DOWNLOAD_BUTTON_TEXT" = "Изтеглете „Celestia”";
 "FRONT_PAGE_DESCRIPTION_HEADER_1" = "3D космически симулатор";
-"FRONT_PAGE_DESCRIPTION_MESSAGE_1" = "„Celestia” симулира много различни видове небесни тела. От планети и луни до звездни купове и галактики, можете да посетите всеки обект в разширяемата база данни и да го разгледате от всяка точка в пространството и времето. Позицията и движението на обектите от Слънчевата система се изчисляват точно в реално време с всяка желана скорост.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_1" = "„Celestia“ симулира много различни видове небесни тела. От планети и луни до звездни купове и галактики, можете да посетите всеки обект в разширяемата база данни и да го разгледате от всяка точка в пространството и времето. Позицията и движението на обектите от Слънчевата система се изчисляват точно в реално време с всяка желана скорост.";
 "FRONT_PAGE_DESCRIPTION_HEADER_2" = "Интерактивен планетариум";
-"FRONT_PAGE_DESCRIPTION_MESSAGE_2" = "„Celestia” служи като планетариум — за наблюдател на всяко небесно тяло. Можете лесно да навигирате до всеки свят и да кацнете на повърхността му. „Celestia” показва точните позиции на обектите от Слънчевата система на небето, с етикети и допълнителни функции, които можете да включвате и изключвате.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_2" = "„Celestia“ служи като планетариум — за наблюдател на всяко небесно тяло. Можете лесно да навигирате до всеки свят и да кацнете на повърхността му. „Celestia“ показва точните позиции на обектите от Слънчевата система на небето, с етикети и допълнителни функции, които можете да включвате и изключвате.";
 "FRONT_PAGE_DESCRIPTION_HEADER_3" = "Разширяемо съдържание";
-"FRONT_PAGE_DESCRIPTION_MESSAGE_3_RAW" = "Каталозите на „Celestia” могат лесно да бъдат разширени с добавки, съдържащи нови обекти като комети или звезди, текстури с висока резолюция, 3D модели на астероиди и космически кораби по точни траектории, и дори измислени обекти от известни научнофантастични поредици. Искате ли да качите Вашите изображения? Изпратете добавката си <a href=\"https://github.com/celestiamobile/celestia-addon-validator\">тук</a>.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_TEMPLATE" = "Каталозите на „Celestia“ могат лесно да бъдат разширени с добавки, съдържащи нови обекти като комети или звезди, текстури с висока резолюция, 3D модели на астероиди и космически кораби по точни траектории, и дори измислени обекти от известни научнофантастични поредици. Искате ли да качите Вашите изображения? Изпратете добавката си %@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_ARG1" = "тук";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_4" = "Поверителност & Лиценз";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_TEMPLATE" = "„Celestia“ събира данни само за аналитични и диагностични цели. Вижте %1$@. „Celestia“ е лицензирана под %2$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG1" = "политиката за поверителност";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG2" = "GNU General Public License";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_5" = "Разработка & Заслуги";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_TEMPLATE" = "„Celestia“ е с отворен код. Изходният код е достъпен в %1$@ и %2$@. Вижте %3$@ и %4$@. Пълен списък с %5$@ и %6$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG1" = "celestiamobile";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG2" = "CelestiaProject";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG3" = "ръководството за компилиране";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG4" = "библиотеките на трети страни";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG5" = "автори";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG6" = "преводачи";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_6" = "Контакти";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_TEMPLATE" = "За оригиналния проект „Celestia“: %1$@ или %2$@. За приложенията или уебсайта: използвайте обратната връзка в приложението, %3$@ или %4$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG1" = "форум";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG2" = "GitHub дискусии";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG3" = "GitHub проблеми";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG4" = "имейл";
 
 "COMMON_TRANSLATE_THIS_PAGE_TEMPLATE" = "Искате ли да преведете тази страница? Натиснете %@.";
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "тук";

@@ -57,7 +57,29 @@
 "FRONT_PAGE_DESCRIPTION_HEADER_2" = "Planetário interativo";
 "FRONT_PAGE_DESCRIPTION_MESSAGE_2" = "O Celestia funciona como um planetário — para um observador em qualquer objeto celeste. Você pode navegar facilmente para qualquer mundo e pousar em sua superfície. O Celestia mostra posições precisas dos objetos do sistema solar no céu, com rótulos e recursos de apoio que você pode ativar e desativar.";
 "FRONT_PAGE_DESCRIPTION_HEADER_3" = "Conteúdo expansível";
-"FRONT_PAGE_DESCRIPTION_MESSAGE_3_RAW" = "Os catálogos do Celestia podem ser facilmente expandidos com add-ons contendo novos objetos como cometas ou estrelas, texturas de alta resolução, modelos 3D para asteroides e naves espaciais em trajetórias precisas, e até objetos fictícios de franquias de ficção científica conhecidas. Quer promover sua arte? Envie seu add-on <a href=\"https://github.com/celestiamobile/celestia-addon-validator\">aqui</a>.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_TEMPLATE" = "Os catálogos do Celestia podem ser facilmente expandidos com add-ons contendo novos objetos como cometas ou estrelas, texturas de alta resolução, modelos 3D para asteroides e naves espaciais em trajetórias precisas, e até objetos fictícios de franquias de ficção científica conhecidas. Quer promover sua arte? Envie seu add-on %@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_ARG1" = "aqui";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_4" = "Privacidade & Licença";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_TEMPLATE" = "O Celestia coleta dados apenas para fins analíticos e de diagnóstico. Consulte a %1$@. O Celestia é licenciado sob a %2$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG1" = "política de privacidade";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG2" = "GNU General Public License";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_5" = "Desenvolvimento & Créditos";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_TEMPLATE" = "O Celestia é código aberto. O código-fonte está disponível em %1$@ e %2$@. Veja o %3$@ e as %4$@. Lista completa de %5$@ e %6$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG1" = "celestiamobile";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG2" = "CelestiaProject";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG3" = "guia de compilação";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG4" = "bibliotecas de terceiros";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG5" = "autores";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG6" = "tradutores";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_6" = "Contatos";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_TEMPLATE" = "Para o projeto Celestia original: %1$@ ou %2$@. Para os frontends ou site: use o feedback no aplicativo, %3$@ ou %4$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG1" = "fórum";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG2" = "discussões no GitHub";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG3" = "issues no GitHub";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG4" = "e-mail";
 
 "COMMON_TRANSLATE_THIS_PAGE_TEMPLATE" = "Ajude-nos a traduzir esta página %@.";
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "aqui";

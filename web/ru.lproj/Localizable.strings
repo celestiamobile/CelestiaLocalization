@@ -57,7 +57,29 @@
 "FRONT_PAGE_DESCRIPTION_HEADER_2" = "Интерактивный планетарий";
 "FRONT_PAGE_DESCRIPTION_MESSAGE_2" = "Celestia служит планетарием — для наблюдателя на любом небесном теле. Вы можете легко переместиться к любому миру и приземлиться на его поверхность. Celestia показывает точные положения объектов Солнечной системы на небе, с подписями и вспомогательными функциями, которые можно включать и выключать.";
 "FRONT_PAGE_DESCRIPTION_HEADER_3" = "Расширяемый контент";
-"FRONT_PAGE_DESCRIPTION_MESSAGE_3_RAW" = "Каталоги Celestia можно легко расширить с помощью дополнений, содержащих новые объекты, такие как кометы или звёзды, текстуры высокого разрешения, 3D-модели астероидов и космических аппаратов на точных траекториях, и даже вымышленные объекты из известных научно-фантастических франшиз. Хотите распространить своё творение? Отправьте своё дополнение <a href=\"https://github.com/celestiamobile/celestia-addon-validator\">сюда</a>.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_TEMPLATE" = "Каталоги Celestia можно легко расширить с помощью дополнений, содержащих новые объекты, такие как кометы или звёзды, текстуры высокого разрешения, 3D-модели астероидов и космических аппаратов на точных траекториях, и даже вымышленные объекты из известных научно-фантастических франшиз. Хотите распространить своё творение? Отправьте своё дополнение %@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_ARG1" = "сюда";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_4" = "Конфиденциальность & Лицензия";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_TEMPLATE" = "Celestia собирает данные только в аналитических и диагностических целях. Ознакомьтесь с %1$@. Celestia лицензирована в соответствии с %2$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG1" = "политикой конфиденциальности";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG2" = "GNU General Public License";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_5" = "Разработка & Благодарности";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_TEMPLATE" = "Celestia имеет открытый исходный код. Исходный код доступен на %1$@ и %2$@. Смотрите %3$@ и %4$@. Полный список %5$@ и %6$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG1" = "celestiamobile";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG2" = "CelestiaProject";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG3" = "руководство по сборке";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG4" = "сторонние библиотеки";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG5" = "авторов";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG6" = "переводчиков";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_6" = "Контакты";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_TEMPLATE" = "Для оригинального проекта Celestia: %1$@ или %2$@. Для приложений или веб-сайта: используйте обратную связь в приложении, %3$@ или %4$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG1" = "форум";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG2" = "обсуждения на GitHub";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG3" = "GitHub Issues";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG4" = "электронная почта";
 
 "COMMON_TRANSLATE_THIS_PAGE_TEMPLATE" = "Вы можете помочь нам перевести эту страницу %@.";
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "здесь";
