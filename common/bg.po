@@ -154,12 +154,12 @@ msgstr "A / X"
 msgid "A filename needed to be present for %s"
 msgstr ""
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  About Celestia
 msgid "About"
 msgstr "Относно"
 
-#  Platforms: Apple, Android, Windows
+#  Platforms: Apple, Windows
 #  System menu item
 msgid "About Celestia"
 msgstr "За „Celestia“"
@@ -188,6 +188,11 @@ msgstr ""
 msgid ""
 "Add-on updates are only supported for add-ons "
 "installed on version 1.9.3 or above."
+msgstr ""
+
+#  Platforms: Apple, Android
+#  Add-ons for Celestia app
+msgid "Add-ons"
 msgstr ""
 
 #  Platforms: Apple
@@ -256,16 +261,6 @@ msgstr "Атмосфери"
 #  Astronomical unit
 msgid "au"
 msgstr "ае"
-
-#  Platforms: Apple, Android
-#  Authors for Celestia
-msgid "Authors"
-msgstr "Автори"
-
-#  Platforms: Windows
-#  Authors for Celestia
-msgid "Authors:"
-msgstr "Автори:"
 
 #  Platforms: Apple, Android, Windows
 #  Auto mag for star display
@@ -672,11 +667,6 @@ msgstr "Дестинации"
 msgid "Detect Virtual Display (Casting)"
 msgstr ""
 
-#  Platforms: Apple, Android
-#  URL for Development wiki
-msgid "Development"
-msgstr "Разработка"
-
 #  Platforms: Apple, Android, Windows
 #  Marker
 msgid "Diamond"
@@ -1072,6 +1062,7 @@ msgid "Get Add-ons"
 msgstr "Изтегли добавки"
 
 #  Platforms: Apple, Android
+#  Action button to get Celestia PLUS
 msgid "Get Celestia PLUS"
 msgstr "Вземи „Celestia“ ПЛЮС"
 
@@ -1551,7 +1542,7 @@ msgstr "Нищо"
 msgid "Normal"
 msgstr "Нормален"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  In eclipse finder, object to find eclipse with, or in go to
 msgid "Object"
 msgstr "Обект"
@@ -1574,11 +1565,6 @@ msgstr "Име на обекта"
 msgid "Object not found"
 msgstr "Обектът не е намерен"
 
-#  Platforms: Windows
-#  In Go to, Windows, In eclipse finder, object to find eclipse with
-msgid "Object:"
-msgstr "Обект:"
-
 #  Platforms: Apple, Android, Windows
 msgid "Objects"
 msgstr "Обекти"
@@ -1587,10 +1573,6 @@ msgstr "Обекти"
 #  Location labels
 msgid "Observatories"
 msgstr "Обсерватории"
-
-#  Platforms: Apple, Android
-msgid "Official Website"
-msgstr "Официална Интернет страница"
 
 #  Platforms: Apple, Android, Windows
 msgid "OK"
@@ -1780,7 +1762,7 @@ msgstr "Предпочитания…"
 msgid "Preview image of the link"
 msgstr ""
 
-#  Platforms: Apple, Android
+#  Platforms: Apple
 #  Privacy Policy and Service Agreement
 msgid "Privacy Policy and Service Agreement"
 msgstr ""
@@ -1872,6 +1854,11 @@ msgstr "Опресни"
 #  Regions settings
 msgid "Region"
 msgstr "Регион"
+
+#  Platforms: Apple, Android
+#  Alert title for add-ons that are related to an object
+msgid "Related Add-ons"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Rename a favorite item (currently bookmark)
@@ -2398,11 +2385,6 @@ msgstr "Сбито"
 msgid "Texture Resolution"
 msgstr "Резолюция на текстурите"
 
-#  Platforms: Apple, Android
-#  URL for Third Party Dependencies wiki
-msgid "Third Party Dependencies"
-msgstr "Зависимости от трети страни"
-
 #  Platforms: Android
 msgid "This feature is not supported."
 msgstr "Тази функция не се поддържа."
@@ -2457,6 +2439,13 @@ msgstr ""
 "само с чернотелните звездни цветове."
 
 #  Platforms: Apple, Android
+#  Alert message for requiring Celestia PLUS to access add-ons that are related to an object
+msgid ""
+"To access related add-ons, you need to have an "
+"active Celestia PLUS subscription."
+msgstr ""
+
+#  Platforms: Apple, Android
 #  Toggle console log display on overlay
 msgid "Toggle Console Display"
 msgstr "Покажи конзолата"
@@ -2498,16 +2487,6 @@ msgstr "Следвай"
 #  Track selected object
 msgid "Track Selection"
 msgstr "Следвай селекцията"
-
-#  Platforms: Apple, Android
-#  Translators for Celestia
-msgid "Translators"
-msgstr "Преводачи"
-
-#  Platforms: Windows
-#  Translators for Celestia
-msgid "Translators:"
-msgstr "Преводачи:"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller action
@@ -2630,10 +2609,6 @@ msgstr "Valles (долини)"
 #  Verbose HUD display
 msgid "Verbose"
 msgstr "Подробно"
-
-#  Platforms: Apple, Android
-msgid "Version"
-msgstr "Версия"
 
 #  Platforms: Windows
 #  Menu for split views

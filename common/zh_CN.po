@@ -154,12 +154,12 @@ msgstr "A / X"
 msgid "A filename needed to be present for %s"
 msgstr "%s 中需要包含一个文件名"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  About Celestia
 msgid "About"
 msgstr "关于"
 
-#  Platforms: Apple, Android, Windows
+#  Platforms: Apple, Windows
 #  System menu item
 msgid "About Celestia"
 msgstr "关于 Celestia"
@@ -189,6 +189,11 @@ msgid ""
 "Add-on updates are only supported for add-ons "
 "installed on version 1.9.3 or above."
 msgstr "插件更新仅支持版本 1.9.3 及更高版本安装的插件。"
+
+#  Platforms: Apple, Android
+#  Add-ons for Celestia app
+msgid "Add-ons"
+msgstr "插件"
 
 #  Platforms: Apple
 #  Description for Pinch Zoom setting
@@ -254,16 +259,6 @@ msgstr "大气"
 #  Astronomical unit
 msgid "au"
 msgstr "天文单位"
-
-#  Platforms: Apple, Android
-#  Authors for Celestia
-msgid "Authors"
-msgstr "软件作者"
-
-#  Platforms: Windows
-#  Authors for Celestia
-msgid "Authors:"
-msgstr "作者："
 
 #  Platforms: Apple, Android, Windows
 #  Auto mag for star display
@@ -672,11 +667,6 @@ msgstr "目的地"
 msgid "Detect Virtual Display (Casting)"
 msgstr "检测虚拟显示（投屏）"
 
-#  Platforms: Apple, Android
-#  URL for Development wiki
-msgid "Development"
-msgstr "开发"
-
 #  Platforms: Apple, Android, Windows
 #  Marker
 msgid "Diamond"
@@ -1068,6 +1058,7 @@ msgid "Get Add-ons"
 msgstr "下载插件"
 
 #  Platforms: Apple, Android
+#  Action button to get Celestia PLUS
 msgid "Get Celestia PLUS"
 msgstr "获取 Celestia PLUS"
 
@@ -1540,7 +1531,7 @@ msgstr "无"
 msgid "Normal"
 msgstr "基本"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  In eclipse finder, object to find eclipse with, or in go to
 msgid "Object"
 msgstr "天体"
@@ -1563,11 +1554,6 @@ msgstr "天体名称"
 msgid "Object not found"
 msgstr "找不到对象"
 
-#  Platforms: Windows
-#  In Go to, Windows, In eclipse finder, object to find eclipse with
-msgid "Object:"
-msgstr "目标："
-
 #  Platforms: Apple, Android, Windows
 msgid "Objects"
 msgstr "天体"
@@ -1576,10 +1562,6 @@ msgstr "天体"
 #  Location labels
 msgid "Observatories"
 msgstr "观测站"
-
-#  Platforms: Apple, Android
-msgid "Official Website"
-msgstr "官方网站"
 
 #  Platforms: Apple, Android, Windows
 msgid "OK"
@@ -1769,7 +1751,7 @@ msgstr "偏好设置…"
 msgid "Preview image of the link"
 msgstr "链接预览图片"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple
 #  Privacy Policy and Service Agreement
 msgid "Privacy Policy and Service Agreement"
 msgstr "隐私政策与服务协议"
@@ -1856,6 +1838,11 @@ msgstr "刷新"
 #  Regions settings
 msgid "Region"
 msgstr "区域"
+
+#  Platforms: Apple, Android
+#  Alert title for add-ons that are related to an object
+msgid "Related Add-ons"
+msgstr "相关插件"
 
 #  Platforms: Apple, Android, Windows
 #  Rename a favorite item (currently bookmark)
@@ -2376,11 +2363,6 @@ msgstr "简单"
 msgid "Texture Resolution"
 msgstr "纹理分辨率"
 
-#  Platforms: Apple, Android
-#  URL for Third Party Dependencies wiki
-msgid "Third Party Dependencies"
-msgstr "第三方依赖"
-
 #  Platforms: Android
 msgid "This feature is not supported."
 msgstr "不支持的功能"
@@ -2435,6 +2417,13 @@ msgid ""
 msgstr "有色照明饱和度设置仅在黑体 D65 恒星色彩时生效。"
 
 #  Platforms: Apple, Android
+#  Alert message for requiring Celestia PLUS to access add-ons that are related to an object
+msgid ""
+"To access related add-ons, you need to have an "
+"active Celestia PLUS subscription."
+msgstr "需要开通 Celestia PLUS 访问相关插件。"
+
+#  Platforms: Apple, Android
 #  Toggle console log display on overlay
 msgid "Toggle Console Display"
 msgstr "切换控制台输出显示"
@@ -2476,16 +2465,6 @@ msgstr "保持居中"
 #  Track selected object
 msgid "Track Selection"
 msgstr "保持居中"
-
-#  Platforms: Apple, Android
-#  Translators for Celestia
-msgid "Translators"
-msgstr "翻译"
-
-#  Platforms: Windows
-#  Translators for Celestia
-msgid "Translators:"
-msgstr "翻译："
 
 #  Platforms: Apple, Android, Windows
 #  Game controller action
@@ -2608,10 +2587,6 @@ msgstr "峡谷"
 #  Verbose HUD display
 msgid "Verbose"
 msgstr "详细"
-
-#  Platforms: Apple, Android
-msgid "Version"
-msgstr "版本"
 
 #  Platforms: Windows
 #  Menu for split views

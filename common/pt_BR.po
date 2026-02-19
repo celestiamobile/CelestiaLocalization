@@ -154,12 +154,12 @@ msgstr ""
 msgid "A filename needed to be present for %s"
 msgstr ""
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  About Celestia
 msgid "About"
 msgstr "Sobre"
 
-#  Platforms: Apple, Android, Windows
+#  Platforms: Apple, Windows
 #  System menu item
 msgid "About Celestia"
 msgstr "Sobre o Celestia"
@@ -188,6 +188,11 @@ msgstr ""
 msgid ""
 "Add-on updates are only supported for add-ons "
 "installed on version 1.9.3 or above."
+msgstr ""
+
+#  Platforms: Apple, Android
+#  Add-ons for Celestia app
+msgid "Add-ons"
 msgstr ""
 
 #  Platforms: Apple
@@ -254,16 +259,6 @@ msgstr "Atmosferas"
 #  Astronomical unit
 msgid "au"
 msgstr "ua"
-
-#  Platforms: Apple, Android
-#  Authors for Celestia
-msgid "Authors"
-msgstr "Autores"
-
-#  Platforms: Windows
-#  Authors for Celestia
-msgid "Authors:"
-msgstr "Autores:"
 
 #  Platforms: Apple, Android, Windows
 #  Auto mag for star display
@@ -672,11 +667,6 @@ msgstr ""
 msgid "Detect Virtual Display (Casting)"
 msgstr ""
 
-#  Platforms: Apple, Android
-#  URL for Development wiki
-msgid "Development"
-msgstr ""
-
 #  Platforms: Apple, Android, Windows
 #  Marker
 msgid "Diamond"
@@ -1070,6 +1060,7 @@ msgid "Get Add-ons"
 msgstr ""
 
 #  Platforms: Apple, Android
+#  Action button to get Celestia PLUS
 msgid "Get Celestia PLUS"
 msgstr ""
 
@@ -1546,7 +1537,7 @@ msgstr "Nenhuma"
 msgid "Normal"
 msgstr "Normal"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  In eclipse finder, object to find eclipse with, or in go to
 msgid "Object"
 msgstr "Objecto"
@@ -1569,11 +1560,6 @@ msgstr "Nome do Objecto"
 msgid "Object not found"
 msgstr "Objeto não encontrado"
 
-#  Platforms: Windows
-#  In Go to, Windows, In eclipse finder, object to find eclipse with
-msgid "Object:"
-msgstr "Objeto:"
-
 #  Platforms: Apple, Android, Windows
 msgid "Objects"
 msgstr "Objetos"
@@ -1582,10 +1568,6 @@ msgstr "Objetos"
 #  Location labels
 msgid "Observatories"
 msgstr "Observatórios"
-
-#  Platforms: Apple, Android
-msgid "Official Website"
-msgstr "Website Oficial"
 
 #  Platforms: Apple, Android, Windows
 msgid "OK"
@@ -1775,7 +1757,7 @@ msgstr "Preferências…"
 msgid "Preview image of the link"
 msgstr ""
 
-#  Platforms: Apple, Android
+#  Platforms: Apple
 #  Privacy Policy and Service Agreement
 msgid "Privacy Policy and Service Agreement"
 msgstr ""
@@ -1860,6 +1842,11 @@ msgstr "Refrescar"
 #  Platforms: Windows
 #  Regions settings
 msgid "Region"
+msgstr ""
+
+#  Platforms: Apple, Android
+#  Alert title for add-ons that are related to an object
+msgid "Related Add-ons"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
@@ -2383,11 +2370,6 @@ msgstr "Concisa"
 msgid "Texture Resolution"
 msgstr "Resolução de Textura"
 
-#  Platforms: Apple, Android
-#  URL for Third Party Dependencies wiki
-msgid "Third Party Dependencies"
-msgstr ""
-
 #  Platforms: Android
 msgid "This feature is not supported."
 msgstr ""
@@ -2440,6 +2422,13 @@ msgid ""
 msgstr ""
 
 #  Platforms: Apple, Android
+#  Alert message for requiring Celestia PLUS to access add-ons that are related to an object
+msgid ""
+"To access related add-ons, you need to have an "
+"active Celestia PLUS subscription."
+msgstr ""
+
+#  Platforms: Apple, Android
 #  Toggle console log display on overlay
 msgid "Toggle Console Display"
 msgstr "Alternar Exibição do Console"
@@ -2481,16 +2470,6 @@ msgstr "Rastrear"
 #  Track selected object
 msgid "Track Selection"
 msgstr "Rastrear Seleção"
-
-#  Platforms: Apple, Android
-#  Translators for Celestia
-msgid "Translators"
-msgstr "Tradutores"
-
-#  Platforms: Windows
-#  Translators for Celestia
-msgid "Translators:"
-msgstr "Tradutores:"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller action
@@ -2613,10 +2592,6 @@ msgstr "Vales"
 #  Verbose HUD display
 msgid "Verbose"
 msgstr "Completa"
-
-#  Platforms: Apple, Android
-msgid "Version"
-msgstr "Versão"
 
 #  Platforms: Windows
 #  Menu for split views
