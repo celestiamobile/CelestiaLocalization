@@ -13,9 +13,13 @@
 "GUIDE_TYPE_TOOLS_TITLE" = "Werkzeuge";
 "GUIDE_TYPE_TUTORIALS_TITLE" = "Anleitungen";
 
+"ARTICLE_PUBLISH_DATE_TEMPLATE" = "Veröffentlichungsdatum: %@";
+
 "ADDON_CATEGORY_TITLE" = "Add-on-Kategorien";
 "ADDON_CATEGORY_DESCRIPTION" = "Add-on-Kategorien";
 "ADDON_MADE_BY_AUTHOR_TITLE_TEMPLATE" = "Von %@ gemachte Add-ons";
+"ADDON_FOR_OBJECT_TITLE_TEMPLATE" = "Add-ons für %@";
+"EMPTY_ADDON_LIST_TITLE" = "Kein Add-on gefunden";
 "COMMON_ERROR_TITLE" = "Fehler";
 
 "ERROR_NOT_FOUND" = "Der aufgeforderte Inhalt wurde nicht gefunden";
@@ -37,7 +41,7 @@
 
 "FRONT_PAGE_WELCOME_MESSAGE" = "Wilkommen in Celestia";
 "FRONT_PAGE_TITLE" = "Celestia";
-"FRONT_PAGE_DESCRIPTION_MESSAGE" = "Celestia ist ein Echtzeit-Weltraumsimulator.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE" = "Celestia ist ein kostenloser Weltraumsimulator für Windows, Linux, macOS, iOS und Android. Sie können den Weltraum frei in drei Dimensionen erkunden.";
 "DOWNLOAD_AVAILABILITY_TEMPLATE" = "Celestia ist Verfügbar für %@, %@, %@, %@, %@, %@, %@, %@.";
 "DOWNLOAD_PLATFORM_IOS" = "iOS";
 "DOWNLOAD_PLATFORM_IOS_TESTFLIGHT" = "iOS (TestFlight)";
@@ -50,8 +54,36 @@
 
 "PAGE_DESCRIPTION_DEFAULT" = "Kriege Celestia";
 
-"FRONT_PAGE_PROMOTION_TEMPLATE" = "Möchten Sie ihr Add-on fördern? Gebe es %@ ab.";
-"FRONT_PAGE_PROMOTION_LINK_TEXT" = "hier";
+"FRONT_PAGE_SUBHEADLINE_MESSAGE" = "3D-Visualisierung des Weltraums in Echtzeit";
+"FRONT_PAGE_DOWNLOAD_BUTTON_TEXT" = "Celestia herunterladen";
+"FRONT_PAGE_DESCRIPTION_HEADER_1" = "3D-Weltraumsimulator";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_1" = "Celestia simuliert viele verschiedene Arten von Himmelskörpern. Von Planeten und Monden über Sternhaufen bis hin zu Galaxien können Sie jedes Objekt in der erweiterbaren Datenbank besuchen und von jedem beliebigen Punkt in Raum und Zeit aus betrachten. Die Position und Bewegung von Objekten des Sonnensystems wird in Echtzeit mit jeder gewünschten Geschwindigkeit genau berechnet.";
+"FRONT_PAGE_DESCRIPTION_HEADER_2" = "Interaktives Planetarium";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_2" = "Celestia dient als Planetarium — für einen Beobachter auf jedem Himmelskörper. Sie können leicht zu jeder Welt navigieren und auf ihrer Oberfläche landen. Celestia zeigt genaue Positionen von Objekten des Sonnensystems am Himmel, mit Beschriftungen und unterstützenden Funktionen, die Sie ein- und ausschalten können.";
+"FRONT_PAGE_DESCRIPTION_HEADER_3" = "Erweiterbare Inhalte";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_TEMPLATE" = "Die Kataloge von Celestia können leicht mit Add-ons erweitert werden, die neue Objekte wie Kometen oder Sterne, hochauflösende Texturen, 3D-Modelle für Asteroiden und Raumfahrzeuge auf präzisen Bahnen und sogar fiktive Objekte aus bekannten Science-Fiction-Franchises enthalten. Möchten Sie Ihr Kunstwerk fördern? Reichen Sie Ihr Add-on %@ ein.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_ARG1" = "hier";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_4" = "Datenschutz & Lizenz";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_TEMPLATE" = "Celestia erfasst nur Daten für Analyse- und Diagnosezwecke. Lesen Sie die %1$@. Celestia ist unter der %2$@ lizenziert.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG1" = "Datenschutzrichtlinie";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG2" = "GNU General Public License";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_5" = "Entwicklung & Mitwirkende";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_TEMPLATE" = "Celestia ist Open Source. Der Quellcode ist verfügbar auf %1$@ und %2$@. Siehe den %3$@ und die %4$@. Vollständige Liste der %5$@ und %6$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG1" = "celestiamobile";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG2" = "CelestiaProject";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG3" = "Bauanleitung";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG4" = "Drittanbieter-Bibliotheken";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG5" = "Autoren";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG6" = "Übersetzer";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_6" = "Kontakt";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_TEMPLATE" = "Für das ursprüngliche Celestia-Projekt: %1$@ oder %2$@. Für die Benutzeroberflächen oder die Website: nutzen Sie das In-App-Feedback, %3$@ oder %4$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG1" = "Forum";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG2" = "GitHub-Diskussionen";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG3" = "GitHub-Issues";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG4" = "E-Mail";
 
 "COMMON_TRANSLATE_THIS_PAGE_TEMPLATE" = "Hilf uns %@, die Seite zu übersetzen.";
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "hier";

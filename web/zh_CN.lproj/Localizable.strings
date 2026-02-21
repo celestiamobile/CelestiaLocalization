@@ -13,9 +13,13 @@
 "GUIDE_TYPE_TOOLS_TITLE" = "工具";
 "GUIDE_TYPE_TUTORIALS_TITLE" = "教程";
 
+"ARTICLE_PUBLISH_DATE_TEMPLATE" = "发布日期：%@";
+
 "ADDON_CATEGORY_TITLE" = "插件分类";
 "ADDON_CATEGORY_DESCRIPTION" = "插件分类";
 "ADDON_MADE_BY_AUTHOR_TITLE_TEMPLATE" = "%@ 制作的插件";
+"ADDON_FOR_OBJECT_TITLE_TEMPLATE" = "%@ 的插件";
+"EMPTY_ADDON_LIST_TITLE" = "未找到插件";
 "COMMON_ERROR_TITLE" = "错误";
 
 "ERROR_NOT_FOUND" = "请求的内容未找到。";
@@ -37,7 +41,7 @@
 
 "FRONT_PAGE_WELCOME_MESSAGE" = "欢迎来到 Celestia";
 "FRONT_PAGE_TITLE" = "Celestia";
-"FRONT_PAGE_DESCRIPTION_MESSAGE" = "Celestia 是一个实时宇宙模拟器。";
+"FRONT_PAGE_DESCRIPTION_MESSAGE" = "Celestia 是一款适用于 Windows、Linux、macOS、iOS 和 Android 的免费太空模拟器。您可以在三维空间中自由探索宇宙。";
 "DOWNLOAD_AVAILABILITY_TEMPLATE" = "Celestia 提供 %@, %@, %@, %@, %@, %@, %@, %@ 版本。";
 "DOWNLOAD_PLATFORM_IOS" = "iOS";
 "DOWNLOAD_PLATFORM_IOS_TESTFLIGHT" = "iOS (TestFlight)";
@@ -50,8 +54,36 @@
 
 "PAGE_DESCRIPTION_DEFAULT" = "获取 Celestia";
 
-"FRONT_PAGE_PROMOTION_TEMPLATE" = "想要宣传自己的作品？在%@上传。";
-"FRONT_PAGE_PROMOTION_LINK_TEXT" = "这里";
+"FRONT_PAGE_SUBHEADLINE_MESSAGE" = "实时三维太空可视化";
+"FRONT_PAGE_DOWNLOAD_BUTTON_TEXT" = "下载 Celestia";
+"FRONT_PAGE_DESCRIPTION_HEADER_1" = "三维太空模拟器";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_1" = "Celestia 模拟多种不同类型的天体。从行星和卫星到星团和星系，您可以访问可扩展数据库中的每个天体，并从空间和时间中的任意位置进行观察。太阳系天体的位置和运动以任意所需速率进行实时精确计算。";
+"FRONT_PAGE_DESCRIPTION_HEADER_2" = "交互式天文馆";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_2" = "Celestia 可作为天文馆使用——适用于任何天体上的观察者。您可以轻松导航到任何星球并降落在其表面。Celestia 在天空中显示太阳系天体的精确位置，带有标签和辅助功能，您可以随时开关。";
+"FRONT_PAGE_DESCRIPTION_HEADER_3" = "可扩展内容";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_TEMPLATE" = "Celestia 的目录可以通过插件轻松扩展，这些插件包含新天体（如彗星或恒星）、高分辨率纹理、小行星和航天器的精确轨迹三维模型，甚至来自知名科幻系列的虚构天体。想要宣传自己的作品？在%@提交您的插件。";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_ARG1" = "这里";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_4" = "隐私与许可";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_TEMPLATE" = "Celestia 仅收集用于分析和诊断目的的数据。请参阅%1$@。Celestia 采用%2$@授权。";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG1" = "隐私政策";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG2" = "GNU 通用公共许可证";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_5" = "开发与致谢";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_TEMPLATE" = "Celestia 是开源软件。源代码可在 %1$@ 和 %2$@ 获取。查看%3$@和%4$@。完整的%5$@和%6$@列表。";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG1" = "celestiamobile";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG2" = "CelestiaProject";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG3" = "构建指南";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG4" = "第三方库";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG5" = "作者";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG6" = "翻译者";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_6" = "联系方式";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_TEMPLATE" = "关于 Celestia 原始项目：%1$@或%2$@。关于前端应用或网站：请使用应用内反馈、%3$@或%4$@。";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG1" = "论坛";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG2" = "GitHub 讨论";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG3" = "GitHub Issues";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG4" = "电子邮件";
 
 "COMMON_TRANSLATE_THIS_PAGE_TEMPLATE" = "点击%@帮助我们翻译这个页面。";
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "这里";

@@ -13,9 +13,13 @@
 "GUIDE_TYPE_TOOLS_TITLE" = "Инструменты";
 "GUIDE_TYPE_TUTORIALS_TITLE" = "Руководства";
 
+"ARTICLE_PUBLISH_DATE_TEMPLATE" = "Дата публикации: %@";
+
 "ADDON_CATEGORY_TITLE" = "Категории дополнений";
 "ADDON_CATEGORY_DESCRIPTION" = "Категории дополнений";
 "ADDON_MADE_BY_AUTHOR_TITLE_TEMPLATE" = "Дополнения от %@";
+"ADDON_FOR_OBJECT_TITLE_TEMPLATE" = "Дополнения для %@";
+"EMPTY_ADDON_LIST_TITLE" = "Дополнения не найдены";
 "COMMON_ERROR_TITLE" = "Ошибка";
 
 "ERROR_NOT_FOUND" = "Запрашиваемый контент не был найден.";
@@ -37,7 +41,7 @@
 
 "FRONT_PAGE_WELCOME_MESSAGE" = "Добро пожаловать в Celestia";
 "FRONT_PAGE_TITLE" = "Celestia";
-"FRONT_PAGE_DESCRIPTION_MESSAGE" = "Celestia — космический симулятор в реальном времени.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE" = "Celestia — бесплатный космический симулятор для Windows, Linux, macOS, iOS и Android. Вы можете свободно исследовать космос в трёх измерениях.";
 "DOWNLOAD_AVAILABILITY_TEMPLATE" = "Celestia доступна на %@, %@, %@, %@, %@, %@, %@, %@.";
 "DOWNLOAD_PLATFORM_IOS" = "iOS";
 "DOWNLOAD_PLATFORM_IOS_TESTFLIGHT" = "iOS (TestFlight)";
@@ -50,8 +54,36 @@
 
 "PAGE_DESCRIPTION_DEFAULT" = "Получить Celestia";
 
-"FRONT_PAGE_PROMOTION_TEMPLATE" = "Хотите распространить своё творение? Отправьте %@ свою работу.";
-"FRONT_PAGE_PROMOTION_LINK_TEXT" = "сюда";
+"FRONT_PAGE_SUBHEADLINE_MESSAGE" = "Трёхмерная визуализация космоса в реальном времени";
+"FRONT_PAGE_DOWNLOAD_BUTTON_TEXT" = "Скачать Celestia";
+"FRONT_PAGE_DESCRIPTION_HEADER_1" = "3D-симулятор космоса";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_1" = "Celestia моделирует множество различных типов небесных тел. От планет и спутников до звёздных скоплений и галактик — вы можете посетить любой объект в расширяемой базе данных и рассмотреть его из любой точки пространства и времени. Положение и движение объектов Солнечной системы рассчитывается точно в реальном времени с любой желаемой скоростью.";
+"FRONT_PAGE_DESCRIPTION_HEADER_2" = "Интерактивный планетарий";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_2" = "Celestia служит планетарием — для наблюдателя на любом небесном теле. Вы можете легко переместиться к любому миру и приземлиться на его поверхность. Celestia показывает точные положения объектов Солнечной системы на небе, с подписями и вспомогательными функциями, которые можно включать и выключать.";
+"FRONT_PAGE_DESCRIPTION_HEADER_3" = "Расширяемый контент";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_TEMPLATE" = "Каталоги Celestia можно легко расширить с помощью дополнений, содержащих новые объекты, такие как кометы или звёзды, текстуры высокого разрешения, 3D-модели астероидов и космических аппаратов на точных траекториях, и даже вымышленные объекты из известных научно-фантастических франшиз. Хотите распространить своё творение? Отправьте своё дополнение %@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_ARG1" = "сюда";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_4" = "Конфиденциальность & Лицензия";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_TEMPLATE" = "Celestia собирает данные только в аналитических и диагностических целях. Ознакомьтесь с %1$@. Celestia лицензирована в соответствии с %2$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG1" = "политикой конфиденциальности";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG2" = "GNU General Public License";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_5" = "Разработка & Благодарности";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_TEMPLATE" = "Celestia имеет открытый исходный код. Исходный код доступен на %1$@ и %2$@. Смотрите %3$@ и %4$@. Полный список %5$@ и %6$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG1" = "celestiamobile";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG2" = "CelestiaProject";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG3" = "руководство по сборке";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG4" = "сторонние библиотеки";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG5" = "авторов";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG6" = "переводчиков";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_6" = "Контакты";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_TEMPLATE" = "Для оригинального проекта Celestia: %1$@ или %2$@. Для приложений или веб-сайта: используйте обратную связь в приложении, %3$@ или %4$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG1" = "форум";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG2" = "обсуждения на GitHub";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG3" = "GitHub Issues";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG4" = "электронная почта";
 
 "COMMON_TRANSLATE_THIS_PAGE_TEMPLATE" = "Вы можете помочь нам перевести эту страницу %@.";
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "здесь";

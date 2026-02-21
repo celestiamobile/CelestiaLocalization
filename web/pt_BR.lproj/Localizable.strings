@@ -13,9 +13,13 @@
 "GUIDE_TYPE_TOOLS_TITLE" = "Ferramentas";
 "GUIDE_TYPE_TUTORIALS_TITLE" = "Tutoriais";
 
+"ARTICLE_PUBLISH_DATE_TEMPLATE" = "Data de publicação: %@";
+
 "ADDON_CATEGORY_TITLE" = "Categorias de add-ons";
 "ADDON_CATEGORY_DESCRIPTION" = "Categorias de add-ons";
 "ADDON_MADE_BY_AUTHOR_TITLE_TEMPLATE" = "Add-ons feitos por %@";
+"ADDON_FOR_OBJECT_TITLE_TEMPLATE" = "Add-ons para %@";
+"EMPTY_ADDON_LIST_TITLE" = "Nenhum add-on encontrado";
 "COMMON_ERROR_TITLE" = "Erro";
 
 "ERROR_NOT_FOUND" = "O conteúdo solicitado não foi encontrado.";
@@ -37,7 +41,7 @@
 
 "FRONT_PAGE_WELCOME_MESSAGE" = "Bem-vindo ao Celestia";
 "FRONT_PAGE_TITLE" = "Celestia";
-"FRONT_PAGE_DESCRIPTION_MESSAGE" = "O Celestia é um simulador espacial em tempo real.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE" = "O Celestia é um simulador espacial gratuito para Windows, Linux, macOS, iOS e Android. Você pode explorar o espaço livremente em três dimensões.";
 "DOWNLOAD_AVAILABILITY_TEMPLATE" = "O Celestia está disponível em %@, %@, %@, %@, %@, %@, %@, %@.";
 "DOWNLOAD_PLATFORM_IOS" = "iOS";
 "DOWNLOAD_PLATFORM_IOS_TESTFLIGHT" = "iOS (TestFlight)";
@@ -50,8 +54,36 @@
 
 "PAGE_DESCRIPTION_DEFAULT" = "Obtenha o Celestia";
 
-"FRONT_PAGE_PROMOTION_TEMPLATE" = "Quer promover sua arte? Envie sua arte %@.";
-"FRONT_PAGE_PROMOTION_LINK_TEXT" = "aqui";
+"FRONT_PAGE_SUBHEADLINE_MESSAGE" = "Visualização 3D do espaço em tempo real";
+"FRONT_PAGE_DOWNLOAD_BUTTON_TEXT" = "Baixar o Celestia";
+"FRONT_PAGE_DESCRIPTION_HEADER_1" = "Simulador espacial 3D";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_1" = "O Celestia simula muitos tipos diferentes de objetos celestes. De planetas e luas a aglomerados estelares e galáxias, você pode visitar qualquer objeto no banco de dados expansível e visualizá-lo de qualquer ponto no espaço e no tempo. A posição e o movimento dos objetos do sistema solar são calculados com precisão em tempo real em qualquer velocidade desejada.";
+"FRONT_PAGE_DESCRIPTION_HEADER_2" = "Planetário interativo";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_2" = "O Celestia funciona como um planetário — para um observador em qualquer objeto celeste. Você pode navegar facilmente para qualquer mundo e pousar em sua superfície. O Celestia mostra posições precisas dos objetos do sistema solar no céu, com rótulos e recursos de apoio que você pode ativar e desativar.";
+"FRONT_PAGE_DESCRIPTION_HEADER_3" = "Conteúdo expansível";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_TEMPLATE" = "Os catálogos do Celestia podem ser facilmente expandidos com add-ons contendo novos objetos como cometas ou estrelas, texturas de alta resolução, modelos 3D para asteroides e naves espaciais em trajetórias precisas, e até objetos fictícios de franquias de ficção científica conhecidas. Quer promover sua arte? Envie seu add-on %@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_ARG1" = "aqui";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_4" = "Privacidade & Licença";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_TEMPLATE" = "O Celestia coleta dados apenas para fins analíticos e de diagnóstico. Consulte a %1$@. O Celestia é licenciado sob a %2$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG1" = "política de privacidade";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG2" = "GNU General Public License";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_5" = "Desenvolvimento & Créditos";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_TEMPLATE" = "O Celestia é código aberto. O código-fonte está disponível em %1$@ e %2$@. Veja o %3$@ e as %4$@. Lista completa de %5$@ e %6$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG1" = "celestiamobile";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG2" = "CelestiaProject";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG3" = "guia de compilação";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG4" = "bibliotecas de terceiros";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG5" = "autores";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG6" = "tradutores";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_6" = "Contatos";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_TEMPLATE" = "Para o projeto Celestia original: %1$@ ou %2$@. Para os frontends ou site: use o feedback no aplicativo, %3$@ ou %4$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG1" = "fórum";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG2" = "discussões no GitHub";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG3" = "issues no GitHub";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG4" = "e-mail";
 
 "COMMON_TRANSLATE_THIS_PAGE_TEMPLATE" = "Ajude-nos a traduzir esta página %@.";
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "aqui";
