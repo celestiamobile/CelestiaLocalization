@@ -237,6 +237,11 @@ msgstr "检测到已连接新的屏幕，您是否想在外接屏幕上显示 Ce
 msgid "Anti-aliasing"
 msgstr "抗锯齿"
 
+#  Platforms: Apple
+#  App icon customization entry in Settings
+msgid "App Icon"
+msgstr "应用图标"
+
 #  Platforms: Android
 #  Alert content for the exit triggered by back button
 msgid "Are you sure you want to exit?"
@@ -455,6 +460,11 @@ msgstr "圆"
 msgid "Cities"
 msgstr "城市"
 
+#  Platforms: Apple
+#  Display name for classic icon
+msgid "Classic"
+msgstr "经典"
+
 #  Platforms: Apple, Android, Windows
 #  Star colors option
 msgid "Classic Colors"
@@ -635,6 +645,12 @@ msgid "Deep Sky Objects"
 msgstr "深空天体"
 
 #  Platforms: Apple, Android, Windows
+msgid "Default"
+msgstr "默认"
+
+#  Platforms: Apple
+#  Display name for default icon
+msgctxt "Icon"
 msgid "Default"
 msgstr "默认"
 

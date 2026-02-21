@@ -239,6 +239,11 @@ msgstr ""
 msgid "Anti-aliasing"
 msgstr "Изглаждане"
 
+#  Platforms: Apple
+#  App icon customization entry in Settings
+msgid "App Icon"
+msgstr ""
+
 #  Platforms: Android
 #  Alert content for the exit triggered by back button
 msgid "Are you sure you want to exit?"
@@ -455,6 +460,11 @@ msgstr "Кръг"
 msgid "Cities"
 msgstr "Градове"
 
+#  Platforms: Apple
+#  Display name for classic icon
+msgid "Classic"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 #  Star colors option
 msgid "Classic Colors"
@@ -635,6 +645,12 @@ msgid "Deep Sky Objects"
 msgstr "Обекти от дълбокото небе"
 
 #  Platforms: Apple, Android, Windows
+msgid "Default"
+msgstr "По подразбиране"
+
+#  Platforms: Apple
+#  Display name for default icon
+msgctxt "Icon"
 msgid "Default"
 msgstr "По подразбиране"
 

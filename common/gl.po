@@ -236,6 +236,11 @@ msgstr ""
 msgid "Anti-aliasing"
 msgstr ""
 
+#  Platforms: Apple
+#  App icon customization entry in Settings
+msgid "App Icon"
+msgstr ""
+
 #  Platforms: Android
 #  Alert content for the exit triggered by back button
 msgid "Are you sure you want to exit?"
@@ -452,6 +457,11 @@ msgstr "Círculo"
 msgid "Cities"
 msgstr "Cidades"
 
+#  Platforms: Apple
+#  Display name for classic icon
+msgid "Classic"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 #  Star colors option
 msgid "Classic Colors"
@@ -632,6 +642,12 @@ msgid "Deep Sky Objects"
 msgstr " obxecto do espazo profundo"
 
 #  Platforms: Apple, Android, Windows
+msgid "Default"
+msgstr ""
+
+#  Platforms: Apple
+#  Display name for default icon
+msgctxt "Icon"
 msgid "Default"
 msgstr ""
 

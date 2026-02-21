@@ -237,6 +237,11 @@ msgstr ""
 msgid "Anti-aliasing"
 msgstr "アンチエイリアシング"
 
+#  Platforms: Apple
+#  App icon customization entry in Settings
+msgid "App Icon"
+msgstr ""
+
 #  Platforms: Android
 #  Alert content for the exit triggered by back button
 msgid "Are you sure you want to exit?"
@@ -453,6 +458,11 @@ msgstr "円(○)"
 msgid "Cities"
 msgstr "都市"
 
+#  Platforms: Apple
+#  Display name for classic icon
+msgid "Classic"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 #  Star colors option
 msgid "Classic Colors"
@@ -633,6 +643,12 @@ msgid "Deep Sky Objects"
 msgstr " 個の深宇宙天体を読み込みました。"
 
 #  Platforms: Apple, Android, Windows
+msgid "Default"
+msgstr "デフォルト"
+
+#  Platforms: Apple
+#  Display name for default icon
+msgctxt "Icon"
 msgid "Default"
 msgstr "デフォルト"
 
