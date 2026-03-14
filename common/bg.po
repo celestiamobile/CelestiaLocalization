@@ -180,6 +180,7 @@ msgid "Add Button"
 msgstr "Добави бутон"
 
 #  Platforms: Apple, Android
+#  Description for addon updates video
 msgid "Add-on Updates"
 msgstr ""
 
@@ -346,6 +347,15 @@ msgid "Buttons"
 msgstr "Бутони"
 
 #  Platforms: Apple, Android
+#  Message on support project card
+msgid ""
+"By subscribing to Celestia PLUS, you directly "
+"support the developers and keep this project "
+"alive. You'll also receive timely feedback on "
+"feature requests and bug reports!"
+msgstr ""
+
+#  Platforms: Apple, Android
 msgid "c (lightspeed)"
 msgstr "c (светлинна скорост)"
 
@@ -448,8 +458,10 @@ msgid "Chase"
 msgstr "Преследвай"
 
 #  Platforms: Apple, Android
-msgid "Choose one of the plans below to get Celestia PLUS"
-msgstr "Изберете един от абонаментите за „Celestia“ ПЛЮС"
+msgid ""
+"Choose one of the plans below to get access to "
+"all the features."
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -538,11 +550,6 @@ msgstr "Координатна система:"
 msgid "Coordinates"
 msgstr "Координати"
 
-#  Platforms: Apple
-#  Copy current URL to pasteboard
-msgid "Copy"
-msgstr ""
-
 #  Platforms: Windows
 #  Copy current URL to pasteboard
 msgid "Copy URL"
@@ -580,10 +587,15 @@ msgstr "Текущо време"
 msgid "Custom"
 msgstr "Персонализирано"
 
+#  Platforms: Apple
+#  Description for custom app icon video
+msgid "Custom App Icon"
+msgstr ""
+
 #  Platforms: Apple, Android
-#  Benefits of Celestia PLUS
-msgid "Customize the visual appearance of Celestia."
-msgstr "Персонализирайте външния вид на „Celestia“."
+#  Description for custom font video
+msgid "Custom Fonts"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Game controller button
@@ -1087,11 +1099,6 @@ msgstr "Вземи „Celestia“ ПЛЮС"
 msgid "Get Info"
 msgstr "Информация"
 
-#  Platforms: Apple, Android
-#  Benefits of Celestia PLUS
-msgid "Get latest add-ons, updates, and trending add-ons."
-msgstr ""
-
 #  Platforms: Apple, Android, Windows
 msgid "Globulars"
 msgstr "Кълбовидни звездни купове"
@@ -1271,7 +1278,7 @@ msgstr "L: %s° %s′ %s″"
 msgid "Labels"
 msgstr "Надписи"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  Go to surface of an object
 msgid "Land"
 msgstr "Приземи се"
@@ -1346,7 +1353,7 @@ msgstr "Местно време"
 msgid "Locations"
 msgstr "Местоположения"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 msgid "Lock"
 msgstr "Заключи"
 
@@ -1647,11 +1654,6 @@ msgstr "Други"
 msgid "Partial Trajectories"
 msgstr "Частични траектории"
 
-#  Platforms: Apple
-#  Paste URL from pasteboard
-msgid "Paste"
-msgstr ""
-
 #  Platforms: Windows
 #  Paste URL from pasteboard
 msgid "Paste URL"
@@ -1829,15 +1831,6 @@ msgstr "RB / R1"
 #  Reset time speed to 1x
 msgid "Real Time"
 msgstr "Реално време"
-
-#  Platforms: Apple, Android
-#  Benefits of Celestia PLUS
-msgid ""
-"Receive timely feedback on feature requests and "
-"bug reports."
-msgstr ""
-"Получете обратна връзка за предложените идеи и "
-"докладите за неизправности."
 
 #  Platforms: Apple, Android, Windows
 #  Used in Flight Mode
@@ -2030,6 +2023,11 @@ msgstr "Скриптове и връзки"
 #  Platforms: Apple, Android, Windows
 msgid "Search"
 msgstr "Търси"
+
+#  Platforms: Apple, Android
+#  Description for search add-ons video
+msgid "Search Add-ons"
+msgstr ""
 
 #  Platforms: Apple, Windows
 #  Menu item to start searching
@@ -2335,13 +2333,9 @@ msgid "Supernova Remnants"
 msgstr ""
 
 #  Platforms: Apple, Android
-#  Benefits of Celestia PLUS
-msgid ""
-"Support the developer community and keep the "
-"project going."
+#  Description for support project card
+msgid "Support the Project"
 msgstr ""
-"Подкрепете общността на разработчиците и "
-"поддържайте проекта."
 
 #  Platforms: Apple, Android
 #  Move/zoom camera FOV
@@ -2484,6 +2478,11 @@ msgstr ""
 #  Toolbar customization entry in Settings
 msgid "Toolbar"
 msgstr "Лента с инструменти"
+
+#  Platforms: Apple, Android
+#  Description for toolbar customization video
+msgid "Toolbar Customization"
+msgstr ""
 
 #  Platforms: Apple, Windows
 #  Tools menu title

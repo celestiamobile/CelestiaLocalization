@@ -179,6 +179,7 @@ msgid "Add Button"
 msgstr "新增按鈕"
 
 #  Platforms: Apple, Android
+#  Description for addon updates video
 msgid "Add-on Updates"
 msgstr "外掛更新"
 
@@ -343,6 +344,17 @@ msgid "Buttons"
 msgstr "按鈕"
 
 #  Platforms: Apple, Android
+#  Message on support project card
+msgid ""
+"By subscribing to Celestia PLUS, you directly "
+"support the developers and keep this project "
+"alive. You'll also receive timely feedback on "
+"feature requests and bug reports!"
+msgstr "訂閱 Celestia PLUS，您將直接支援開發團隊，"
+"保持該專案的活力。您還將收到有關功能請求和"
+"錯誤報告的及時反饋！"
+
+#  Platforms: Apple, Android
 msgid "c (lightspeed)"
 msgstr "c (光速)"
 
@@ -447,8 +459,10 @@ msgid "Chase"
 msgstr "追逐"
 
 #  Platforms: Apple, Android
-msgid "Choose one of the plans below to get Celestia PLUS"
-msgstr "選擇其中一個方案獲取 Celestia PLUS"
+msgid ""
+"Choose one of the plans below to get access to "
+"all the features."
+msgstr "選擇其中一個方案以獲取所有功能。"
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -537,11 +551,6 @@ msgstr "座標系統："
 msgid "Coordinates"
 msgstr "座標"
 
-#  Platforms: Apple
-#  Copy current URL to pasteboard
-msgid "Copy"
-msgstr "拷貝"
-
 #  Platforms: Windows
 #  Copy current URL to pasteboard
 msgid "Copy URL"
@@ -579,10 +588,15 @@ msgstr "當前時間"
 msgid "Custom"
 msgstr "自定義"
 
+#  Platforms: Apple
+#  Description for custom app icon video
+msgid "Custom App Icon"
+msgstr "自定義應用圖標"
+
 #  Platforms: Apple, Android
-#  Benefits of Celestia PLUS
-msgid "Customize the visual appearance of Celestia."
-msgstr "定製 Celestia 的使用者介面。"
+#  Description for custom font video
+msgid "Custom Fonts"
+msgstr "自定義字型"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller button
@@ -1082,11 +1096,6 @@ msgstr "獲取 Celestia PLUS"
 msgid "Get Info"
 msgstr "獲取資訊"
 
-#  Platforms: Apple, Android
-#  Benefits of Celestia PLUS
-msgid "Get latest add-ons, updates, and trending add-ons."
-msgstr "獲取最新外掛，外掛更新和熱門外掛。"
-
 #  Platforms: Apple, Android, Windows
 msgid "Globulars"
 msgstr "球狀星團"
@@ -1263,7 +1272,7 @@ msgstr "L: %s° %s′ %s″"
 msgid "Labels"
 msgstr "標記特徵"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  Go to surface of an object
 msgid "Land"
 msgstr "著陸"
@@ -1338,7 +1347,7 @@ msgstr "本地時間"
 msgid "Locations"
 msgstr "位置"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 msgid "Lock"
 msgstr "鎖定"
 
@@ -1635,11 +1644,6 @@ msgstr "其他"
 msgid "Partial Trajectories"
 msgstr "部分軌跡"
 
-#  Platforms: Apple
-#  Paste URL from pasteboard
-msgid "Paste"
-msgstr "貼上"
-
 #  Platforms: Windows
 #  Paste URL from pasteboard
 msgid "Paste URL"
@@ -1816,13 +1820,6 @@ msgstr "RB / R1"
 #  Reset time speed to 1x
 msgid "Real Time"
 msgstr "實時"
-
-#  Platforms: Apple, Android
-#  Benefits of Celestia PLUS
-msgid ""
-"Receive timely feedback on feature requests and "
-"bug reports."
-msgstr "在功能建議和 Bug 報告上得到更加及時的回覆。"
 
 #  Platforms: Apple, Android, Windows
 #  Used in Flight Mode
@@ -2013,6 +2010,11 @@ msgstr "指令碼和URL"
 #  Platforms: Apple, Android, Windows
 msgid "Search"
 msgstr "搜尋"
+
+#  Platforms: Apple, Android
+#  Description for search add-ons video
+msgid "Search Add-ons"
+msgstr "搜尋外掛"
 
 #  Platforms: Apple, Windows
 #  Menu item to start searching
@@ -2316,11 +2318,9 @@ msgid "Supernova Remnants"
 msgstr "超新星殘骸"
 
 #  Platforms: Apple, Android
-#  Benefits of Celestia PLUS
-msgid ""
-"Support the developer community and keep the "
-"project going."
-msgstr "支援開發者團隊和專案。"
+#  Description for support project card
+msgid "Support the Project"
+msgstr "支援該專案"
 
 #  Platforms: Apple, Android
 #  Move/zoom camera FOV
@@ -2461,6 +2461,11 @@ msgstr "切換互動模式"
 #  Toolbar customization entry in Settings
 msgid "Toolbar"
 msgstr "工具欄"
+
+#  Platforms: Apple, Android
+#  Description for toolbar customization video
+msgid "Toolbar Customization"
+msgstr "自定義工具欄"
 
 #  Platforms: Apple, Windows
 #  Tools menu title

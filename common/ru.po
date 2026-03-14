@@ -178,6 +178,7 @@ msgid "Add Button"
 msgstr "Добавить кнопку"
 
 #  Platforms: Apple, Android
+#  Description for addon updates video
 msgid "Add-on Updates"
 msgstr ""
 
@@ -346,6 +347,15 @@ msgid "Buttons"
 msgstr "Кнопки"
 
 #  Platforms: Apple, Android
+#  Message on support project card
+msgid ""
+"By subscribing to Celestia PLUS, you directly "
+"support the developers and keep this project "
+"alive. You'll also receive timely feedback on "
+"feature requests and bug reports!"
+msgstr ""
+
+#  Platforms: Apple, Android
 msgid "c (lightspeed)"
 msgstr "c (скорость света)"
 
@@ -448,8 +458,10 @@ msgid "Chase"
 msgstr "Следовать"
 
 #  Platforms: Apple, Android
-msgid "Choose one of the plans below to get Celestia PLUS"
-msgstr "Выберите один из планов подписки Celestia PLUS"
+msgid ""
+"Choose one of the plans below to get access to "
+"all the features."
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -540,11 +552,6 @@ msgstr "Система отсчёта:"
 msgid "Coordinates"
 msgstr "Координаты"
 
-#  Platforms: Apple
-#  Copy current URL to pasteboard
-msgid "Copy"
-msgstr ""
-
 #  Platforms: Windows
 #  Copy current URL to pasteboard
 msgid "Copy URL"
@@ -582,10 +589,15 @@ msgstr "Внутреннее время"
 msgid "Custom"
 msgstr "Вручную"
 
+#  Platforms: Apple
+#  Description for custom app icon video
+msgid "Custom App Icon"
+msgstr ""
+
 #  Platforms: Apple, Android
-#  Benefits of Celestia PLUS
-msgid "Customize the visual appearance of Celestia."
-msgstr "Настройте внешний вид Celestia."
+#  Description for custom font video
+msgid "Custom Fonts"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Game controller button
@@ -1095,11 +1107,6 @@ msgstr "Получить Celestia PLUS"
 msgid "Get Info"
 msgstr "Информация"
 
-#  Platforms: Apple, Android
-#  Benefits of Celestia PLUS
-msgid "Get latest add-ons, updates, and trending add-ons."
-msgstr "Получайте актуальные дополнения и обновления."
-
 #  Platforms: Apple, Android, Windows
 msgid "Globulars"
 msgstr "Шаровые скопления"
@@ -1278,7 +1285,7 @@ msgstr "L: %s° %s′ %s″"
 msgid "Labels"
 msgstr "Названия"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  Go to surface of an object
 msgid "Land"
 msgstr "Посадка на объект"
@@ -1353,7 +1360,7 @@ msgstr "Местное время"
 msgid "Locations"
 msgstr "Местоположения"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 msgid "Lock"
 msgstr "Блокировка фазы"
 
@@ -1650,11 +1657,6 @@ msgstr "Прочее"
 msgid "Partial Trajectories"
 msgstr "Неполные траектории"
 
-#  Platforms: Apple
-#  Paste URL from pasteboard
-msgid "Paste"
-msgstr ""
-
 #  Platforms: Windows
 #  Paste URL from pasteboard
 msgid "Paste URL"
@@ -1834,15 +1836,6 @@ msgstr "RB / R1"
 #  Reset time speed to 1x
 msgid "Real Time"
 msgstr "Прямой ход времени"
-
-#  Platforms: Apple, Android
-#  Benefits of Celestia PLUS
-msgid ""
-"Receive timely feedback on feature requests and "
-"bug reports."
-msgstr ""
-"Получайте быструю обратную связь о предложенных "
-"функциях и найденных багах."
 
 #  Platforms: Apple, Android, Windows
 #  Used in Flight Mode
@@ -2035,6 +2028,11 @@ msgstr "Сценарии и ссылки"
 #  Platforms: Apple, Android, Windows
 msgid "Search"
 msgstr "Найти"
+
+#  Platforms: Apple, Android
+#  Description for search add-ons video
+msgid "Search Add-ons"
+msgstr ""
 
 #  Platforms: Apple, Windows
 #  Menu item to start searching
@@ -2342,13 +2340,9 @@ msgid "Supernova Remnants"
 msgstr ""
 
 #  Platforms: Apple, Android
-#  Benefits of Celestia PLUS
-msgid ""
-"Support the developer community and keep the "
-"project going."
+#  Description for support project card
+msgid "Support the Project"
 msgstr ""
-"Поддержите сообщество разработчиков и "
-"поспособствуйте развитию проекта."
 
 #  Platforms: Apple, Android
 #  Move/zoom camera FOV
@@ -2493,6 +2487,11 @@ msgstr "Включить интерактивный режим"
 #  Toolbar customization entry in Settings
 msgid "Toolbar"
 msgstr "Панель инструментов"
+
+#  Platforms: Apple, Android
+#  Description for toolbar customization video
+msgid "Toolbar Customization"
+msgstr ""
 
 #  Platforms: Apple, Windows
 #  Tools menu title

@@ -178,6 +178,7 @@ msgid "Add Button"
 msgstr ""
 
 #  Platforms: Apple, Android
+#  Description for addon updates video
 msgid "Add-on Updates"
 msgstr ""
 
@@ -342,6 +343,15 @@ msgid "Buttons"
 msgstr ""
 
 #  Platforms: Apple, Android
+#  Message on support project card
+msgid ""
+"By subscribing to Celestia PLUS, you directly "
+"support the developers and keep this project "
+"alive. You'll also receive timely feedback on "
+"feature requests and bug reports!"
+msgstr ""
+
+#  Platforms: Apple, Android
 msgid "c (lightspeed)"
 msgstr ""
 
@@ -444,7 +454,9 @@ msgid "Chase"
 msgstr ""
 
 #  Platforms: Apple, Android
-msgid "Choose one of the plans below to get Celestia PLUS"
+msgid ""
+"Choose one of the plans below to get access to "
+"all the features."
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
@@ -534,11 +546,6 @@ msgstr ""
 msgid "Coordinates"
 msgstr ""
 
-#  Platforms: Apple
-#  Copy current URL to pasteboard
-msgid "Copy"
-msgstr ""
-
 #  Platforms: Windows
 #  Copy current URL to pasteboard
 msgid "Copy URL"
@@ -576,9 +583,14 @@ msgstr ""
 msgid "Custom"
 msgstr ""
 
+#  Platforms: Apple
+#  Description for custom app icon video
+msgid "Custom App Icon"
+msgstr ""
+
 #  Platforms: Apple, Android
-#  Benefits of Celestia PLUS
-msgid "Customize the visual appearance of Celestia."
+#  Description for custom font video
+msgid "Custom Fonts"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
@@ -1079,11 +1091,6 @@ msgstr ""
 msgid "Get Info"
 msgstr ""
 
-#  Platforms: Apple, Android
-#  Benefits of Celestia PLUS
-msgid "Get latest add-ons, updates, and trending add-ons."
-msgstr ""
-
 #  Platforms: Apple, Android, Windows
 msgid "Globulars"
 msgstr ""
@@ -1254,7 +1261,7 @@ msgstr ""
 msgid "Labels"
 msgstr ""
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  Go to surface of an object
 msgid "Land"
 msgstr ""
@@ -1329,7 +1336,7 @@ msgstr ""
 msgid "Locations"
 msgstr ""
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 msgid "Lock"
 msgstr ""
 
@@ -1626,11 +1633,6 @@ msgstr ""
 msgid "Partial Trajectories"
 msgstr ""
 
-#  Platforms: Apple
-#  Paste URL from pasteboard
-msgid "Paste"
-msgstr ""
-
 #  Platforms: Windows
 #  Paste URL from pasteboard
 msgid "Paste URL"
@@ -1805,13 +1807,6 @@ msgstr ""
 #  Platforms: Apple, Windows
 #  Reset time speed to 1x
 msgid "Real Time"
-msgstr ""
-
-#  Platforms: Apple, Android
-#  Benefits of Celestia PLUS
-msgid ""
-"Receive timely feedback on feature requests and "
-"bug reports."
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
@@ -2002,6 +1997,11 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Search"
+msgstr ""
+
+#  Platforms: Apple, Android
+#  Description for search add-ons video
+msgid "Search Add-ons"
 msgstr ""
 
 #  Platforms: Apple, Windows
@@ -2306,10 +2306,8 @@ msgid "Supernova Remnants"
 msgstr ""
 
 #  Platforms: Apple, Android
-#  Benefits of Celestia PLUS
-msgid ""
-"Support the developer community and keep the "
-"project going."
+#  Description for support project card
+msgid "Support the Project"
 msgstr ""
 
 #  Platforms: Apple, Android
@@ -2448,6 +2446,11 @@ msgstr ""
 #  Platforms: Apple, Android
 #  Toolbar customization entry in Settings
 msgid "Toolbar"
+msgstr ""
+
+#  Platforms: Apple, Android
+#  Description for toolbar customization video
+msgid "Toolbar Customization"
 msgstr ""
 
 #  Platforms: Apple, Windows
