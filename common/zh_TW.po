@@ -74,7 +74,7 @@ msgstr "%s（當前）"
 msgid "%s days"
 msgstr "%s 天"
 
-#  Platforms: Android
+#  Platforms: Android, Windows
 #, c-format
 msgid "%s FPS"
 msgstr "%s FPS"
@@ -350,9 +350,9 @@ msgid ""
 "support the developers and keep this project "
 "alive. You'll also receive timely feedback on "
 "feature requests and bug reports!"
-msgstr "訂閱 Celestia PLUS，您將直接支援開發團隊，"
-"保持該專案的活力。您還將收到有關功能請求和"
-"錯誤報告的及時反饋！"
+msgstr ""
+"訂閱 Celestia "
+"PLUS，您將直接支援開發團隊，保持該專案的活力。您還將收到有關功能請求和錯誤報告的及時反饋！"
 
 #  Platforms: Apple, Android
 msgid "c (lightspeed)"
@@ -968,6 +968,11 @@ msgstr "收藏"
 msgid "Feature suggestion for Celestia"
 msgstr "Celestia 功能建議"
 
+#  Platforms: Apple, Android
+#  Push notification content type — featured add-on
+msgid "Featured Add-on"
+msgstr "精選外掛"
+
 #  Platforms: Apple, Android, Windows
 msgid "Features"
 msgstr "顯示特徵"
@@ -1032,7 +1037,7 @@ msgctxt "Pinch Zoom"
 msgid "FOV"
 msgstr "視場角"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  Frame rate of simulation
 msgid "Frame Rate"
 msgstr "幀率"
@@ -1146,6 +1151,14 @@ msgstr "說明"
 msgid "Hide"
 msgstr "隱藏"
 
+#  Platforms: Apple, Windows
+msgid "Hide Cursor During Dragging"
+msgstr "拖拽時隱藏游標"
+
+#  Platforms: Apple, Windows
+msgid "Hide the mouse cursor during dragging"
+msgstr "拖拽時隱藏滑鼠游標"
+
 #  Platforms: Apple, Android, Windows
 #  HiDPI support in display
 msgid "HiDPI"
@@ -1195,6 +1208,10 @@ msgstr ""
 "在相對天體模式，拖拽以繞天體旋轉。\n"
 "\n"
 "雙指捏合以縮放天體。"
+
+#  Platforms: Apple, Windows
+msgid "Infinite Dragging"
+msgstr "無限拖拽"
 
 #  Platforms: Apple, Android, Windows
 #  HUD display
@@ -1286,6 +1303,11 @@ msgstr "著陸點(Landing Sites)"
 #  Display language setting
 msgid "Language"
 msgstr "語言"
+
+#  Platforms: Apple, Android
+#  Push notification content type — latest news
+msgid "Latest News"
+msgstr "最新資訊"
 
 #  Platforms: Apple, Android, Windows
 #  Coordinates
@@ -1416,7 +1438,7 @@ msgstr "標記"
 msgid "Maximum (%@ FPS)"
 msgstr "最大值（%@ FPS）"
 
-#  Platforms: Android
+#  Platforms: Android, Windows
 #, c-format
 msgid "Maximum (%s FPS)"
 msgstr "最大值（%s FPS）"
@@ -1483,6 +1505,13 @@ msgstr "衛星"
 #  Button to show more actions to in the bottom toolbar
 msgid "More actions"
 msgstr "更多操作"
+
+#  Platforms: Apple, Windows
+msgid ""
+"Mouse cursor is warped to the location when the "
+"dragging starts. Only effective when the cursor "
+"is hidden during dragging"
+msgstr "拖拽開始時滑鼠游標會被傳送到當前位置。僅在拖拽時隱藏游標的情況下生效"
 
 #  Platforms: Apple, Android
 #  Guide to control Celestia with a mouse/keyboard
@@ -1555,6 +1584,18 @@ msgstr "無"
 msgid "Normal"
 msgstr "基本"
 
+#  Platforms: Apple, Android
+#  Push notification settings entry
+msgid "Notifications"
+msgstr "通知"
+
+#  Platforms: Apple, Android
+#  Push notification denied state explanation
+msgid ""
+"Notifications are turned off for Celestia. Enable "
+"them in System Settings to subscribe to updates."
+msgstr "Celestia 的通知已關閉。請在系統設定中啟用通知以訂閱更新。"
+
 #  Platforms: Apple, Android, Windows
 #  In eclipse finder, object to find eclipse with, or in go to
 msgid "Object"
@@ -1609,6 +1650,11 @@ msgstr "開啟自定義資料夾"
 #  Open the folder for scripts
 msgid "Open Script Folder"
 msgstr "開啟指令碼資料夾"
+
+#  Platforms: Apple, Android
+#  Push notification denied state action
+msgid "Open System Settings"
+msgstr "開啟系統設定"
 
 #  Platforms: Apple, Android, Windows
 #  Request user consent to open a URL
@@ -1821,6 +1867,14 @@ msgstr "RB / R1"
 msgid "Real Time"
 msgstr "實時"
 
+#  Platforms: Apple, Android
+#  Push notification opt-in dialog message
+msgid ""
+"Receive notifications about featured add-ons and "
+"the latest news. You can change which kinds you "
+"receive in Settings."
+msgstr "接收有關精選外掛和最新資訊的通知。您可以在設定中更改要接收的通知型別。"
+
 #  Platforms: Apple, Android, Windows
 #  Used in Flight Mode
 msgid "Reference Object"
@@ -1978,6 +2032,11 @@ msgstr "執行指令碼？"
 #  Platforms: Apple, Windows
 msgid "Run Script…"
 msgstr "執行工序指令⋯"
+
+#  Platforms: Apple, Android
+#  Save push notification preferences
+msgid "Save"
+msgstr "儲存"
 
 #  Platforms: Apple, Android, Windows
 #  Star style
@@ -2298,6 +2357,11 @@ msgstr "開始時間：%@"
 #, c-format
 msgid "Start time: %s"
 msgstr "開始時間：%s"
+
+#  Platforms: Apple, Android
+#  Push notification opt-in dialog title
+msgid "Stay Updated"
+msgstr "保持更新"
 
 #  Platforms: Apple, Android, Windows
 #  Interupt the process of finding eclipse/Set traveling speed to 0
@@ -2641,6 +2705,11 @@ msgstr "WebView 不可用。"
 #  Weekly subscription
 msgid "Weekly"
 msgstr "週付"
+
+#  Platforms: Apple, Android
+#  Push notification content type — weekly featured add-on
+msgid "Weekly Add-on"
+msgstr "每週外掛"
 
 #  Platforms: Apple, Android
 #  Welcome message

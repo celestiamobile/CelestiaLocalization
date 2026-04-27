@@ -74,7 +74,7 @@ msgstr ""
 msgid "%s days"
 msgstr ""
 
-#  Platforms: Android
+#  Platforms: Android, Windows
 #, c-format
 msgid "%s FPS"
 msgstr ""
@@ -964,6 +964,11 @@ msgstr ""
 msgid "Feature suggestion for Celestia"
 msgstr ""
 
+#  Platforms: Apple, Android
+#  Push notification content type — featured add-on
+msgid "Featured Add-on"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 msgid "Features"
 msgstr "기타"
@@ -1028,7 +1033,7 @@ msgctxt "Pinch Zoom"
 msgid "FOV"
 msgstr ""
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  Frame rate of simulation
 msgid "Frame Rate"
 msgstr ""
@@ -1142,6 +1147,14 @@ msgstr "도움말"
 msgid "Hide"
 msgstr ""
 
+#  Platforms: Apple, Windows
+msgid "Hide Cursor During Dragging"
+msgstr ""
+
+#  Platforms: Apple, Windows
+msgid "Hide the mouse cursor during dragging"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 #  HiDPI support in display
 msgid "HiDPI"
@@ -1184,6 +1197,10 @@ msgid ""
 "In object mode, drag to rotate around an object.\n"
 "\n"
 "Pinch to zoom in/out on an object."
+msgstr ""
+
+#  Platforms: Apple, Windows
+msgid "Infinite Dragging"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
@@ -1275,6 +1292,11 @@ msgstr "착륙지점"
 #  Platforms: Android, Windows
 #  Display language setting
 msgid "Language"
+msgstr ""
+
+#  Platforms: Apple, Android
+#  Push notification content type — latest news
+msgid "Latest News"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
@@ -1406,7 +1428,7 @@ msgstr "마커"
 msgid "Maximum (%@ FPS)"
 msgstr ""
 
-#  Platforms: Android
+#  Platforms: Android, Windows
 #, c-format
 msgid "Maximum (%s FPS)"
 msgstr ""
@@ -1472,6 +1494,13 @@ msgstr "위성"
 #  Platforms: Apple, Android
 #  Button to show more actions to in the bottom toolbar
 msgid "More actions"
+msgstr ""
+
+#  Platforms: Apple, Windows
+msgid ""
+"Mouse cursor is warped to the location when the "
+"dragging starts. Only effective when the cursor "
+"is hidden during dragging"
 msgstr ""
 
 #  Platforms: Apple, Android
@@ -1545,6 +1574,18 @@ msgstr "없음"
 msgid "Normal"
 msgstr "일반"
 
+#  Platforms: Apple, Android
+#  Push notification settings entry
+msgid "Notifications"
+msgstr ""
+
+#  Platforms: Apple, Android
+#  Push notification denied state explanation
+msgid ""
+"Notifications are turned off for Celestia. Enable "
+"them in System Settings to subscribe to updates."
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 #  In eclipse finder, object to find eclipse with, or in go to
 msgid "Object"
@@ -1598,6 +1639,11 @@ msgstr ""
 #  Platforms: Apple, Windows
 #  Open the folder for scripts
 msgid "Open Script Folder"
+msgstr ""
+
+#  Platforms: Apple, Android
+#  Push notification denied state action
+msgid "Open System Settings"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
@@ -1810,6 +1856,14 @@ msgstr ""
 msgid "Real Time"
 msgstr "실시간"
 
+#  Platforms: Apple, Android
+#  Push notification opt-in dialog message
+msgid ""
+"Receive notifications about featured add-ons and "
+"the latest news. You can change which kinds you "
+"receive in Settings."
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 #  Used in Flight Mode
 msgid "Reference Object"
@@ -1966,6 +2020,11 @@ msgstr ""
 
 #  Platforms: Apple, Windows
 msgid "Run Script…"
+msgstr ""
+
+#  Platforms: Apple, Android
+#  Save push notification preferences
+msgid "Save"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
@@ -2286,6 +2345,11 @@ msgstr ""
 #  Template for the start time of a body, usually a spacecraft
 #, c-format
 msgid "Start time: %s"
+msgstr ""
+
+#  Platforms: Apple, Android
+#  Push notification opt-in dialog title
+msgid "Stay Updated"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
@@ -2627,6 +2691,11 @@ msgstr ""
 #  Platforms: Apple, Android
 #  Weekly subscription
 msgid "Weekly"
+msgstr ""
+
+#  Platforms: Apple, Android
+#  Push notification content type — weekly featured add-on
+msgid "Weekly Add-on"
 msgstr ""
 
 #  Platforms: Apple, Android

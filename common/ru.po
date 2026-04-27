@@ -73,7 +73,7 @@ msgstr ""
 msgid "%s days"
 msgstr "%s сут."
 
-#  Platforms: Android
+#  Platforms: Android, Windows
 #, c-format
 msgid "%s FPS"
 msgstr "%s FPS"
@@ -975,6 +975,11 @@ msgstr "Избранное"
 msgid "Feature suggestion for Celestia"
 msgstr "Предложение идеи для Celestia"
 
+#  Platforms: Apple, Android
+#  Push notification content type — featured add-on
+msgid "Featured Add-on"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 msgid "Features"
 msgstr "Отображать"
@@ -1043,7 +1048,7 @@ msgctxt "Pinch Zoom"
 msgid "FOV"
 msgstr "Поле зрения"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  Frame rate of simulation
 msgid "Frame Rate"
 msgstr "Частота кадров"
@@ -1157,6 +1162,14 @@ msgstr "Справка"
 msgid "Hide"
 msgstr "Свернуть"
 
+#  Platforms: Apple, Windows
+msgid "Hide Cursor During Dragging"
+msgstr ""
+
+#  Platforms: Apple, Windows
+msgid "Hide the mouse cursor during dragging"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 #  HiDPI support in display
 msgid "HiDPI"
@@ -1208,6 +1221,10 @@ msgstr ""
 "вращения.\n"
 "\n"
 "Щипок пальцами приблизит/отдалит объект."
+
+#  Platforms: Apple, Windows
+msgid "Infinite Dragging"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  HUD display
@@ -1299,6 +1316,11 @@ msgstr "Места посадок"
 #  Display language setting
 msgid "Language"
 msgstr "Язык"
+
+#  Platforms: Apple, Android
+#  Push notification content type — latest news
+msgid "Latest News"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Coordinates
@@ -1429,7 +1451,7 @@ msgstr "Метки"
 msgid "Maximum (%@ FPS)"
 msgstr "Максимальная (%@ FPS)"
 
-#  Platforms: Android
+#  Platforms: Android, Windows
 #, c-format
 msgid "Maximum (%s FPS)"
 msgstr "Максимальная (%s FPS)"
@@ -1495,6 +1517,13 @@ msgstr "Спутники"
 #  Platforms: Apple, Android
 #  Button to show more actions to in the bottom toolbar
 msgid "More actions"
+msgstr ""
+
+#  Platforms: Apple, Windows
+msgid ""
+"Mouse cursor is warped to the location when the "
+"dragging starts. Only effective when the cursor "
+"is hidden during dragging"
 msgstr ""
 
 #  Platforms: Apple, Android
@@ -1568,6 +1597,18 @@ msgstr "Нет"
 msgid "Normal"
 msgstr "Нормальный"
 
+#  Platforms: Apple, Android
+#  Push notification settings entry
+msgid "Notifications"
+msgstr ""
+
+#  Platforms: Apple, Android
+#  Push notification denied state explanation
+msgid ""
+"Notifications are turned off for Celestia. Enable "
+"them in System Settings to subscribe to updates."
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 #  In eclipse finder, object to find eclipse with, or in go to
 msgid "Object"
@@ -1621,6 +1662,11 @@ msgstr "Открыть кастомизируемую папку"
 #  Platforms: Apple, Windows
 #  Open the folder for scripts
 msgid "Open Script Folder"
+msgstr ""
+
+#  Platforms: Apple, Android
+#  Push notification denied state action
+msgid "Open System Settings"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
@@ -1837,6 +1883,14 @@ msgstr "RB / R1"
 msgid "Real Time"
 msgstr "Прямой ход времени"
 
+#  Platforms: Apple, Android
+#  Push notification opt-in dialog message
+msgid ""
+"Receive notifications about featured add-ons and "
+"the latest news. You can change which kinds you "
+"receive in Settings."
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 #  Used in Flight Mode
 msgid "Reference Object"
@@ -1996,6 +2050,11 @@ msgstr "Запустить сценарий?"
 #  Platforms: Apple, Windows
 msgid "Run Script…"
 msgstr "Запуск сценария…"
+
+#  Platforms: Apple, Android
+#  Save push notification preferences
+msgid "Save"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Star style
@@ -2320,6 +2379,11 @@ msgstr "От: %@"
 #, c-format
 msgid "Start time: %s"
 msgstr "От: %s"
+
+#  Platforms: Apple, Android
+#  Push notification opt-in dialog title
+msgid "Stay Updated"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Interupt the process of finding eclipse/Set traveling speed to 0
@@ -2666,6 +2730,11 @@ msgstr "WebView недоступен"
 #  Platforms: Apple, Android
 #  Weekly subscription
 msgid "Weekly"
+msgstr ""
+
+#  Platforms: Apple, Android
+#  Push notification content type — weekly featured add-on
+msgid "Weekly Add-on"
 msgstr ""
 
 #  Platforms: Apple, Android
