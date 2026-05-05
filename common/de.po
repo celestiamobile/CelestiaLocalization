@@ -1346,6 +1346,11 @@ msgstr "Länge eines Tages: %s"
 msgid "Lenticular Galaxies"
 msgstr ""
 
+#  Platforms: Apple, Android
+#  Lifetime purchase
+msgid "Lifetime"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 #  Celestia loading failed
 msgid "Loading Celestia failed…"

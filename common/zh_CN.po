@@ -1344,6 +1344,11 @@ msgstr "日长: %s"
 msgid "Lenticular Galaxies"
 msgstr "透镜星系"
 
+#  Platforms: Apple, Android
+#  Lifetime purchase
+msgid "Lifetime"
+msgstr "永久"
+
 #  Platforms: Apple, Android, Windows
 #  Celestia loading failed
 msgid "Loading Celestia failed…"
