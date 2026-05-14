@@ -2303,6 +2303,10 @@ msgid "Square"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+msgid "sRGB Rendering (Experimental)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 msgid "Star Browser"
 msgstr ""
 

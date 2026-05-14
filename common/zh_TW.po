@@ -2315,6 +2315,10 @@ msgid "Square"
 msgstr "方形"
 
 #  Platforms: Apple, Android, Windows
+msgid "sRGB Rendering (Experimental)"
+msgstr "sRGB 渲染（實驗性）"
+
+#  Platforms: Apple, Android, Windows
 msgid "Star Browser"
 msgstr "天球瀏覽"
 
