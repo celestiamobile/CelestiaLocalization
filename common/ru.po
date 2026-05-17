@@ -879,6 +879,10 @@ msgid "Error downloading add-on"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+msgid "Error Loading Data"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 msgid ""
 "Error loading data, fallback to original "
 "configuration."
@@ -964,6 +968,11 @@ msgstr ""
 #  Make time go faster
 msgid "Faster"
 msgstr "Быстрее"
+
+#  Platforms: Apple, Android, Windows
+#  Error for fatal error alert title
+msgid "Fatal Error"
+msgstr ""
 
 #  Platforms: Apple, Android
 #  Favorites (currently bookmarks and scripts)

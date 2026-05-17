@@ -876,6 +876,10 @@ msgid "Error downloading add-on"
 msgstr "下載外掛時發生錯誤"
 
 #  Platforms: Apple, Android, Windows
+msgid "Error Loading Data"
+msgstr "載入資料錯誤"
+
+#  Platforms: Apple, Android, Windows
 msgid ""
 "Error loading data, fallback to original "
 "configuration."
@@ -957,6 +961,11 @@ msgstr "常见问题"
 #  Make time go faster
 msgid "Faster"
 msgstr "較快"
+
+#  Platforms: Apple, Android, Windows
+#  Error for fatal error alert title
+msgid "Fatal Error"
+msgstr "嚴重錯誤"
 
 #  Platforms: Apple, Android
 #  Favorites (currently bookmarks and scripts)
