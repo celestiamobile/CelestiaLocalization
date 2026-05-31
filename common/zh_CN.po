@@ -209,6 +209,11 @@ msgid "Advanced"
 msgstr "高级"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Albedo Features"
+msgstr "反照率特征"
+
+#  Platforms: Apple, Android, Windows
 #  Option to align camera to surface when landing
 msgid "Align to Surface on Landing"
 msgstr "着陆时对准地表"
@@ -243,6 +248,11 @@ msgstr "抗锯齿"
 msgid "App Icon"
 msgstr "应用图标"
 
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Arcus (Arc-Shaped Features)"
+msgstr "弧形地貌"
+
 #  Platforms: Android
 #  Alert content for the exit triggered by back button
 msgid "Are you sure you want to exit?"
@@ -256,6 +266,11 @@ msgstr "询问"
 #  Platforms: Apple, Android, Windows
 msgid "Asteroids"
 msgstr "小行星"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Astra (Radial Features)"
+msgstr "辐射状地貌"
 
 #  Platforms: Apple, Android, Windows
 msgid "Atmospheres"
@@ -402,6 +417,16 @@ msgstr "分享 URL 失败"
 msgid "Capture Image"
 msgstr "捕捉图像"
 
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Catenae (Crater Chains)"
+msgstr "链坑"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Cavi (Hollows)"
+msgstr "凹地"
+
 #  Platforms: Android
 #, c-format
 msgid "Celestia does not know how to open %s"
@@ -456,8 +481,18 @@ msgid "Change"
 msgstr "修改"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Chaos (Chaotic Terrain)"
+msgstr "混沌地形"
+
+#  Platforms: Apple, Android, Windows
 msgid "Chase"
 msgstr "追赶"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Chasmata (Canyons)"
+msgstr "峡谷"
 
 #  Platforms: Apple, Android
 msgid ""
@@ -495,6 +530,16 @@ msgstr "云层投影"
 #  Platforms: Apple, Android, Windows
 msgid "Clouds"
 msgstr "云层"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Colla (Necks)"
+msgstr "颈状地貌"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Colles (Small Hills)"
+msgstr "丘陵"
 
 #  Platforms: Apple, Android, Windows
 msgid "Comet Tails"
@@ -561,6 +606,16 @@ msgstr "拷贝URL"
 #  Copying default data from APK
 msgid "Copying data…"
 msgstr "复制数据…"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Coronae (Oval Features)"
+msgstr "冕状物"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Cosmodromes"
+msgstr "航天发射场"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -736,6 +791,11 @@ msgstr "您是否希望卸载该插件？"
 #  Exit edit mode
 msgid "Done"
 msgstr "完成"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Dorsa (Ridges)"
+msgstr "山脊"
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -923,6 +983,11 @@ msgid "External screen connected"
 msgstr "已连接新的屏幕"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Faculae (Bright Spots)"
+msgstr "亮斑"
+
+#  Platforms: Apple, Android, Windows
 msgid "Fading Orbits"
 msgstr "渐退轨道"
 
@@ -957,6 +1022,11 @@ msgstr "最暗的星"
 #  The text FAQ found in other text where FAQ indicates the link
 msgid "FAQ"
 msgstr "常见问题"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Farra (Pancake-like Structures)"
+msgstr "饼状构造"
 
 #  Platforms: Apple, Android
 #  Make time go faster
@@ -1011,6 +1081,11 @@ msgid "Find stars, DSOs, and nearby objects"
 msgstr "查找恒星、深空天体和附近天体"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Flexus (Cuspate Features)"
+msgstr "尖弧地貌"
+
+#  Platforms: Apple, Android, Windows
 msgid "Flight Mode"
 msgstr "飞行模式"
 
@@ -1019,6 +1094,16 @@ msgid ""
 "Flight mode decides how you move around in "
 "Celestia. Learn more…"
 msgstr "飞行模式决定您在 Celestia 的移动方式。了解详情…"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Fluctus (Flow Terrain)"
+msgstr "流状地形"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Flumina (Channels)"
+msgstr "河道"
 
 #  Platforms: Apple, Android, Windows
 msgid "Focus Zooming"
@@ -1040,6 +1125,11 @@ msgstr "跟随所选天体"
 #  Platforms: Apple, Android
 msgid "Font"
 msgstr "字体"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Fossae (Long Depressions)"
+msgstr "长堑"
 
 #  Platforms: Apple
 #  Pinch zoom setting option
@@ -1066,6 +1156,11 @@ msgstr "自由飞行"
 #  Freeze time
 msgid "Freeze"
 msgstr "停止"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Freta (Straits)"
+msgstr "海峡"
 
 #  Platforms: Apple, Android, Windows
 #  Star style
@@ -1244,6 +1339,11 @@ msgid "Installed Add-ons"
 msgstr "已安装插件"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Insulae (Islands)"
+msgstr "岛"
+
+#  Platforms: Apple, Android, Windows
 #  Settings for interaction
 msgid "Interaction"
 msgstr "交互"
@@ -1300,6 +1400,26 @@ msgid "Labels"
 msgstr "标签"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Labes (Landslides)"
+msgstr "滑坡"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Labyrinthi (Valley Complexes)"
+msgstr "迷宫地形"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Lacunae (Irregular Depressions)"
+msgstr "不规则凹陷"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Lacus (Lakes)"
+msgstr "湖"
+
+#  Platforms: Apple, Android, Windows
 #  Go to surface of an object
 msgid "Land"
 msgstr "着陆"
@@ -1313,6 +1433,11 @@ msgstr "着陆点"
 #  Display language setting
 msgid "Language"
 msgstr "语言"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Large Ringed Features"
+msgstr "大型环状地貌"
 
 #  Platforms: Apple, Android
 #  Push notification content type — latest news
@@ -1359,6 +1484,16 @@ msgid "Lifetime"
 msgstr "永久"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Lineae (Elongate Markings)"
+msgstr "线状地形"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Lingulae (Tongue-Shaped Features)"
+msgstr "舌状地貌"
+
+#  Platforms: Apple, Android, Windows
 #  Celestia loading failed
 msgid "Loading Celestia failed…"
 msgstr "Celestia加载失败"
@@ -1374,6 +1509,11 @@ msgstr "加载中: %@"
 #, c-format
 msgid "Loading: %s"
 msgstr "加载中: %s"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Lobi (Lobate Features)"
+msgstr "瓣状地貌"
 
 #  Platforms: Apple, Android, Windows
 msgid "Local Time"
@@ -1425,6 +1565,11 @@ msgstr "Lua 脚本的文件系统访问权限"
 msgid "Lunar"
 msgstr "月食"
 
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Maculae (Dark Spots)"
+msgstr "暗斑"
+
 #  Platforms: Windows
 #  window title for add-on list
 msgid "Manage Add-ons"
@@ -1467,6 +1612,11 @@ msgstr "测量单位"
 #  Medium resolution
 msgid "Medium"
 msgstr "中"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Mensae (Flat-Topped Hills)"
+msgstr "平顶山"
 
 #  Platforms: Apple, Android
 #  Menu button
@@ -1644,6 +1794,11 @@ msgid "Observatories"
 msgstr "观测站"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Oceani (Oceans)"
+msgstr "大洋"
+
+#  Platforms: Apple, Android, Windows
 msgid "OK"
 msgstr "确定"
 
@@ -1702,6 +1857,11 @@ msgid "Other"
 msgstr "其他"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Paludes (Swamps)"
+msgstr "沼"
+
+#  Platforms: Apple, Android, Windows
 msgid "Partial Trajectories"
 msgstr "部分轨迹"
 
@@ -1709,6 +1869,11 @@ msgstr "部分轨迹"
 #  Paste URL from pasteboard
 msgid "Paste URL"
 msgstr "粘贴URL"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Paterae (Irregular Craters)"
+msgstr "不规则环形山"
 
 #  Platforms: Apple, Android, Windows
 #  Flight mode, coordinate system
@@ -1741,6 +1906,11 @@ msgid "Pitch Up"
 msgstr "Pitch Up"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Plana (Plateaus)"
+msgstr "高原"
+
+#  Platforms: Apple, Android, Windows
 msgid "Planet Rings"
 msgstr "行星环"
 
@@ -1751,6 +1921,11 @@ msgstr "行星状星云"
 #  Platforms: Apple, Android, Windows
 msgid "Planets"
 msgstr "行星"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Planitiae (Plains)"
+msgstr "平原"
 
 #  Platforms: Apple, Android
 #  In eclipse finder, choose an object to find eclipse wth
@@ -1812,6 +1987,11 @@ msgid "Please enter the time in \"%s\" format."
 msgstr "请以“%s”格式输入时间"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Plumes"
+msgstr "喷流"
+
+#  Platforms: Apple, Android, Windows
 #  Marker
 msgid "Plus"
 msgstr "加号"
@@ -1835,6 +2015,11 @@ msgstr "链接预览图片"
 #  Privacy Policy and Service Agreement
 msgid "Privacy Policy and Service Agreement"
 msgstr "隐私政策与服务协议"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Promontoria (Capes)"
+msgstr "岬"
 
 #  Platforms: Apple, Android, Windows
 msgid "Protoplanetary Nebulae"
@@ -1920,6 +2105,11 @@ msgstr "刷新"
 msgid "Region"
 msgstr "区域"
 
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Regiones (Regions)"
+msgstr "区域"
+
 #  Platforms: Apple, Android
 #  Alert title for add-ons that are related to an object
 msgid "Related Add-ons"
@@ -1973,6 +2163,11 @@ msgstr "恢复或暂停"
 msgid "Resume/Pause"
 msgstr "继续/暂停"
 
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Reticula (Reticular Patterns)"
+msgstr "网状地形"
+
 #  Platforms: Android
 #  Reverse time or travel direction
 msgid "Reverse"
@@ -2007,8 +2202,18 @@ msgid "Right Arrow"
 msgstr "右箭头"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Rimae (Fissures)"
+msgstr "月溪"
+
+#  Platforms: Apple, Android, Windows
 msgid "Ring Shadows"
 msgstr "星环投影"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Rings"
+msgstr "行星环"
 
 #  Platforms: Apple, Android
 #  Camera control
@@ -2048,15 +2253,35 @@ msgstr "运行脚本？"
 msgid "Run Script…"
 msgstr "运行脚本…"
 
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Rupes (Scarps)"
+msgstr "悬崖"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Satellite Features"
+msgstr "卫星特征"
+
 #  Platforms: Apple, Android
 #  Save push notification preferences
 msgid "Save"
 msgstr "保存"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Saxa (Boulders)"
+msgstr "巨石"
+
+#  Platforms: Apple, Android, Windows
 #  Star style
 msgid "Scaled Discs"
 msgstr "缩放点"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Scopuli (Irregular Scarps)"
+msgstr "不规则悬崖"
 
 #  Platforms: Apple, Android
 msgid "Script Control"
@@ -2137,6 +2362,11 @@ msgstr "灵敏度"
 #  Notes for the sensitivity setting
 msgid "Sensitivity for object selection"
 msgstr "天体选择灵敏度"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Serpentes (Serpentine Features)"
+msgstr "蛇形地貌"
 
 #  Platforms: Windows
 #  Set date to eclipse date and view eclipse
@@ -2246,6 +2476,11 @@ msgstr "自转周期: %@"
 #, c-format
 msgid "Sidereal rotation period: %s"
 msgstr "自转周期: %s"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Sinus (Bays)"
+msgstr "湾"
 
 #  Platforms: Apple
 #  Size of an object
@@ -2397,6 +2632,11 @@ msgid "Suggest a Feature"
 msgstr "功能建议"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Sulci (Parallel Grooves)"
+msgstr "平行沟脊"
+
+#  Platforms: Apple, Android, Windows
 msgid "Supernova Remnants"
 msgstr "超新星遗迹"
 
@@ -2449,13 +2689,18 @@ msgstr "温度单位"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
-msgid "Terrae (Land masses)"
+msgid "Terrae (Land Masses)"
 msgstr "陆地"
 
 #  Platforms: Apple, Android, Windows
 #  Terse HUD display
 msgid "Terse"
 msgstr "简单"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Tesserae (Tile-like Terrain)"
+msgstr "镶嵌地块"
 
 #  Platforms: Apple, Android, Windows
 msgid "Texture Resolution"
@@ -2481,6 +2726,11 @@ msgid ""
 msgstr ""
 "此脚本请求访问权限以读取/写入文件和执行外部程序。允许此操作可能会有危险。\n"
 "您是否信任该脚本并希望允许此操作？"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Tholi (Small Domes)"
+msgstr "圆丘"
 
 #  Platforms: Apple, Android, Windows
 #  Settings for game controller thumbsticks
@@ -2604,6 +2854,11 @@ msgid "Unable to uninstall add-on."
 msgstr "无法卸载插件。"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Undae (Dunes)"
+msgstr "沙丘"
+
+#  Platforms: Apple, Android, Windows
 #  Uninstall an add-on
 msgid "Uninstall"
 msgstr "卸载"
@@ -2687,6 +2942,11 @@ msgid "Valles (Valleys)"
 msgstr "峡谷"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Vastitates (Widespread Lowlands)"
+msgstr "广阔低地"
+
+#  Platforms: Apple, Android, Windows
 #  Verbose HUD display
 msgid "Verbose"
 msgstr "详细"
@@ -2695,6 +2955,11 @@ msgstr "详细"
 #  Menu for split views
 msgid "Views"
 msgstr "视图"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Virgae (Streaks)"
+msgstr "条纹"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels

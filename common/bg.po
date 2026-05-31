@@ -209,6 +209,11 @@ msgid "Advanced"
 msgstr "Разширено"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Albedo Features"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Option to align camera to surface when landing
 msgid "Align to Surface on Landing"
 msgstr ""
@@ -245,6 +250,11 @@ msgstr "Изглаждане"
 msgid "App Icon"
 msgstr ""
 
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Arcus (Arc-Shaped Features)"
+msgstr ""
+
 #  Platforms: Android
 #  Alert content for the exit triggered by back button
 msgid "Are you sure you want to exit?"
@@ -258,6 +268,11 @@ msgstr "Попитай"
 #  Platforms: Apple, Android, Windows
 msgid "Asteroids"
 msgstr "Астероиди"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Astra (Radial Features)"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Atmospheres"
@@ -402,6 +417,16 @@ msgstr "Връзката не може да бъде споделена"
 msgid "Capture Image"
 msgstr "Прихвани изображението"
 
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Catenae (Crater Chains)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Cavi (Hollows)"
+msgstr ""
+
 #  Platforms: Android
 #, c-format
 msgid "Celestia does not know how to open %s"
@@ -454,8 +479,18 @@ msgid "Change"
 msgstr "Промени"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Chaos (Chaotic Terrain)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 msgid "Chase"
 msgstr "Преследвай"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Chasmata (Canyons)"
+msgstr ""
 
 #  Platforms: Apple, Android
 msgid ""
@@ -493,6 +528,16 @@ msgstr "Сенки от облаци"
 #  Platforms: Apple, Android, Windows
 msgid "Clouds"
 msgstr "Облаци"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Colla (Necks)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Colles (Small Hills)"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Comet Tails"
@@ -559,6 +604,16 @@ msgstr "Копирай връзката"
 #  Copying default data from APK
 msgid "Copying data…"
 msgstr "Копиране на данните…"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Coronae (Oval Features)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Cosmodromes"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -734,6 +789,11 @@ msgstr "Искате ли да премахнете тази добавка?"
 #  Exit edit mode
 msgid "Done"
 msgstr "Готово"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Dorsa (Ridges)"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -923,6 +983,11 @@ msgid "External screen connected"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Faculae (Bright Spots)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 msgid "Fading Orbits"
 msgstr "Избледняване на орбитите"
 
@@ -956,6 +1021,11 @@ msgstr "Най-бледи звезди"
 #  Platforms: Android
 #  The text FAQ found in other text where FAQ indicates the link
 msgid "FAQ"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Farra (Pancake-like Structures)"
 msgstr ""
 
 #  Platforms: Apple, Android
@@ -1013,6 +1083,11 @@ msgid "Find stars, DSOs, and nearby objects"
 msgstr "Намерете звезди, ОДК и близки обекти"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Flexus (Cuspate Features)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 msgid "Flight Mode"
 msgstr "Летателен режим"
 
@@ -1020,6 +1095,16 @@ msgstr "Летателен режим"
 msgid ""
 "Flight mode decides how you move around in "
 "Celestia. Learn more…"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Fluctus (Flow Terrain)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Flumina (Channels)"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
@@ -1042,6 +1127,11 @@ msgstr "Следвай селекцията"
 #  Platforms: Apple, Android
 msgid "Font"
 msgstr "Шрифт"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Fossae (Long Depressions)"
+msgstr ""
 
 #  Platforms: Apple
 #  Pinch zoom setting option
@@ -1068,6 +1158,11 @@ msgstr "Свободен полет"
 #  Freeze time
 msgid "Freeze"
 msgstr "Замрази"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Freta (Straits)"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Star style
@@ -1249,6 +1344,11 @@ msgid "Installed Add-ons"
 msgstr "Управлявай инсталираните добавки"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Insulae (Islands)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Settings for interaction
 msgid "Interaction"
 msgstr "Взаимодействие"
@@ -1305,6 +1405,26 @@ msgid "Labels"
 msgstr "Надписи"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Labes (Landslides)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Labyrinthi (Valley Complexes)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Lacunae (Irregular Depressions)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Lacus (Lakes)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Go to surface of an object
 msgid "Land"
 msgstr "Приземи се"
@@ -1318,6 +1438,11 @@ msgstr "Места на приземяване"
 #  Display language setting
 msgid "Language"
 msgstr "Език"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Large Ringed Features"
+msgstr ""
 
 #  Platforms: Apple, Android
 #  Push notification content type — latest news
@@ -1364,6 +1489,16 @@ msgid "Lifetime"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Lineae (Elongate Markings)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Lingulae (Tongue-Shaped Features)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Celestia loading failed
 msgid "Loading Celestia failed…"
 msgstr "Зареждането на „Celestia“ е неуспешно…"
@@ -1379,6 +1514,11 @@ msgstr "Зареждане: %@"
 #, c-format
 msgid "Loading: %s"
 msgstr "Зареждане: %s"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Lobi (Lobate Features)"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Local Time"
@@ -1432,6 +1572,11 @@ msgstr "Достъп на скриптове на „Lua“ до файлова�
 msgid "Lunar"
 msgstr "Лунни"
 
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Maculae (Dark Spots)"
+msgstr ""
+
 #  Platforms: Windows
 #  window title for add-on list
 msgid "Manage Add-ons"
@@ -1474,6 +1619,11 @@ msgstr "Мерни единици"
 #  Medium resolution
 msgid "Medium"
 msgstr "Средна"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Mensae (Flat-Topped Hills)"
+msgstr ""
 
 #  Platforms: Apple, Android
 #  Menu button
@@ -1653,6 +1803,11 @@ msgid "Observatories"
 msgstr "Обсерватории"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Oceani (Oceans)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 msgid "OK"
 msgstr "Добре"
 
@@ -1711,6 +1866,11 @@ msgid "Other"
 msgstr "Други"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Paludes (Swamps)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 msgid "Partial Trajectories"
 msgstr "Частични траектории"
 
@@ -1718,6 +1878,11 @@ msgstr "Частични траектории"
 #  Paste URL from pasteboard
 msgid "Paste URL"
 msgstr "Постави връзката"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Paterae (Irregular Craters)"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Flight mode, coordinate system
@@ -1750,6 +1915,11 @@ msgid "Pitch Up"
 msgstr "Наклон нагоре"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Plana (Plateaus)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 msgid "Planet Rings"
 msgstr "Пръстени на планетите"
 
@@ -1760,6 +1930,11 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 msgid "Planets"
 msgstr "Планети"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Planitiae (Plains)"
+msgstr ""
 
 #  Platforms: Apple, Android
 #  In eclipse finder, choose an object to find eclipse wth
@@ -1821,6 +1996,11 @@ msgid "Please enter the time in \"%s\" format."
 msgstr "Моля, въведете времето във формат „%s“."
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Plumes"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Marker
 msgid "Plus"
 msgstr "Плюс"
@@ -1846,6 +2026,11 @@ msgid "Privacy Policy and Service Agreement"
 msgstr ""
 "Декларация за поверителност и Споразумение за "
 "обслужване"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Promontoria (Capes)"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Protoplanetary Nebulae"
@@ -1932,6 +2117,11 @@ msgstr "Опресни"
 msgid "Region"
 msgstr "Регион"
 
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Regiones (Regions)"
+msgstr ""
+
 #  Platforms: Apple, Android
 #  Alert title for add-ons that are related to an object
 msgid "Related Add-ons"
@@ -1985,6 +2175,11 @@ msgstr "Продължи или спри"
 msgid "Resume/Pause"
 msgstr "Продължи/Спри"
 
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Reticula (Reticular Patterns)"
+msgstr ""
+
 #  Platforms: Android
 #  Reverse time or travel direction
 msgid "Reverse"
@@ -2019,8 +2214,18 @@ msgid "Right Arrow"
 msgstr "Стрелка надясно"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Rimae (Fissures)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 msgid "Ring Shadows"
 msgstr "Сенки от пръстени"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Rings"
+msgstr ""
 
 #  Platforms: Apple, Android
 #  Camera control
@@ -2060,15 +2265,35 @@ msgstr "Изпълни скрипта?"
 msgid "Run Script…"
 msgstr "Изпълняване скрипта…"
 
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Rupes (Scarps)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Satellite Features"
+msgstr ""
+
 #  Platforms: Apple, Android
 #  Save push notification preferences
 msgid "Save"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Saxa (Boulders)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Star style
 msgid "Scaled Discs"
 msgstr "Мащабирани дискове"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Scopuli (Irregular Scarps)"
+msgstr ""
 
 #  Platforms: Apple, Android
 msgid "Script Control"
@@ -2149,6 +2374,11 @@ msgstr "Чувствителност"
 #  Notes for the sensitivity setting
 msgid "Sensitivity for object selection"
 msgstr "Чувствителност при избора на обект"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Serpentes (Serpentine Features)"
+msgstr ""
 
 #  Platforms: Windows
 #  Set date to eclipse date and view eclipse
@@ -2258,6 +2488,11 @@ msgstr "Звезден ден: %@"
 #, c-format
 msgid "Sidereal rotation period: %s"
 msgstr "Звезден ден: %s"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Sinus (Bays)"
+msgstr ""
 
 #  Platforms: Apple
 #  Size of an object
@@ -2411,6 +2646,11 @@ msgid "Suggest a Feature"
 msgstr "Предложи идея"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Sulci (Parallel Grooves)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 msgid "Supernova Remnants"
 msgstr ""
 
@@ -2465,13 +2705,18 @@ msgstr "Температурна скала"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
-msgid "Terrae (Land masses)"
+msgid "Terrae (Land Masses)"
 msgstr "Terrae (земни маси)"
 
 #  Platforms: Apple, Android, Windows
 #  Terse HUD display
 msgid "Terse"
 msgstr "Сбито"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Tesserae (Tile-like Terrain)"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Texture Resolution"
@@ -2494,6 +2739,11 @@ msgid ""
 "files and execute external programs. Allowing "
 "this can be dangerous.\n"
 "Do you trust the script and want to allow this?"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Tholi (Small Domes)"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
@@ -2620,6 +2870,11 @@ msgid "Unable to uninstall add-on."
 msgstr "Добавката не може да се премахне."
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Undae (Dunes)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Uninstall an add-on
 msgid "Uninstall"
 msgstr "Премахни"
@@ -2703,6 +2958,11 @@ msgid "Valles (Valleys)"
 msgstr "Valles (долини)"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Vastitates (Widespread Lowlands)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Verbose HUD display
 msgid "Verbose"
 msgstr "Подробно"
@@ -2711,6 +2971,11 @@ msgstr "Подробно"
 #  Menu for split views
 msgid "Views"
 msgstr "Изгледи"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Virgae (Streaks)"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Location labels

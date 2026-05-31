@@ -208,6 +208,11 @@ msgid "Advanced"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Albedo Features"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Option to align camera to surface when landing
 msgid "Align to Surface on Landing"
 msgstr ""
@@ -242,6 +247,11 @@ msgstr ""
 msgid "App Icon"
 msgstr ""
 
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Arcus (Arc-Shaped Features)"
+msgstr ""
+
 #  Platforms: Android
 #  Alert content for the exit triggered by back button
 msgid "Are you sure you want to exit?"
@@ -255,6 +265,11 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 msgid "Asteroids"
 msgstr "Astéroïdes"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Astra (Radial Features)"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Atmospheres"
@@ -399,6 +414,16 @@ msgstr ""
 msgid "Capture Image"
 msgstr ""
 
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Catenae (Crater Chains)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Cavi (Hollows)"
+msgstr ""
+
 #  Platforms: Android
 #, c-format
 msgid "Celestia does not know how to open %s"
@@ -451,8 +476,18 @@ msgid "Change"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Chaos (Chaotic Terrain)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 msgid "Chase"
 msgstr "Pourchasser"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Chasmata (Canyons)"
+msgstr ""
 
 #  Platforms: Apple, Android
 msgid ""
@@ -490,6 +525,16 @@ msgstr "Ombres des nuages"
 #  Platforms: Apple, Android, Windows
 msgid "Clouds"
 msgstr "Nuages"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Colla (Necks)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Colles (Small Hills)"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Comet Tails"
@@ -555,6 +600,16 @@ msgstr "Copier l'URL"
 #  Platforms: Android
 #  Copying default data from APK
 msgid "Copying data…"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Coronae (Oval Features)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Cosmodromes"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
@@ -730,6 +785,11 @@ msgstr ""
 #  Platforms: Apple
 #  Exit edit mode
 msgid "Done"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Dorsa (Ridges)"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
@@ -918,6 +978,11 @@ msgid "External screen connected"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Faculae (Bright Spots)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 msgid "Fading Orbits"
 msgstr ""
 
@@ -951,6 +1016,11 @@ msgstr ""
 #  Platforms: Android
 #  The text FAQ found in other text where FAQ indicates the link
 msgid "FAQ"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Farra (Pancake-like Structures)"
 msgstr ""
 
 #  Platforms: Apple, Android
@@ -1006,6 +1076,11 @@ msgid "Find stars, DSOs, and nearby objects"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Flexus (Cuspate Features)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 msgid "Flight Mode"
 msgstr ""
 
@@ -1013,6 +1088,16 @@ msgstr ""
 msgid ""
 "Flight mode decides how you move around in "
 "Celestia. Learn more…"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Fluctus (Flow Terrain)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Flumina (Channels)"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
@@ -1034,6 +1119,11 @@ msgstr "Suivre la sélection"
 
 #  Platforms: Apple, Android
 msgid "Font"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Fossae (Long Depressions)"
 msgstr ""
 
 #  Platforms: Apple
@@ -1061,6 +1151,11 @@ msgstr ""
 #  Freeze time
 msgid "Freeze"
 msgstr "Arrêter"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Freta (Straits)"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Star style
@@ -1233,6 +1328,11 @@ msgid "Installed Add-ons"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Insulae (Islands)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Settings for interaction
 msgid "Interaction"
 msgstr ""
@@ -1289,6 +1389,26 @@ msgid "Labels"
 msgstr "Noms"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Labes (Landslides)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Labyrinthi (Valley Complexes)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Lacunae (Irregular Depressions)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Lacus (Lakes)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Go to surface of an object
 msgid "Land"
 msgstr ""
@@ -1301,6 +1421,11 @@ msgstr "Sites d'atterrissage"
 #  Platforms: Android, Windows
 #  Display language setting
 msgid "Language"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Large Ringed Features"
 msgstr ""
 
 #  Platforms: Apple, Android
@@ -1348,6 +1473,16 @@ msgid "Lifetime"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Lineae (Elongate Markings)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Lingulae (Tongue-Shaped Features)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Celestia loading failed
 msgid "Loading Celestia failed…"
 msgstr ""
@@ -1362,6 +1497,11 @@ msgstr ""
 #  Celestia initialization, loading file
 #, c-format
 msgid "Loading: %s"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Lobi (Lobate Features)"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
@@ -1414,6 +1554,11 @@ msgstr ""
 msgid "Lunar"
 msgstr ""
 
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Maculae (Dark Spots)"
+msgstr ""
+
 #  Platforms: Windows
 #  window title for add-on list
 msgid "Manage Add-ons"
@@ -1456,6 +1601,11 @@ msgstr ""
 #  Medium resolution
 msgid "Medium"
 msgstr "Moyenne"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Mensae (Flat-Topped Hills)"
+msgstr ""
 
 #  Platforms: Apple, Android
 #  Menu button
@@ -1633,6 +1783,11 @@ msgid "Observatories"
 msgstr "Observatoires"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Oceani (Oceans)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 msgid "OK"
 msgstr "OK"
 
@@ -1691,6 +1846,11 @@ msgid "Other"
 msgstr "Autres"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Paludes (Swamps)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 msgid "Partial Trajectories"
 msgstr ""
 
@@ -1698,6 +1858,11 @@ msgstr ""
 #  Paste URL from pasteboard
 msgid "Paste URL"
 msgstr "Coller l'URL"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Paterae (Irregular Craters)"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Flight mode, coordinate system
@@ -1730,6 +1895,11 @@ msgid "Pitch Up"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Plana (Plateaus)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 msgid "Planet Rings"
 msgstr ""
 
@@ -1740,6 +1910,11 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 msgid "Planets"
 msgstr "Planètes"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Planitiae (Plains)"
+msgstr ""
 
 #  Platforms: Apple, Android
 #  In eclipse finder, choose an object to find eclipse wth
@@ -1801,6 +1976,11 @@ msgid "Please enter the time in \"%s\" format."
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Plumes"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Marker
 msgid "Plus"
 msgstr "Plus"
@@ -1823,6 +2003,11 @@ msgstr ""
 #  Platforms: Apple
 #  Privacy Policy and Service Agreement
 msgid "Privacy Policy and Service Agreement"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Promontoria (Capes)"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
@@ -1908,6 +2093,11 @@ msgstr "Rafraîchir"
 msgid "Region"
 msgstr ""
 
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Regiones (Regions)"
+msgstr ""
+
 #  Platforms: Apple, Android
 #  Alert title for add-ons that are related to an object
 msgid "Related Add-ons"
@@ -1961,6 +2151,11 @@ msgstr ""
 msgid "Resume/Pause"
 msgstr ""
 
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Reticula (Reticular Patterns)"
+msgstr ""
+
 #  Platforms: Android
 #  Reverse time or travel direction
 msgid "Reverse"
@@ -1995,8 +2190,18 @@ msgid "Right Arrow"
 msgstr "Flèche vers la droite"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Rimae (Fissures)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 msgid "Ring Shadows"
 msgstr "Ombres des anneaux"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Rings"
+msgstr ""
 
 #  Platforms: Apple, Android
 #  Camera control
@@ -2036,15 +2241,35 @@ msgstr ""
 msgid "Run Script…"
 msgstr "Lancer un script…"
 
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Rupes (Scarps)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Satellite Features"
+msgstr ""
+
 #  Platforms: Apple, Android
 #  Save push notification preferences
 msgid "Save"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Saxa (Boulders)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Star style
 msgid "Scaled Discs"
 msgstr "Échelle de disques"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Scopuli (Irregular Scarps)"
+msgstr ""
 
 #  Platforms: Apple, Android
 msgid "Script Control"
@@ -2124,6 +2349,11 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Notes for the sensitivity setting
 msgid "Sensitivity for object selection"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Serpentes (Serpentine Features)"
 msgstr ""
 
 #  Platforms: Windows
@@ -2233,6 +2463,11 @@ msgstr ""
 #  Platforms: Android, Windows
 #, c-format
 msgid "Sidereal rotation period: %s"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Sinus (Bays)"
 msgstr ""
 
 #  Platforms: Apple
@@ -2385,6 +2620,11 @@ msgid "Suggest a Feature"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Sulci (Parallel Grooves)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 msgid "Supernova Remnants"
 msgstr ""
 
@@ -2437,13 +2677,18 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
-msgid "Terrae (Land masses)"
+msgid "Terrae (Land Masses)"
 msgstr "Terra"
 
 #  Platforms: Apple, Android, Windows
 #  Terse HUD display
 msgid "Terse"
 msgstr "Concis"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Tesserae (Tile-like Terrain)"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Texture Resolution"
@@ -2466,6 +2711,11 @@ msgid ""
 "files and execute external programs. Allowing "
 "this can be dangerous.\n"
 "Do you trust the script and want to allow this?"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Tholi (Small Domes)"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
@@ -2590,6 +2840,11 @@ msgid "Unable to uninstall add-on."
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Undae (Dunes)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Uninstall an add-on
 msgid "Uninstall"
 msgstr ""
@@ -2673,6 +2928,11 @@ msgid "Valles (Valleys)"
 msgstr "Vallis"
 
 #  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Vastitates (Widespread Lowlands)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Verbose HUD display
 msgid "Verbose"
 msgstr "Complet"
@@ -2681,6 +2941,11 @@ msgstr "Complet"
 #  Menu for split views
 msgid "Views"
 msgstr "Vues"
+
+#  Platforms: Apple, Android, Windows
+#  Location labels
+msgid "Virgae (Streaks)"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
