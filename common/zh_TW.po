@@ -326,6 +326,11 @@ msgstr "黑體（織女星白點）"
 msgid "Blackbody D65"
 msgstr "黑體 D65"
 
+#  Platforms: Apple, Android, Windows
+#  PSF star setting
+msgid "Bloom Compactness"
+msgstr "輝光緊緻度"
+
 #  Platforms: Apple, Android
 #  Bold font style
 msgid "Bold"
@@ -972,6 +977,11 @@ msgstr "離開"
 msgid "Exit Celestia"
 msgstr "退出 Celestia"
 
+#  Platforms: Apple, Android, Windows
+#  PSF star setting
+msgid "Exposure"
+msgstr "曝光"
+
 #  Platforms: Android
 #  Section header text for settings
 msgid "External Display"
@@ -1592,6 +1602,11 @@ msgstr "標記"
 msgid "Markers"
 msgstr "標記"
 
+#  Platforms: Apple, Android, Windows
+#  PSF star setting
+msgid "Max Irradiance"
+msgstr "最大輻照度"
+
 #  Platforms: Apple
 #, c-format
 msgid "Maximum (%@ FPS)"
@@ -1994,6 +2009,22 @@ msgstr "噴流"
 #  Marker
 msgid "Plus"
 msgstr "加號"
+
+#  Platforms: Apple, Android, Windows
+#  PSF star setting
+msgid "Point Radius"
+msgstr "點半徑"
+
+#  Platforms: Apple, Android, Windows
+#  Star style
+msgid "Point Spread Function"
+msgstr "點擴散函數"
+
+#  Platforms: Apple, Android, Windows
+msgid ""
+"Point spread function settings are only effective "
+"with the Point Spread Function star style."
+msgstr "點擴散函數設定僅在使用點擴散函數恆星樣式時生效。"
 
 #  Platforms: Apple, Android, Windows
 #  Star style
