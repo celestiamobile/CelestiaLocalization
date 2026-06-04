@@ -326,6 +326,11 @@ msgstr ""
 msgid "Blackbody D65"
 msgstr ""
 
+#  Platforms: Apple, Android, Windows
+#  PSF star setting
+msgid "Bloom Compactness"
+msgstr ""
+
 #  Platforms: Apple, Android
 #  Bold font style
 msgid "Bold"
@@ -968,6 +973,11 @@ msgstr "Kilépés"
 msgid "Exit Celestia"
 msgstr ""
 
+#  Platforms: Apple, Android, Windows
+#  PSF star setting
+msgid "Exposure"
+msgstr ""
+
 #  Platforms: Android
 #  Section header text for settings
 msgid "External Display"
@@ -1582,6 +1592,11 @@ msgstr "Jelöl"
 msgid "Markers"
 msgstr "Jelölők"
 
+#  Platforms: Apple, Android, Windows
+#  PSF star setting
+msgid "Max Irradiance"
+msgstr ""
+
 #  Platforms: Apple
 #, c-format
 msgid "Maximum (%@ FPS)"
@@ -1984,6 +1999,22 @@ msgstr ""
 #  Marker
 msgid "Plus"
 msgstr "Plusz"
+
+#  Platforms: Apple, Android, Windows
+#  PSF star setting
+msgid "Point Radius"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Star style
+msgid "Point Spread Function"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+msgid ""
+"Point spread function settings are only effective "
+"with the Point Spread Function star style."
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Star style
