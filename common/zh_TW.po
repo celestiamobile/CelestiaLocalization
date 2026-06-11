@@ -762,6 +762,11 @@ msgid "Diamond"
 msgstr "鑽石"
 
 #  Platforms: Apple, Android, Windows
+#  PSF star setting
+msgid "Dim Clip Factor"
+msgstr "暗弱裁剪係數"
+
+#  Platforms: Apple, Android, Windows
 #  Marker
 msgid "Disk"
 msgstr "碟形"

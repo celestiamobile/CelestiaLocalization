@@ -758,6 +758,11 @@ msgid "Diamond"
 msgstr "마름모(◇)"
 
 #  Platforms: Apple, Android, Windows
+#  PSF star setting
+msgid "Dim Clip Factor"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Marker
 msgid "Disk"
 msgstr "원(●)"

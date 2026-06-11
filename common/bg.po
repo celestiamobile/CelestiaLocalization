@@ -761,6 +761,11 @@ msgid "Diamond"
 msgstr "Диамант"
 
 #  Platforms: Apple, Android, Windows
+#  PSF star setting
+msgid "Dim Clip Factor"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Marker
 msgid "Disk"
 msgstr "Диск"
