@@ -355,6 +355,13 @@ msgid "Brightest Stars (Absolute Magnitude)"
 msgstr "最亮的恒星（绝对星等）"
 
 #  Platforms: Apple, Android, Windows
+#  PSF star setting footnote
+msgid ""
+"Brightness multiplier applied to every star, "
+"extending the visible magnitude limit."
+msgstr "应用于所有恒星的亮度倍率，会扩展可见星等极限。"
+
+#  Platforms: Apple, Android, Windows
 #  Default email title for bug report
 msgid "Bug report for Celestia"
 msgstr "Celestia Bug 报告"
@@ -987,6 +994,13 @@ msgstr "退出 Celestia"
 #  PSF star setting
 msgid "Exposure"
 msgstr "曝光"
+
+#  Platforms: Apple, Android, Windows
+#  PSF star setting footnote
+msgid ""
+"Extent of the eye PSF glow around bright stars. "
+"Lower values widen the glow at higher GPU cost."
+msgstr "亮星周围的眼睛点扩散函数辉光范围。数值越小，辉光越大，GPU 开销也越高。"
 
 #  Platforms: Android
 #  Section header text for settings
@@ -1926,6 +1940,11 @@ msgid "Pitch Up"
 msgstr "Pitch Up"
 
 #  Platforms: Apple, Android, Windows
+#  PSF star setting footnote
+msgid "Pixel radius of a unit-irradiance star sprite."
+msgstr "单位辐照度恒星精灵的像素半径。"
+
+#  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Plana (Plateaus)"
 msgstr "高原"
@@ -2539,6 +2558,20 @@ msgstr "减慢"
 #  Smooth lines for rendering
 msgid "Smooth Lines"
 msgstr "线性平滑"
+
+#  Platforms: Apple, Android, Windows
+#  PSF star setting footnote
+msgid ""
+"Soft upper limit on per-star peak irradiance to "
+"prevent bloom saturation."
+msgstr "对单颗恒星峰值辐照度的软上限，以防止辉光饱和。"
+
+#  Platforms: Apple, Android, Windows
+#  PSF star setting footnote
+msgid ""
+"Soft-clips dim stars below this multiple of the "
+"perceptual visibility floor."
+msgstr "对低于该可视感知下限倍数的暗弱恒星进行软裁剪。"
 
 #  Platforms: Windows
 #  Solar eclipses.

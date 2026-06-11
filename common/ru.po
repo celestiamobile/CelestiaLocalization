@@ -357,6 +357,13 @@ msgid "Brightest Stars (Absolute Magnitude)"
 msgstr "Ярчайшие звёзды (абс. зв. величина)"
 
 #  Platforms: Apple, Android, Windows
+#  PSF star setting footnote
+msgid ""
+"Brightness multiplier applied to every star, "
+"extending the visible magnitude limit."
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Default email title for bug report
 msgid "Bug report for Celestia"
 msgstr "Сообщение о баге в Celestia"
@@ -990,6 +997,13 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  PSF star setting
 msgid "Exposure"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  PSF star setting footnote
+msgid ""
+"Extent of the eye PSF glow around bright stars. "
+"Lower values widen the glow at higher GPU cost."
 msgstr ""
 
 #  Platforms: Android
@@ -1938,6 +1952,11 @@ msgid "Pitch Up"
 msgstr "Шаг вверх"
 
 #  Platforms: Apple, Android, Windows
+#  PSF star setting footnote
+msgid "Pixel radius of a unit-irradiance star sprite."
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Plana (Plateaus)"
 msgstr ""
@@ -2558,6 +2577,20 @@ msgstr "Медленнее"
 #  Smooth lines for rendering
 msgid "Smooth Lines"
 msgstr "Сгладить линии"
+
+#  Platforms: Apple, Android, Windows
+#  PSF star setting footnote
+msgid ""
+"Soft upper limit on per-star peak irradiance to "
+"prevent bloom saturation."
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  PSF star setting footnote
+msgid ""
+"Soft-clips dim stars below this multiple of the "
+"perceptual visibility floor."
+msgstr ""
 
 #  Platforms: Windows
 #  Solar eclipses.
