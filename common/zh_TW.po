@@ -154,6 +154,14 @@ msgid "A filename needed to be present for %s"
 msgstr "%s 中需要包含一個檔名"
 
 #  Platforms: Apple, Android, Windows
+#  Shadow resolution setting footnote
+msgid ""
+"A value of 0 disables self-shadowing. Higher "
+"values produce sharper shadows at a greater "
+"performance cost."
+msgstr "數值為 0 時停用自陰影。數值越大，陰影越銳利，但效能開銷也越大。"
+
+#  Platforms: Apple, Android, Windows
 #  About Celestia
 msgid "About"
 msgstr "關於"
@@ -2449,6 +2457,11 @@ msgstr "設定"
 #  Platforms: Apple
 msgid "Settings…"
 msgstr "設定⋯"
+
+#  Platforms: Apple, Android, Windows
+#  Resolution of shadow maps
+msgid "Shadow Resolution"
+msgstr "陰影解析度"
 
 #  Platforms: Apple, Android
 msgid "Share"
