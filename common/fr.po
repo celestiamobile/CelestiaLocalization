@@ -154,6 +154,14 @@ msgid "A filename needed to be present for %s"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+#  Shadow resolution setting footnote
+msgid ""
+"A value of 0 disables self-shadowing. Higher "
+"values produce sharper shadows at a greater "
+"performance cost."
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  About Celestia
 msgid "About"
 msgstr ""
@@ -2438,6 +2446,11 @@ msgstr "Configuration"
 #  Platforms: Apple
 msgid "Settings…"
 msgstr "Configuration…"
+
+#  Platforms: Apple, Android, Windows
+#  Resolution of shadow maps
+msgid "Shadow Resolution"
+msgstr ""
 
 #  Platforms: Apple, Android
 msgid "Share"
