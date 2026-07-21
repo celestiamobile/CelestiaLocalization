@@ -998,6 +998,7 @@ msgid "Exit Celestia"
 msgstr "退出 Celestia"
 
 #  Platforms: Apple, Android, Windows
+#  Output rendering setting
 #  PSF star setting
 msgid "Exposure"
 msgstr "曝光"
@@ -1896,6 +1897,11 @@ msgstr "管理書籤⋯"
 #  Other location labels; Android/iOS, Other objects to choose from in Eclipse Finder
 msgid "Other"
 msgstr "其他"
+
+#  Platforms: Apple, Android, Windows
+#  Output rendering settings
+msgid "Output Rendering"
+msgstr "輸出渲染"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -2870,6 +2876,19 @@ msgstr "切換全屏顯示"
 #  Touch interaction mode
 msgid "Toggle Interaction Mode"
 msgstr "切換互動模式"
+
+#  Platforms: Apple, Android, Windows
+#  Tone mapping setting
+msgid "Tone Mapping"
+msgstr "色調映射"
+
+#  Platforms: Apple, Android, Windows
+#  Output rendering settings footnote
+msgid ""
+"Tone mapping and exposure only affect sRGB "
+"rendering. Changes to sRGB rendering take effect "
+"after a restart."
+msgstr "色調映射和曝光僅影響 sRGB 渲染。對 sRGB 渲染的變更將在重啟後生效。"
 
 #  Platforms: Apple, Android
 #  Toolbar customization entry in Settings
