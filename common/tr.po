@@ -1607,6 +1607,11 @@ msgid "Manage Subscription"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+#  Tone mapping mode
+msgid "Manual"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Maria (Seas)"
 msgstr "Maria (denizler)"
@@ -1828,6 +1833,11 @@ msgstr "Krater Konumunu Göster"
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Oceani (Oceans)"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Tone mapping mode
+msgid "Off"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows

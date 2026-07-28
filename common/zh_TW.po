@@ -1617,6 +1617,11 @@ msgid "Manage Subscription"
 msgstr "管理訂閱"
 
 #  Platforms: Apple, Android, Windows
+#  Tone mapping mode
+msgid "Manual"
+msgstr "手動"
+
+#  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Maria (Seas)"
 msgstr "海(Mare)"
@@ -1839,6 +1844,11 @@ msgstr "天文臺"
 #  Location labels
 msgid "Oceani (Oceans)"
 msgstr "大洋"
+
+#  Platforms: Apple, Android, Windows
+#  Tone mapping mode
+msgid "Off"
+msgstr "關閉"
 
 #  Platforms: Apple, Android, Windows
 msgid "OK"
