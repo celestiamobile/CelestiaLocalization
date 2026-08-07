@@ -319,6 +319,20 @@ msgstr "返回"
 msgid "Barred Spiral Galaxies"
 msgstr "棒旋星系"
 
+#  Platforms: Windows
+msgid "Behind {}"
+msgstr "{} 後方"
+
+#  Platforms: Apple
+#, c-format
+msgid "Behind %@"
+msgstr "%@ 後方"
+
+#  Platforms: Android
+#, c-format
+msgid "Behind %s"
+msgstr "%s 後方"
+
 #  Platforms: Apple, Android, Windows
 #  Star colors option
 msgid "Blackbody (Solar Whitepoint)"
@@ -859,6 +873,23 @@ msgstr "食相尋找器"
 msgid "Eclipse Shadows"
 msgstr "日月食陰影"
 
+#  Platforms: Windows
+#  Eclipse finder result
+msgid "Eclipsed body: {}"
+msgstr "被食天體：{}"
+
+#  Platforms: Apple
+#  Eclipse finder result
+#, c-format
+msgid "Eclipsed body: %@"
+msgstr "被食天體：%@"
+
+#  Platforms: Android
+#  Eclipse finder result
+#, c-format
+msgid "Eclipsed body: %s"
+msgstr "被食天體：%s"
+
 #  Platforms: Apple, Android, Windows
 #  Grids
 msgid "Ecliptic"
@@ -1198,6 +1229,20 @@ msgstr "停止"
 #  Location labels
 msgid "Freta (Straits)"
 msgstr "海峽"
+
+#  Platforms: Windows
+msgid "From surface of {}"
+msgstr "從 {} 表面"
+
+#  Platforms: Apple
+#, c-format
+msgid "From surface of %@"
+msgstr "從 %@ 表面"
+
+#  Platforms: Android
+#, c-format
+msgid "From surface of %s"
+msgstr "從 %s 表面"
 
 #  Platforms: Apple, Android, Windows
 #  Star style
@@ -1735,6 +1780,20 @@ msgstr "滑鼠/鍵盤控制"
 msgid "Navigation"
 msgstr "導覽"
 
+#  Platforms: Windows
+msgid "Near {}"
+msgstr "{} 附近"
+
+#  Platforms: Apple
+#, c-format
+msgid "Near %@"
+msgstr "%@ 附近"
+
+#  Platforms: Android
+#, c-format
+msgid "Near %s"
+msgstr "%s 附近"
+
 #  Platforms: Apple, Android, Windows
 msgid "Nearest Stars"
 msgstr "最近的恆星"
@@ -1839,6 +1898,23 @@ msgstr "天體"
 #  Location labels
 msgid "Observatories"
 msgstr "天文臺"
+
+#  Platforms: Windows
+#  Eclipse finder result
+msgid "Occulter: {}"
+msgstr "掩星體：{}"
+
+#  Platforms: Apple
+#  Eclipse finder result
+#, c-format
+msgid "Occulter: %@"
+msgstr "掩星體：%@"
+
+#  Platforms: Android
+#  Eclipse finder result
+#, c-format
+msgid "Occulter: %s"
+msgstr "掩星體：%s"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -2447,14 +2523,13 @@ msgid "Serpentes (Serpentine Features)"
 msgstr "蛇形地貌"
 
 #  Platforms: Windows
-#  Set date to eclipse date and view eclipse
-msgid "Set Date and Go to Planet"
-msgstr "設定日期並前往行星"
-
-#  Platforms: Windows
 #  Button to confirm selected simulation time
 msgid "Set Time"
 msgstr "設定時間"
+
+#  Platforms: Apple, Android, Windows
+msgid "Set time to mid-eclipse"
+msgstr "將時間設為食甚"
 
 #  Platforms: Apple, Windows
 #  Select simulation time
@@ -3060,6 +3135,10 @@ msgstr "廣闊低地"
 #  Verbose HUD display
 msgid "Verbose"
 msgstr "詳細"
+
+#  Platforms: Apple, Windows
+msgid "View Eclipse"
+msgstr "查看日月食"
 
 #  Platforms: Windows
 #  Menu for split views

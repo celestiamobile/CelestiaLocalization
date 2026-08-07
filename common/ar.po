@@ -319,6 +319,20 @@ msgstr "خلف"
 msgid "Barred Spiral Galaxies"
 msgstr ""
 
+#  Platforms: Windows
+msgid "Behind {}"
+msgstr ""
+
+#  Platforms: Apple
+#, c-format
+msgid "Behind %@"
+msgstr ""
+
+#  Platforms: Android
+#, c-format
+msgid "Behind %s"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 #  Star colors option
 msgid "Blackbody (Solar Whitepoint)"
@@ -855,6 +869,23 @@ msgstr "كاشف الكسوف أو الخسوف"
 msgid "Eclipse Shadows"
 msgstr "ظلال الكسوف أو الخسوف"
 
+#  Platforms: Windows
+#  Eclipse finder result
+msgid "Eclipsed body: {}"
+msgstr ""
+
+#  Platforms: Apple
+#  Eclipse finder result
+#, c-format
+msgid "Eclipsed body: %@"
+msgstr ""
+
+#  Platforms: Android
+#  Eclipse finder result
+#, c-format
+msgid "Eclipsed body: %s"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 #  Grids
 msgid "Ecliptic"
@@ -1193,6 +1224,20 @@ msgstr "الفضاء"
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Freta (Straits)"
+msgstr ""
+
+#  Platforms: Windows
+msgid "From surface of {}"
+msgstr ""
+
+#  Platforms: Apple
+#, c-format
+msgid "From surface of %@"
+msgstr ""
+
+#  Platforms: Android
+#, c-format
+msgid "From surface of %s"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
@@ -1725,6 +1770,20 @@ msgstr ""
 msgid "Navigation"
 msgstr "ملاحة"
 
+#  Platforms: Windows
+msgid "Near {}"
+msgstr ""
+
+#  Platforms: Apple
+#, c-format
+msgid "Near %@"
+msgstr ""
+
+#  Platforms: Android
+#, c-format
+msgid "Near %s"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 msgid "Nearest Stars"
 msgstr ""
@@ -1829,6 +1888,23 @@ msgstr "عناصر"
 #  Location labels
 msgid "Observatories"
 msgstr "مراصد"
+
+#  Platforms: Windows
+#  Eclipse finder result
+msgid "Occulter: {}"
+msgstr ""
+
+#  Platforms: Apple
+#  Eclipse finder result
+#, c-format
+msgid "Occulter: %@"
+msgstr ""
+
+#  Platforms: Android
+#  Eclipse finder result
+#, c-format
+msgid "Occulter: %s"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -2436,14 +2512,13 @@ msgid "Serpentes (Serpentine Features)"
 msgstr ""
 
 #  Platforms: Windows
-#  Set date to eclipse date and view eclipse
-msgid "Set Date and Go to Planet"
-msgstr "ضبط التاريخ و ذهاب إلى كوكب"
-
-#  Platforms: Windows
 #  Button to confirm selected simulation time
 msgid "Set Time"
 msgstr "ضبط الوقت…"
+
+#  Platforms: Apple, Android, Windows
+msgid "Set time to mid-eclipse"
+msgstr ""
 
 #  Platforms: Apple, Windows
 #  Select simulation time
@@ -3047,6 +3122,10 @@ msgstr ""
 #  Verbose HUD display
 msgid "Verbose"
 msgstr "مضجر"
+
+#  Platforms: Apple, Windows
+msgid "View Eclipse"
+msgstr ""
 
 #  Platforms: Windows
 #  Menu for split views
