@@ -600,6 +600,13 @@ msgstr "Промените ще бъдат приложени след рест�
 msgid "Congratulations, you are a Celestia PLUS user"
 msgstr "Поздравления, вече използвате „Celestia“ ПЛЮС"
 
+#  Platforms: Apple, Android
+#  Purchase success message with restart guidance
+msgid ""
+"Congratulations, you are a Celestia PLUS user. "
+"Restart Celestia for your purchase to take effect."
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 msgid "Constellations"
 msgstr "Съзвездия"
@@ -1650,7 +1657,7 @@ msgstr "LT / L2"
 msgid "Lua scripts' access to the file system"
 msgstr "Достъп на скриптове на „Lua“ до файловата система"
 
-#  Platforms: Windows
+#  Platforms: Apple, Android, Windows
 #  Lunar eclipses.
 msgid "Lunar"
 msgstr "Лунни"
@@ -2689,7 +2696,7 @@ msgid ""
 "perceptual visibility floor."
 msgstr ""
 
-#  Platforms: Windows
+#  Platforms: Apple, Android, Windows
 #  Solar eclipses.
 msgid "Solar"
 msgstr "Слънчеви"

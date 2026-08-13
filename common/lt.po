@@ -597,6 +597,13 @@ msgstr ""
 msgid "Congratulations, you are a Celestia PLUS user"
 msgstr ""
 
+#  Platforms: Apple, Android
+#  Purchase success message with restart guidance
+msgid ""
+"Congratulations, you are a Celestia PLUS user. "
+"Restart Celestia for your purchase to take effect."
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 msgid "Constellations"
 msgstr "Žvaigždynai"
@@ -1632,7 +1639,7 @@ msgstr ""
 msgid "Lua scripts' access to the file system"
 msgstr ""
 
-#  Platforms: Windows
+#  Platforms: Apple, Android, Windows
 #  Lunar eclipses.
 msgid "Lunar"
 msgstr ""
@@ -2665,7 +2672,7 @@ msgid ""
 "perceptual visibility floor."
 msgstr ""
 
-#  Platforms: Windows
+#  Platforms: Apple, Android, Windows
 #  Solar eclipses.
 msgid "Solar"
 msgstr "saulė"

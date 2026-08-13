@@ -601,6 +601,13 @@ msgstr "配置會在重啟後生效。"
 msgid "Congratulations, you are a Celestia PLUS user"
 msgstr "恭喜，您擁有 Celestia PLUS"
 
+#  Platforms: Apple, Android
+#  Purchase success message with restart guidance
+msgid ""
+"Congratulations, you are a Celestia PLUS user. "
+"Restart Celestia for your purchase to take effect."
+msgstr "恭喜，您擁有 Celestia PLUS。請重新啟動 Celestia，讓您的購買生效。"
+
 #  Platforms: Apple, Android, Windows
 msgid "Constellations"
 msgstr "星座"
@@ -1642,7 +1649,7 @@ msgstr "LT / L2"
 msgid "Lua scripts' access to the file system"
 msgstr "Lua 指令碼的檔案系統訪問許可權"
 
-#  Platforms: Windows
+#  Platforms: Apple, Android, Windows
 #  Lunar eclipses.
 msgid "Lunar"
 msgstr "月食"
@@ -2676,7 +2683,7 @@ msgid ""
 "perceptual visibility floor."
 msgstr "對低於該可視感知下限倍數的暗弱恆星進行軟裁剪。"
 
-#  Platforms: Windows
+#  Platforms: Apple, Android, Windows
 #  Solar eclipses.
 msgid "Solar"
 msgstr "日食"
