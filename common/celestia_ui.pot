@@ -509,6 +509,13 @@ msgid "Change"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+#  Output rendering settings footnote
+msgid ""
+"Changes to sRGB rendering take effect after a "
+"restart."
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Chaos (Chaotic Terrain)"
 msgstr ""
@@ -2962,14 +2969,6 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Tone mapping setting
 msgid "Tone Mapping"
-msgstr ""
-
-#  Platforms: Apple, Android, Windows
-#  Output rendering settings footnote
-msgid ""
-"Tone mapping and exposure only affect sRGB "
-"rendering. Changes to sRGB rendering take effect "
-"after a restart."
 msgstr ""
 
 #  Platforms: Apple, Android

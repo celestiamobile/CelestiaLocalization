@@ -515,6 +515,13 @@ msgid "Change"
 msgstr "修改"
 
 #  Platforms: Apple, Android, Windows
+#  Output rendering settings footnote
+msgid ""
+"Changes to sRGB rendering take effect after a "
+"restart."
+msgstr "sRGB 渲染的更改将在重启后生效。"
+
+#  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Chaos (Chaotic Terrain)"
 msgstr "混沌地形"
@@ -2978,14 +2985,6 @@ msgstr "切换交互模式"
 #  Tone mapping setting
 msgid "Tone Mapping"
 msgstr "色调映射"
-
-#  Platforms: Apple, Android, Windows
-#  Output rendering settings footnote
-msgid ""
-"Tone mapping and exposure only affect sRGB "
-"rendering. Changes to sRGB rendering take effect "
-"after a restart."
-msgstr "色调映射和曝光仅影响 sRGB 渲染。对 sRGB 渲染的更改将在重启后生效。"
 
 #  Platforms: Apple, Android
 #  Toolbar customization entry in Settings
