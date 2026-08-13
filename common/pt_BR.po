@@ -1462,6 +1462,10 @@ msgid "Irregular Galaxies"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+msgid "ISO 8601"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Select time via entering Julian day
 msgid "Julian Day"
 msgstr ""
