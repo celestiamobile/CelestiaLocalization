@@ -280,6 +280,16 @@ msgid "Astra (Radial Features)"
 msgstr "輻射狀地貌"
 
 #  Platforms: Apple, Android, Windows
+#  Atmosphere rendering quality settings
+msgid "Atmosphere"
+msgstr "大氣"
+
+#  Platforms: Apple, Android, Windows
+#  Atmosphere rendering quality setting
+msgid "Atmosphere Segment Count"
+msgstr "大氣分段數"
+
+#  Platforms: Apple, Android, Windows
 msgid "Atmospheres"
 msgstr "大氣壓"
 
@@ -513,6 +523,30 @@ msgstr "選取星體置中"
 msgid "Change"
 msgstr "修改"
 
+#  Platforms: Windows
+#  Data location settings restart notice
+msgid ""
+"Changes to data location settings take effect "
+"after a restart."
+msgstr "資料位置設定的變更會在重啟後生效。"
+
+#  Platforms: Windows
+#  Frame rate setting restart notice
+msgid "Changes to frame rate take effect after a restart."
+msgstr "幀率設定的變更會在重啟後生效。"
+
+#  Platforms: Windows
+#  Language setting restart notice
+msgid "Changes to language take effect after a restart."
+msgstr "語言設定的變更會在重啟後生效。"
+
+#  Platforms: Windows
+#  Selection sensitivity setting restart notice
+msgid ""
+"Changes to sensitivity take effect after a "
+"restart."
+msgstr "靈敏度設定的變更會在重啟後生效。"
+
 #  Platforms: Apple, Android, Windows
 #  Output rendering settings footnote
 msgid ""
@@ -564,6 +598,11 @@ msgid "Close"
 msgstr "關閉"
 
 #  Platforms: Apple, Android, Windows
+#  Cloud rendering quality setting
+msgid "Cloud Segment Count"
+msgstr "雲層分段數"
+
+#  Platforms: Apple, Android, Windows
 msgid "Cloud Shadows"
 msgstr "雲層陰影"
 
@@ -599,7 +638,7 @@ msgstr "計算"
 msgid "Config File"
 msgstr "配置檔案"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  Change requires a restart
 msgid "Configuration will take effect after a restart."
 msgstr "配置會在重啟後生效。"
@@ -815,6 +854,7 @@ msgid "Disk"
 msgstr "碟形"
 
 #  Platforms: Apple, Android, Windows
+#  Display quality settings
 #  Display settings
 msgid "Display"
 msgstr "顯示"
@@ -1494,7 +1534,7 @@ msgstr "L: %@° %@′ %@″"
 msgid "L: %s° %s′ %s″"
 msgstr "L: %s° %s′ %s″"
 
-#  Platforms: Windows
+#  Platforms: Apple, Android, Windows
 #  Labels to display
 msgid "Labels"
 msgstr "標記特徵"
@@ -1886,14 +1926,25 @@ msgid ""
 msgstr "Celestia 的通知已關閉。請在系統設定中啟用通知以訂閱更新。"
 
 #  Platforms: Apple, Android, Windows
+#  Atmosphere segment count setting description
+msgid ""
+"Number of segments used to integrate atmospheric "
+"scattering. Higher values improve quality at a "
+"greater performance cost."
+msgstr "用於積分大氣散射的分段數。數值越高，品質越好，但效能開銷也越大。"
+
+#  Platforms: Apple, Android, Windows
+#  Cloud segment count setting description
+msgid ""
+"Number of segments used to render clouds. Higher "
+"values improve quality at a greater performance "
+"cost."
+msgstr "用於渲染雲層的分段數。數值越高，品質越好，但效能開銷也越大。"
+
+#  Platforms: Apple, Android, Windows
 #  In eclipse finder, object to find eclipse with, or in go to
 msgid "Object"
 msgstr "星體"
-
-#  Platforms: Apple, Android
-#  Labels
-msgid "Object Labels"
-msgstr "天體標籤"
 
 #  Platforms: Apple
 #  Interaction mode for touch
@@ -2004,8 +2055,8 @@ msgstr "其他"
 
 #  Platforms: Apple, Android, Windows
 #  Output rendering settings
-msgid "Output Rendering"
-msgstr "輸出渲染"
+msgid "Output"
+msgstr "輸出"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -2163,12 +2214,6 @@ msgid "Point Spread Function"
 msgstr "點擴散函數"
 
 #  Platforms: Apple, Android, Windows
-msgid ""
-"Point spread function settings are only effective "
-"with the Point Spread Function star style."
-msgstr "點擴散函數設定僅在使用點擴散函數恆星樣式時生效。"
-
-#  Platforms: Apple, Android, Windows
 #  Star style
 msgid "Points"
 msgstr "點"
@@ -2207,6 +2252,11 @@ msgid ""
 "Subscriptions on Google Play."
 msgstr ""
 "付款將立即生效。訂閱會在每月（月付），每年（年付）或者每週（週付）會自動續費，價格如上所示。您可以在任意時間在 Google Play 的訂閱頁面取消訂閱。"
+
+#  Platforms: Apple, Android, Windows
+#  Rendering quality settings
+msgid "Quality"
+msgstr "品質"
 
 #  Platforms: Apple
 #  Equatorial coordinate
@@ -2297,14 +2347,14 @@ msgstr "重新命名"
 msgid "Render Info"
 msgstr "渲染資訊"
 
-#  Platforms: Apple, Android
-#  Render parameters in setting
-msgid "Render Parameters"
-msgstr "渲染引數"
-
 #  Platforms: Apple, Android, Windows
 #  In settings
 msgid "Renderer"
+msgstr "渲染"
+
+#  Platforms: Apple, Android, Windows
+#  Rendering settings
+msgid "Rendering"
 msgstr "渲染"
 
 #  Platforms: Apple, Android, Windows
@@ -2536,6 +2586,11 @@ msgid "Sensitivity for object selection"
 msgstr "天體選擇靈敏度"
 
 #  Platforms: Apple, Android, Windows
+#  Atmosphere rendering quality setting
+msgid "Separate Rayleigh and Mie Scale Heights"
+msgstr "分別設定瑞利和米氏尺度高度"
+
+#  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Serpentes (Serpentine Features)"
 msgstr "蛇形地貌"
@@ -2571,6 +2626,18 @@ msgstr "設定⋯"
 #  Resolution of shadow maps
 msgid "Shadow Resolution"
 msgstr "陰影解析度"
+
+#  Platforms: Apple, Android, Windows
+#  Change requires a restart
+msgid ""
+"Shadow resolution changes take effect after a "
+"restart."
+msgstr "陰影解析度的變更會在重啟後生效。"
+
+#  Platforms: Apple, Android, Windows
+#  Shadow rendering quality settings
+msgid "Shadows"
+msgstr "陰影"
 
 #  Platforms: Apple, Android
 msgid "Share"
@@ -2704,7 +2771,7 @@ msgstr "日食"
 msgid "Solar System"
 msgstr "太陽系"
 
-#  Platforms: Apple, Android, Windows
+#  Platforms: Apple, Android
 msgid ""
 "Some configurations will take effect after a "
 "restart."
@@ -2766,6 +2833,7 @@ msgid "Star Style"
 msgstr "恆星樣式"
 
 #  Platforms: Apple, Android, Windows
+#  Star rendering settings
 #  Tab for stars in Star Browser
 msgid "Stars"
 msgstr "恆星"
@@ -2895,6 +2963,11 @@ msgstr "鑲嵌地塊"
 #  Platforms: Apple, Android, Windows
 msgid "Texture Resolution"
 msgstr "紋理解析度"
+
+#  Platforms: Apple, Android, Windows
+#  Texture rendering quality settings
+msgid "Textures"
+msgstr "紋理"
 
 #  Platforms: Android
 msgid "This feature is not supported."

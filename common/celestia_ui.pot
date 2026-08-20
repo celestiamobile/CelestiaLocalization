@@ -279,6 +279,16 @@ msgid "Astra (Radial Features)"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+#  Atmosphere rendering quality settings
+msgid "Atmosphere"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Atmosphere rendering quality setting
+msgid "Atmosphere Segment Count"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 msgid "Atmospheres"
 msgstr ""
 
@@ -508,6 +518,30 @@ msgstr ""
 msgid "Change"
 msgstr ""
 
+#  Platforms: Windows
+#  Data location settings restart notice
+msgid ""
+"Changes to data location settings take effect "
+"after a restart."
+msgstr ""
+
+#  Platforms: Windows
+#  Frame rate setting restart notice
+msgid "Changes to frame rate take effect after a restart."
+msgstr ""
+
+#  Platforms: Windows
+#  Language setting restart notice
+msgid "Changes to language take effect after a restart."
+msgstr ""
+
+#  Platforms: Windows
+#  Selection sensitivity setting restart notice
+msgid ""
+"Changes to sensitivity take effect after a "
+"restart."
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 #  Output rendering settings footnote
 msgid ""
@@ -559,6 +593,11 @@ msgid "Close"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+#  Cloud rendering quality setting
+msgid "Cloud Segment Count"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 msgid "Cloud Shadows"
 msgstr ""
 
@@ -594,7 +633,7 @@ msgstr ""
 msgid "Config File"
 msgstr ""
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  Change requires a restart
 msgid "Configuration will take effect after a restart."
 msgstr ""
@@ -810,6 +849,7 @@ msgid "Disk"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+#  Display quality settings
 #  Display settings
 msgid "Display"
 msgstr ""
@@ -1483,7 +1523,7 @@ msgstr ""
 msgid "L: %s° %s′ %s″"
 msgstr ""
 
-#  Platforms: Windows
+#  Platforms: Apple, Android, Windows
 #  Labels to display
 msgid "Labels"
 msgstr ""
@@ -1875,13 +1915,24 @@ msgid ""
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
-#  In eclipse finder, object to find eclipse with, or in go to
-msgid "Object"
+#  Atmosphere segment count setting description
+msgid ""
+"Number of segments used to integrate atmospheric "
+"scattering. Higher values improve quality at a "
+"greater performance cost."
 msgstr ""
 
-#  Platforms: Apple, Android
-#  Labels
-msgid "Object Labels"
+#  Platforms: Apple, Android, Windows
+#  Cloud segment count setting description
+msgid ""
+"Number of segments used to render clouds. Higher "
+"values improve quality at a greater performance "
+"cost."
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  In eclipse finder, object to find eclipse with, or in go to
+msgid "Object"
 msgstr ""
 
 #  Platforms: Apple
@@ -1993,7 +2044,7 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 #  Output rendering settings
-msgid "Output Rendering"
+msgid "Output"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
@@ -2152,12 +2203,6 @@ msgid "Point Spread Function"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
-msgid ""
-"Point spread function settings are only effective "
-"with the Point Spread Function star style."
-msgstr ""
-
-#  Platforms: Apple, Android, Windows
 #  Star style
 msgid "Points"
 msgstr ""
@@ -2194,6 +2239,11 @@ msgid ""
 "year (for Yearly), each month (for Monthly), or "
 "each week (for Weekly). Cancel at anytime in "
 "Subscriptions on Google Play."
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Rendering quality settings
+msgid "Quality"
 msgstr ""
 
 #  Platforms: Apple
@@ -2285,14 +2335,14 @@ msgstr ""
 msgid "Render Info"
 msgstr ""
 
-#  Platforms: Apple, Android
-#  Render parameters in setting
-msgid "Render Parameters"
-msgstr ""
-
 #  Platforms: Apple, Android, Windows
 #  In settings
 msgid "Renderer"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Rendering settings
+msgid "Rendering"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
@@ -2524,6 +2574,11 @@ msgid "Sensitivity for object selection"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+#  Atmosphere rendering quality setting
+msgid "Separate Rayleigh and Mie Scale Heights"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Serpentes (Serpentine Features)"
 msgstr ""
@@ -2558,6 +2613,18 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Resolution of shadow maps
 msgid "Shadow Resolution"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Change requires a restart
+msgid ""
+"Shadow resolution changes take effect after a "
+"restart."
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Shadow rendering quality settings
+msgid "Shadows"
 msgstr ""
 
 #  Platforms: Apple, Android
@@ -2692,7 +2759,7 @@ msgstr ""
 msgid "Solar System"
 msgstr ""
 
-#  Platforms: Apple, Android, Windows
+#  Platforms: Apple, Android
 msgid ""
 "Some configurations will take effect after a "
 "restart."
@@ -2754,6 +2821,7 @@ msgid "Star Style"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+#  Star rendering settings
 #  Tab for stars in Star Browser
 msgid "Stars"
 msgstr ""
@@ -2882,6 +2950,11 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Texture Resolution"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Texture rendering quality settings
+msgid "Textures"
 msgstr ""
 
 #  Platforms: Android

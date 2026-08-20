@@ -283,6 +283,16 @@ msgid "Astra (Radial Features)"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+#  Atmosphere rendering quality settings
+msgid "Atmosphere"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Atmosphere rendering quality setting
+msgid "Atmosphere Segment Count"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 msgid "Atmospheres"
 msgstr "Атмосфери"
 
@@ -512,6 +522,30 @@ msgstr "Центрирай селекцията"
 msgid "Change"
 msgstr "Промени"
 
+#  Platforms: Windows
+#  Data location settings restart notice
+msgid ""
+"Changes to data location settings take effect "
+"after a restart."
+msgstr ""
+
+#  Platforms: Windows
+#  Frame rate setting restart notice
+msgid "Changes to frame rate take effect after a restart."
+msgstr ""
+
+#  Platforms: Windows
+#  Language setting restart notice
+msgid "Changes to language take effect after a restart."
+msgstr ""
+
+#  Platforms: Windows
+#  Selection sensitivity setting restart notice
+msgid ""
+"Changes to sensitivity take effect after a "
+"restart."
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 #  Output rendering settings footnote
 msgid ""
@@ -563,6 +597,11 @@ msgid "Close"
 msgstr "Затвори"
 
 #  Platforms: Apple, Android, Windows
+#  Cloud rendering quality setting
+msgid "Cloud Segment Count"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 msgid "Cloud Shadows"
 msgstr "Сенки от облаци"
 
@@ -598,7 +637,7 @@ msgstr "Изчисли"
 msgid "Config File"
 msgstr "Конфигурационен файл"
 
-#  Platforms: Apple, Android
+#  Platforms: Apple, Android, Windows
 #  Change requires a restart
 msgid "Configuration will take effect after a restart."
 msgstr "Промените ще бъдат приложени след рестартиране."
@@ -814,6 +853,7 @@ msgid "Disk"
 msgstr "Диск"
 
 #  Platforms: Apple, Android, Windows
+#  Display quality settings
 #  Display settings
 msgid "Display"
 msgstr "Екран"
@@ -1500,7 +1540,7 @@ msgstr "L: %@° %@′ %@″"
 msgid "L: %s° %s′ %s″"
 msgstr "L: %s° %s′ %s″"
 
-#  Platforms: Windows
+#  Platforms: Apple, Android, Windows
 #  Labels to display
 msgid "Labels"
 msgstr "Надписи"
@@ -1896,14 +1936,25 @@ msgid ""
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+#  Atmosphere segment count setting description
+msgid ""
+"Number of segments used to integrate atmospheric "
+"scattering. Higher values improve quality at a "
+"greater performance cost."
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Cloud segment count setting description
+msgid ""
+"Number of segments used to render clouds. Higher "
+"values improve quality at a greater performance "
+"cost."
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  In eclipse finder, object to find eclipse with, or in go to
 msgid "Object"
 msgstr "Обект"
-
-#  Platforms: Apple, Android
-#  Labels
-msgid "Object Labels"
-msgstr "Надписи на обектите"
 
 #  Platforms: Apple
 #  Interaction mode for touch
@@ -2014,7 +2065,7 @@ msgstr "Други"
 
 #  Platforms: Apple, Android, Windows
 #  Output rendering settings
-msgid "Output Rendering"
+msgid "Output"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
@@ -2173,12 +2224,6 @@ msgid "Point Spread Function"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
-msgid ""
-"Point spread function settings are only effective "
-"with the Point Spread Function star style."
-msgstr ""
-
-#  Platforms: Apple, Android, Windows
 #  Star style
 msgid "Points"
 msgstr "Точки"
@@ -2217,6 +2262,11 @@ msgid ""
 "year (for Yearly), each month (for Monthly), or "
 "each week (for Weekly). Cancel at anytime in "
 "Subscriptions on Google Play."
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Rendering quality settings
+msgid "Quality"
 msgstr ""
 
 #  Platforms: Apple
@@ -2310,15 +2360,15 @@ msgstr "Преименувай"
 msgid "Render Info"
 msgstr "Информация за възпроизвеждането"
 
-#  Platforms: Apple, Android
-#  Render parameters in setting
-msgid "Render Parameters"
-msgstr "Параметри на възпроизвеждането"
-
 #  Platforms: Apple, Android, Windows
 #  In settings
 msgid "Renderer"
 msgstr "Възпроизвеждане"
+
+#  Platforms: Apple, Android, Windows
+#  Rendering settings
+msgid "Rendering"
+msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Report a Bug"
@@ -2549,6 +2599,11 @@ msgid "Sensitivity for object selection"
 msgstr "Чувствителност при избора на обект"
 
 #  Platforms: Apple, Android, Windows
+#  Atmosphere rendering quality setting
+msgid "Separate Rayleigh and Mie Scale Heights"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Serpentes (Serpentine Features)"
 msgstr ""
@@ -2583,6 +2638,18 @@ msgstr "Настройки…"
 #  Platforms: Apple, Android, Windows
 #  Resolution of shadow maps
 msgid "Shadow Resolution"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Change requires a restart
+msgid ""
+"Shadow resolution changes take effect after a "
+"restart."
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
+#  Shadow rendering quality settings
+msgid "Shadows"
 msgstr ""
 
 #  Platforms: Apple, Android
@@ -2717,7 +2784,7 @@ msgstr "Слънчеви"
 msgid "Solar System"
 msgstr "Слънчева система"
 
-#  Platforms: Apple, Android, Windows
+#  Platforms: Apple, Android
 msgid ""
 "Some configurations will take effect after a "
 "restart."
@@ -2781,6 +2848,7 @@ msgid "Star Style"
 msgstr "Стил на звездите"
 
 #  Platforms: Apple, Android, Windows
+#  Star rendering settings
 #  Tab for stars in Star Browser
 msgid "Stars"
 msgstr "Звезди"
@@ -2912,6 +2980,11 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 msgid "Texture Resolution"
 msgstr "Резолюция на текстурите"
+
+#  Platforms: Apple, Android, Windows
+#  Texture rendering quality settings
+msgid "Textures"
+msgstr ""
 
 #  Platforms: Android
 msgid "This feature is not supported."
