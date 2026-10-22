@@ -360,6 +360,11 @@ msgid "Blackbody D65"
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+#  Star colors option
+msgid "Blackbody Illuminant E"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  PSF star setting
 msgid "Bloom Compactness"
 msgstr ""
@@ -878,6 +883,7 @@ msgstr ""
 
 #  Platforms: Apple
 #  Exit edit mode
+#  Exit toolbar customization mode
 msgid "Done"
 msgstr ""
 
@@ -952,6 +958,7 @@ msgstr "Ekliptikal"
 
 #  Platforms: Apple
 #  Enter edit mode for favorite items
+#  Enter toolbar customization mode
 msgid "Edit"
 msgstr "Editieren"
 
@@ -2222,11 +2229,6 @@ msgstr ""
 #  Star style
 msgid "Points"
 msgstr "Punkte"
-
-#  Platforms: Apple
-#  Settings
-msgid "Preferences…"
-msgstr "Einstellungen…"
 
 #  Platforms: Android
 #  Image preview of the selected link

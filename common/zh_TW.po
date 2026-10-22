@@ -359,6 +359,11 @@ msgid "Blackbody D65"
 msgstr "黑體 D65"
 
 #  Platforms: Apple, Android, Windows
+#  Star colors option
+msgid "Blackbody Illuminant E"
+msgstr "黑體（E 光源）"
+
+#  Platforms: Apple, Android, Windows
 #  PSF star setting
 msgid "Bloom Compactness"
 msgstr "輝光緊緻度"
@@ -881,6 +886,7 @@ msgstr "您是否希望解除安裝該外掛？"
 
 #  Platforms: Apple
 #  Exit edit mode
+#  Exit toolbar customization mode
 msgid "Done"
 msgstr "完成"
 
@@ -955,6 +961,7 @@ msgstr "黃道"
 
 #  Platforms: Apple
 #  Enter edit mode for favorite items
+#  Enter toolbar customization mode
 msgid "Edit"
 msgstr "編輯"
 
@@ -2217,11 +2224,6 @@ msgstr "點擴散函數"
 #  Star style
 msgid "Points"
 msgstr "點"
-
-#  Platforms: Apple
-#  Settings
-msgid "Preferences…"
-msgstr "偏好設定⋯"
 
 #  Platforms: Android
 #  Image preview of the selected link

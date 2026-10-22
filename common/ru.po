@@ -362,6 +362,11 @@ msgid "Blackbody D65"
 msgstr "Чёрнотельные D65"
 
 #  Platforms: Apple, Android, Windows
+#  Star colors option
+msgid "Blackbody Illuminant E"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  PSF star setting
 msgid "Bloom Compactness"
 msgstr ""
@@ -882,6 +887,7 @@ msgstr "Вы хотите удалить это дополнение?"
 
 #  Platforms: Apple
 #  Exit edit mode
+#  Exit toolbar customization mode
 msgid "Done"
 msgstr "Готово"
 
@@ -958,6 +964,7 @@ msgstr "Эклиптика"
 
 #  Platforms: Apple
 #  Enter edit mode for favorite items
+#  Enter toolbar customization mode
 msgid "Edit"
 msgstr "Редактировать"
 
@@ -2234,11 +2241,6 @@ msgstr ""
 #  Star style
 msgid "Points"
 msgstr "Точки"
-
-#  Platforms: Apple
-#  Settings
-msgid "Preferences…"
-msgstr "Настройки…"
 
 #  Platforms: Android
 #  Image preview of the selected link
