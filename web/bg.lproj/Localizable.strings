@@ -5,6 +5,8 @@
 "ADDON_AUTHOR_TEMPLATE" = "Автор(и): %@";
 "ADDON_RELEASE_DATE_TEMPLATE" = "Дата на излизане: %@";
 "ADDON_LAST_UPDATED_TEMPLATE" = "Последно обновяване: %@";
+"ADDON_REQUIRED_DEPENDENCIES" = "Задължителни добавки";
+"ADDON_DEPENDENCIES_LOADING_ERROR" = "Неуспешно зареждане на зависимостите.";
 "ADDON_INSTALL_HINT" = "Забележка: Рестартирайте „Celestia“ за активиране на новите инсталирани добавки.";
 "ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ или %@";
 "ADDON_INSTALL_ADDON_HELP_TEMPLATE" = "Как се инсталира тази добавка? Вижте %@.";
