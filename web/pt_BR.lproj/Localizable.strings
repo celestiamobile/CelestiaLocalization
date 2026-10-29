@@ -6,6 +6,8 @@
 "ADDON_RELEASE_DATE_TEMPLATE" = "Data de lançamento: %@";
 "ADDON_LAST_UPDATED_TEMPLATE" = "Última atualização: %@";
 "ADDON_REQUIRED_DEPENDENCIES" = "Add-ons necessários";
+"COMMON_PREVIOUS" = "Anterior";
+"COMMON_NEXT" = "Próximo";
 "ADDON_DEPENDENCIES_LOADING_ERROR" = "Falha ao carregar dependências.";
 "ADDON_INSTALL_HINT" = "Observação: é necessário reiniciar o Celestia para usar qualquer novo add-on instalado.";
 "ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ ou %@";

@@ -6,6 +6,8 @@
 "ADDON_RELEASE_DATE_TEMPLATE" = "Дата релиза: %@";
 "ADDON_LAST_UPDATED_TEMPLATE" = "Последнее обновление: %@";
 "ADDON_REQUIRED_DEPENDENCIES" = "Необходимые дополнения";
+"COMMON_PREVIOUS" = "Назад";
+"COMMON_NEXT" = "Далее";
 "ADDON_DEPENDENCIES_LOADING_ERROR" = "Не удалось загрузить зависимости.";
 "ADDON_INSTALL_HINT" = "Примечание: перезапустите Celestia для активации новых установленных дополнений.";
 "ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ или %@";
