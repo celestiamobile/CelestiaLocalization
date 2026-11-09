@@ -1,0 +1,107 @@
+"COMMON_LOADING_ERROR" = "Įkėlimo klaida.";
+"COMMON_OPEN_IN_CELESTIA" = "Atidaryti naudojant Celestia";
+"COMMON_OPEN_IN_CELESTIA_RECOMMENDED" = "Atidaryti naudojant Celestia (rekomenduojama)";
+"COMMON_DOWNLOAD" = "Atsisiųsti";
+"ADDON_AUTHOR_TEMPLATE" = "Autorius (-iai): %@";
+"ADDON_RELEASE_DATE_TEMPLATE" = "Išleidimo data: %@";
+"ADDON_LAST_UPDATED_TEMPLATE" = "Paskutinį kartą atnaujinta: %@";
+"ADDON_INSTALL_HINT" = "Pastaba: norint naudoti naujai įdiegtą priedą, reikia paleisti Celestia iš naujo.";
+"ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ arba %@";
+"ADDON_INSTALL_ADDON_HELP_TEMPLATE" = "Kaip įdiegti priedus? Sužinokite %@.";
+"ADDON_INSTALL_ADDON_HELP_ACTION" = "čia";
+"GUIDE_TYPE_NEWS_TITLE" = "Naujienos";
+"GUIDE_TYPE_TOOLS_TITLE" = "Įrankiai";
+"GUIDE_TYPE_TUTORIALS_TITLE" = "Vadovėliai";
+
+"ARTICLE_PUBLISH_DATE_TEMPLATE" = "Paskelbimo data: %@";
+
+"ADDON_CATEGORY_TITLE" = "Priedų kategorijos";
+"ADDON_CATEGORY_DESCRIPTION" = "Priedų kategorijos";
+"ADDON_MADE_BY_AUTHOR_TITLE_TEMPLATE" = "Priedai, kuriuos sukūrė %@";
+"ADDON_FOR_OBJECT_TITLE_TEMPLATE" = "Priedai, skirti %@";
+
+"EMPTY_ADDON_LIST_TITLE" = "Priedų nerasta";
+
+"COMMON_ERROR_TITLE" = "Klaida";
+
+"ERROR_NOT_FOUND" = "Užklaustas turinys nerastas.";
+"ERROR_FIELDS_MISSING" = "Užklausoje trūko kai kurių laukų.";
+"ERROR_INCORRECT_PARAMETERS" = "Kai kurie parametrai buvo neteisingi.";
+"ERROR_INTERNAL_ERROR" = "Vidinė serverio klaida.";
+
+"ADDON_INSTALL_HINT_NO_DEMO_OBJECT" = "Pastaba: norint naudoti naujai įdiegtą priedą, reikia paleisti Celestia iš naujo. Šis priedas neturi demonstracinio objekto, todėl matomas tik parinkties „Pašalinti“ variantas; naršykite objektą naudodami paiešką.";
+
+"COMMON_DESCRIPTION_SHOW_MORE" = "…";
+
+"TAB_HOME_TITLE" = "Pagrindinis";
+"TAB_DOWNLOADS_TITLE" = "Atsisiuntimai";
+"TAB_NEWS_TITLE" = "Naujienos";
+"TAB_TUTORIALS_TITLE" = "Vadovėliai";
+"TAB_TOOLS_TITLE" = "Įrankiai";
+"TAB_ADDONS_TITLE" = "Priedai";
+"TAB_ABOUT_TITLE" = "Apie";
+
+"FRONT_PAGE_TITLE" = "Celestia";
+"FRONT_PAGE_DESCRIPTION_MESSAGE" = "Celestia – nemokamas kosmoso simuliatorius Windows, Linux, macOS, iOS ir Android sistemoms. Kosmosą galite laisvai tyrinėti trijų matmenų erdvėje.";
+
+"PAGE_DESCRIPTION_DEFAULT" = "Įsigyti Celestia";
+
+"FRONT_PAGE_SUBHEADLINE_MESSAGE" = "Kosmoso vizualizacija 3D realiuoju laiku";
+"FRONT_PAGE_DOWNLOAD_BUTTON_TEXT" = "Atsisiųsti Celestia";
+"FRONT_PAGE_DESCRIPTION_HEADER_1" = "3D kosmoso simuliatorius";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_1" = "Celestia imituoja daugybę įvairių dangaus objektų. Nuo planetų ir mėnulių iki žvaigždžių spiečių ir galaktikų – galite aplankyti kiekvieną plečiamos duomenų bazės objektą ir jį stebėti iš bet kurio erdvės bei laiko taško. Saulės sistemos objektų padėtis ir judėjimas tiksliai apskaičiuojami realiuoju laiku bet kokiu pageidaujamu greičiu.";
+"FRONT_PAGE_DESCRIPTION_HEADER_2" = "Interaktyvus planetariumas";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_2" = "Celestia veikia kaip planetariumas stebėtojui, esančiam ant bet kurio dangaus kūno. Galite lengvai keliauti į bet kurį pasaulį ir nusileisti jo paviršiuje. Celestia rodo tikslias Saulės sistemos objektų padėtis danguje su etiketėmis ir pagalbinėmis funkcijomis, kurias galima įjungti ir išjungti.";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_3" = "Plečiamas turinys";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_TEMPLATE" = "Celestia katalogus lengva išplėsti priedais, kuriuose yra naujų objektų, pavyzdžiui, kometų ar žvaigždžių, didelės raiškos tekstūrų, tiksliomis orbitomis skriejančių asteroidų ir kosminių laivų 3D modelių ir net išgalvotų objektų iš gerai žinomų mokslinės fantastikos serijų. Norite pristatyti savo darbą? Pateikite savo priedą %@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_ARG1" = "čia";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_4" = "Privatumas ir licencija";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_TEMPLATE" = "Celestia renka duomenis tik analitiniais ir diagnostikos tikslais. Žr. %1$@. Celestia licencijuota pagal %2$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG1" = "privatumo politiką";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG2" = "GNU General Public License";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_5" = "Plėtra ir padėkos";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_TEMPLATE" = "Celestia yra atvirojo kodo. Šaltinio kodas pasiekiamas %1$@ ir %2$@. Žr. %3$@ ir %4$@. Pilnas %5$@ ir %6$@ sąrašas.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG1" = "celestiamobile";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG2" = "CelestiaProject";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG3" = "kūrimo vadovą";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG4" = "trečiųjų šalių bibliotekas";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG5" = "autorių";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG6" = "vertėjų";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_6" = "Kontaktai";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_TEMPLATE" = "Originaliam Celestia projektui: %1$@ arba %2$@. Programėlėms ar svetainei: naudokite atsiliepimą programėlėje, %3$@ arba %4$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG1" = "forumas";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG2" = "GitHub diskusijos";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG3" = "GitHub problemos";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG4" = "el. paštas";
+
+"COMMON_TRANSLATE_THIS_PAGE_TEMPLATE" = "Padėkite mums išversti šį puslapį %@.";
+"COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "čia";
+
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Daugiausiai peržiūrėti";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Neseniai pridėti";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Neseniai atnaujinti";
+
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_DESCRIPTION" = "Štai sąrašas priedų, kurie buvo daugiausiai peržiūrėti per pastarąsias 7 dienas.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_DESCRIPTION" = "Štai sąrašas neseniai pridėtų priedų.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_DESCRIPTION" = "Štai sąrašas neseniai atnaujintų priedų.";
+
+"ADDON_REQUIRED_DEPENDENCIES" = "Būtinos priklausomybės";
+"COMMON_PREVIOUS" = "Ankstesnis";
+"COMMON_NEXT" = "Kitas";
+"ADDON_DEPENDENCIES_LOADING_ERROR" = "Nepavyko įkelti priklausomybių.";
+
+"CELESTIA_PLUS_LABEL" = "PLUS";
+
+"COMMON_SEARCH_PLACEHOLDER" = "Ieškoti…";
+
+"ADDON_SORT_METHOD_ALPHABETICAL" = "A-Z";
+"ADDON_SORT_METHOD_RECENTLY_ADDED" = "Neseniai pridėti";
+"ADDON_SORT_METHOD_RECENTLY_UPDATED" = "Neseniai atnaujinti";
+
+"UNKNOWN_FEATURED_ITEM_TITLE" = "Nežinoma";
+"CELESTIA_FEATURED_LABEL" = "Rekomenduojama";
+"PUSH_NOTIFICATION_WEEKLY_ADDON_TITLE_TEMPLATE" = "Savaitės priedas: %@";

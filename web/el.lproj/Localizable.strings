@@ -1,0 +1,107 @@
+"COMMON_LOADING_ERROR" = "Σφάλμα φόρτωσης.";
+"COMMON_OPEN_IN_CELESTIA" = "Άνοιγμα στο Celestia";
+"COMMON_OPEN_IN_CELESTIA_RECOMMENDED" = "Άνοιγμα στο Celestia (Συνιστάται)";
+"COMMON_DOWNLOAD" = "Λήψη";
+"ADDON_AUTHOR_TEMPLATE" = "Συντάκτης(-ες): %@";
+"ADDON_RELEASE_DATE_TEMPLATE" = "Ημερομηνία κυκλοφορίας: %@";
+"ADDON_LAST_UPDATED_TEMPLATE" = "Τελευταία ενημέρωση: %@";
+"ADDON_INSTALL_HINT" = "Σημείωση: απαιτείται επανεκκίνηση του Celestia για να χρησιμοποιηθεί κάθε νέο εγκατεστημένο πρόσθετο.";
+"ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ ή %@";
+"ADDON_INSTALL_ADDON_HELP_TEMPLATE" = "Πώς να εγκαταστήσετε πρόσθετα; Μάθετε περισσότερα %@.";
+"ADDON_INSTALL_ADDON_HELP_ACTION" = "εδώ";
+"GUIDE_TYPE_NEWS_TITLE" = "Νέα";
+"GUIDE_TYPE_TOOLS_TITLE" = "Εργαλεία";
+"GUIDE_TYPE_TUTORIALS_TITLE" = "Οδηγοί";
+
+"ARTICLE_PUBLISH_DATE_TEMPLATE" = "Ημερομηνία δημοσίευσης: %@";
+
+"ADDON_CATEGORY_TITLE" = "Κατηγορίες προσθέτων";
+"ADDON_CATEGORY_DESCRIPTION" = "Κατηγορίες προσθέτων";
+"ADDON_MADE_BY_AUTHOR_TITLE_TEMPLATE" = "Πρόσθετα από τον/την %@";
+"ADDON_FOR_OBJECT_TITLE_TEMPLATE" = "Πρόσθετα για %@";
+
+"EMPTY_ADDON_LIST_TITLE" = "Δεν βρέθηκαν πρόσθετα";
+
+"COMMON_ERROR_TITLE" = "Σφάλμα";
+
+"ERROR_NOT_FOUND" = "Το ζητούμενο περιεχόμενο δεν βρέθηκε.";
+"ERROR_FIELDS_MISSING" = "Λείπουν ορισμένα πεδία από το αίτημα.";
+"ERROR_INCORRECT_PARAMETERS" = "Ορισμένες παράμετροι ήταν εσφαλμένες.";
+"ERROR_INTERNAL_ERROR" = "Εσωτερικό σφάλμα διακομιστή.";
+
+"ADDON_INSTALL_HINT_NO_DEMO_OBJECT" = "Σημείωση: απαιτείται επανεκκίνηση του Celestia για να χρησιμοποιηθεί κάθε νέο εγκατεστημένο πρόσθετο. Αυτό το πρόσθετο δεν διαθέτει αντικείμενο επίδειξης, επομένως εμφανίζεται μόνο η επιλογή «Κατάργηση εγκατάστασης»· μεταβείτε στο αντικείμενο μέσω της αναζήτησης.";
+
+"COMMON_DESCRIPTION_SHOW_MORE" = "…";
+
+"TAB_HOME_TITLE" = "Αρχική";
+"TAB_DOWNLOADS_TITLE" = "Λήψεις";
+"TAB_NEWS_TITLE" = "Νέα";
+"TAB_TUTORIALS_TITLE" = "Οδηγοί";
+"TAB_TOOLS_TITLE" = "Εργαλεία";
+"TAB_ADDONS_TITLE" = "Πρόσθετα";
+"TAB_ABOUT_TITLE" = "Σχετικά";
+
+"FRONT_PAGE_TITLE" = "Celestia";
+"FRONT_PAGE_DESCRIPTION_MESSAGE" = "Το Celestia είναι ένας δωρεάν προσομοιωτής διαστήματος για Windows, Linux, macOS, iOS και Android. Μπορείτε να εξερευνήσετε ελεύθερα το διάστημα σε τρεις διαστάσεις.";
+
+"PAGE_DESCRIPTION_DEFAULT" = "Λήψη του Celestia";
+
+"FRONT_PAGE_SUBHEADLINE_MESSAGE" = "Τρισδιάστατη απεικόνιση του διαστήματος σε πραγματικό χρόνο";
+"FRONT_PAGE_DOWNLOAD_BUTTON_TEXT" = "Λήψη του Celestia";
+"FRONT_PAGE_DESCRIPTION_HEADER_1" = "Τρισδιάστατος προσομοιωτής διαστήματος";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_1" = "Το Celestia προσομοιώνει πολλά διαφορετικά είδη ουράνιων σωμάτων. Από πλανήτες και δορυφόρους μέχρι σμήνη αστέρων και γαλαξίες, μπορείτε να επισκεφθείτε κάθε αντικείμενο στην επεκτάσιμη βάση δεδομένων και να το δείτε από οποιοδήποτε σημείο του χώρου και του χρόνου. Η θέση και η κίνηση των αντικειμένων του ηλιακού συστήματος υπολογίζονται με ακρίβεια σε πραγματικό χρόνο, με οποιονδήποτε επιθυμητό ρυθμό.";
+"FRONT_PAGE_DESCRIPTION_HEADER_2" = "Διαδραστικό πλανητάριο";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_2" = "Το Celestia λειτουργεί ως πλανητάριο — για έναν παρατηρητή σε οποιοδήποτε ουράνιο σώμα. Μπορείτε εύκολα να μεταβείτε σε οποιονδήποτε κόσμο και να προσγειωθείτε στην επιφάνειά του. Το Celestia εμφανίζει τις ακριβείς θέσεις των αντικειμένων του ηλιακού συστήματος στον ουρανό, με ετικέτες και υποστηρικτικές λειτουργίες που μπορείτε να ενεργοποιείτε και να απενεργοποιείτε.";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_3" = "Επεκτάσιμο περιεχόμενο";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_TEMPLATE" = "Οι κατάλογοι του Celestia μπορούν να επεκταθούν εύκολα με πρόσθετα που περιέχουν νέα αντικείμενα, όπως κομήτες ή αστέρες, υφές υψηλής ανάλυσης, τρισδιάστατα μοντέλα για αστεροειδείς και διαστημόπλοια σε ακριβείς τροχιές, ακόμη και φανταστικά αντικείμενα από γνωστές σειρές επιστημονικής φαντασίας. Θέλετε να προβάλετε τη δουλειά σας; Υποβάλετε το πρόσθετό σας %@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_ARG1" = "εδώ";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_4" = "Απόρρητο και άδεια";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_TEMPLATE" = "Το Celestia συλλέγει δεδομένα μόνο για αναλυτικούς και διαγνωστικούς σκοπούς. Δείτε την %1$@. Το Celestia διανέμεται υπό την άδεια %2$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG1" = "πολιτική απορρήτου";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG2" = "GNU General Public License";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_5" = "Ανάπτυξη και συντελεστές";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_TEMPLATE" = "Το Celestia είναι ανοιχτού κώδικα. Ο πηγαίος κώδικας είναι διαθέσιμος στο %1$@ και στο %2$@. Δείτε τον %3$@ και τις %4$@. Πλήρης λίστα %5$@ και %6$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG1" = "celestiamobile";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG2" = "CelestiaProject";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG3" = "οδηγό μεταγλώττισης";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG4" = "βιβλιοθήκες τρίτων";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG5" = "συγγραφέων";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG6" = "μεταφραστών";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_6" = "Επικοινωνία";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_TEMPLATE" = "Για το αρχικό έργο Celestia: %1$@ ή %2$@. Για τις εφαρμογές ή τον ιστότοπο: χρησιμοποιήστε την εντός εφαρμογής υποβολή σχολίων, %3$@ ή %4$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG1" = "φόρουμ";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG2" = "συζητήσεις στο GitHub";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG3" = "ζητήματα στο GitHub";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG4" = "e-mail";
+
+"COMMON_TRANSLATE_THIS_PAGE_TEMPLATE" = "Βοηθήστε μας να μεταφράσουμε αυτή τη σελίδα %@.";
+"COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "εδώ";
+
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Πιο δημοφιλή";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Πρόσφατα προστεθέντα";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Πρόσφατα ενημερωμένα";
+
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_DESCRIPTION" = "Λίστα με τα πρόσθετα που έχουν δει τις περισσότερες προβολές τις τελευταίες 7 ημέρες.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_DESCRIPTION" = "Λίστα με πρόσθετα που έχουν προστεθεί πρόσφατα.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_DESCRIPTION" = "Λίστα με πρόσθετα που έχουν ενημερωθεί πρόσφατα.";
+
+"ADDON_REQUIRED_DEPENDENCIES" = "Απαιτούμενες εξαρτήσεις";
+"COMMON_PREVIOUS" = "Προηγούμενο";
+"COMMON_NEXT" = "Επόμενο";
+"ADDON_DEPENDENCIES_LOADING_ERROR" = "Αποτυχία φόρτωσης των εξαρτήσεων.";
+
+"CELESTIA_PLUS_LABEL" = "PLUS";
+
+"COMMON_SEARCH_PLACEHOLDER" = "Αναζήτηση…";
+
+"ADDON_SORT_METHOD_ALPHABETICAL" = "Α-Ω";
+"ADDON_SORT_METHOD_RECENTLY_ADDED" = "Πρόσφατα προστεθέντα";
+"ADDON_SORT_METHOD_RECENTLY_UPDATED" = "Πρόσφατα ενημερωμένα";
+
+"UNKNOWN_FEATURED_ITEM_TITLE" = "Άγνωστο";
+"CELESTIA_FEATURED_LABEL" = "Προτεινόμενο";
+"PUSH_NOTIFICATION_WEEKLY_ADDON_TITLE_TEMPLATE" = "Πρόσθετο της εβδομάδας: %@";

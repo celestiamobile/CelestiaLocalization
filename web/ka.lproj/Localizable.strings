@@ -1,0 +1,107 @@
+"COMMON_LOADING_ERROR" = "ჩატვირთვის შეცდომა.";
+"COMMON_OPEN_IN_CELESTIA" = "გახსნა Celestia-ში";
+"COMMON_OPEN_IN_CELESTIA_RECOMMENDED" = "გახსნა Celestia-ში (რეკომენდებული)";
+"COMMON_DOWNLOAD" = "ჩამოტვირთვა";
+"ADDON_AUTHOR_TEMPLATE" = "ავტორ(ებ)ი: %@";
+"ADDON_RELEASE_DATE_TEMPLATE" = "გამოშვების თარიღი: %@";
+"ADDON_LAST_UPDATED_TEMPLATE" = "ბოლო განახლება: %@";
+"ADDON_INSTALL_HINT" = "შენიშვნა: ახლად დაყენებული დანამატის გამოყენებისთვის საჭიროა Celestia-ის ხელახლა გაშვება.";
+"ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ ან %@";
+"ADDON_INSTALL_ADDON_HELP_TEMPLATE" = "როგორ უნდა დააყენოთ დანამატები? გაიგეთ %@.";
+"ADDON_INSTALL_ADDON_HELP_ACTION" = "აქ";
+"GUIDE_TYPE_NEWS_TITLE" = "სიახლეები";
+"GUIDE_TYPE_TOOLS_TITLE" = "ხელსაწყოები";
+"GUIDE_TYPE_TUTORIALS_TITLE" = "სახელმძღვანელოები";
+
+"ARTICLE_PUBLISH_DATE_TEMPLATE" = "გამოქვეყნების თარიღი: %@";
+
+"ADDON_CATEGORY_TITLE" = "დანამატების კატეგორიები";
+"ADDON_CATEGORY_DESCRIPTION" = "დანამატების კატეგორიები";
+"ADDON_MADE_BY_AUTHOR_TITLE_TEMPLATE" = "%@-ის შექმნილი დანამატები";
+"ADDON_FOR_OBJECT_TITLE_TEMPLATE" = "დანამატები %@-ისთვის";
+
+"EMPTY_ADDON_LIST_TITLE" = "დანამატი ვერ მოიძებნა";
+
+"COMMON_ERROR_TITLE" = "შეცდომა";
+
+"ERROR_NOT_FOUND" = "მოთხოვნილი შინაარსი ვერ მოიძებნა.";
+"ERROR_FIELDS_MISSING" = "მოთხოვნაში ზოგიერთი ველი აკლია.";
+"ERROR_INCORRECT_PARAMETERS" = "ზოგიერთი პარამეტრი მცდარია.";
+"ERROR_INTERNAL_ERROR" = "სერვერის შიდა შეცდომა.";
+
+"ADDON_INSTALL_HINT_NO_DEMO_OBJECT" = "შენიშვნა: ახლად დაყენებული დანამატის გამოყენებისთვის საჭიროა Celestia-ის ხელახლა გაშვება. ამ დანამატს არ აქვს დემო ობიექტი, ამიტომ ხილულია მხოლოდ „დეინსტალაცია“-ის ვარიანტი; გთხოვთ, ობიექტამდე გადახვიდეთ ძიების მეშვეობით.";
+
+"COMMON_DESCRIPTION_SHOW_MORE" = "…";
+
+"TAB_HOME_TITLE" = "მთავარი";
+"TAB_DOWNLOADS_TITLE" = "ჩამოტვირთვები";
+"TAB_NEWS_TITLE" = "სიახლეები";
+"TAB_TUTORIALS_TITLE" = "სახელმძღვანელოები";
+"TAB_TOOLS_TITLE" = "ხელსაწყოები";
+"TAB_ADDONS_TITLE" = "დანამატები";
+"TAB_ABOUT_TITLE" = "შესახებ";
+
+"FRONT_PAGE_TITLE" = "Celestia";
+"FRONT_PAGE_DESCRIPTION_MESSAGE" = "Celestia არის უფასო კოსმოსური სიმულატორი Windows-ის, Linux-ის, macOS-ის, iOS-ისა და Android-ისთვის. შეგიძლიათ თავისუფლად დაათვალიეროთ კოსმოსი სამ განზომილებაში.";
+
+"PAGE_DESCRIPTION_DEFAULT" = "მიიღეთ Celestia";
+
+"FRONT_PAGE_SUBHEADLINE_MESSAGE" = "კოსმოსის რეალურ დროში 3D ვიზუალიზაცია";
+"FRONT_PAGE_DOWNLOAD_BUTTON_TEXT" = "ჩამოტვირთეთ Celestia";
+"FRONT_PAGE_DESCRIPTION_HEADER_1" = "3D კოსმოსური სიმულატორი";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_1" = "Celestia მოახდენს ბევრი სხვადასხვა ციური ობიექტის სიმულაციას. პლანეტებიდან და მთვარეებიდან ვარსკვლავთა გროვებამდე და გალაქტიკებამდე — შეგიძლიათ ეწვიოთ ყველა ობიექტს გაფართოებად მონაცემთა ბაზაში და დაათვალიეროთ ისინი სივრცე-დროის ნებისმიერი წერტილიდან. მზის სისტემის ობიექტების მდებარეობა და მოძრაობა ზუსტად გამოითვლება რეალურ დროში ნებისმიერი სასურველი სიჩქარით.";
+"FRONT_PAGE_DESCRIPTION_HEADER_2" = "ინტერაქტიული პლანეტარიუმი";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_2" = "Celestia მუშაობს როგორც პლანეტარიუმი — ნებისმიერ ციურ სხეულზე მყოფი დამკვირვებლისთვის. შეგიძლიათ მარტივად გადახვიდეთ ნებისმიერ სამყაროზე და დაეშვათ მის ზედაპირზე. Celestia ცაზე გვიჩვენებს მზის სისტემის ობიექტების ზუსტ მდებარეობებს, ეტიკეტებითა და დამხმარე ფუნქციებით, რომელთა ჩართვა-გამორთვა შესაძლებელია.";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_3" = "გაფართოებადი შინაარსი";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_TEMPLATE" = "Celestia-ის კატალოგების გაფართოება მარტივად შესაძლებელია დანამატებით, რომლებიც შეიცავს ახალ ობიექტებს, როგორებიცაა კომეტები ან ვარსკვლავები, მაღალი გარჩევადობის ტექსტურები, ასტეროიდებისა და კოსმოსური ხომალდების 3D მოდელები ზუსტ ტრაექტორიებზე, და კიდევ ცნობილი სამეცნიერო-ფანტასტიკური ფრანშიზების გამოგონილი ობიექტებიც კი. გსურთ თქვენი ნამუშევრის წარდგენა? გამოაგზავნეთ თქვენი დანამატი %@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_ARG1" = "აქ";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_4" = "კონფიდენციალურობა და ლიცენზია";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_TEMPLATE" = "Celestia მონაცემებს აგროვებს მხოლოდ ანალიტიკისა და დიაგნოსტიკის მიზნებისთვის. იხილეთ %1$@. Celestia ლიცენზირებულია %2$@-ის მიხედვით.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG1" = "კონფიდენციალურობის პოლიტიკა";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG2" = "GNU General Public License";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_5" = "შემუშავება და კრედიტები";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_TEMPLATE" = "Celestia ღია წყაროა. წყაროს კოდი ხელმისაწვდომია %1$@-სა და %2$@-ზე. იხილეთ %3$@ და %4$@. %5$@-ისა და %6$@-ის სრული სია.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG1" = "celestiamobile";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG2" = "CelestiaProject";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG3" = "ააგების სახელმძღვანელო";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG4" = "მესამე მხარის ბიბლიოთეკები";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG5" = "ავტორების";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG6" = "მთარგმნელების";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_6" = "კონტაქტები";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_TEMPLATE" = "Celestia-ის ორიგინალური პროექტისთვის: %1$@ ან %2$@. აპლიკაციებისთვის ან ვებსაიტისთვის: გამოიყენეთ აპლიკაციაში არსებული უკუკავშირი, %3$@ ან %4$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG1" = "ფორუმი";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG2" = "GitHub-ის დისკუსიები";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG3" = "GitHub-ის issues";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG4" = "ელ. ფოსტა";
+
+"COMMON_TRANSLATE_THIS_PAGE_TEMPLATE" = "დაგვეხმარეთ ამ გვერდის თარგმნაში %@.";
+"COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "აქ";
+
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "ყველაზე ნანახი";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "ახლახან დამატებული";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "ახლახან განახლებული";
+
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_DESCRIPTION" = "აქ მოცემულია ბოლო 7 დღის განმავლობაში ყველაზე მეტად ნანახი დანამატების სია.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_DESCRIPTION" = "აქ მოცემულია ახლახან დამატებული დანამატების სია.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_DESCRIPTION" = "აქ მოცემულია ახლახან განახლებული დანამატების სია.";
+
+"ADDON_REQUIRED_DEPENDENCIES" = "საჭირო დამოკიდებულებები";
+"COMMON_PREVIOUS" = "წინა";
+"COMMON_NEXT" = "შემდეგი";
+"ADDON_DEPENDENCIES_LOADING_ERROR" = "ვერ ჩაიტვირთა დამოკიდებულებები.";
+
+"CELESTIA_PLUS_LABEL" = "PLUS";
+
+"COMMON_SEARCH_PLACEHOLDER" = "ძიება…";
+
+"ADDON_SORT_METHOD_ALPHABETICAL" = "ა-ჰ";
+"ADDON_SORT_METHOD_RECENTLY_ADDED" = "ახლახან დამატებული";
+"ADDON_SORT_METHOD_RECENTLY_UPDATED" = "ახლახან განახლებული";
+
+"UNKNOWN_FEATURED_ITEM_TITLE" = "უცნობი";
+"CELESTIA_FEATURED_LABEL" = "გამორჩეული";
+"PUSH_NOTIFICATION_WEEKLY_ADDON_TITLE_TEMPLATE" = "კვირის დანამატი: %@";

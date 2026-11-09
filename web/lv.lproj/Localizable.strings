@@ -1,0 +1,107 @@
+"COMMON_LOADING_ERROR" = "Ielādes kļūda.";
+"COMMON_OPEN_IN_CELESTIA" = "Atvērt programmā Celestia";
+"COMMON_OPEN_IN_CELESTIA_RECOMMENDED" = "Atvērt programmā Celestia (ieteicams)";
+"COMMON_DOWNLOAD" = "Lejupielādēt";
+"ADDON_AUTHOR_TEMPLATE" = "Autors(-i): %@";
+"ADDON_RELEASE_DATE_TEMPLATE" = "Izlaišanas datums: %@";
+"ADDON_LAST_UPDATED_TEMPLATE" = "Pēdējoreiz atjaunināts: %@";
+"ADDON_INSTALL_HINT" = "Piezīme: lai izmantotu jebkuru jauni instalētu papildinājumu, jārestartē Celestia.";
+"ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ vai %@";
+"ADDON_INSTALL_ADDON_HELP_TEMPLATE" = "Kā instalēt papildinājumus? Uzziniet %@.";
+"ADDON_INSTALL_ADDON_HELP_ACTION" = "šeit";
+"GUIDE_TYPE_NEWS_TITLE" = "Jaunumi";
+"GUIDE_TYPE_TOOLS_TITLE" = "Rīki";
+"GUIDE_TYPE_TUTORIALS_TITLE" = "Pamācības";
+
+"ARTICLE_PUBLISH_DATE_TEMPLATE" = "Publicēšanas datums: %@";
+
+"ADDON_CATEGORY_TITLE" = "Papildinājumu kategorijas";
+"ADDON_CATEGORY_DESCRIPTION" = "Papildinājumu kategorijas";
+"ADDON_MADE_BY_AUTHOR_TITLE_TEMPLATE" = "%@ izveidotie papildinājumi";
+"ADDON_FOR_OBJECT_TITLE_TEMPLATE" = "Papildinājumi objektam %@";
+
+"EMPTY_ADDON_LIST_TITLE" = "Papildinājumi nav atrasti";
+
+"COMMON_ERROR_TITLE" = "Kļūda";
+
+"ERROR_NOT_FOUND" = "Pieprasītais saturs nav atrasts.";
+"ERROR_FIELDS_MISSING" = "Pieprasījumā trūka dažu lauku.";
+"ERROR_INCORRECT_PARAMETERS" = "Daži parametri bija nepareizi.";
+"ERROR_INTERNAL_ERROR" = "Iekšēja servera kļūda.";
+
+"ADDON_INSTALL_HINT_NO_DEMO_OBJECT" = "Piezīme: lai izmantotu jebkuru jauni instalētu papildinājumu, jārestartē Celestia. Šim papildinājumam nav demonstrācijas objekta, tāpēc redzama tikai opcija “Atinstalēt”; lūdzu, dodieties uz objektu, izmantojot meklēšanu.";
+
+"COMMON_DESCRIPTION_SHOW_MORE" = "…";
+
+"TAB_HOME_TITLE" = "Sākums";
+"TAB_DOWNLOADS_TITLE" = "Lejupielādes";
+"TAB_NEWS_TITLE" = "Jaunumi";
+"TAB_TUTORIALS_TITLE" = "Pamācības";
+"TAB_TOOLS_TITLE" = "Rīki";
+"TAB_ADDONS_TITLE" = "Papildinājumi";
+"TAB_ABOUT_TITLE" = "Par";
+
+"FRONT_PAGE_TITLE" = "Celestia";
+"FRONT_PAGE_DESCRIPTION_MESSAGE" = "Celestia ir bezmaksas kosmosa simulators operētājsistēmām Windows, Linux, macOS, iOS un Android. Kosmosu varat brīvi izpētīt trīs dimensijās.";
+
+"PAGE_DESCRIPTION_DEFAULT" = "Iegūt Celestia";
+
+"FRONT_PAGE_SUBHEADLINE_MESSAGE" = "Kosmosa reāllaika 3D vizualizācija";
+"FRONT_PAGE_DOWNLOAD_BUTTON_TEXT" = "Lejupielādēt Celestia";
+"FRONT_PAGE_DESCRIPTION_HEADER_1" = "3D kosmosa simulators";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_1" = "Celestia simulē daudzus dažādus debess ķermeņu veidus. No planētām un pavadoņiem līdz zvaigžņu kopām un galaktikām — varat apmeklēt katru objektu paplašināmajā datubāzē un to aplūkot no jebkura punkta telpā un laikā. Saules sistēmas objektu pozīcijas un kustība tiek precīzi aprēķinātas reāllaikā jebkurā vēlamajā ātrumā.";
+"FRONT_PAGE_DESCRIPTION_HEADER_2" = "Interaktīvs planetārijs";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_2" = "Celestia kalpo kā planetārijs novērotājam uz jebkura debess ķermeņa. Varat viegli pārcelties uz jebkuru pasauli un nolaisties uz tās virsmas. Celestia debesīs parāda precīzas Saules sistēmas objektu pozīcijas ar uzrakstiem un papildu funkcijām, kuras varat ieslēgt un izslēgt.";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_3" = "Paplašināms saturs";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_TEMPLATE" = "Celestia katalogus var viegli paplašināt ar papildinājumiem, kuros ir jauni objekti, piemēram, komētas vai zvaigznes, augstas izšķirtspējas tekstūras, asteroīdu un kosmosa kuģu 3D modeļi precīzās trajektorijās un pat izdomāti objekti no labi zināmām zinātniskās fantastikas franšīzēm. Vai vēlaties popularizēt savu darbu? Iesniedziet savu papildinājumu %@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_ARG1" = "šeit";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_4" = "Privātums un licence";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_TEMPLATE" = "Celestia datus apkopo tikai analītikas un diagnostikas nolūkos. Skatiet %1$@. Celestia ir licencēta saskaņā ar %2$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG1" = "konfidencialitātes politiku";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG2" = "GNU General Public License";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_5" = "Izstrāde un pateicības";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_TEMPLATE" = "Celestia ir atvērtā pirmkoda programma. Pirmkods ir pieejams %1$@ un %2$@. Skatiet %3$@ un %4$@. Pilns %5$@ un %6$@ saraksts.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG1" = "celestiamobile";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG2" = "CelestiaProject";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG3" = "būvēšanas pamācību";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG4" = "trešo pušu bibliotēkas";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG5" = "autoru";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG6" = "tulkotāju";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_6" = "Kontakti";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_TEMPLATE" = "Oriģinālajam Celestia projektam: %1$@ vai %2$@. Lietotnēm vai vietnei: izmantojiet atsauksmes lietotnē, %3$@ vai %4$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG1" = "forumu";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG2" = "GitHub diskusijas";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG3" = "GitHub problēmas";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG4" = "e-pastu";
+
+"COMMON_TRANSLATE_THIS_PAGE_TEMPLATE" = "Palīdziet mums tulkot šo lapu %@.";
+"COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "šeit";
+
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Visvairāk skatītie";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Nesen pievienotie";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Nesen atjauninātie";
+
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_DESCRIPTION" = "Šeit ir saraksts ar papildinājumiem, kas pēdējās 7 dienās ir visvairāk skatīti.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_DESCRIPTION" = "Šeit ir saraksts ar nesen pievienotajiem papildinājumiem.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_DESCRIPTION" = "Šeit ir saraksts ar nesen atjauninātajiem papildinājumiem.";
+
+"ADDON_REQUIRED_DEPENDENCIES" = "Nepieciešamās atkarības";
+"COMMON_PREVIOUS" = "Iepriekšējais";
+"COMMON_NEXT" = "Nākamais";
+"ADDON_DEPENDENCIES_LOADING_ERROR" = "Neizdevās ielādēt atkarības.";
+
+"CELESTIA_PLUS_LABEL" = "PLUS";
+
+"COMMON_SEARCH_PLACEHOLDER" = "Meklēt…";
+
+"ADDON_SORT_METHOD_ALPHABETICAL" = "A-Z";
+"ADDON_SORT_METHOD_RECENTLY_ADDED" = "Nesen pievienotie";
+"ADDON_SORT_METHOD_RECENTLY_UPDATED" = "Nesen atjauninātie";
+
+"UNKNOWN_FEATURED_ITEM_TITLE" = "Nezināms";
+"CELESTIA_FEATURED_LABEL" = "Ieteiktais";
+"PUSH_NOTIFICATION_WEEKLY_ADDON_TITLE_TEMPLATE" = "Nedēļas papildinājums: %@";

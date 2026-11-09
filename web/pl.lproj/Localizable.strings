@@ -1,0 +1,107 @@
+"COMMON_LOADING_ERROR" = "Błąd ładowania.";
+"COMMON_OPEN_IN_CELESTIA" = "Otwórz w Celestii";
+"COMMON_OPEN_IN_CELESTIA_RECOMMENDED" = "Otwórz w Celestii (zalecane)";
+"COMMON_DOWNLOAD" = "Pobierz";
+"ADDON_AUTHOR_TEMPLATE" = "Autor(zy): %@";
+"ADDON_RELEASE_DATE_TEMPLATE" = "Data wydania: %@";
+"ADDON_LAST_UPDATED_TEMPLATE" = "Ostatnia aktualizacja: %@";
+"ADDON_INSTALL_HINT" = "Uwaga: aby skorzystać z nowo zainstalowanego dodatku, należy ponownie uruchomić Celestię.";
+"ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ lub %@";
+"ADDON_INSTALL_ADDON_HELP_TEMPLATE" = "Jak instalować dodatki? Dowiedz się %@.";
+"ADDON_INSTALL_ADDON_HELP_ACTION" = "tutaj";
+"GUIDE_TYPE_NEWS_TITLE" = "Aktualności";
+"GUIDE_TYPE_TOOLS_TITLE" = "Narzędzia";
+"GUIDE_TYPE_TUTORIALS_TITLE" = "Samouczki";
+
+"ARTICLE_PUBLISH_DATE_TEMPLATE" = "Data publikacji: %@";
+
+"ADDON_CATEGORY_TITLE" = "Kategorie dodatków";
+"ADDON_CATEGORY_DESCRIPTION" = "Kategorie dodatków";
+"ADDON_MADE_BY_AUTHOR_TITLE_TEMPLATE" = "Dodatki autorstwa %@";
+"ADDON_FOR_OBJECT_TITLE_TEMPLATE" = "Dodatki dla %@";
+
+"EMPTY_ADDON_LIST_TITLE" = "Nie znaleziono dodatków";
+
+"COMMON_ERROR_TITLE" = "Błąd";
+
+"ERROR_NOT_FOUND" = "Nie znaleziono żądanej treści.";
+"ERROR_FIELDS_MISSING" = "W żądaniu brakuje niektórych pól.";
+"ERROR_INCORRECT_PARAMETERS" = "Niektóre parametry były nieprawidłowe.";
+"ERROR_INTERNAL_ERROR" = "Wewnętrzny błąd serwera.";
+
+"ADDON_INSTALL_HINT_NO_DEMO_OBJECT" = "Uwaga: aby skorzystać z nowo zainstalowanego dodatku, należy ponownie uruchomić Celestię. Ten dodatek nie zawiera obiektu demonstracyjnego, dlatego widoczna jest tylko opcja „Odinstaluj”; przejdź do obiektu za pomocą wyszukiwania.";
+
+"COMMON_DESCRIPTION_SHOW_MORE" = "…";
+
+"TAB_HOME_TITLE" = "Strona główna";
+"TAB_DOWNLOADS_TITLE" = "Pobieranie";
+"TAB_NEWS_TITLE" = "Aktualności";
+"TAB_TUTORIALS_TITLE" = "Samouczki";
+"TAB_TOOLS_TITLE" = "Narzędzia";
+"TAB_ADDONS_TITLE" = "Dodatki";
+"TAB_ABOUT_TITLE" = "O programie";
+
+"FRONT_PAGE_TITLE" = "Celestia";
+"FRONT_PAGE_DESCRIPTION_MESSAGE" = "Celestia to bezpłatny symulator kosmosu dla systemów Windows, Linux, macOS, iOS i Android. Można swobodnie eksplorować przestrzeń w trzech wymiarach.";
+
+"PAGE_DESCRIPTION_DEFAULT" = "Pobierz Celestię";
+
+"FRONT_PAGE_SUBHEADLINE_MESSAGE" = "Wizualizacja 3D kosmosu w czasie rzeczywistym";
+"FRONT_PAGE_DOWNLOAD_BUTTON_TEXT" = "Pobierz Celestię";
+"FRONT_PAGE_DESCRIPTION_HEADER_1" = "Symulator kosmosu 3D";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_1" = "Celestia symuluje wiele różnych rodzajów obiektów astronomicznych. Od planet i księżyców po gromady gwiazd i galaktyki — możesz odwiedzić każdy obiekt z rozszerzalnej bazy danych i obejrzeć go z dowolnego punktu w przestrzeni i czasie. Położenie i ruch obiektów Układu Słonecznego są obliczane dokładnie w czasie rzeczywistym, w dowolnie wybranym tempie.";
+"FRONT_PAGE_DESCRIPTION_HEADER_2" = "Interaktywne planetarium";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_2" = "Celestia służy jako planetarium — dla obserwatora znajdującego się na dowolnym obiekcie astronomicznym. Możesz łatwo przemieścić się do dowolnego świata i wylądować na jego powierzchni. Celestia pokazuje dokładne położenia obiektów Układu Słonecznego na niebie wraz z etykietami i funkcjami pomocniczymi, które można włączać i wyłączać.";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_3" = "Rozszerzalna zawartość";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_TEMPLATE" = "Katalogi Celestii można łatwo rozszerzać dodatkami zawierającymi nowe obiekty, takie jak komety czy gwiazdy, tekstury w wysokiej rozdzielczości, modele 3D asteroid i statków kosmicznych po dokładnych trajektoriach, a nawet fikcyjne obiekty ze znanych marek science fiction. Chcesz pokazać swoje dzieło? Wyślij swój dodatek %@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_ARG1" = "tutaj";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_4" = "Prywatność i licencja";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_TEMPLATE" = "Celestia zbiera dane wyłącznie do celów analitycznych i diagnostycznych. Zapoznaj się z %1$@. Celestia jest udostępniana na licencji %2$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG1" = "polityką prywatności";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG2" = "GNU General Public License";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_5" = "Rozwój i podziękowania";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_TEMPLATE" = "Celestia ma otwarty kod źródłowy. Kod źródłowy jest dostępny na %1$@ oraz %2$@. Zobacz %3$@ oraz %4$@. Pełna lista %5$@ i %6$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG1" = "celestiamobile";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG2" = "CelestiaProject";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG3" = "przewodnik kompilacji";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG4" = "bibliotek zewnętrznych";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG5" = "autorów";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG6" = "tłumaczy";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_6" = "Kontakt";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_TEMPLATE" = "W sprawie oryginalnego projektu Celestia: %1$@ lub %2$@. W sprawie aplikacji lub witryny internetowej: skorzystaj z opinii w aplikacji, %3$@ lub %4$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG1" = "forum";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG2" = "dyskusje na GitHubie";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG3" = "zgłoszenia na GitHubie";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG4" = "e-mail";
+
+"COMMON_TRANSLATE_THIS_PAGE_TEMPLATE" = "Pomóż nam przetłumaczyć tę stronę %@.";
+"COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "tutaj";
+
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Najczęściej oglądane";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Ostatnio dodane";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Ostatnio zaktualizowane";
+
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_DESCRIPTION" = "Oto lista dodatków, które były najczęściej oglądane w ciągu ostatnich 7 dni.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_DESCRIPTION" = "Oto lista ostatnio dodanych dodatków.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_DESCRIPTION" = "Oto lista ostatnio zaktualizowanych dodatków.";
+
+"ADDON_REQUIRED_DEPENDENCIES" = "Wymagane zależności";
+"COMMON_PREVIOUS" = "Poprzedni";
+"COMMON_NEXT" = "Następny";
+"ADDON_DEPENDENCIES_LOADING_ERROR" = "Nie udało się załadować zależności.";
+
+"CELESTIA_PLUS_LABEL" = "PLUS";
+
+"COMMON_SEARCH_PLACEHOLDER" = "Szukaj…";
+
+"ADDON_SORT_METHOD_ALPHABETICAL" = "A–Z";
+"ADDON_SORT_METHOD_RECENTLY_ADDED" = "Ostatnio dodane";
+"ADDON_SORT_METHOD_RECENTLY_UPDATED" = "Ostatnio zaktualizowane";
+
+"UNKNOWN_FEATURED_ITEM_TITLE" = "Nieznane";
+"CELESTIA_FEATURED_LABEL" = "Polecane";
+"PUSH_NOTIFICATION_WEEKLY_ADDON_TITLE_TEMPLATE" = "Dodatek tygodnia: %@";

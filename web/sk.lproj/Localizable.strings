@@ -1,0 +1,107 @@
+"COMMON_LOADING_ERROR" = "Chyba načítania.";
+"COMMON_OPEN_IN_CELESTIA" = "Otvoriť v Celestii";
+"COMMON_OPEN_IN_CELESTIA_RECOMMENDED" = "Otvoriť v Celestii (odporúčané)";
+"COMMON_DOWNLOAD" = "Prevziať";
+"ADDON_AUTHOR_TEMPLATE" = "Autor(i): %@";
+"ADDON_RELEASE_DATE_TEMPLATE" = "Dátum vydania: %@";
+"ADDON_LAST_UPDATED_TEMPLATE" = "Naposledy aktualizované: %@";
+"ADDON_INSTALL_HINT" = "Poznámka: na použitie každého nového nainštalovaného doplnku je potrebné reštartovať Celestiu.";
+"ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ alebo %@";
+"ADDON_INSTALL_ADDON_HELP_TEMPLATE" = "Ako nainštalovať doplnky? Zistite to %@.";
+"ADDON_INSTALL_ADDON_HELP_ACTION" = "tu";
+"GUIDE_TYPE_NEWS_TITLE" = "Novinky";
+"GUIDE_TYPE_TOOLS_TITLE" = "Nástroje";
+"GUIDE_TYPE_TUTORIALS_TITLE" = "Návody";
+
+"ARTICLE_PUBLISH_DATE_TEMPLATE" = "Dátum publikovania: %@";
+
+"ADDON_CATEGORY_TITLE" = "Kategórie doplnkov";
+"ADDON_CATEGORY_DESCRIPTION" = "Kategórie doplnkov";
+"ADDON_MADE_BY_AUTHOR_TITLE_TEMPLATE" = "Doplnky od autora %@";
+"ADDON_FOR_OBJECT_TITLE_TEMPLATE" = "Doplnky pre %@";
+
+"EMPTY_ADDON_LIST_TITLE" = "Nenašli sa žiadne doplnky";
+
+"COMMON_ERROR_TITLE" = "Chyba";
+
+"ERROR_NOT_FOUND" = "Požadovaný obsah sa nenašiel.";
+"ERROR_FIELDS_MISSING" = "V požiadavke chýbajú niektoré polia.";
+"ERROR_INCORRECT_PARAMETERS" = "Niektoré parametre boli nesprávne.";
+"ERROR_INTERNAL_ERROR" = "Vnútorná chyba servera.";
+
+"ADDON_INSTALL_HINT_NO_DEMO_OBJECT" = "Poznámka: na použitie každého nového nainštalovaného doplnku je potrebné reštartovať Celestiu. Tento doplnok nemá demonštračný objekt, preto je viditeľná iba možnosť „Odinštalovať“; prejdite na objekt pomocou vyhľadávania.";
+
+"COMMON_DESCRIPTION_SHOW_MORE" = "…";
+
+"TAB_HOME_TITLE" = "Domov";
+"TAB_DOWNLOADS_TITLE" = "Súbory na prevzatie";
+"TAB_NEWS_TITLE" = "Novinky";
+"TAB_TUTORIALS_TITLE" = "Návody";
+"TAB_TOOLS_TITLE" = "Nástroje";
+"TAB_ADDONS_TITLE" = "Doplnky";
+"TAB_ABOUT_TITLE" = "O programe";
+
+"FRONT_PAGE_TITLE" = "Celestia";
+"FRONT_PAGE_DESCRIPTION_MESSAGE" = "Celestia je bezplatný vesmírny simulátor pre Windows, Linux, macOS, iOS a Android. Vesmír môžete voľne preskúmavať v troch rozmeroch.";
+
+"PAGE_DESCRIPTION_DEFAULT" = "Získať Celestiu";
+
+"FRONT_PAGE_SUBHEADLINE_MESSAGE" = "Vizualizácia vesmíru v 3D v reálnom čase";
+"FRONT_PAGE_DOWNLOAD_BUTTON_TEXT" = "Prevziať Celestiu";
+"FRONT_PAGE_DESCRIPTION_HEADER_1" = "3D vesmírny simulátor";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_1" = "Celestia simuluje mnoho rôznych druhov nebeských telies. Od planét a mesiacov po hviezdokopy a galaxie — môžete navštíviť každý objekt v rozšíriteľnej databáze a pozerať sa naň z ľubovoľného bodu v priestore a čase. Poloha a pohyb objektov slnečnej sústavy sú presne počítané v reálnom čase pri ľubovoľnej rýchlosti.";
+"FRONT_PAGE_DESCRIPTION_HEADER_2" = "Interaktívne planetárium";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_2" = "Celestia slúži ako planetárium — pre pozorovateľa na ľubovoľnom nebeskom telese. Môžete jednoducho prejsť na ľubovoľný svet a pristáť na jeho povrchu. Celestia zobrazuje presné polohy objektov slnečnej sústavy na oblohe spolu s popismi a podpornými funkciami, ktoré možno zapnúť a vypnúť.";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_3" = "Rozšíriteľný obsah";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_TEMPLATE" = "Katalógy Celestie možno jednoducho rozšíriť doplnkami obsahujúcimi nové objekty, ako sú kométy alebo hviezdy, textúry s vysokým rozlíšením, 3D modely asteroidov a kozmických lodí na presných dráhach, a dokonca aj fiktívne objekty zo známych sci-fi sérií. Chcete predstaviť svoje dielo? Pošlite svoj doplnok %@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_ARG1" = "tu";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_4" = "Súkromie a licencia";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_TEMPLATE" = "Celestia zhromažďuje údaje iba na analytické a diagnostické účely. Pozrite si %1$@. Celestia je licencovaná pod %2$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG1" = "zásady ochrany súkromia";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG2" = "GNU General Public License";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_5" = "Vývoj a poďakovanie";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_TEMPLATE" = "Celestia má otvorený zdrojový kód. Zdrojový kód je dostupný na %1$@ a %2$@. Pozrite si %3$@ a %4$@. Úplný zoznam %5$@ a %6$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG1" = "celestiamobile";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG2" = "CelestiaProject";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG3" = "návod na zostavenie";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG4" = "knižnice tretích strán";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG5" = "autorov";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG6" = "prekladateľov";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_6" = "Kontakty";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_TEMPLATE" = "Pre pôvodný projekt Celestia: %1$@ alebo %2$@. Pre aplikácie alebo webovú lokalitu: použite spätnú väzbu v aplikácii, %3$@ alebo %4$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG1" = "fórum";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG2" = "diskusie na GitHube";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG3" = "problémy na GitHube";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG4" = "e-mail";
+
+"COMMON_TRANSLATE_THIS_PAGE_TEMPLATE" = "Pomôžte nám preložiť túto stránku %@.";
+"COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "tu";
+
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Najsledovanejšie";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Nedávno pridané";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Nedávno aktualizované";
+
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_DESCRIPTION" = "Zoznam doplnkov, ktoré boli za posledných 7 dní najviac zobrazené.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_DESCRIPTION" = "Zoznam nedávno pridaných doplnkov.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_DESCRIPTION" = "Zoznam nedávno aktualizovaných doplnkov.";
+
+"ADDON_REQUIRED_DEPENDENCIES" = "Vyžadované závislosti";
+"COMMON_PREVIOUS" = "Predchádzajúce";
+"COMMON_NEXT" = "Nasledujúce";
+"ADDON_DEPENDENCIES_LOADING_ERROR" = "Nepodarilo sa načítať závislosti.";
+
+"CELESTIA_PLUS_LABEL" = "PLUS";
+
+"COMMON_SEARCH_PLACEHOLDER" = "Hľadať…";
+
+"ADDON_SORT_METHOD_ALPHABETICAL" = "A-Z";
+"ADDON_SORT_METHOD_RECENTLY_ADDED" = "Nedávno pridané";
+"ADDON_SORT_METHOD_RECENTLY_UPDATED" = "Nedávno aktualizované";
+
+"UNKNOWN_FEATURED_ITEM_TITLE" = "Neznáme";
+"CELESTIA_FEATURED_LABEL" = "Odporúčané";
+"PUSH_NOTIFICATION_WEEKLY_ADDON_TITLE_TEMPLATE" = "Doplnok týždňa: %@";

@@ -1513,7 +1513,7 @@ msgstr "不规则星系"
 
 #  Platforms: Apple, Android, Windows
 msgid "ISO 8601"
-msgstr ""
+msgstr "ISO 8601"
 
 #  Platforms: Apple, Android, Windows
 #  Select time via entering Julian day
@@ -3332,7 +3332,7 @@ msgstr "正在等待您的付款"
 
 #  Platforms: Apple, Android, Windows
 msgid "YYYY MMM DD HH:MM:SS TZ"
-msgstr ""
+msgstr "YYYY MMM DD HH:MM:SS TZ"
 
 #  Platforms: Apple, Android
 #  Zoom in/out in Camera Control, this changes the relative distance to the object

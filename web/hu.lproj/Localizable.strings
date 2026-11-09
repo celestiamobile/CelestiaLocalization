@@ -1,0 +1,107 @@
+"COMMON_LOADING_ERROR" = "Betöltési hiba.";
+"COMMON_OPEN_IN_CELESTIA" = "Megnyitás a Celestiában";
+"COMMON_OPEN_IN_CELESTIA_RECOMMENDED" = "Megnyitás a Celestiában (ajánlott)";
+"COMMON_DOWNLOAD" = "Letöltés";
+"ADDON_AUTHOR_TEMPLATE" = "Szerző(k): %@";
+"ADDON_RELEASE_DATE_TEMPLATE" = "Megjelenés dátuma: %@";
+"ADDON_LAST_UPDATED_TEMPLATE" = "Utolsó frissítés: %@";
+"ADDON_INSTALL_HINT" = "Megjegyzés: az újonnan telepített kiegészítők használatához újra kell indítani a Celestiát.";
+"ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ vagy %@";
+"ADDON_INSTALL_ADDON_HELP_TEMPLATE" = "Hogyan telepíthetők a kiegészítők? Tudjon meg többet %@.";
+"ADDON_INSTALL_ADDON_HELP_ACTION" = "itt";
+"GUIDE_TYPE_NEWS_TITLE" = "Hírek";
+"GUIDE_TYPE_TOOLS_TITLE" = "Eszközök";
+"GUIDE_TYPE_TUTORIALS_TITLE" = "Útmutatók";
+
+"ARTICLE_PUBLISH_DATE_TEMPLATE" = "Közzététel dátuma: %@";
+
+"ADDON_CATEGORY_TITLE" = "Kiegészítő kategóriák";
+"ADDON_CATEGORY_DESCRIPTION" = "Kiegészítő kategóriák";
+"ADDON_MADE_BY_AUTHOR_TITLE_TEMPLATE" = "%@ kiegészítői";
+"ADDON_FOR_OBJECT_TITLE_TEMPLATE" = "Kiegészítők ehhez: %@";
+
+"EMPTY_ADDON_LIST_TITLE" = "Nem található kiegészítő";
+
+"COMMON_ERROR_TITLE" = "Hiba";
+
+"ERROR_NOT_FOUND" = "A kért tartalom nem található.";
+"ERROR_FIELDS_MISSING" = "A kérésből néhány mező hiányzott.";
+"ERROR_INCORRECT_PARAMETERS" = "Néhány paraméter helytelen volt.";
+"ERROR_INTERNAL_ERROR" = "Belső kiszolgálóhiba.";
+
+"ADDON_INSTALL_HINT_NO_DEMO_OBJECT" = "Megjegyzés: az újonnan telepített kiegészítők használatához újra kell indítani a Celestiát. Ennek a kiegészítőnek nincs bemutatóobjektuma, ezért csak az „Eltávolítás” lehetőség látható; kérjük, navigáljon az objektumhoz a kereső segítségével.";
+
+"COMMON_DESCRIPTION_SHOW_MORE" = "…";
+
+"TAB_HOME_TITLE" = "Kezdőlap";
+"TAB_DOWNLOADS_TITLE" = "Letöltések";
+"TAB_NEWS_TITLE" = "Hírek";
+"TAB_TUTORIALS_TITLE" = "Útmutatók";
+"TAB_TOOLS_TITLE" = "Eszközök";
+"TAB_ADDONS_TITLE" = "Kiegészítők";
+"TAB_ABOUT_TITLE" = "Névjegy";
+
+"FRONT_PAGE_TITLE" = "Celestia";
+"FRONT_PAGE_DESCRIPTION_MESSAGE" = "A Celestia ingyenes űrszimulátor Windowsra, Linuxra, macOS-re, iOS-re és Androidra. Szabadon felfedezheti az űrt három dimenzióban.";
+
+"PAGE_DESCRIPTION_DEFAULT" = "A Celestia beszerzése";
+
+"FRONT_PAGE_SUBHEADLINE_MESSAGE" = "Az űr valós idejű 3D-s megjelenítése";
+"FRONT_PAGE_DOWNLOAD_BUTTON_TEXT" = "A Celestia letöltése";
+"FRONT_PAGE_DESCRIPTION_HEADER_1" = "3D-s űrszimulátor";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_1" = "A Celestia sokféle égitestet szimulál. Bolygóktól és holdaktól kezdve a csillaghalmazokon át a galaxisokig — az adatbázis minden bővíthető objektumát meglátogathatja, és a tér és idő bármely pontjából megtekintheti. A Naprendszer objektumainak helyzetét és mozgását valós időben, tetszőleges sebességgel, pontosan számítjuk ki.";
+"FRONT_PAGE_DESCRIPTION_HEADER_2" = "Interaktív planetárium";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_2" = "A Celestia planetáriumként szolgál — bármely égitestről nézve. Könnyen eljuthat bármely világhoz és leszállhat annak felszínére. A Celestia pontosan jeleníti meg a Naprendszer objektumainak helyzetét az égen, ki- és bekapcsolható feliratokkal és segédfunkciókkal.";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_3" = "Bővíthető tartalom";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_TEMPLATE" = "A Celestia katalógusai könnyen bővíthetők kiegészítőkkel, melyek új objektumokat, például üstökösöket vagy csillagokat, nagy felbontású textúrákat, pontos pályán mozgó aszteroidák és űrhajók 3D-s modelljeit, sőt ismert sci-fi franchise-ok kitalált objektumait is tartalmazzák. Szeretné népszerűsíteni alkotását? Küldje be kiegészítőjét %@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_ARG1" = "itt";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_4" = "Adatvédelem és licenc";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_TEMPLATE" = "A Celestia csak elemzési és diagnosztikai célból gyűjt adatokat. Tekintse meg az %1$@. A Celestia a %2$@ feltételei szerint licencelt.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG1" = "adatvédelmi szabályzatot";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG2" = "GNU General Public License";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_5" = "Fejlesztés és köszönetnyilvánítás";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_TEMPLATE" = "A Celestia nyílt forráskódú. A forráskód a %1$@ és a %2$@ oldalon érhető el. Tekintse meg a %3$@ és a %4$@ oldalt. A %5$@ és %6$@ teljes listája.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG1" = "celestiamobile";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG2" = "CelestiaProject";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG3" = "fordítási útmutatót";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG4" = "harmadik féltől származó könyvtárakat";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG5" = "szerzők";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG6" = "fordítók";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_6" = "Kapcsolat";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_TEMPLATE" = "Az eredeti Celestia projekt esetén: %1$@ vagy %2$@. Az alkalmazások vagy a weboldal esetén: használja az alkalmazáson belüli visszajelzést, %3$@ vagy %4$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG1" = "fórum";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG2" = "GitHub-megbeszélések";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG3" = "GitHub-hibajegyek";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG4" = "e-mail";
+
+"COMMON_TRANSLATE_THIS_PAGE_TEMPLATE" = "Segítsen lefordítani ezt az oldalt %@.";
+"COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "itt";
+
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Legtöbbet megtekintett";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Nemrég hozzáadott";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Nemrég frissített";
+
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_DESCRIPTION" = "Az elmúlt 7 napban legtöbbet megtekintett kiegészítők listája.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_DESCRIPTION" = "A nemrég hozzáadott kiegészítők listája.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_DESCRIPTION" = "A nemrég frissített kiegészítők listája.";
+
+"ADDON_REQUIRED_DEPENDENCIES" = "Szükséges függőségek";
+"COMMON_PREVIOUS" = "Előző";
+"COMMON_NEXT" = "Következő";
+"ADDON_DEPENDENCIES_LOADING_ERROR" = "A függőségek betöltése sikertelen.";
+
+"CELESTIA_PLUS_LABEL" = "PLUS";
+
+"COMMON_SEARCH_PLACEHOLDER" = "Keresés…";
+
+"ADDON_SORT_METHOD_ALPHABETICAL" = "A-Z";
+"ADDON_SORT_METHOD_RECENTLY_ADDED" = "Nemrég hozzáadott";
+"ADDON_SORT_METHOD_RECENTLY_UPDATED" = "Nemrég frissített";
+
+"UNKNOWN_FEATURED_ITEM_TITLE" = "Ismeretlen";
+"CELESTIA_FEATURED_LABEL" = "Kiemelt";
+"PUSH_NOTIFICATION_WEEKLY_ADDON_TITLE_TEMPLATE" = "A hét kiegészítője: %@";

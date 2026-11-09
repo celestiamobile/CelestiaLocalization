@@ -22,111 +22,111 @@ msgstr ""
 #  Subscription plan name when the plan is the current plan user owns
 #, c-format
 msgid "%@ (Current)"
-msgstr ""
+msgstr "%@(현재 요금제)"
 
 #  Platforms: Apple
 #, c-format
 msgid "%@ days"
-msgstr ""
+msgstr "%@일"
 
 #  Platforms: Apple
 #, c-format
 msgid "%@ FPS"
-msgstr ""
+msgstr "%@ FPS"
 
 #  Platforms: Apple
 #  Unit foot
 #, c-format
 msgid "%@ ft"
-msgstr ""
+msgstr "%@ ft"
 
 #  Platforms: Apple
 #, c-format
 msgid "%@ hours"
-msgstr ""
+msgstr "%@시간"
 
 #  Platforms: Apple
 #  Unit kilometer
 #, c-format
 msgid "%@ km"
-msgstr ""
+msgstr "%@ km"
 
 #  Platforms: Apple
 #  Unit meter
 #, c-format
 msgid "%@ m"
-msgstr ""
+msgstr "%@ m"
 
 #  Platforms: Apple
 #  Unit mile
 #, c-format
 msgid "%@ mi"
-msgstr ""
+msgstr "%@ mi"
 
 #  Platforms: Android
 #  Subscription plan name when the plan is the current plan user owns
 #, c-format
 msgid "%s (Current)"
-msgstr ""
+msgstr "%s(현재 요금제)"
 
 #  Platforms: Android, Windows
 #, c-format
 msgid "%s days"
-msgstr ""
+msgstr "%s일"
 
 #  Platforms: Android, Windows
 #, c-format
 msgid "%s FPS"
-msgstr ""
+msgstr "%s FPS"
 
 #  Platforms: Android, Windows
 #  Unit foot
 #, c-format
 msgid "%s ft"
-msgstr ""
+msgstr "%s ft"
 
 #  Platforms: Android, Windows
 #, c-format
 msgid "%s hours"
-msgstr ""
+msgstr "%s시간"
 
 #  Platforms: Android, Windows
 #  Unit kilometer
 #, c-format
 msgid "%s km"
-msgstr ""
+msgstr "%s km"
 
 #  Platforms: Android, Windows
 #  Unit meter
 #, c-format
 msgid "%s m"
-msgstr ""
+msgstr "%s m"
 
 #  Platforms: Android, Windows
 #  Unit mile
 #, c-format
 msgid "%s mi"
-msgstr ""
+msgstr "%s mi"
 
 #  Platforms: Apple, Android
 #  Speed unit
 msgid "1 AU/s"
-msgstr ""
+msgstr "1 AU/s"
 
 #  Platforms: Apple, Android
 #  Speed unit
 msgid "1 km/s"
-msgstr ""
+msgstr "1 km/s"
 
 #  Platforms: Apple, Android
 #  Speed unit
 msgid "1 ly/s"
-msgstr ""
+msgstr "1 광년/s"
 
 #  Platforms: Apple, Android
 #  Speed unit
 msgid "10c"
-msgstr ""
+msgstr "광속의 10배"
 
 #  Platforms: Apple, Windows
 #  10x time speed
@@ -141,17 +141,17 @@ msgstr "10x 느리게"
 #  Platforms: Apple, Android
 #  Speed unit
 msgid "1000 km/s"
-msgstr ""
+msgstr "1000 km/s"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "A / X"
-msgstr ""
+msgstr "A / X"
 
 #  Platforms: Android
 #, c-format
 msgid "A filename needed to be present for %s"
-msgstr ""
+msgstr "%s에 파일 이름이 필요합니다"
 
 #  Platforms: Apple, Android, Windows
 #  Shadow resolution setting footnote
@@ -159,12 +159,12 @@ msgid ""
 "A value of 0 disables self-shadowing. Higher "
 "values produce sharper shadows at a greater "
 "performance cost."
-msgstr ""
+msgstr "0으로 설정하면 자체 그림자가 비활성화됩니다. 값이 클수록 그림자가 선명해지지만 처리 부하가 증가합니다."
 
 #  Platforms: Apple, Android, Windows
 #  About Celestia
 msgid "About"
-msgstr ""
+msgstr "Celestia 정보"
 
 #  Platforms: Apple, Windows
 #  System menu item
@@ -174,7 +174,7 @@ msgstr "셀레스티아에 대하여"
 #  Platforms: Apple, Android
 #  Add a new item (bookmark)
 msgid "Add"
-msgstr ""
+msgstr "추가"
 
 #  Platforms: Apple, Windows
 #  Add a new bookmark
@@ -184,51 +184,51 @@ msgstr "북마크 추가"
 #  Platforms: Android
 #  Accessibility description for an add button
 msgid "Add Button"
-msgstr ""
+msgstr "추가 버튼"
 
 #  Platforms: Apple, Android
 #  Description for addon updates video
 msgid "Add-on Updates"
-msgstr ""
+msgstr "애드온 업데이트"
 
 #  Platforms: Apple, Android
 #  Hint for requirement for updating add-ons.
 msgid ""
 "Add-on updates are only supported for add-ons "
 "installed on version 1.9.3 or above."
-msgstr ""
+msgstr "애드온 업데이트는 버전 1.9.3 이상에서 설치한 애드온에만 지원됩니다."
 
 #  Platforms: Apple, Android
 #  Add-ons for Celestia app
 msgid "Add-ons"
-msgstr ""
+msgstr "애드온"
 
 #  Platforms: Apple
 #  Description for Pinch Zoom setting
 msgid ""
 "Adjust view with pinch gestures by changing FOV "
 "or distance"
-msgstr ""
+msgstr "핀치 동작으로 시야각 또는 거리를 변경하여 화면 조정"
 
 #  Platforms: Apple, Android, Windows
 #  Advanced setting items
 msgid "Advanced"
-msgstr ""
+msgstr "고급"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Albedo Features"
-msgstr ""
+msgstr "반사율 지형"
 
 #  Platforms: Apple, Android, Windows
 #  Option to align camera to surface when landing
 msgid "Align to Surface on Landing"
-msgstr ""
+msgstr "착륙 시 카메라를 표면에 맞추기"
 
 #  Platforms: Apple, Android, Windows
 #  Script system access policy option
 msgid "Allow"
-msgstr ""
+msgstr "허용"
 
 #  Platforms: Apple, Android, Windows
 #  Alternative textures to display
@@ -244,31 +244,31 @@ msgstr "주변빛"
 msgid ""
 "An external screen is connected, do you want to "
 "display Celestia on the external screen?"
-msgstr ""
+msgstr "외부 디스플레이가 연결되었습니다. 외부 디스플레이에 Celestia를 표시하시겠습니까?"
 
 #  Platforms: Apple, Android, Windows
 msgid "Anti-aliasing"
-msgstr ""
+msgstr "안티앨리어싱"
 
 #  Platforms: Apple
 #  App icon customization entry in Settings
 msgid "App Icon"
-msgstr ""
+msgstr "앱 아이콘"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Arcus (Arc-Shaped Features)"
-msgstr ""
+msgstr "호 모양 지형(Arcus)"
 
 #  Platforms: Android
 #  Alert content for the exit triggered by back button
 msgid "Are you sure you want to exit?"
-msgstr ""
+msgstr "정말 종료하시겠습니까?"
 
 #  Platforms: Apple, Android, Windows
 #  Script system access policy option
 msgid "Ask"
-msgstr ""
+msgstr "묻기"
 
 #  Platforms: Apple, Android, Windows
 msgid "Asteroids"
@@ -277,17 +277,17 @@ msgstr "소행성"
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Astra (Radial Features)"
-msgstr ""
+msgstr "방사상 지형(Astra)"
 
 #  Platforms: Apple, Android, Windows
 #  Atmosphere rendering quality settings
 msgid "Atmosphere"
-msgstr ""
+msgstr "대기"
 
 #  Platforms: Apple, Android, Windows
 #  Atmosphere rendering quality setting
 msgid "Atmosphere Segment Count"
-msgstr ""
+msgstr "대기 분할 수"
 
 #  Platforms: Apple, Android, Windows
 msgid "Atmospheres"
@@ -301,24 +301,24 @@ msgstr "AU"
 #  Platforms: Apple, Android, Windows
 #  Auto mag for star display
 msgid "Auto Mag"
-msgstr ""
+msgstr "한계 등급 자동 조정"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "B / Circle"
-msgstr ""
+msgstr "B / ○"
 
 #  Platforms: Apple
 #  Galactic coordinates
 #, c-format
 msgid "B: %@° %@′ %@″"
-msgstr ""
+msgstr "은위: %@° %@′ %@″"
 
 #  Platforms: Android, Windows
 #  Galactic coordinates
 #, c-format
 msgid "B: %s° %s′ %s″"
-msgstr ""
+msgstr "은위: %s° %s′ %s″"
 
 #  Platforms: Apple
 #  Undo an operation
@@ -327,55 +327,55 @@ msgstr "뒤로"
 
 #  Platforms: Apple, Android, Windows
 msgid "Barred Spiral Galaxies"
-msgstr ""
+msgstr "막대나선은하"
 
 #  Platforms: Windows
 msgid "Behind {}"
-msgstr ""
+msgstr "{} 뒤"
 
 #  Platforms: Apple
 #, c-format
 msgid "Behind %@"
-msgstr ""
+msgstr "%@ 뒤"
 
 #  Platforms: Android
 #, c-format
 msgid "Behind %s"
-msgstr ""
+msgstr "%s 뒤"
 
 #  Platforms: Apple, Android, Windows
 #  Star colors option
 msgid "Blackbody (Solar Whitepoint)"
-msgstr ""
+msgstr "흑체(태양 백색점)"
 
 #  Platforms: Apple, Android, Windows
 #  Star colors option
 msgid "Blackbody (Vega Whitepoint)"
-msgstr ""
+msgstr "흑체(베가 백색점)"
 
 #  Platforms: Apple, Android, Windows
 #  Star colors option
 msgid "Blackbody D65"
-msgstr ""
+msgstr "흑체 D65"
 
 #  Platforms: Apple, Android, Windows
 #  Star colors option
 msgid "Blackbody Illuminant E"
-msgstr ""
+msgstr "흑체(표준 광원 E)"
 
 #  Platforms: Apple, Android, Windows
 #  PSF star setting
 msgid "Bloom Compactness"
-msgstr ""
+msgstr "블룸 집중도"
 
 #  Platforms: Apple, Android
 #  Bold font style
 msgid "Bold"
-msgstr ""
+msgstr "굵게"
 
 #  Platforms: Windows
 msgid "Bookmark Organizer"
-msgstr ""
+msgstr "북마크 관리"
 
 #  Platforms: Apple, Android, Windows
 #  URL bookmarks
@@ -388,24 +388,24 @@ msgstr "항성"
 
 #  Platforms: Apple, Android, Windows
 msgid "Brightest Stars (Absolute Magnitude)"
-msgstr ""
+msgstr "가장 밝은 항성(절대 등급)"
 
 #  Platforms: Apple, Android, Windows
 #  PSF star setting footnote
 msgid ""
 "Brightness multiplier applied to every star, "
 "extending the visible magnitude limit."
-msgstr ""
+msgstr "모든 항성에 적용되는 밝기 배율로, 표시 가능한 한계 등급을 확장합니다."
 
 #  Platforms: Apple, Android, Windows
 #  Default email title for bug report
 msgid "Bug report for Celestia"
-msgstr ""
+msgstr "Celestia 버그 보고"
 
 #  Platforms: Apple, Android, Windows
 #  Settings for game controller buttons
 msgid "Buttons"
-msgstr ""
+msgstr "버튼"
 
 #  Platforms: Apple, Android
 #  Message on support project card
@@ -414,31 +414,31 @@ msgid ""
 "support the developers and keep this project "
 "alive. You'll also receive timely feedback on "
 "feature requests and bug reports!"
-msgstr ""
+msgstr "Celestia PLUS를 구독하면 개발자를 직접 지원하고 프로젝트가 계속 이어질 수 있도록 도울 수 있습니다. 기능 요청과 버그 보고에 대한 신속한 피드백도 받을 수 있습니다!"
 
 #  Platforms: Apple, Android
 msgid "c (lightspeed)"
-msgstr ""
+msgstr "c(광속)"
 
 #  Platforms: Apple, Android
 #  Calculating for eclipses
 msgid "Calculating…"
-msgstr ""
+msgstr "계산 중…"
 
 #  Platforms: Apple, Android, Windows
 #  Settings for camera control
 msgid "Camera"
-msgstr ""
+msgstr "카메라"
 
 #  Platforms: Apple, Android
 #  Observer control
 msgid "Camera Control"
-msgstr ""
+msgstr "카메라 제어"
 
 #  Platforms: Apple
 #  Interaction mode for touch
 msgid "Camera Mode"
-msgstr ""
+msgstr "카메라 모드"
 
 #  Platforms: Apple, Android, Windows
 msgid "Cancel"
@@ -446,17 +446,17 @@ msgstr "취소"
 
 #  Platforms: Apple, Android
 msgid "Cancel Script"
-msgstr ""
+msgstr "스크립트 취소"
 
 #  Platforms: Apple, Android
 #  Failed to add a favorite item (currently a bookmark)
 msgid "Cannot add object"
-msgstr ""
+msgstr "천체를 추가할 수 없습니다"
 
 #  Platforms: Apple
 #  Failed to share a URL
 msgid "Cannot share URL"
-msgstr ""
+msgstr "URL을 공유할 수 없습니다"
 
 #  Platforms: Apple, Windows
 #  Take a screenshot in Celestia
@@ -466,30 +466,30 @@ msgstr "이미지 캡춰"
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Catenae (Crater Chains)"
-msgstr ""
+msgstr "크레이터 사슬(Catenae)"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Cavi (Hollows)"
-msgstr ""
+msgstr "움푹한 지형(Cavi)"
 
 #  Platforms: Android
 #, c-format
 msgid "Celestia does not know how to open %s"
-msgstr ""
+msgstr "Celestia에서 %s을(를) 여는 방법을 알 수 없습니다"
 
 #  Platforms: Windows
 msgid "Celestia Help"
-msgstr ""
+msgstr "Celestia 도움말"
 
 #  Platforms: Apple, Android
 #  Name for the subscription service
 msgid "Celestia PLUS"
-msgstr ""
+msgstr "Celestia PLUS"
 
 #  Platforms: Windows
 msgid "Celestia Screenshot"
-msgstr ""
+msgstr "Celestia 스크린샷"
 
 #  Platforms: Android
 msgid ""
@@ -501,12 +501,12 @@ msgid ""
 "downloaded to the target directory. This "
 "operation cannot be undone, so please ensure you "
 "make a backup before you proceed."
-msgstr ""
+msgstr "Celestia가 종료되며 다음 실행 시 데이터를 이전합니다. 대상 디렉터리의 내용은 현재 디렉터리의 내용으로 대체됩니다. 복사가 끝나면 현재 디렉터리의 내용은 삭제됩니다. 이후 애드온은 대상 디렉터리에 다운로드됩니다. 이 작업은 되돌릴 수 없으므로 진행하기 전에 반드시 백업하세요."
 
 #  Platforms: Apple, Android, Windows
 #  Temperature scale
 msgid "Celsius"
-msgstr ""
+msgstr "섭씨"
 
 #  Platforms: Apple, Android, Windows
 #  Center an object
@@ -522,43 +522,43 @@ msgstr "선택한 천체를 가운데로"
 #  Change a value
 #  Change subscription service
 msgid "Change"
-msgstr ""
+msgstr "변경"
 
 #  Platforms: Windows
 #  Data location settings restart notice
 msgid ""
 "Changes to data location settings take effect "
 "after a restart."
-msgstr ""
+msgstr "데이터 위치 설정 변경 사항은 다시 시작한 후 적용됩니다."
 
 #  Platforms: Windows
 #  Frame rate setting restart notice
 msgid "Changes to frame rate take effect after a restart."
-msgstr ""
+msgstr "프레임 속도 변경 사항은 다시 시작한 후 적용됩니다."
 
 #  Platforms: Windows
 #  Language setting restart notice
 msgid "Changes to language take effect after a restart."
-msgstr ""
+msgstr "언어 변경 사항은 다시 시작한 후 적용됩니다."
 
 #  Platforms: Windows
 #  Selection sensitivity setting restart notice
 msgid ""
 "Changes to sensitivity take effect after a "
 "restart."
-msgstr ""
+msgstr "감도 변경 사항은 다시 시작한 후 적용됩니다."
 
 #  Platforms: Apple, Android, Windows
 #  Output rendering settings footnote
 msgid ""
 "Changes to sRGB rendering take effect after a "
 "restart."
-msgstr ""
+msgstr "sRGB 렌더링 변경 사항은 다시 시작한 후 적용됩니다."
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Chaos (Chaotic Terrain)"
-msgstr ""
+msgstr "혼돈 지형(Chaos)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Chase"
@@ -567,13 +567,13 @@ msgstr "공전 동기"
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Chasmata (Canyons)"
-msgstr ""
+msgstr "협곡(Chasmata)"
 
 #  Platforms: Apple, Android
 msgid ""
 "Choose one of the plans below to get access to "
 "all the features."
-msgstr ""
+msgstr "아래 요금제 중 하나를 선택하면 모든 기능을 이용할 수 있습니다."
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -587,12 +587,12 @@ msgstr "도시"
 #  Platforms: Apple
 #  Display name for classic icon
 msgid "Classic"
-msgstr ""
+msgstr "클래식"
 
 #  Platforms: Apple, Android, Windows
 #  Star colors option
 msgid "Classic Colors"
-msgstr ""
+msgstr "기존 색상"
 
 #  Platforms: Apple, Android
 msgid "Close"
@@ -601,7 +601,7 @@ msgstr "닫기"
 #  Platforms: Apple, Android, Windows
 #  Cloud rendering quality setting
 msgid "Cloud Segment Count"
-msgstr ""
+msgstr "구름 분할 수"
 
 #  Platforms: Apple, Android, Windows
 msgid "Cloud Shadows"
@@ -614,12 +614,12 @@ msgstr "구름"
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Colla (Necks)"
-msgstr ""
+msgstr "잘록한 지형(Colla)"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Colles (Small Hills)"
-msgstr ""
+msgstr "작은 언덕(Colles)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Comet Tails"
@@ -637,23 +637,23 @@ msgstr "계산"
 #  Platforms: Apple, Android, Windows
 #  celestia.cfg
 msgid "Config File"
-msgstr ""
+msgstr "설정 파일"
 
 #  Platforms: Apple, Android, Windows
 #  Change requires a restart
 msgid "Configuration will take effect after a restart."
-msgstr ""
+msgstr "설정은 다시 시작한 후 적용됩니다."
 
 #  Platforms: Apple, Android
 msgid "Congratulations, you are a Celestia PLUS user"
-msgstr ""
+msgstr "축하합니다. Celestia PLUS 사용자가 되셨습니다"
 
 #  Platforms: Apple, Android
 #  Purchase success message with restart guidance
 msgid ""
 "Congratulations, you are a Celestia PLUS user. "
 "Restart Celestia for your purchase to take effect."
-msgstr ""
+msgstr "축하합니다. Celestia PLUS 사용자가 되셨습니다. 구매 내용을 적용하려면 Celestia를 다시 시작하세요."
 
 #  Platforms: Apple, Android, Windows
 msgid "Constellations"
@@ -662,27 +662,27 @@ msgstr "별자리"
 #  Platforms: Apple, Android
 #  Settings for whether context menu is enabled
 msgid "Context Menu"
-msgstr ""
+msgstr "상황에 맞는 메뉴"
 
 #  Platforms: Apple, Android
 #  Description for how a context menu is triggered
 msgid "Context menu by long press or context click"
-msgstr ""
+msgstr "길게 누르거나 보조 클릭하여 상황에 맞는 메뉴 표시"
 
 #  Platforms: Apple, Android
 #  Used in Flight Mode
 msgid "Coordinate System"
-msgstr ""
+msgstr "좌표계"
 
 #  Platforms: Windows
 #  Used in Flight Mode
 msgid "Coordinate System:"
-msgstr ""
+msgstr "좌표계:"
 
 #  Platforms: Apple, Android
 #  Longitude and latitude (in Go to)
 msgid "Coordinates"
-msgstr ""
+msgstr "좌표"
 
 #  Platforms: Windows
 #  Copy current URL to pasteboard
@@ -692,17 +692,17 @@ msgstr "URL 복사"
 #  Platforms: Android
 #  Copying default data from APK
 msgid "Copying data…"
-msgstr ""
+msgstr "데이터 복사 중…"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Coronae (Oval Features)"
-msgstr ""
+msgstr "코로나(타원형 지형)"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Cosmodromes"
-msgstr ""
+msgstr "우주 기지"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -711,90 +711,90 @@ msgstr "크레이터"
 
 #  Platforms: Apple, Android
 msgid "Create a new bookmark with \"+\" button"
-msgstr ""
+msgstr "「+」 버튼으로 새 북마크 만들기"
 
 #  Platforms: Apple, Android, Windows
 #  Marker
 msgid "Crosshair"
-msgstr ""
+msgstr "십자선"
 
 #  Platforms: Android
 #  Current display language
 msgid "Current Language"
-msgstr ""
+msgstr "현재 언어"
 
 #  Platforms: Apple, Android
 msgid "Current Time"
-msgstr ""
+msgstr "현재 시간"
 
 #  Platforms: Apple, Android, Windows
 msgid "Custom"
-msgstr ""
+msgstr "사용자 지정"
 
 #  Platforms: Apple
 #  Description for custom app icon video
 msgid "Custom App Icon"
-msgstr ""
+msgstr "사용자 지정 앱 아이콘"
 
 #  Platforms: Apple, Android
 #  Description for custom font video
 msgid "Custom Fonts"
-msgstr ""
+msgstr "사용자 지정 글꼴"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "D-pad Down"
-msgstr ""
+msgstr "방향 패드 아래"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "D-pad Left"
-msgstr ""
+msgstr "방향 패드 왼쪽"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "D-pad Right"
-msgstr ""
+msgstr "방향 패드 오른쪽"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "D-pad Up"
-msgstr ""
+msgstr "방향 패드 위"
 
 #  Platforms: Apple, Android, Windows
 msgid "Dark Nebulae"
-msgstr ""
+msgstr "암흑성운"
 
 #  Platforms: Apple, Android, Windows
 #  Directory to load data from
 msgid "Data Directory"
-msgstr ""
+msgstr "데이터 디렉터리"
 
 #  Platforms: Apple, Android, Windows
 #  Title for celestia.cfg, data location setting
 msgid "Data Location"
-msgstr ""
+msgstr "데이터 위치"
 
 #  Platforms: Apple, Android, Windows
 msgid "Date Format"
-msgstr ""
+msgstr "날짜 형식"
 
 #  Platforms: Apple, Android
 #  Debug menu
 msgid "Debug"
-msgstr ""
+msgstr "디버그"
 
 #  Platforms: Apple
 #  Equatorial coordinate
 #, c-format
 msgid "DEC: %@° %@′ %@″"
-msgstr ""
+msgstr "적위: %@° %@′ %@″"
 
 #  Platforms: Android, Windows
 #  Equatorial coordinate
 #, c-format
 msgid "DEC: %s° %s′ %s″"
-msgstr ""
+msgstr "적위: %s° %s′ %s″"
 
 #  Platforms: Apple, Android
 msgid "Deep Sky Objects"
@@ -802,13 +802,13 @@ msgstr " 먼 우주 천체(DSO)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Default"
-msgstr ""
+msgstr "기본값"
 
 #  Platforms: Apple
 #  Display name for default icon
 msgctxt "Icon"
 msgid "Default"
-msgstr ""
+msgstr "기본값"
 
 #  Platforms: Apple, Android, Windows
 msgid "Delete"
@@ -827,17 +827,17 @@ msgstr "단일 창"
 #  Platforms: Apple, Android, Windows
 #  Script system access policy option
 msgid "Deny"
-msgstr ""
+msgstr "거부"
 
 #  Platforms: Apple, Android
 #  A list of destinations in guide
 msgid "Destinations"
-msgstr ""
+msgstr "목적지"
 
 #  Platforms: Android
 #  Settings to support virtual display in external display
 msgid "Detect Virtual Display (Casting)"
-msgstr ""
+msgstr "가상 디스플레이 감지(캐스팅)"
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -847,7 +847,7 @@ msgstr "마름모(◇)"
 #  Platforms: Apple, Android, Windows
 #  PSF star setting
 msgid "Dim Clip Factor"
-msgstr ""
+msgstr "어두운 별 클리핑 계수"
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -874,22 +874,22 @@ msgstr "거리"
 #  Platforms: Apple, Android
 #  Prompt to ask to cancel downloading an add-on
 msgid "Do you want to cancel this task?"
-msgstr ""
+msgstr "이 작업을 취소하시겠습니까?"
 
 #  Platforms: Apple, Android, Windows
 msgid "Do you want to uninstall this add-on?"
-msgstr ""
+msgstr "이 애드온을 제거하시겠습니까?"
 
 #  Platforms: Apple
 #  Exit edit mode
 #  Exit toolbar customization mode
 msgid "Done"
-msgstr ""
+msgstr "완료"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Dorsa (Ridges)"
-msgstr ""
+msgstr "능선(Dorsa)"
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -899,23 +899,23 @@ msgstr "아랫쪽화살표(↓)"
 #  Platforms: Apple, Android
 #  Downgrade subscription service
 msgid "Downgrade"
-msgstr ""
+msgstr "다운그레이드"
 
 #  Platforms: Android
 #  Accessibility description for the drag handle for reorder
 msgid "Drag Handle"
-msgstr ""
+msgstr "드래그 핸들"
 
 #  Platforms: Apple, Android, Windows
 msgid ""
 "Dragging behavior based on change of pick rays "
 "instead of screen coordinates"
-msgstr ""
+msgstr "화면 좌표 대신 선택 광선의 변화에 따라 드래그"
 
 #  Platforms: Apple, Android, Windows
 #  Tab for deep sky objects in Star Browser
 msgid "DSOs"
-msgstr ""
+msgstr "먼 우주 천체"
 
 #  Platforms: Apple, Android, Windows
 msgid "Dwarf Planets"
@@ -932,19 +932,19 @@ msgstr "식 그림자"
 #  Platforms: Windows
 #  Eclipse finder result
 msgid "Eclipsed body: {}"
-msgstr ""
+msgstr "가려지는 천체: {}"
 
 #  Platforms: Apple
 #  Eclipse finder result
 #, c-format
 msgid "Eclipsed body: %@"
-msgstr ""
+msgstr "가려지는 천체: %@"
 
 #  Platforms: Android
 #  Eclipse finder result
 #, c-format
 msgid "Eclipsed body: %s"
-msgstr ""
+msgstr "가려지는 천체: %s"
 
 #  Platforms: Apple, Android, Windows
 #  Grids
@@ -959,66 +959,66 @@ msgstr "황도"
 #  Enter edit mode for favorite items
 #  Enter toolbar customization mode
 msgid "Edit"
-msgstr ""
+msgstr "편집"
 
 #  Platforms: Apple, Android, Windows
 msgid "Elliptical Galaxies"
-msgstr ""
+msgstr "타원은하"
 
 #  Platforms: Apple, Android, Windows
 msgid "Emission Nebulae"
-msgstr ""
+msgstr "방출성운"
 
 #  Platforms: Apple, Android
 #  Enable gyroscope control for camera rotation
 msgid "Enable Gyroscope Control"
-msgstr ""
+msgstr "자이로스코프 제어 활성화"
 
 #  Platforms: Apple, Android, Windows
 #  Setting item to control whether left thumbstick should be enabled
 msgid "Enable Left Thumbstick"
-msgstr ""
+msgstr "왼쪽 스틱 활성화"
 
 #  Platforms: Apple, Android, Windows
 #  Setting item to control whether right thumbstick should be enabled
 msgid "Enable Right Thumbstick"
-msgstr ""
+msgstr "오른쪽 스틱 활성화"
 
 #  Platforms: Windows
 #  Template for displaying when end time cannot be correctly formatted by the system
 #, c-format
 msgid "End Julian day: %s"
-msgstr ""
+msgstr "종료 율리우스일: %s"
 
 #  Platforms: Apple, Android
 #  In eclipse finder, range of time to find eclipse in
 msgid "End Time"
-msgstr ""
+msgstr "종료 시간"
 
 #  Platforms: Windows
 #  In eclipse finder, range of time to find eclipse in
 msgid "End time:"
-msgstr ""
+msgstr "종료 시간:"
 
 #  Platforms: Apple
 #  Template for the end time of a body, usually a spacecraft
 #, c-format
 msgid "End time: %@"
-msgstr ""
+msgstr "종료 시간: %@"
 
 #  Platforms: Android, Windows
 #  Template for the end time of a body, usually a spacecraft
 #, c-format
 msgid "End time: %s"
-msgstr ""
+msgstr "종료 시간: %s"
 
 #  Platforms: Apple
 msgid "End User License Agreements (EULA)"
-msgstr ""
+msgstr "최종 사용자 사용권 계약(EULA)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Enhance Celestia with online add-ons"
-msgstr ""
+msgstr "온라인 애드온으로 Celestia 확장"
 
 #  Platforms: Apple, Android, Windows
 #  Grids
@@ -1028,52 +1028,52 @@ msgstr "적도"
 #  Platforms: Apple
 #, c-format
 msgid "Equatorial radius: %@"
-msgstr ""
+msgstr "적도 반경: %@"
 
 #  Platforms: Android, Windows
 #, c-format
 msgid "Equatorial radius: %s"
-msgstr ""
+msgstr "적도 반경: %s"
 
 #  Platforms: Apple, Android
 #  Encountered error while checking updates.
 msgid "Error checking updates"
-msgstr ""
+msgstr "업데이트 확인 중 오류 발생"
 
 #  Platforms: Apple, Android, Windows
 msgid "Error creating directory for add-on"
-msgstr ""
+msgstr "애드온 디렉터리 생성 중 오류 발생"
 
 #  Platforms: Apple, Android, Windows
 msgid "Error downloading add-on"
-msgstr ""
+msgstr "애드온 다운로드 중 오류 발생"
 
 #  Platforms: Apple, Android, Windows
 msgid "Error Loading Data"
-msgstr ""
+msgstr "데이터 로드 오류"
 
 #  Platforms: Apple, Android, Windows
 msgid ""
 "Error loading data, fallback to original "
 "configuration."
-msgstr ""
+msgstr "데이터 로드 중 오류가 발생하여 원래 설정으로 되돌립니다."
 
 #  Platforms: Apple, Android, Windows
 msgid "Error opening file for saving add-on"
-msgstr ""
+msgstr "애드온 저장용 파일을 여는 중 오류 발생"
 
 #  Platforms: Apple, Android, Windows
 msgid "Error unzipping add-on"
-msgstr ""
+msgstr "애드온 압축 해제 중 오류 발생"
 
 #  Platforms: Apple, Android, Windows
 msgid "Error writing data file for add-on"
-msgstr ""
+msgstr "애드온 데이터 파일 쓰기 중 오류 발생"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller action
 msgid "Esc"
-msgstr ""
+msgstr "Esc"
 
 #  Platforms: Android, Windows
 #  Exit Celestia
@@ -1083,100 +1083,100 @@ msgstr "종료"
 #  Platforms: Android
 #  Alert title for the exit triggered by back button
 msgid "Exit Celestia"
-msgstr ""
+msgstr "Celestia 종료"
 
 #  Platforms: Apple, Android, Windows
 #  Output rendering setting
 #  PSF star setting
 msgid "Exposure"
-msgstr ""
+msgstr "노출"
 
 #  Platforms: Apple, Android, Windows
 #  PSF star setting footnote
 msgid ""
 "Extent of the eye PSF glow around bright stars. "
 "Lower values widen the glow at higher GPU cost."
-msgstr ""
+msgstr "밝은 항성 주변에 나타나는 눈의 점 확산 함수(PSF)에 의한 빛 번짐 범위입니다. 값이 낮을수록 빛 번짐이 넓어지지만 GPU 부하가 증가합니다."
 
 #  Platforms: Android
 #  Section header text for settings
 msgid "External Display"
-msgstr ""
+msgstr "외부 디스플레이"
 
 #  Platforms: Apple, Android
 msgid "External screen connected"
-msgstr ""
+msgstr "외부 디스플레이 연결됨"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Faculae (Bright Spots)"
-msgstr ""
+msgstr "밝은 반점(Faculae)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Fading Orbits"
-msgstr ""
+msgstr "궤도 점차 흐리게 표시"
 
 #  Platforms: Apple, Android, Windows
 #  Temperature scale
 msgid "Fahrenheit"
-msgstr ""
+msgstr "화씨"
 
 #  Platforms: Windows
 msgid "Failed in capturing screenshot."
-msgstr ""
+msgstr "스크린샷을 캡처하지 못했습니다."
 
 #  Platforms: Apple
 msgid "Failed to connect to the external screen."
-msgstr ""
+msgstr "외부 디스플레이에 연결하지 못했습니다."
 
 #  Platforms: Apple, Android, Windows
 msgid "Failed to download or install this add-on."
-msgstr ""
+msgstr "이 애드온을 다운로드하거나 설치하지 못했습니다."
 
 #  Platforms: Android
 #  WebView failed to load content
 msgid "Failed to load page."
-msgstr ""
+msgstr "페이지를 로드하지 못했습니다."
 
 #  Platforms: Apple, Android, Windows
 #  Control the faintest star that Celestia should display
 msgid "Faintest Stars"
-msgstr ""
+msgstr "항성 한계 등급"
 
 #  Platforms: Android
 #  The text FAQ found in other text where FAQ indicates the link
 msgid "FAQ"
-msgstr ""
+msgstr "자주 묻는 질문"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Farra (Pancake-like Structures)"
-msgstr ""
+msgstr "팬케이크 모양 지형(Farra)"
 
 #  Platforms: Apple, Android
 #  Make time go faster
 msgid "Faster"
-msgstr ""
+msgstr "빠르게"
 
 #  Platforms: Apple, Android, Windows
 #  Error for fatal error alert title
 msgid "Fatal Error"
-msgstr ""
+msgstr "치명적 오류"
 
 #  Platforms: Apple, Android
 #  Favorites (currently bookmarks and scripts)
 msgid "Favorites"
-msgstr ""
+msgstr "즐겨찾기"
 
 #  Platforms: Apple, Android, Windows
 #  Default email title for feature suggestion
 msgid "Feature suggestion for Celestia"
-msgstr ""
+msgstr "Celestia 기능 제안"
 
 #  Platforms: Apple, Android
 #  Push notification content type — featured add-on
 msgid "Featured Add-on"
-msgstr ""
+msgstr "추천 애드온"
 
 #  Platforms: Apple, Android, Windows
 msgid "Features"
@@ -1195,44 +1195,44 @@ msgstr "사각형(■)"
 #  Platforms: Apple, Android
 #  Find (eclipses)
 msgid "Find"
-msgstr ""
+msgstr "찾기"
 
 #  Platforms: Windows
 msgid "Find eclipses for an object in a time range"
-msgstr ""
+msgstr "지정한 기간에 천체에서 일어나는 식 찾기"
 
 #  Platforms: Apple, Android
 msgid "Find stars, DSOs, and nearby objects"
-msgstr ""
+msgstr "항성, 먼 우주 천체 및 주변 천체 찾기"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Flexus (Cuspate Features)"
-msgstr ""
+msgstr "뾰족한 지형(Flexus)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Flight Mode"
-msgstr ""
+msgstr "비행 모드"
 
 #  Platforms: Apple, Android, Windows
 msgid ""
 "Flight mode decides how you move around in "
 "Celestia. Learn more…"
-msgstr ""
+msgstr "비행 모드는 Celestia에서 이동하는 방식을 결정합니다. 자세히 알아보기…"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Fluctus (Flow Terrain)"
-msgstr ""
+msgstr "유동 지형(Fluctus)"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Flumina (Channels)"
-msgstr ""
+msgstr "하천(Flumina)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Focus Zooming"
-msgstr ""
+msgstr "초점 고정 확대/축소"
 
 #  Platforms: Windows
 #  Enter name for new created folder
@@ -1249,33 +1249,33 @@ msgstr "선택한 천체를 추적"
 
 #  Platforms: Apple, Android
 msgid "Font"
-msgstr ""
+msgstr "글꼴"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Fossae (Long Depressions)"
-msgstr ""
+msgstr "긴 함몰 지형(Fossae)"
 
 #  Platforms: Apple
 #  Pinch zoom setting option
 msgctxt "Pinch Zoom"
 msgid "FOV"
-msgstr ""
+msgstr "시야각"
 
 #  Platforms: Apple, Android, Windows
 #  Frame rate of simulation
 msgid "Frame Rate"
-msgstr ""
+msgstr "프레임 속도"
 
 #  Platforms: Apple, Android
 #  Subscription price indicating the subscription is free
 msgid "Free"
-msgstr ""
+msgstr "무료"
 
 #  Platforms: Apple, Android, Windows
 #  Flight mode, coordinate system
 msgid "Free Flight"
-msgstr ""
+msgstr "자유 비행"
 
 #  Platforms: Apple, Windows
 #  Freeze time
@@ -1285,21 +1285,21 @@ msgstr "멈춤"
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Freta (Straits)"
-msgstr ""
+msgstr "해협(Freta)"
 
 #  Platforms: Windows
 msgid "From surface of {}"
-msgstr ""
+msgstr "{} 표면에서"
 
 #  Platforms: Apple
 #, c-format
 msgid "From surface of %@"
-msgstr ""
+msgstr "%@ 표면에서"
 
 #  Platforms: Android
 #, c-format
 msgid "From surface of %s"
-msgstr ""
+msgstr "%s 표면에서"
 
 #  Platforms: Apple, Android, Windows
 #  Star style
@@ -1318,32 +1318,32 @@ msgstr "은하"
 #  Platforms: Apple, Android, Windows
 #  Render parameter
 msgid "Galaxy Brightness"
-msgstr ""
+msgstr "은하 밝기"
 
 #  Platforms: Apple, Android, Windows
 #  Settings for game controller
 msgid "Game Controller"
-msgstr ""
+msgstr "게임 컨트롤러"
 
 #  Platforms: Apple, Android
 #  Purchase subscription service
 msgid "Get"
-msgstr ""
+msgstr "구매"
 
 #  Platforms: Apple, Android, Windows
 #  Open webpage for downloading add-ons
 msgid "Get Add-ons"
-msgstr ""
+msgstr "애드온 받기"
 
 #  Platforms: Apple, Android
 #  Action button to get Celestia PLUS
 msgid "Get Celestia PLUS"
-msgstr ""
+msgstr "Celestia PLUS 구독"
 
 #  Platforms: Apple, Android, Windows
 #  Action for getting info about current selected object
 msgid "Get Info"
-msgstr ""
+msgstr "정보 보기"
 
 #  Platforms: Apple, Android, Windows
 msgid "Globulars"
@@ -1374,17 +1374,17 @@ msgstr "길잡이"
 
 #  Platforms: Apple, Android, Windows
 msgid "H II Regions"
-msgstr ""
+msgstr "H II 영역"
 
 #  Platforms: Apple, Android, Windows
 #  Indicate that an object has atmosphere
 msgid "Has atmosphere"
-msgstr ""
+msgstr "대기 있음"
 
 #  Platforms: Apple, Android, Windows
 #  Indicate that an object has rings
 msgid "Has rings"
-msgstr ""
+msgstr "고리 있음"
 
 #  Platforms: Apple, Android, Windows
 msgid "Help"
@@ -1393,20 +1393,20 @@ msgstr "도움말"
 #  Platforms: Apple, Android
 #  Action to hide the tool overlay
 msgid "Hide"
-msgstr ""
+msgstr "숨기기"
 
 #  Platforms: Apple, Windows
 msgid "Hide Cursor During Dragging"
-msgstr ""
+msgstr "드래그 중 커서 숨기기"
 
 #  Platforms: Apple, Windows
 msgid "Hide the mouse cursor during dragging"
-msgstr ""
+msgstr "드래그하는 동안 마우스 커서 숨기기"
 
 #  Platforms: Apple, Android, Windows
 #  HiDPI support in display
 msgid "HiDPI"
-msgstr ""
+msgstr "HiDPI"
 
 #  Platforms: Apple, Android, Windows
 #  High resolution
@@ -1416,7 +1416,7 @@ msgstr "높음"
 #  Platforms: Apple, Android
 #  Home object, sun.
 msgid "Home (Sol)"
-msgstr ""
+msgstr "홈(태양)"
 
 #  Platforms: Apple, Android, Windows
 #  Grids
@@ -1426,93 +1426,93 @@ msgstr "수평분할"
 #  Platforms: Apple, Android, Windows
 #  Sharing option, image
 msgid "Image"
-msgstr ""
+msgstr "이미지"
 
 #  Platforms: Apple, Android, Windows
 #  Imperial measurement system
 msgid "Imperial"
-msgstr ""
+msgstr "야드파운드법"
 
 #  Platforms: Apple, Android
 msgid ""
 "In camera mode, drag to move field of view.\n"
 "\n"
 "Pinch to zoom in/out field of view."
-msgstr ""
+msgstr "카메라 모드에서는 드래그하여 시야를 이동합니다.\n\n핀치 동작으로 시야를 확대/축소합니다."
 
 #  Platforms: Apple, Android
 msgid ""
 "In object mode, drag to rotate around an object.\n"
 "\n"
 "Pinch to zoom in/out on an object."
-msgstr ""
+msgstr "천체 모드에서는 드래그하여 천체 주위를 회전합니다.\n\n핀치 동작으로 천체를 확대/축소합니다."
 
 #  Platforms: Apple, Windows
 msgid "Infinite Dragging"
-msgstr ""
+msgstr "무한 드래그"
 
 #  Platforms: Apple, Android, Windows
 #  HUD display
 msgid "Info Display"
-msgstr ""
+msgstr "정보 표시"
 
 #  Platforms: Apple, Android, Windows
 #  Install an add-on
 msgid "Install"
-msgstr ""
+msgstr "설치"
 
 #  Platforms: Apple, Android, Windows
 #  Title for the list of installed add-ons
 msgid "Installed"
-msgstr ""
+msgstr "설치됨"
 
 #  Platforms: Apple, Android, Windows
 #  Open a page for managing installed add-ons
 msgid "Installed Add-ons"
-msgstr ""
+msgstr "설치된 애드온"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Insulae (Islands)"
-msgstr ""
+msgstr "섬(Insulae)"
 
 #  Platforms: Apple, Android, Windows
 #  Settings for interaction
 msgid "Interaction"
-msgstr ""
+msgstr "상호작용"
 
 #  Platforms: Apple, Android, Windows
 #  The input of julian day is not valid
 msgid "Invalid Julian day string."
-msgstr ""
+msgstr "율리우스일 입력이 올바르지 않습니다."
 
 #  Platforms: Apple, Android, Windows
 #  Invert game controller thumbstick axis horizontally
 msgid "Invert Horizontally"
-msgstr ""
+msgstr "좌우 반전"
 
 #  Platforms: Apple, Android, Windows
 #  Invert game controller thumbstick axis vertically
 msgid "Invert Vertically"
-msgstr ""
+msgstr "상하 반전"
 
 #  Platforms: Apple, Android, Windows
 msgid "Irregular Galaxies"
-msgstr ""
+msgstr "불규칙은하"
 
 #  Platforms: Apple, Android, Windows
 msgid "ISO 8601"
-msgstr ""
+msgstr "ISO 8601"
 
 #  Platforms: Apple, Android, Windows
 #  Select time via entering Julian day
 msgid "Julian Day"
-msgstr ""
+msgstr "율리우스일"
 
 #  Platforms: Apple, Android, Windows
 #  Temperature scale
 msgid "Kelvin"
-msgstr ""
+msgstr "켈빈"
 
 #  Platforms: Apple, Android, Windows
 #  Unit
@@ -1523,13 +1523,13 @@ msgstr "km"
 #  Galactic coordinates
 #, c-format
 msgid "L: %@° %@′ %@″"
-msgstr ""
+msgstr "은경: %@° %@′ %@″"
 
 #  Platforms: Android, Windows
 #  Galactic coordinates
 #, c-format
 msgid "L: %s° %s′ %s″"
-msgstr ""
+msgstr "은경: %s° %s′ %s″"
 
 #  Platforms: Apple, Android, Windows
 #  Labels to display
@@ -1539,27 +1539,27 @@ msgstr "지명 보기"
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Labes (Landslides)"
-msgstr ""
+msgstr "산사태(Labes)"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Labyrinthi (Valley Complexes)"
-msgstr ""
+msgstr "미로 지형(Labyrinthi)"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Lacunae (Irregular Depressions)"
-msgstr ""
+msgstr "불규칙한 함몰 지형(Lacunae)"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Lacus (Lakes)"
-msgstr ""
+msgstr "호수(Lacus)"
 
 #  Platforms: Apple, Android, Windows
 #  Go to surface of an object
 msgid "Land"
-msgstr ""
+msgstr "착륙"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -1569,32 +1569,32 @@ msgstr "착륙지점"
 #  Platforms: Android, Windows
 #  Display language setting
 msgid "Language"
-msgstr ""
+msgstr "언어"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Large Ringed Features"
-msgstr ""
+msgstr "대형 고리 지형"
 
 #  Platforms: Apple, Android
 #  Push notification content type — latest news
 msgid "Latest News"
-msgstr ""
+msgstr "최신 소식"
 
 #  Platforms: Apple, Android, Windows
 #  Coordinates
 msgid "Latitude"
-msgstr ""
+msgstr "위도"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "LB / L1"
-msgstr ""
+msgstr "LB / L1"
 
 #  Platforms: Apple, Android, Windows
 #  Text for the link in Flight mode decides how you move around in Celestia. Learn more…
 msgid "Learn more…"
-msgstr ""
+msgstr "자세히 알아보기…"
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -1604,53 +1604,53 @@ msgstr "왼쪽화살표(←)"
 #  Platforms: Apple
 #, c-format
 msgid "Length of day: %@"
-msgstr ""
+msgstr "하루 길이: %@"
 
 #  Platforms: Android, Windows
 #, c-format
 msgid "Length of day: %s"
-msgstr ""
+msgstr "하루 길이: %s"
 
 #  Platforms: Apple, Android, Windows
 msgid "Lenticular Galaxies"
-msgstr ""
+msgstr "렌즈형은하"
 
 #  Platforms: Apple, Android
 #  Lifetime purchase
 msgid "Lifetime"
-msgstr ""
+msgstr "평생 이용"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Lineae (Elongate Markings)"
-msgstr ""
+msgstr "선 모양 무늬(Lineae)"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Lingulae (Tongue-Shaped Features)"
-msgstr ""
+msgstr "혀 모양 지형(Lingulae)"
 
 #  Platforms: Apple, Android, Windows
 #  Celestia loading failed
 msgid "Loading Celestia failed…"
-msgstr ""
+msgstr "Celestia를 로드하지 못했습니다…"
 
 #  Platforms: Apple
 #  Celestia initialization, loading file
 #, c-format
 msgid "Loading: %@"
-msgstr ""
+msgstr "로드 중: %@"
 
 #  Platforms: Android, Windows
 #  Celestia initialization, loading file
 #, c-format
 msgid "Loading: %s"
-msgstr ""
+msgstr "로드 중: %s"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Lobi (Lobate Features)"
-msgstr ""
+msgstr "엽상 지형(Lobi)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Local Time"
@@ -1667,20 +1667,20 @@ msgstr "2천체 참조 동기"
 
 #  Platforms: Windows
 msgid "Lock Phase"
-msgstr ""
+msgstr "2천체 참조 동기"
 
 #  Platforms: Apple, Android
 msgid "Long press on stepper to change orientation."
-msgstr ""
+msgstr "방향을 변경하려면 「+」 또는 「-」 버튼을 길게 누르세요."
 
 #  Platforms: Apple, Android
 msgid "Long press on stepper to zoom in/out."
-msgstr ""
+msgstr "확대/축소하려면 「+」 또는 「-」 버튼을 길게 누르세요."
 
 #  Platforms: Apple, Android, Windows
 #  Coordinates
 msgid "Longitude"
-msgstr ""
+msgstr "경도"
 
 #  Platforms: Apple, Android, Windows
 #  Low resolution
@@ -1690,36 +1690,36 @@ msgstr "낮음"
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "LT / L2"
-msgstr ""
+msgstr "LT / L2"
 
 #  Platforms: Apple, Android, Windows
 #  Note for Script System Access Policy
 msgid "Lua scripts' access to the file system"
-msgstr ""
+msgstr "Lua 스크립트의 파일 시스템 접근"
 
 #  Platforms: Apple, Android, Windows
 #  Lunar eclipses.
 msgid "Lunar"
-msgstr ""
+msgstr "월식"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Maculae (Dark Spots)"
-msgstr ""
+msgstr "어두운 반점(Maculae)"
 
 #  Platforms: Windows
 #  window title for add-on list
 msgid "Manage Add-ons"
-msgstr ""
+msgstr "애드온 관리"
 
 #  Platforms: Android
 msgid "Manage Subscription"
-msgstr ""
+msgstr "구독 관리"
 
 #  Platforms: Apple, Android, Windows
 #  Tone mapping mode
 msgid "Manual"
-msgstr ""
+msgstr "수동"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -1738,22 +1738,22 @@ msgstr "마커"
 #  Platforms: Apple, Android, Windows
 #  PSF star setting
 msgid "Max Irradiance"
-msgstr ""
+msgstr "최대 복사 조도"
 
 #  Platforms: Apple
 #, c-format
 msgid "Maximum (%@ FPS)"
-msgstr ""
+msgstr "최대(%@ FPS)"
 
 #  Platforms: Android, Windows
 #, c-format
 msgid "Maximum (%s FPS)"
-msgstr ""
+msgstr "최대(%s FPS)"
 
 #  Platforms: Apple, Android, Windows
 #  Measurement system
 msgid "Measure Units"
-msgstr ""
+msgstr "측정 단위"
 
 #  Platforms: Apple, Android, Windows
 #  Medium resolution
@@ -1763,28 +1763,28 @@ msgstr "중간"
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Mensae (Flat-Topped Hills)"
-msgstr ""
+msgstr "정상이 평평한 언덕(Mensae)"
 
 #  Platforms: Apple, Android
 #  Menu button
 msgid "Menu"
-msgstr ""
+msgstr "메뉴"
 
 #  Platforms: Apple, Android, Windows
 #  Metric measurement system
 msgid "Metric"
-msgstr ""
+msgstr "미터법"
 
 #  Platforms: Android
 #  Action to migrate data where the add-on is downloaded
 msgid "Migrate Add-on Data"
-msgstr ""
+msgstr "애드온 데이터 이전"
 
 #  Platforms: Android
 #  Option to migrate add-on data to a directory. %s is the target directory
 #, c-format
 msgid "Migrate to %s"
-msgstr ""
+msgstr "%s(으)로 이전"
 
 #  Platforms: Apple, Android, Windows
 #  Minimum feature size that we should display a label for
@@ -1797,7 +1797,7 @@ msgstr "소 위성"
 
 #  Platforms: Windows
 msgid "Miscellaneous"
-msgstr ""
+msgstr "기타"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -1807,7 +1807,7 @@ msgstr "산지"
 #  Platforms: Apple, Android
 #  Monthly subscription
 msgid "Monthly"
-msgstr ""
+msgstr "월간"
 
 #  Platforms: Apple, Android, Windows
 msgid "Moons"
@@ -1816,19 +1816,19 @@ msgstr "위성"
 #  Platforms: Apple, Android
 #  Button to show more actions to in the bottom toolbar
 msgid "More actions"
-msgstr ""
+msgstr "추가 작업"
 
 #  Platforms: Apple, Windows
 msgid ""
 "Mouse cursor is warped to the location when the "
 "dragging starts. Only effective when the cursor "
 "is hidden during dragging"
-msgstr ""
+msgstr "마우스 커서를 드래그 시작 위치로 되돌립니다. 드래그 중 커서를 숨긴 경우에만 적용됩니다"
 
 #  Platforms: Apple, Android
 #  Guide to control Celestia with a mouse/keyboard
 msgid "Mouse/Keyboard Controls"
-msgstr ""
+msgstr "마우스/키보드 조작"
 
 #  Platforms: Apple, Windows
 #  Navigation menu
@@ -1837,21 +1837,21 @@ msgstr "네비게이션"
 
 #  Platforms: Windows
 msgid "Near {}"
-msgstr ""
+msgstr "{} 근처"
 
 #  Platforms: Apple
 #, c-format
 msgid "Near %@"
-msgstr ""
+msgstr "%@ 근처"
 
 #  Platforms: Android
 #, c-format
 msgid "Near %s"
-msgstr ""
+msgstr "%s 근처"
 
 #  Platforms: Apple, Android, Windows
 msgid "Nearest Stars"
-msgstr ""
+msgstr "가장 가까운 항성"
 
 #  Platforms: Apple, Android, Windows
 msgid "Nebulae"
@@ -1870,35 +1870,35 @@ msgstr "새 이름"
 #  Platforms: Apple, Android
 #  Archive for updates and featured content
 msgid "News Archive"
-msgstr ""
+msgstr "지난 소식"
 
 #  Platforms: Apple, Android, Windows
 msgid "Night Lights"
-msgstr ""
+msgstr "야간 조명"
 
 #  Platforms: Apple, Android, Windows
 msgid ""
 "No eclipse is found for the given object in the "
 "time range"
-msgstr ""
+msgstr "지정한 기간에 해당 천체에서 일어나는 식을 찾지 못했습니다"
 
 #  Platforms: Apple, Android, Windows
 #  No overview for an object
 msgid "No overview available."
-msgstr ""
+msgstr "개요가 없습니다."
 
 #  Platforms: Apple, Android
 msgid "No result found"
-msgstr ""
+msgstr "검색 결과가 없습니다"
 
 #  Platforms: Windows
 msgid "No saved bookmarks"
-msgstr ""
+msgstr "저장된 북마크가 없습니다"
 
 #  Platforms: Apple, Android
 #  Hint that there is no update for installed add-ons.
 msgid "No Update Available"
-msgstr ""
+msgstr "업데이트가 없습니다"
 
 #  Platforms: Apple, Android, Windows
 #  Empty HUD display
@@ -1913,14 +1913,14 @@ msgstr "일반"
 #  Platforms: Apple, Android
 #  Push notification settings entry
 msgid "Notifications"
-msgstr ""
+msgstr "알림"
 
 #  Platforms: Apple, Android
 #  Push notification denied state explanation
 msgid ""
 "Notifications are turned off for Celestia. Enable "
 "them in System Settings to subscribe to updates."
-msgstr ""
+msgstr "Celestia 알림이 꺼져 있습니다. 업데이트 소식을 받으려면 시스템 설정에서 알림을 켜세요."
 
 #  Platforms: Apple, Android, Windows
 #  Atmosphere segment count setting description
@@ -1928,7 +1928,7 @@ msgid ""
 "Number of segments used to integrate atmospheric "
 "scattering. Higher values improve quality at a "
 "greater performance cost."
-msgstr ""
+msgstr "대기 산란을 적분하는 데 사용하는 분할 수입니다. 값이 클수록 품질이 향상되지만 처리 부하가 증가합니다."
 
 #  Platforms: Apple, Android, Windows
 #  Cloud segment count setting description
@@ -1936,7 +1936,7 @@ msgid ""
 "Number of segments used to render clouds. Higher "
 "values improve quality at a greater performance "
 "cost."
-msgstr ""
+msgstr "구름 렌더링에 사용하는 분할 수입니다. 값이 클수록 품질이 향상되지만 처리 부하가 증가합니다."
 
 #  Platforms: Apple, Android, Windows
 #  In eclipse finder, object to find eclipse with, or in go to
@@ -1946,7 +1946,7 @@ msgstr "천체이름"
 #  Platforms: Apple
 #  Interaction mode for touch
 msgid "Object Mode"
-msgstr ""
+msgstr "천체 모드"
 
 #  Platforms: Windows
 msgid "Object Name"
@@ -1968,29 +1968,29 @@ msgstr "관측소·천문대"
 #  Platforms: Windows
 #  Eclipse finder result
 msgid "Occulter: {}"
-msgstr ""
+msgstr "가리는 천체: {}"
 
 #  Platforms: Apple
 #  Eclipse finder result
 #, c-format
 msgid "Occulter: %@"
-msgstr ""
+msgstr "가리는 천체: %@"
 
 #  Platforms: Android
 #  Eclipse finder result
 #, c-format
 msgid "Occulter: %s"
-msgstr ""
+msgstr "가리는 천체: %s"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Oceani (Oceans)"
-msgstr ""
+msgstr "대양(Oceani)"
 
 #  Platforms: Apple, Android, Windows
 #  Tone mapping mode
 msgid "Off"
-msgstr ""
+msgstr "끄기"
 
 #  Platforms: Apple, Android, Windows
 msgid "OK"
@@ -1999,7 +1999,7 @@ msgstr "확인"
 #  Platforms: Apple, Windows
 #  Open the folder for add-ons
 msgid "Open Add-on Folder"
-msgstr ""
+msgstr "애드온 폴더 열기"
 
 #  Platforms: Apple, Android, Windows
 msgid "Open Clusters"
@@ -2008,22 +2008,22 @@ msgstr "산개성단"
 #  Platforms: Windows
 #  Open folder for customization
 msgid "Open Custom Folder"
-msgstr ""
+msgstr "사용자 지정 폴더 열기"
 
 #  Platforms: Apple, Windows
 #  Open the folder for scripts
 msgid "Open Script Folder"
-msgstr ""
+msgstr "스크립트 폴더 열기"
 
 #  Platforms: Apple, Android
 #  Push notification denied state action
 msgid "Open System Settings"
-msgstr ""
+msgstr "시스템 설정 열기"
 
 #  Platforms: Apple, Android, Windows
 #  Request user consent to open a URL
 msgid "Open URL?"
-msgstr ""
+msgstr "URL을 여시겠습니까?"
 
 #  Platforms: Apple, Windows
 msgid "OpenGL Info"
@@ -2031,11 +2031,11 @@ msgstr "OpenGL정보"
 
 #  Platforms: Android
 msgid "Opening external file or URL…"
-msgstr ""
+msgstr "외부 파일 또는 URL 여는 중…"
 
 #  Platforms: Apple
 msgid "Operation not permitted."
-msgstr ""
+msgstr "허용되지 않은 작업입니다."
 
 #  Platforms: Apple, Android, Windows
 msgid "Orbits"
@@ -2053,16 +2053,16 @@ msgstr "기타"
 #  Platforms: Apple, Android, Windows
 #  Output rendering settings
 msgid "Output"
-msgstr ""
+msgstr "출력"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Paludes (Swamps)"
-msgstr ""
+msgstr "늪(Paludes)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Partial Trajectories"
-msgstr ""
+msgstr "부분 궤적"
 
 #  Platforms: Windows
 #  Paste URL from pasteboard
@@ -2072,55 +2072,55 @@ msgstr "URL 복사"
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Paterae (Irregular Craters)"
-msgstr ""
+msgstr "불규칙한 크레이터(Paterae)"
 
 #  Platforms: Apple, Android, Windows
 #  Flight mode, coordinate system
 msgid "Phase Lock"
-msgstr ""
+msgstr "2천체 참조 동기"
 
 #  Platforms: Windows
 #  Select time via picker
 msgid "Picker"
-msgstr ""
+msgstr "날짜 및 시간 선택"
 
 #  Platforms: Apple
 #  Settings for whether to pinch to zoom by FOV or by distance
 msgid "Pinch Zoom"
-msgstr ""
+msgstr "핀치 확대/축소"
 
 #  Platforms: Apple, Android
 #  Camera control
 msgid "Pitch"
-msgstr ""
+msgstr "상하 회전"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller action
 msgid "Pitch Down"
-msgstr ""
+msgstr "아래로 회전"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller action
 msgid "Pitch Up"
-msgstr ""
+msgstr "위로 회전"
 
 #  Platforms: Apple, Android, Windows
 #  PSF star setting footnote
 msgid "Pixel radius of a unit-irradiance star sprite."
-msgstr ""
+msgstr "복사 조도가 1인 항성 스프라이트의 반경(픽셀 단위)입니다."
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Plana (Plateaus)"
-msgstr ""
+msgstr "고원(Plana)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Planet Rings"
-msgstr ""
+msgstr "행성 고리"
 
 #  Platforms: Apple, Android, Windows
 msgid "Planetary Nebulae"
-msgstr ""
+msgstr "행성상성운"
 
 #  Platforms: Apple, Android, Windows
 msgid "Planets"
@@ -2129,26 +2129,26 @@ msgstr "행성"
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Planitiae (Plains)"
-msgstr ""
+msgstr "평원(Planitiae)"
 
 #  Platforms: Apple, Android
 #  In eclipse finder, choose an object to find eclipse wth
 msgid "Please choose an object."
-msgstr ""
+msgstr "천체를 선택하세요."
 
 #  Platforms: Apple, Android, Windows
 #  Default email body for feature suggestion
 msgid ""
 "Please describe the feature you want to see in "
 "Celestia."
-msgstr ""
+msgstr "Celestia에 추가되었으면 하는 기능을 설명해 주세요."
 
 #  Platforms: Apple, Android, Windows
 #  Default email body for bug report
 msgid ""
 "Please describe the issue and repro steps, if "
 "known."
-msgstr ""
+msgstr "문제와 알고 계신 재현 단계를 설명해 주세요."
 
 #  Platforms: Android
 #  Custom config/data directory path have to be under a specific path
@@ -2156,44 +2156,44 @@ msgstr ""
 msgid ""
 "Please ensure that you have selected a path under "
 "%s."
-msgstr ""
+msgstr "%s 아래의 경로를 선택했는지 확인하세요."
 
 #  Platforms: Apple, Android
 #  Encountered error while checking updates, possible recovery instruction.
 msgid ""
 "Please ensure you have a valid Celestia PLUS "
 "subscription or check again later."
-msgstr ""
+msgstr "Celestia PLUS 구독이 유효한지 확인하거나 나중에 다시 확인하세요."
 
 #  Platforms: Apple
 #  Message for renaming a favorite item (currently bookmark)
 msgid "Please enter a new name."
-msgstr ""
+msgstr "새 이름을 입력하세요."
 
 #  Platforms: Apple, Android
 #  In Go to; Android/iOS, Enter the name of an object in Eclipse Finder
 msgid "Please enter an object name."
-msgstr ""
+msgstr "천체 이름을 입력하세요."
 
 #  Platforms: Apple, Android
 #  In time settings, enter Julian day for the simulation
 msgid "Please enter Julian day."
-msgstr ""
+msgstr "율리우스일을 입력하세요."
 
 #  Platforms: Apple
 #, c-format
 msgid "Please enter the time in \"%@\" format."
-msgstr ""
+msgstr "시간을 \"%@\" 형식으로 입력하세요."
 
 #  Platforms: Android
 #, c-format
 msgid "Please enter the time in \"%s\" format."
-msgstr ""
+msgstr "시간을 \"%s\" 형식으로 입력하세요."
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Plumes"
-msgstr ""
+msgstr "분출 기둥"
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -2203,12 +2203,12 @@ msgstr "십자"
 #  Platforms: Apple, Android, Windows
 #  PSF star setting
 msgid "Point Radius"
-msgstr ""
+msgstr "점 반경"
 
 #  Platforms: Apple, Android, Windows
 #  Star style
 msgid "Point Spread Function"
-msgstr ""
+msgstr "점 확산 함수"
 
 #  Platforms: Apple, Android, Windows
 #  Star style
@@ -2218,21 +2218,21 @@ msgstr "점"
 #  Platforms: Android
 #  Image preview of the selected link
 msgid "Preview image of the link"
-msgstr ""
+msgstr "링크 미리보기 이미지"
 
 #  Platforms: Apple
 #  Privacy Policy and Service Agreement
 msgid "Privacy Policy and Service Agreement"
-msgstr ""
+msgstr "개인정보 처리방침 및 이용약관"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Promontoria (Capes)"
-msgstr ""
+msgstr "곶(Promontoria)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Protoplanetary Nebulae"
-msgstr ""
+msgstr "원시행성상성운"
 
 #  Platforms: Android
 msgid ""
@@ -2242,24 +2242,24 @@ msgid ""
 "year (for Yearly), each month (for Monthly), or "
 "each week (for Weekly). Cancel at anytime in "
 "Subscriptions on Google Play."
-msgstr ""
+msgstr "구매 후 즉시 이용할 수 있습니다. 구독은 자동으로 갱신되며 연간 요금제는 매년, 월간 요금제는 매월, 주간 요금제는 매주 여기에 표시된 요금이 청구됩니다. Google Play의 구독 메뉴에서 언제든지 취소할 수 있습니다."
 
 #  Platforms: Apple, Android, Windows
 #  Rendering quality settings
 msgid "Quality"
-msgstr ""
+msgstr "품질"
 
 #  Platforms: Apple
 #  Equatorial coordinate
 #, c-format
 msgid "RA: %@h %@m %@s"
-msgstr ""
+msgstr "적경: %@h %@m %@s"
 
 #  Platforms: Android, Windows
 #  Equatorial coordinate
 #, c-format
 msgid "RA: %sh %sm %ss"
-msgstr ""
+msgstr "적경: %sh %sm %ss"
 
 #  Platforms: Apple, Android, Windows
 #  In Go to, specify the distance based on the object radius
@@ -2268,12 +2268,12 @@ msgstr "반경"
 
 #  Platforms: Apple, Android, Windows
 msgid "Ray-Based Dragging"
-msgstr ""
+msgstr "광선 기반 드래그"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "RB / R1"
-msgstr ""
+msgstr "RB / R1"
 
 #  Platforms: Apple, Windows
 #  Reset time speed to 1x
@@ -2286,16 +2286,16 @@ msgid ""
 "Receive notifications about featured add-ons and "
 "the latest news. You can change which kinds you "
 "receive in Settings."
-msgstr ""
+msgstr "추천 애드온과 최신 소식에 대한 알림을 받으세요. 받을 알림의 종류는 설정에서 변경할 수 있습니다."
 
 #  Platforms: Apple, Android, Windows
 msgid "Recent Searches"
-msgstr ""
+msgstr "최근 검색"
 
 #  Platforms: Apple, Android, Windows
 #  Used in Flight Mode
 msgid "Reference Object"
-msgstr ""
+msgstr "기준 천체"
 
 #  Platforms: Apple, Android, Windows
 #  Reference vectors for an object
@@ -2306,11 +2306,11 @@ msgstr "벡터 참조"
 msgid ""
 "Reference vectors are only visible for the "
 "current selected solar system object."
-msgstr ""
+msgstr "참조 벡터는 현재 선택된 태양계 천체에 대해서만 표시됩니다."
 
 #  Platforms: Apple, Android, Windows
 msgid "Reflection Nebulae"
-msgstr ""
+msgstr "반사성운"
 
 #  Platforms: Apple, Android
 #  Button to refresh this list
@@ -2320,93 +2320,93 @@ msgstr "새로고침"
 #  Platforms: Windows
 #  Regions settings
 msgid "Region"
-msgstr ""
+msgstr "지역"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Regiones (Regions)"
-msgstr ""
+msgstr "지역(Regiones)"
 
 #  Platforms: Apple, Android
 #  Alert title for add-ons that are related to an object
 msgid "Related Add-ons"
-msgstr ""
+msgstr "관련 애드온"
 
 #  Platforms: Apple, Android, Windows
 #  Rename a favorite item (currently bookmark)
 msgid "Rename"
-msgstr ""
+msgstr "이름 바꾸기"
 
 #  Platforms: Apple, Android
 #  Information about renderer
 msgid "Render Info"
-msgstr ""
+msgstr "렌더링 정보"
 
 #  Platforms: Apple, Android, Windows
 #  In settings
 msgid "Renderer"
-msgstr ""
+msgstr "렌더러"
 
 #  Platforms: Apple, Android, Windows
 #  Rendering settings
 msgid "Rendering"
-msgstr ""
+msgstr "렌더링"
 
 #  Platforms: Windows
 msgid "Rendering stopped. Please restart Celestia."
-msgstr ""
+msgstr "렌더링이 중지되었습니다. Celestia를 다시 시작하세요."
 
 #  Platforms: Apple, Android, Windows
 msgid "Report a Bug"
-msgstr ""
+msgstr "버그 보고"
 
 #  Platforms: Windows
 #  Reset a value to default
 msgid "Reset"
-msgstr ""
+msgstr "초기화"
 
 #  Platforms: Apple, Android
 #  Reset celestia.cfg, data directory location
 msgid "Reset to Default"
-msgstr ""
+msgstr "기본값으로 초기화"
 
 #  Platforms: Apple
 #  Refresh purchase status
 msgid "Restore Purchase"
-msgstr ""
+msgstr "구매 복원"
 
 #  Platforms: Android
 #  Resume or pause time/script
 msgid "Resume or Pause"
-msgstr ""
+msgstr "재개 또는 일시 정지"
 
 #  Platforms: Apple, Android
 msgid "Resume/Pause"
-msgstr ""
+msgstr "재개/일시 정지"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Reticula (Reticular Patterns)"
-msgstr ""
+msgstr "그물 무늬(Reticula)"
 
 #  Platforms: Android
 #  Reverse time or travel direction
 msgid "Reverse"
-msgstr ""
+msgstr "반전"
 
 #  Platforms: Apple, Android
 #  Reverse camera direction, reverse travel direction
 msgid "Reverse Direction"
-msgstr ""
+msgstr "방향 반전"
 
 #  Platforms: Apple, Android, Windows
 msgid "Reverse Mouse Wheel"
-msgstr ""
+msgstr "마우스 휠 방향 반전"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller action
 msgid "Reverse Observer Orientation"
-msgstr ""
+msgstr "관측자 방향 반전"
 
 #  Platforms: Apple, Android, Windows
 msgid "Reverse Time"
@@ -2415,7 +2415,7 @@ msgstr "시간흐름을 반대로"
 #  Platforms: Apple, Android, Windows
 #  Game controller action
 msgid "Reverse Travel Direction"
-msgstr ""
+msgstr "이동 방향 반전"
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -2425,7 +2425,7 @@ msgstr "오른쪽화살표(→)"
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Rimae (Fissures)"
-msgstr ""
+msgstr "균열(Rimae)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Ring Shadows"
@@ -2434,32 +2434,32 @@ msgstr "고리 그림자"
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Rings"
-msgstr ""
+msgstr "고리"
 
 #  Platforms: Apple, Android
 #  Camera control
 msgid "Roll"
-msgstr ""
+msgstr "좌우 기울이기"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller action
 msgid "Roll Left"
-msgstr ""
+msgstr "왼쪽으로 기울이기"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller action
 msgid "Roll Right"
-msgstr ""
+msgstr "오른쪽으로 기울이기"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "RT / R2"
-msgstr ""
+msgstr "RT / R2"
 
 #  Platforms: Apple, Android, Windows
 #  Run a script
 msgid "Run"
-msgstr ""
+msgstr "실행"
 
 #  Platforms: Apple, Android, Windows
 msgid "Run Demo"
@@ -2468,31 +2468,31 @@ msgstr "데모 실행"
 #  Platforms: Apple, Android, Windows
 #  Request user consent to run a script
 msgid "Run script?"
-msgstr ""
+msgstr "스크립트를 실행하시겠습니까?"
 
 #  Platforms: Apple, Windows
 msgid "Run Script…"
-msgstr ""
+msgstr "스크립트 실행…"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Rupes (Scarps)"
-msgstr ""
+msgstr "절벽(Rupes)"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Satellite Features"
-msgstr ""
+msgstr "부속 지형"
 
 #  Platforms: Apple, Android
 #  Save push notification preferences
 msgid "Save"
-msgstr ""
+msgstr "저장"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Saxa (Boulders)"
-msgstr ""
+msgstr "바위(Saxa)"
 
 #  Platforms: Apple, Android, Windows
 #  Star style
@@ -2502,21 +2502,21 @@ msgstr "등급에 따른 원"
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Scopuli (Irregular Scarps)"
-msgstr ""
+msgstr "불규칙한 절벽(Scopuli)"
 
 #  Platforms: Apple, Android
 msgid "Script Control"
-msgstr ""
+msgstr "스크립트 제어"
 
 #  Platforms: Apple, Android, Windows
 #  Alert title for scripts requesting system access
 msgid "Script System Access"
-msgstr ""
+msgstr "스크립트 시스템 접근"
 
 #  Platforms: Apple, Android, Windows
 #  Policy for managing lua script's access to the system
 msgid "Script System Access Policy"
-msgstr ""
+msgstr "스크립트 시스템 접근 정책"
 
 #  Platforms: Apple, Android, Windows
 msgid "Scripts"
@@ -2525,7 +2525,7 @@ msgstr "스크립트"
 #  Platforms: Apple, Android
 #  URL for Scripts and URLs wiki
 msgid "Scripts and URLs"
-msgstr ""
+msgstr "스크립트 및 URL"
 
 #  Platforms: Apple, Android, Windows
 msgid "Search"
@@ -2534,17 +2534,17 @@ msgstr "검색"
 #  Platforms: Apple, Android
 #  Description for search add-ons video
 msgid "Search Add-ons"
-msgstr ""
+msgstr "애드온 검색"
 
 #  Platforms: Apple, Windows
 #  Menu item to start searching
 msgid "Search…"
-msgstr ""
+msgstr "검색…"
 
 #  Platforms: Apple, Android, Windows
 #  Security settings title
 msgid "Security"
-msgstr ""
+msgstr "보안"
 
 #  Platforms: Apple, Android, Windows
 #  Select an object
@@ -2558,7 +2558,7 @@ msgstr "태양 선택"
 #  Platforms: Apple, Android
 #  Select simulation time
 msgid "Select Time"
-msgstr ""
+msgstr "시간 선택"
 
 #  Platforms: Windows
 #  Select a destination in tour guide
@@ -2568,31 +2568,31 @@ msgstr "목적지를 선택하세요:"
 #  Platforms: Windows
 #  Error message, the time in the picker is considered out of range by the system
 msgid "Selected time is out of range."
-msgstr ""
+msgstr "선택한 시간이 범위를 벗어났습니다."
 
 #  Platforms: Apple, Android
 msgid "Send Feedback"
-msgstr ""
+msgstr "피드백 보내기"
 
 #  Platforms: Apple, Android, Windows
 #  Setting for sensitivity for selecting an object
 msgid "Sensitivity"
-msgstr ""
+msgstr "감도"
 
 #  Platforms: Apple, Android, Windows
 #  Notes for the sensitivity setting
 msgid "Sensitivity for object selection"
-msgstr ""
+msgstr "천체 선택 감도"
 
 #  Platforms: Apple, Android, Windows
 #  Atmosphere rendering quality setting
 msgid "Separate Rayleigh and Mie Scale Heights"
-msgstr ""
+msgstr "레일리 산란과 미 산란의 척도 높이 분리"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Serpentes (Serpentine Features)"
-msgstr ""
+msgstr "구불구불한 지형(Serpentes)"
 
 #  Platforms: Windows
 #  Button to confirm selected simulation time
@@ -2601,7 +2601,7 @@ msgstr "시간 설정…"
 
 #  Platforms: Apple, Android, Windows
 msgid "Set time to mid-eclipse"
-msgstr ""
+msgstr "식의 중간 시각으로 설정"
 
 #  Platforms: Apple, Windows
 #  Select simulation time
@@ -2624,23 +2624,23 @@ msgstr "설정…"
 #  Platforms: Apple, Android, Windows
 #  Resolution of shadow maps
 msgid "Shadow Resolution"
-msgstr ""
+msgstr "그림자 해상도"
 
 #  Platforms: Apple, Android, Windows
 #  Change requires a restart
 msgid ""
 "Shadow resolution changes take effect after a "
 "restart."
-msgstr ""
+msgstr "그림자 해상도 변경 사항은 다시 시작한 후 적용됩니다."
 
 #  Platforms: Apple, Android, Windows
 #  Shadow rendering quality settings
 msgid "Shadows"
-msgstr ""
+msgstr "그림자"
 
 #  Platforms: Apple, Android
 msgid "Share"
-msgstr ""
+msgstr "공유"
 
 #  Platforms: Apple, Android, Windows
 #  Reference vector
@@ -2655,7 +2655,7 @@ msgstr "별자리 경계선 보기"
 #  Platforms: Apple, Android, Windows
 #  Show constellation diagrams
 msgid "Show Diagrams"
-msgstr ""
+msgstr "별자리 선 보기"
 
 #  Platforms: Apple, Android, Windows
 #  Reference vector
@@ -2683,7 +2683,7 @@ msgstr "마커 보기"
 #  Platforms: Apple, Android, Windows
 #  Menu action to indicate that more items that are not shown in the menu
 msgid "Show More…"
-msgstr ""
+msgstr "더 보기…"
 
 #  Platforms: Apple, Android, Windows
 msgid "Show Orbits"
@@ -2712,58 +2712,58 @@ msgstr "속도 벡터 보기"
 #  Platforms: Apple
 #, c-format
 msgid "Sidereal rotation period: %@"
-msgstr ""
+msgstr "항성 자전 주기: %@"
 
 #  Platforms: Android, Windows
 #, c-format
 msgid "Sidereal rotation period: %s"
-msgstr ""
+msgstr "항성 자전 주기: %s"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Sinus (Bays)"
-msgstr ""
+msgstr "만(Sinus)"
 
 #  Platforms: Apple
 #  Size of an object
 #, c-format
 msgid "Size: %@"
-msgstr ""
+msgstr "크기: %@"
 
 #  Platforms: Android, Windows
 #  Size of an object
 #, c-format
 msgid "Size: %s"
-msgstr ""
+msgstr "크기: %s"
 
 #  Platforms: Apple, Android
 #  Make time go more slowly
 msgid "Slower"
-msgstr ""
+msgstr "느리게"
 
 #  Platforms: Apple, Android, Windows
 #  Smooth lines for rendering
 msgid "Smooth Lines"
-msgstr ""
+msgstr "부드러운 선"
 
 #  Platforms: Apple, Android, Windows
 #  PSF star setting footnote
 msgid ""
 "Soft upper limit on per-star peak irradiance to "
 "prevent bloom saturation."
-msgstr ""
+msgstr "블룸 포화를 방지하기 위한 항성별 최대 복사 조도의 완만한 상한입니다."
 
 #  Platforms: Apple, Android, Windows
 #  PSF star setting footnote
 msgid ""
 "Soft-clips dim stars below this multiple of the "
 "perceptual visibility floor."
-msgstr ""
+msgstr "지각 가능한 최소 밝기에 이 배수를 곱한 값보다 어두운 항성을 완만하게 클리핑합니다."
 
 #  Platforms: Apple, Android, Windows
 #  Solar eclipses.
 msgid "Solar"
-msgstr ""
+msgstr "일식"
 
 #  Platforms: Apple, Android, Windows
 #  Tab for solar system in Star Browser
@@ -2774,7 +2774,7 @@ msgstr "태양계"
 msgid ""
 "Some configurations will take effect after a "
 "restart."
-msgstr ""
+msgstr "일부 설정은 다시 시작한 후 적용됩니다."
 
 #  Platforms: Apple, Android, Windows
 #  Plural
@@ -2784,21 +2784,21 @@ msgstr "인공위성"
 #  Platforms: Apple
 #, c-format
 msgid "Spectral type: %@"
-msgstr ""
+msgstr "분광형: %@"
 
 #  Platforms: Android, Windows
 #, c-format
 msgid "Spectral type: %s"
-msgstr ""
+msgstr "분광형: %s"
 
 #  Platforms: Apple, Android
 #  Speed control
 msgid "Speed Control"
-msgstr ""
+msgstr "속도 제어"
 
 #  Platforms: Apple, Android, Windows
 msgid "Spiral Galaxies"
-msgstr ""
+msgstr "나선은하"
 
 #  Platforms: Apple, Windows
 #  Split view
@@ -2817,7 +2817,7 @@ msgstr "사각형(□)"
 
 #  Platforms: Apple, Android, Windows
 msgid "sRGB Rendering (Experimental)"
-msgstr ""
+msgstr "sRGB 렌더링(실험적)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Star Browser"
@@ -2825,7 +2825,7 @@ msgstr "천체브라우저"
 
 #  Platforms: Apple, Android, Windows
 msgid "Star Colors"
-msgstr ""
+msgstr "항성 색상"
 
 #  Platforms: Apple, Android, Windows
 msgid "Star Style"
@@ -2839,13 +2839,13 @@ msgstr "항성"
 
 #  Platforms: Apple, Android, Windows
 msgid "Stars with Planets"
-msgstr ""
+msgstr "행성이 있는 항성"
 
 #  Platforms: Windows
 #  Template for displaying when start time cannot be correctly formatted by the system
 #, c-format
 msgid "Start Julian day: %s"
-msgstr ""
+msgstr "시작 율리우스일: %s"
 
 #  Platforms: Apple, Android
 #  In eclipse finder, range of time to find eclipse in
@@ -2855,62 +2855,62 @@ msgstr "전체화면 표시"
 #  Platforms: Windows
 #  In eclipse finder, range of time to find eclipse in
 msgid "Start time:"
-msgstr ""
+msgstr "시작 시간:"
 
 #  Platforms: Apple
 #  Template for the start time of a body, usually a spacecraft
 #, c-format
 msgid "Start time: %@"
-msgstr ""
+msgstr "시작 시간: %@"
 
 #  Platforms: Android, Windows
 #  Template for the start time of a body, usually a spacecraft
 #, c-format
 msgid "Start time: %s"
-msgstr ""
+msgstr "시작 시간: %s"
 
 #  Platforms: Apple, Android
 #  Push notification opt-in dialog title
 msgid "Stay Updated"
-msgstr ""
+msgstr "최신 소식 받기"
 
 #  Platforms: Apple, Android, Windows
 #  Interupt the process of finding eclipse/Set traveling speed to 0
 msgid "Stop"
-msgstr ""
+msgstr "중지"
 
 #  Platforms: Apple, Android, Windows
 #  Subsystem of an object (e.g. planetarium system)
 msgid "Subsystem"
-msgstr ""
+msgstr "하위 천체계"
 
 #  Platforms: Apple, Android, Windows
 msgid "Suggest a Feature"
-msgstr ""
+msgstr "기능 제안"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Sulci (Parallel Grooves)"
-msgstr ""
+msgstr "평행한 홈(Sulci)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Supernova Remnants"
-msgstr ""
+msgstr "초신성 잔해"
 
 #  Platforms: Apple, Android
 #  Description for support project card
 msgid "Support the Project"
-msgstr ""
+msgstr "프로젝트 후원"
 
 #  Platforms: Apple, Android
 #  Move/zoom camera FOV
 msgid "Switched to camera mode"
-msgstr ""
+msgstr "카메라 모드로 전환됨"
 
 #  Platforms: Apple, Android
 #  Move/zoom on an object
 msgid "Switched to object mode"
-msgstr ""
+msgstr "천체 모드로 전환됨"
 
 #  Platforms: Apple, Android, Windows
 msgid "Sync Orbit"
@@ -2922,27 +2922,27 @@ msgstr "선택한 천체의 자전에 맞춰 추적"
 
 #  Platforms: Android
 msgid "System Fonts"
-msgstr ""
+msgstr "시스템 글꼴"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller action
 msgid "Tap Center"
-msgstr ""
+msgstr "화면 가운데 탭"
 
 #  Platforms: Apple, Android
 msgid ""
 "Tap the mode button on the sidebar to switch "
 "between object mode and camera mode."
-msgstr ""
+msgstr "사이드바의 모드 버튼을 탭하여 천체 모드와 카메라 모드를 전환하세요."
 
 #  Platforms: Apple, Android, Windows
 #  Used in Flight Mode
 msgid "Target Object"
-msgstr ""
+msgstr "대상 천체"
 
 #  Platforms: Apple, Android, Windows
 msgid "Temperature Scale"
-msgstr ""
+msgstr "온도 단위"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -2957,7 +2957,7 @@ msgstr "보통"
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Tesserae (Tile-like Terrain)"
-msgstr ""
+msgstr "테세라(타일 모양 지형)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Texture Resolution"
@@ -2966,17 +2966,17 @@ msgstr "해상도"
 #  Platforms: Apple, Android, Windows
 #  Texture rendering quality settings
 msgid "Textures"
-msgstr ""
+msgstr "텍스처"
 
 #  Platforms: Android
 msgid "This feature is not supported."
-msgstr ""
+msgstr "지원되지 않는 기능입니다."
 
 #  Platforms: Apple, Android
 msgid ""
 "This feature is only available to Celestia PLUS "
 "users."
-msgstr ""
+msgstr "이 기능은 Celestia PLUS 사용자만 이용할 수 있습니다."
 
 #  Platforms: Apple, Android, Windows
 #  Alert message for scripts requesting system access
@@ -2985,17 +2985,17 @@ msgid ""
 "files and execute external programs. Allowing "
 "this can be dangerous.\n"
 "Do you trust the script and want to allow this?"
-msgstr ""
+msgstr "이 스크립트가 파일 읽기/쓰기 및 외부 프로그램 실행 권한을 요청합니다. 이를 허용하면 위험할 수 있습니다.\n이 스크립트를 신뢰하며 권한을 허용하시겠습니까?"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Tholi (Small Domes)"
-msgstr ""
+msgstr "작은 돔 지형(Tholi)"
 
 #  Platforms: Apple, Android, Windows
 #  Settings for game controller thumbsticks
 msgid "Thumbsticks"
-msgstr ""
+msgstr "스틱"
 
 #  Platforms: Apple, Windows
 msgid "Time"
@@ -3004,71 +3004,71 @@ msgstr "현재 시각"
 #  Platforms: Apple, Android, Windows
 #  time and region related settings
 msgid "Time & Region"
-msgstr ""
+msgstr "시간 및 지역"
 
 #  Platforms: Apple, Android
 msgid "Time Control"
-msgstr ""
+msgstr "시간 제어"
 
 #  Platforms: Apple, Android, Windows
 msgid "Time Zone"
-msgstr ""
+msgstr "시간대"
 
 #  Platforms: Apple, Android, Windows
 msgid "Tinted Illumination Saturation"
-msgstr ""
+msgstr "조명 색상 채도"
 
 #  Platforms: Apple, Android, Windows
 msgid ""
 "Tinted illumination saturation setting is only "
 "effective with Blackbody star colors."
-msgstr ""
+msgstr "조명 색상 채도 설정은 항성 색상을 흑체로 설정한 경우에만 적용됩니다."
 
 #  Platforms: Apple, Android
 #  Alert message for requiring Celestia PLUS to access add-ons that are related to an object
 msgid ""
 "To access related add-ons, you need to have an "
 "active Celestia PLUS subscription."
-msgstr ""
+msgstr "관련 애드온을 이용하려면 활성 Celestia PLUS 구독이 필요합니다."
 
 #  Platforms: Apple, Android
 #  Toggle console log display on overlay
 msgid "Toggle Console Display"
-msgstr ""
+msgstr "콘솔 표시 전환"
 
 #  Platforms: Apple, Android
 #  Toggle FPS display on overlay
 msgid "Toggle FPS Display"
-msgstr ""
+msgstr "FPS 표시 전환"
 
 #  Platforms: Windows
 msgid "Toggle Fullscreen"
-msgstr ""
+msgstr "전체 화면 전환"
 
 #  Platforms: Apple, Android
 #  Touch interaction mode
 msgid "Toggle Interaction Mode"
-msgstr ""
+msgstr "상호작용 모드 전환"
 
 #  Platforms: Apple, Android, Windows
 #  Tone mapping setting
 msgid "Tone Mapping"
-msgstr ""
+msgstr "톤 매핑"
 
 #  Platforms: Apple, Android
 #  Toolbar customization entry in Settings
 msgid "Toolbar"
-msgstr ""
+msgstr "도구 모음"
 
 #  Platforms: Apple, Android
 #  Description for toolbar customization video
 msgid "Toolbar Customization"
-msgstr ""
+msgstr "도구 모음 사용자 지정"
 
 #  Platforms: Apple, Windows
 #  Tools menu title
 msgid "Tools"
-msgstr ""
+msgstr "도구"
 
 #  Platforms: Windows
 msgid "Tour Guide"
@@ -3077,7 +3077,7 @@ msgstr "길잡이"
 #  Platforms: Apple, Android, Windows
 #  Track an object
 msgid "Track"
-msgstr ""
+msgstr "화면 가운데 유지"
 
 #  Platforms: Apple, Windows
 #  Track selected object
@@ -3087,12 +3087,12 @@ msgstr "선택한 천체를 화면 가운데 유지"
 #  Platforms: Apple, Android, Windows
 #  Game controller action
 msgid "Travel Faster"
-msgstr ""
+msgstr "이동 속도 높이기"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller action
 msgid "Travel Slower"
-msgstr ""
+msgstr "이동 속도 낮추기"
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -3102,31 +3102,31 @@ msgstr "삼각형(△)"
 #  Platforms: Apple, Android
 #  Free trial on subscription service
 msgid "Try for Free"
-msgstr ""
+msgstr "무료 체험"
 
 #  Platforms: Apple, Android
 #  Failed to generate an image for sharing
 msgid "Unable to generate image."
-msgstr ""
+msgstr "이미지를 생성할 수 없습니다."
 
 #  Platforms: Android
 #  Custom config/data directory path have to be under a specific path
 msgid "Unable to resolve path"
-msgstr ""
+msgstr "경로를 확인할 수 없습니다"
 
 #  Platforms: Apple, Android
 msgid "Unable to uninstall add-on."
-msgstr ""
+msgstr "애드온을 제거할 수 없습니다."
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Undae (Dunes)"
-msgstr ""
+msgstr "사구(Undae)"
 
 #  Platforms: Apple, Android, Windows
 #  Uninstall an add-on
 msgid "Uninstall"
-msgstr ""
+msgstr "제거"
 
 #  Platforms: Apple
 msgid "Unknown"
@@ -3134,11 +3134,11 @@ msgstr "스크립트 파일 여는 중 알수없는 오류가 발생하였습니
 
 #  Platforms: Android
 msgid "Unknown error"
-msgstr ""
+msgstr "알 수 없는 오류"
 
 #  Platforms: Apple, Android, Windows
 msgid "Unknown Nebulae"
-msgstr ""
+msgstr "미분류 성운"
 
 #  Platforms: Apple, Android, Windows
 #  Unmark an object
@@ -3153,11 +3153,11 @@ msgstr "전체 해제"
 #  Platforms: Apple, Android
 #  String not in correct format
 msgid "Unrecognized time string."
-msgstr ""
+msgstr "시간 형식을 인식할 수 없습니다."
 
 #  Platforms: Android
 msgid "Unsupported action."
-msgstr ""
+msgstr "지원되지 않는 동작입니다."
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -3166,32 +3166,32 @@ msgstr "위쪽화살표(↑)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Update"
-msgstr ""
+msgstr "업데이트"
 
 #  Platforms: Apple, Android
 #  View the list of add-ons that have pending updates.
 msgid "Updates"
-msgstr ""
+msgstr "업데이트"
 
 #  Platforms: Apple, Android
 #  Upgrade subscription service
 msgid "Upgrade"
-msgstr ""
+msgstr "업그레이드"
 
 #  Platforms: Apple, Android
 #  Sharing option, URL
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #  Platforms: Apple, Android
 #  URL for Use Add-ons and Scripts wiki
 msgid "Use Add-ons and Scripts"
-msgstr ""
+msgstr "애드온 및 스크립트 사용"
 
 #  Platforms: Apple, Android, Windows
 #  Option to use a spacecraft as cockpit
 msgid "Use as Cockpit"
-msgstr ""
+msgstr "조종석으로 사용"
 
 #  Platforms: Apple, Android, Windows
 msgid "UTC"
@@ -3209,7 +3209,7 @@ msgstr "협곡"
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Vastitates (Widespread Lowlands)"
-msgstr ""
+msgstr "광대한 저지대(Vastitates)"
 
 #  Platforms: Apple, Android, Windows
 #  Verbose HUD display
@@ -3218,7 +3218,7 @@ msgstr "많이"
 
 #  Platforms: Apple, Windows
 msgid "View Eclipse"
-msgstr ""
+msgstr "식 보기"
 
 #  Platforms: Windows
 #  Menu for split views
@@ -3228,7 +3228,7 @@ msgstr "창"
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Virgae (Streaks)"
-msgstr ""
+msgstr "줄무늬(Virgae)"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -3237,12 +3237,12 @@ msgstr "행성"
 
 #  Platforms: Android
 msgid "We are processing your purchase"
-msgstr ""
+msgstr "구매를 처리하고 있습니다"
 
 #  Platforms: Apple, Android
 #  Error loading the subscription page
 msgid "We encountered an error."
-msgstr ""
+msgstr "오류가 발생했습니다."
 
 #  Platforms: Apple, Android
 #  Web info for an object
@@ -3252,22 +3252,22 @@ msgstr "천체정보"
 #  Platforms: Android, Windows
 #  WebView component is missing or disabled
 msgid "WebView is not available."
-msgstr ""
+msgstr "WebView를 사용할 수 없습니다."
 
 #  Platforms: Apple, Android
 #  Weekly subscription
 msgid "Weekly"
-msgstr ""
+msgstr "주간"
 
 #  Platforms: Apple, Android
 #  Push notification content type — weekly featured add-on
 msgid "Weekly Add-on"
-msgstr ""
+msgstr "금주의 애드온"
 
 #  Platforms: Apple, Android
 #  Welcome message
 msgid "Welcome to Celestia"
-msgstr ""
+msgstr "Celestia에 오신 것을 환영합니다"
 
 #  Platforms: Android
 #  Warning text for using virtual display in Celestia
@@ -3275,7 +3275,7 @@ msgid ""
 "Wireless displays can sometimes stay 'active' "
 "after disconnecting. If casting fails, please "
 "check the FAQ."
-msgstr ""
+msgstr "무선 디스플레이는 연결을 해제한 후에도 '활성' 상태로 남아 있을 수 있습니다. 캐스팅에 실패하면 자주 묻는 질문을 확인하세요."
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -3285,56 +3285,56 @@ msgstr "X자"
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "X / Square"
-msgstr ""
+msgstr "X / □"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "Y / Triangle"
-msgstr ""
+msgstr "Y / △"
 
 #  Platforms: Apple, Android
 #  Camera control
 msgid "Yaw"
-msgstr ""
+msgstr "좌우 회전"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller action
 msgid "Yaw Left"
-msgstr ""
+msgstr "왼쪽으로 회전"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller action
 msgid "Yaw Right"
-msgstr ""
+msgstr "오른쪽으로 회전"
 
 #  Platforms: Apple, Android
 #  Yearly subscription
 msgid "Yearly"
-msgstr ""
+msgstr "연간"
 
 #  Platforms: Apple, Android
 msgid "Your purchase is pending"
-msgstr ""
+msgstr "구매가 대기 중입니다"
 
 #  Platforms: Apple, Android, Windows
 msgid "YYYY MMM DD HH:MM:SS TZ"
-msgstr ""
+msgstr "YYYY MMM DD HH:MM:SS TZ"
 
 #  Platforms: Apple, Android
 #  Zoom in/out in Camera Control, this changes the relative distance to the object
 msgid "Zoom (Distance)"
-msgstr ""
+msgstr "확대/축소(거리)"
 
 #  Platforms: Apple, Android
 msgid "Zoom In"
-msgstr ""
+msgstr "확대"
 
 #  Platforms: Apple, Android
 msgid "Zoom Out"
-msgstr ""
+msgstr "축소"
 
 #  Platforms: Apple, Android, Windows
 msgid ""
 "Zooming behavior keeping the original focus "
 "location on screen"
-msgstr ""
+msgstr "화면의 원래 초점 위치를 유지하며 확대/축소"

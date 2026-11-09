@@ -1,0 +1,107 @@
+"COMMON_LOADING_ERROR" = "Innlastingsfeil.";
+"COMMON_OPEN_IN_CELESTIA" = "Åpne i Celestia";
+"COMMON_OPEN_IN_CELESTIA_RECOMMENDED" = "Åpne i Celestia (anbefales)";
+"COMMON_DOWNLOAD" = "Last ned";
+"ADDON_AUTHOR_TEMPLATE" = "Forfatter(e): %@";
+"ADDON_RELEASE_DATE_TEMPLATE" = "Utgivelsesdato: %@";
+"ADDON_LAST_UPDATED_TEMPLATE" = "Sist oppdatert: %@";
+"ADDON_INSTALL_HINT" = "Merk: Celestia må startes på nytt for å kunne bruke nyinstallerte tillegg.";
+"ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ eller %@";
+"ADDON_INSTALL_ADDON_HELP_TEMPLATE" = "Hvordan installerer du tillegg? Finn ut %@.";
+"ADDON_INSTALL_ADDON_HELP_ACTION" = "her";
+"GUIDE_TYPE_NEWS_TITLE" = "Nyheter";
+"GUIDE_TYPE_TOOLS_TITLE" = "Verktøy";
+"GUIDE_TYPE_TUTORIALS_TITLE" = "Veiledninger";
+
+"ARTICLE_PUBLISH_DATE_TEMPLATE" = "Publiseringsdato: %@";
+
+"ADDON_CATEGORY_TITLE" = "Tilleggskategorier";
+"ADDON_CATEGORY_DESCRIPTION" = "Tilleggskategorier";
+"ADDON_MADE_BY_AUTHOR_TITLE_TEMPLATE" = "Tillegg laget av %@";
+"ADDON_FOR_OBJECT_TITLE_TEMPLATE" = "Tillegg for %@";
+
+"EMPTY_ADDON_LIST_TITLE" = "Ingen tillegg funnet";
+
+"COMMON_ERROR_TITLE" = "Feil";
+
+"ERROR_NOT_FOUND" = "Det forespurte innholdet ble ikke funnet.";
+"ERROR_FIELDS_MISSING" = "Noen felter mangler i forespørselen.";
+"ERROR_INCORRECT_PARAMETERS" = "Noen parametere var feil.";
+"ERROR_INTERNAL_ERROR" = "Intern tjenerfeil.";
+
+"ADDON_INSTALL_HINT_NO_DEMO_OBJECT" = "Merk: Celestia må startes på nytt for å kunne bruke nyinstallerte tillegg. Dette tillegget har ikke et demonstrasjonsobjekt, så bare alternativet «Avinstaller» er synlig; naviger til objektet ved å bruke søk.";
+
+"COMMON_DESCRIPTION_SHOW_MORE" = "…";
+
+"TAB_HOME_TITLE" = "Hjem";
+"TAB_DOWNLOADS_TITLE" = "Nedlastinger";
+"TAB_NEWS_TITLE" = "Nyheter";
+"TAB_TUTORIALS_TITLE" = "Veiledninger";
+"TAB_TOOLS_TITLE" = "Verktøy";
+"TAB_ADDONS_TITLE" = "Tillegg";
+"TAB_ABOUT_TITLE" = "Om";
+
+"FRONT_PAGE_TITLE" = "Celestia";
+"FRONT_PAGE_DESCRIPTION_MESSAGE" = "Celestia er en gratis romsimulator for Windows, Linux, macOS, iOS og Android. Du kan utforske verdensrommet fritt i tre dimensjoner.";
+
+"PAGE_DESCRIPTION_DEFAULT" = "Skaff Celestia";
+
+"FRONT_PAGE_SUBHEADLINE_MESSAGE" = "3D-visualisering av verdensrommet i sanntid";
+"FRONT_PAGE_DOWNLOAD_BUTTON_TEXT" = "Last ned Celestia";
+"FRONT_PAGE_DESCRIPTION_HEADER_1" = "3D-romsimulator";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_1" = "Celestia simulerer mange forskjellige typer himmellegemer. Fra planeter og måner til stjernehoper og galakser — du kan besøke hvert objekt i den utvidbare databasen og se det fra et hvilket som helst punkt i rom og tid. Posisjonen og bevegelsen til objekter i solsystemet beregnes nøyaktig i sanntid med en hvilken som helst ønsket hastighet.";
+"FRONT_PAGE_DESCRIPTION_HEADER_2" = "Interaktivt planetarium";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_2" = "Celestia fungerer som et planetarium — for en observatør på et hvilket som helst himmellegeme. Du kan enkelt navigere til en hvilken som helst verden og lande på overflaten. Celestia viser nøyaktige posisjoner for solsystemets objekter på himmelen, med merkelapper og støttefunksjoner du kan slå av og på.";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_3" = "Utvidbart innhold";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_TEMPLATE" = "Celestias kataloger kan enkelt utvides med tillegg som inneholder nye objekter som kometer eller stjerner, høyoppløselige teksturer, 3D-modeller av asteroider og romfartøy i presise baner, og til og med fiktive objekter fra kjente science fiction-serier. Vil du vise frem arbeidet ditt? Send inn tillegget ditt %@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_ARG1" = "her";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_4" = "Personvern og lisens";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_TEMPLATE" = "Celestia samler kun inn data til analytiske og diagnostiske formål. Se %1$@. Celestia er lisensiert under %2$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG1" = "personvernerklæringen";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG2" = "GNU General Public License";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_5" = "Utvikling og krediteringer";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_TEMPLATE" = "Celestia er åpen kildekode. Kildekoden er tilgjengelig på %1$@ og %2$@. Se %3$@ og %4$@. Komplett liste over %5$@ og %6$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG1" = "celestiamobile";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG2" = "CelestiaProject";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG3" = "byggveiledningen";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG4" = "tredjepartsbiblioteker";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG5" = "forfattere";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG6" = "oversettere";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_6" = "Kontakt";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_TEMPLATE" = "For det opprinnelige Celestia-prosjektet: %1$@ eller %2$@. For appene eller nettstedet: bruk tilbakemelding i appen, %3$@ eller %4$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG1" = "forum";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG2" = "GitHub-diskusjoner";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG3" = "GitHub-issues";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG4" = "e-post";
+
+"COMMON_TRANSLATE_THIS_PAGE_TEMPLATE" = "Hjelp oss å oversette denne siden %@.";
+"COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "her";
+
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Mest viste";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Nylig lagt til";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Nylig oppdatert";
+
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_DESCRIPTION" = "Her er en liste over tillegg som er mest sett de siste 7 dagene.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_DESCRIPTION" = "Her er en liste over tillegg som nylig er lagt til.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_DESCRIPTION" = "Her er en liste over tillegg som nylig er oppdatert.";
+
+"ADDON_REQUIRED_DEPENDENCIES" = "Nødvendige avhengigheter";
+"COMMON_PREVIOUS" = "Forrige";
+"COMMON_NEXT" = "Neste";
+"ADDON_DEPENDENCIES_LOADING_ERROR" = "Klarte ikke å laste inn avhengigheter.";
+
+"CELESTIA_PLUS_LABEL" = "PLUS";
+
+"COMMON_SEARCH_PLACEHOLDER" = "Søk…";
+
+"ADDON_SORT_METHOD_ALPHABETICAL" = "A-Å";
+"ADDON_SORT_METHOD_RECENTLY_ADDED" = "Nylig lagt til";
+"ADDON_SORT_METHOD_RECENTLY_UPDATED" = "Nylig oppdatert";
+
+"UNKNOWN_FEATURED_ITEM_TITLE" = "Ukjent";
+"CELESTIA_FEATURED_LABEL" = "Utvalgt";
+"PUSH_NOTIFICATION_WEEKLY_ADDON_TITLE_TEMPLATE" = "Ukens tillegg: %@";

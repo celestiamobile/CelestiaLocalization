@@ -22,111 +22,111 @@ msgstr ""
 #  Subscription plan name when the plan is the current plan user owns
 #, c-format
 msgid "%@ (Current)"
-msgstr ""
+msgstr "%@ (Attuale)"
 
 #  Platforms: Apple
 #, c-format
 msgid "%@ days"
-msgstr ""
+msgstr "%@ d"
 
 #  Platforms: Apple
 #, c-format
 msgid "%@ FPS"
-msgstr ""
+msgstr "%@ FPS"
 
 #  Platforms: Apple
 #  Unit foot
 #, c-format
 msgid "%@ ft"
-msgstr ""
+msgstr "%@ ft"
 
 #  Platforms: Apple
 #, c-format
 msgid "%@ hours"
-msgstr ""
+msgstr "%@ h"
 
 #  Platforms: Apple
 #  Unit kilometer
 #, c-format
 msgid "%@ km"
-msgstr ""
+msgstr "%@ km"
 
 #  Platforms: Apple
 #  Unit meter
 #, c-format
 msgid "%@ m"
-msgstr ""
+msgstr "%@ m"
 
 #  Platforms: Apple
 #  Unit mile
 #, c-format
 msgid "%@ mi"
-msgstr ""
+msgstr "%@ mi"
 
 #  Platforms: Android
 #  Subscription plan name when the plan is the current plan user owns
 #, c-format
 msgid "%s (Current)"
-msgstr ""
+msgstr "%s (Attuale)"
 
 #  Platforms: Android, Windows
 #, c-format
 msgid "%s days"
-msgstr ""
+msgstr "%s d"
 
 #  Platforms: Android, Windows
 #, c-format
 msgid "%s FPS"
-msgstr ""
+msgstr "%s FPS"
 
 #  Platforms: Android, Windows
 #  Unit foot
 #, c-format
 msgid "%s ft"
-msgstr ""
+msgstr "%s ft"
 
 #  Platforms: Android, Windows
 #, c-format
 msgid "%s hours"
-msgstr ""
+msgstr "%s h"
 
 #  Platforms: Android, Windows
 #  Unit kilometer
 #, c-format
 msgid "%s km"
-msgstr ""
+msgstr "%s km"
 
 #  Platforms: Android, Windows
 #  Unit meter
 #, c-format
 msgid "%s m"
-msgstr ""
+msgstr "%s m"
 
 #  Platforms: Android, Windows
 #  Unit mile
 #, c-format
 msgid "%s mi"
-msgstr ""
+msgstr "%s mi"
 
 #  Platforms: Apple, Android
 #  Speed unit
 msgid "1 AU/s"
-msgstr ""
+msgstr "1 ua/s"
 
 #  Platforms: Apple, Android
 #  Speed unit
 msgid "1 km/s"
-msgstr ""
+msgstr "1 km/s"
 
 #  Platforms: Apple, Android
 #  Speed unit
 msgid "1 ly/s"
-msgstr ""
+msgstr "1 a.l./s"
 
 #  Platforms: Apple, Android
 #  Speed unit
 msgid "10c"
-msgstr ""
+msgstr "10c"
 
 #  Platforms: Apple, Windows
 #  10x time speed
@@ -141,17 +141,17 @@ msgstr "10x più lento "
 #  Platforms: Apple, Android
 #  Speed unit
 msgid "1000 km/s"
-msgstr ""
+msgstr "1000 km/s"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "A / X"
-msgstr ""
+msgstr "A / X"
 
 #  Platforms: Android
 #, c-format
 msgid "A filename needed to be present for %s"
-msgstr ""
+msgstr "È necessario specificare un nome di file per %s"
 
 #  Platforms: Apple, Android, Windows
 #  Shadow resolution setting footnote
@@ -160,11 +160,13 @@ msgid ""
 "values produce sharper shadows at a greater "
 "performance cost."
 msgstr ""
+"Il valore 0 disattiva le ombre proprie. Valori più alti producono "
+"ombre più nitide, ma riducono le prestazioni."
 
 #  Platforms: Apple, Android, Windows
 #  About Celestia
 msgid "About"
-msgstr ""
+msgstr "Informazioni"
 
 #  Platforms: Apple, Windows
 #  System menu item
@@ -174,7 +176,7 @@ msgstr "A proposito di Celestia"
 #  Platforms: Apple, Android
 #  Add a new item (bookmark)
 msgid "Add"
-msgstr ""
+msgstr "Aggiungi"
 
 #  Platforms: Apple, Windows
 #  Add a new bookmark
@@ -184,12 +186,12 @@ msgstr "Aggiungi segnalibro"
 #  Platforms: Android
 #  Accessibility description for an add button
 msgid "Add Button"
-msgstr ""
+msgstr "Pulsante Aggiungi"
 
 #  Platforms: Apple, Android
 #  Description for addon updates video
 msgid "Add-on Updates"
-msgstr ""
+msgstr "Aggiornamenti dei componenti aggiuntivi"
 
 #  Platforms: Apple, Android
 #  Hint for requirement for updating add-ons.
@@ -197,11 +199,13 @@ msgid ""
 "Add-on updates are only supported for add-ons "
 "installed on version 1.9.3 or above."
 msgstr ""
+"Gli aggiornamenti sono supportati solo per i componenti aggiuntivi "
+"installati con la versione 1.9.3 o successiva."
 
 #  Platforms: Apple, Android
 #  Add-ons for Celestia app
 msgid "Add-ons"
-msgstr ""
+msgstr "Componenti aggiuntivi"
 
 #  Platforms: Apple
 #  Description for Pinch Zoom setting
@@ -209,26 +213,28 @@ msgid ""
 "Adjust view with pinch gestures by changing FOV "
 "or distance"
 msgstr ""
+"Regola la vista con il gesto di pizzicare, modificando il campo visivo"
+" o la distanza"
 
 #  Platforms: Apple, Android, Windows
 #  Advanced setting items
 msgid "Advanced"
-msgstr ""
+msgstr "Avanzate"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Albedo Features"
-msgstr ""
+msgstr "Formazioni di albedo"
 
 #  Platforms: Apple, Android, Windows
 #  Option to align camera to surface when landing
 msgid "Align to Surface on Landing"
-msgstr ""
+msgstr "Allinea alla superficie all'atterraggio"
 
 #  Platforms: Apple, Android, Windows
 #  Script system access policy option
 msgid "Allow"
-msgstr ""
+msgstr "Consenti"
 
 #  Platforms: Apple, Android, Windows
 #  Alternative textures to display
@@ -245,30 +251,32 @@ msgid ""
 "An external screen is connected, do you want to "
 "display Celestia on the external screen?"
 msgstr ""
+"È collegato uno schermo esterno. Vuoi visualizzare Celestia sullo "
+"schermo esterno?"
 
 #  Platforms: Apple, Android, Windows
 msgid "Anti-aliasing"
-msgstr ""
+msgstr "Anti-aliasing"
 
 #  Platforms: Apple
 #  App icon customization entry in Settings
 msgid "App Icon"
-msgstr ""
+msgstr "Icona dell'app"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Arcus (Arc-Shaped Features)"
-msgstr ""
+msgstr "Arcus (formazioni ad arco)"
 
 #  Platforms: Android
 #  Alert content for the exit triggered by back button
 msgid "Are you sure you want to exit?"
-msgstr ""
+msgstr "Vuoi davvero uscire?"
 
 #  Platforms: Apple, Android, Windows
 #  Script system access policy option
 msgid "Ask"
-msgstr ""
+msgstr "Chiedi"
 
 #  Platforms: Apple, Android, Windows
 msgid "Asteroids"
@@ -277,17 +285,17 @@ msgstr "Asteroidi"
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Astra (Radial Features)"
-msgstr ""
+msgstr "Astra (formazioni radiali)"
 
 #  Platforms: Apple, Android, Windows
 #  Atmosphere rendering quality settings
 msgid "Atmosphere"
-msgstr ""
+msgstr "Atmosfera"
 
 #  Platforms: Apple, Android, Windows
 #  Atmosphere rendering quality setting
 msgid "Atmosphere Segment Count"
-msgstr ""
+msgstr "Numero di segmenti dell'atmosfera"
 
 #  Platforms: Apple, Android, Windows
 msgid "Atmospheres"
@@ -301,24 +309,24 @@ msgstr "ua"
 #  Platforms: Apple, Android, Windows
 #  Auto mag for star display
 msgid "Auto Mag"
-msgstr ""
+msgstr "Magnitudine automatica"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "B / Circle"
-msgstr ""
+msgstr "B / Cerchio"
 
 #  Platforms: Apple
 #  Galactic coordinates
 #, c-format
 msgid "B: %@° %@′ %@″"
-msgstr ""
+msgstr "B: %@° %@′ %@″"
 
 #  Platforms: Android, Windows
 #  Galactic coordinates
 #, c-format
 msgid "B: %s° %s′ %s″"
-msgstr ""
+msgstr "B: %s° %s′ %s″"
 
 #  Platforms: Apple
 #  Undo an operation
@@ -327,31 +335,31 @@ msgstr "Indietro "
 
 #  Platforms: Apple, Android, Windows
 msgid "Barred Spiral Galaxies"
-msgstr ""
+msgstr "Galassie a spirale barrata"
 
 #  Platforms: Windows
 msgid "Behind {}"
-msgstr ""
+msgstr "Dietro l'oggetto {}"
 
 #  Platforms: Apple
 #, c-format
 msgid "Behind %@"
-msgstr ""
+msgstr "Dietro l'oggetto %@"
 
 #  Platforms: Android
 #, c-format
 msgid "Behind %s"
-msgstr ""
+msgstr "Dietro l'oggetto %s"
 
 #  Platforms: Apple, Android, Windows
 #  Star colors option
 msgid "Blackbody (Solar Whitepoint)"
-msgstr ""
+msgstr "Corpo nero (punto di bianco solare)"
 
 #  Platforms: Apple, Android, Windows
 #  Star colors option
 msgid "Blackbody (Vega Whitepoint)"
-msgstr ""
+msgstr "Corpo nero (punto di bianco di Vega)"
 
 #  Platforms: Apple, Android, Windows
 #  Star colors option
@@ -361,21 +369,21 @@ msgstr "Corpo Nero D65"
 #  Platforms: Apple, Android, Windows
 #  Star colors option
 msgid "Blackbody Illuminant E"
-msgstr ""
+msgstr "Corpo nero (illuminante E)"
 
 #  Platforms: Apple, Android, Windows
 #  PSF star setting
 msgid "Bloom Compactness"
-msgstr ""
+msgstr "Compattezza del bagliore"
 
 #  Platforms: Apple, Android
 #  Bold font style
 msgid "Bold"
-msgstr ""
+msgstr "Grassetto"
 
 #  Platforms: Windows
 msgid "Bookmark Organizer"
-msgstr ""
+msgstr "Gestione segnalibri"
 
 #  Platforms: Apple, Android, Windows
 #  URL bookmarks
@@ -388,7 +396,7 @@ msgstr "Più brillanti"
 
 #  Platforms: Apple, Android, Windows
 msgid "Brightest Stars (Absolute Magnitude)"
-msgstr ""
+msgstr "Stelle più brillanti (magnitudine assoluta)"
 
 #  Platforms: Apple, Android, Windows
 #  PSF star setting footnote
@@ -396,16 +404,18 @@ msgid ""
 "Brightness multiplier applied to every star, "
 "extending the visible magnitude limit."
 msgstr ""
+"Moltiplicatore di luminosità applicato a ogni stella, che estende il "
+"limite di magnitudine visibile."
 
 #  Platforms: Apple, Android, Windows
 #  Default email title for bug report
 msgid "Bug report for Celestia"
-msgstr ""
+msgstr "Segnalazione di errore per Celestia"
 
 #  Platforms: Apple, Android, Windows
 #  Settings for game controller buttons
 msgid "Buttons"
-msgstr ""
+msgstr "Pulsanti"
 
 #  Platforms: Apple, Android
 #  Message on support project card
@@ -415,30 +425,33 @@ msgid ""
 "alive. You'll also receive timely feedback on "
 "feature requests and bug reports!"
 msgstr ""
+"Abbonandoti a Celestia PLUS, sostieni direttamente gli sviluppatori e "
+"mantieni vivo il progetto. Riceverai inoltre risposte tempestive alle "
+"richieste di funzionalità e alle segnalazioni di errori!"
 
 #  Platforms: Apple, Android
 msgid "c (lightspeed)"
-msgstr ""
+msgstr "c (velocità della luce)"
 
 #  Platforms: Apple, Android
 #  Calculating for eclipses
 msgid "Calculating…"
-msgstr ""
+msgstr "Calcolo…"
 
 #  Platforms: Apple, Android, Windows
 #  Settings for camera control
 msgid "Camera"
-msgstr ""
+msgstr "Camera"
 
 #  Platforms: Apple, Android
 #  Observer control
 msgid "Camera Control"
-msgstr ""
+msgstr "Controllo della camera"
 
 #  Platforms: Apple
 #  Interaction mode for touch
 msgid "Camera Mode"
-msgstr ""
+msgstr "Modalità camera"
 
 #  Platforms: Apple, Android, Windows
 msgid "Cancel"
@@ -446,17 +459,17 @@ msgstr "Annulla"
 
 #  Platforms: Apple, Android
 msgid "Cancel Script"
-msgstr ""
+msgstr "Interrompi script"
 
 #  Platforms: Apple, Android
 #  Failed to add a favorite item (currently a bookmark)
 msgid "Cannot add object"
-msgstr ""
+msgstr "Impossibile aggiungere l'oggetto"
 
 #  Platforms: Apple
 #  Failed to share a URL
 msgid "Cannot share URL"
-msgstr ""
+msgstr "Impossibile condividere l'URL"
 
 #  Platforms: Apple, Windows
 #  Take a screenshot in Celestia
@@ -466,30 +479,30 @@ msgstr "Cattura immagine"
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Catenae (Crater Chains)"
-msgstr ""
+msgstr "Catenae (catene di crateri)"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Cavi (Hollows)"
-msgstr ""
+msgstr "Cavi (cavità)"
 
 #  Platforms: Android
 #, c-format
 msgid "Celestia does not know how to open %s"
-msgstr ""
+msgstr "Celestia non sa come aprire %s"
 
 #  Platforms: Windows
 msgid "Celestia Help"
-msgstr ""
+msgstr "Aiuto di Celestia"
 
 #  Platforms: Apple, Android
 #  Name for the subscription service
 msgid "Celestia PLUS"
-msgstr ""
+msgstr "Celestia PLUS"
 
 #  Platforms: Windows
 msgid "Celestia Screenshot"
-msgstr ""
+msgstr "Schermata di Celestia"
 
 #  Platforms: Android
 msgid ""
@@ -502,11 +515,17 @@ msgid ""
 "operation cannot be undone, so please ensure you "
 "make a backup before you proceed."
 msgstr ""
+"Celestia si chiuderà ed eseguirà la migrazione al prossimo avvio. Il "
+"contenuto della cartella di destinazione verrà sostituito con quello "
+"della cartella attuale. Dopo la copia, la cartella attuale verrà "
+"svuotata. In futuro i componenti aggiuntivi verranno scaricati nella "
+"cartella di destinazione. Questa operazione non può essere annullata: "
+"assicurati di creare una copia di sicurezza prima di procedere."
 
 #  Platforms: Apple, Android, Windows
 #  Temperature scale
 msgid "Celsius"
-msgstr ""
+msgstr "Celsius"
 
 #  Platforms: Apple, Android, Windows
 #  Center an object
@@ -522,43 +541,45 @@ msgstr "Centra la selezione "
 #  Change a value
 #  Change subscription service
 msgid "Change"
-msgstr ""
+msgstr "Cambia"
 
 #  Platforms: Windows
 #  Data location settings restart notice
 msgid ""
 "Changes to data location settings take effect "
 "after a restart."
-msgstr ""
+msgstr "Le modifiche alla posizione dei dati avranno effetto dopo un riavvio."
 
 #  Platforms: Windows
 #  Frame rate setting restart notice
 msgid "Changes to frame rate take effect after a restart."
 msgstr ""
+"Le modifiche alla frequenza dei fotogrammi avranno effetto dopo un "
+"riavvio."
 
 #  Platforms: Windows
 #  Language setting restart notice
 msgid "Changes to language take effect after a restart."
-msgstr ""
+msgstr "Le modifiche alla lingua avranno effetto dopo un riavvio."
 
 #  Platforms: Windows
 #  Selection sensitivity setting restart notice
 msgid ""
 "Changes to sensitivity take effect after a "
 "restart."
-msgstr ""
+msgstr "Le modifiche alla sensibilità avranno effetto dopo un riavvio."
 
 #  Platforms: Apple, Android, Windows
 #  Output rendering settings footnote
 msgid ""
 "Changes to sRGB rendering take effect after a "
 "restart."
-msgstr ""
+msgstr "Le modifiche al rendering sRGB avranno effetto dopo un riavvio."
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Chaos (Chaotic Terrain)"
-msgstr ""
+msgstr "Chaos (terreni caotici)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Chase"
@@ -567,13 +588,13 @@ msgstr "Insegui"
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Chasmata (Canyons)"
-msgstr ""
+msgstr "Chasmata (canyon)"
 
 #  Platforms: Apple, Android
 msgid ""
 "Choose one of the plans below to get access to "
 "all the features."
-msgstr ""
+msgstr "Scegli uno dei piani qui sotto per accedere a tutte le funzionalità."
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -587,12 +608,12 @@ msgstr "Città"
 #  Platforms: Apple
 #  Display name for classic icon
 msgid "Classic"
-msgstr ""
+msgstr "Classica"
 
 #  Platforms: Apple, Android, Windows
 #  Star colors option
 msgid "Classic Colors"
-msgstr ""
+msgstr "Colori classici"
 
 #  Platforms: Apple, Android
 msgid "Close"
@@ -601,7 +622,7 @@ msgstr "Chiudi"
 #  Platforms: Apple, Android, Windows
 #  Cloud rendering quality setting
 msgid "Cloud Segment Count"
-msgstr ""
+msgstr "Numero di segmenti delle nubi"
 
 #  Platforms: Apple, Android, Windows
 msgid "Cloud Shadows"
@@ -614,12 +635,12 @@ msgstr "Nubi"
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Colla (Necks)"
-msgstr ""
+msgstr "Colla (colli)"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Colles (Small Hills)"
-msgstr ""
+msgstr "Colles (piccole colline)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Comet Tails"
@@ -637,16 +658,16 @@ msgstr "Calcola"
 #  Platforms: Apple, Android, Windows
 #  celestia.cfg
 msgid "Config File"
-msgstr ""
+msgstr "File di configurazione"
 
 #  Platforms: Apple, Android, Windows
 #  Change requires a restart
 msgid "Configuration will take effect after a restart."
-msgstr ""
+msgstr "La configurazione avrà effetto dopo un riavvio."
 
 #  Platforms: Apple, Android
 msgid "Congratulations, you are a Celestia PLUS user"
-msgstr ""
+msgstr "Congratulazioni, sei un utente Celestia PLUS"
 
 #  Platforms: Apple, Android
 #  Purchase success message with restart guidance
@@ -654,6 +675,8 @@ msgid ""
 "Congratulations, you are a Celestia PLUS user. "
 "Restart Celestia for your purchase to take effect."
 msgstr ""
+"Congratulazioni, sei un utente Celestia PLUS. Riavvia Celestia per "
+"attivare il tuo acquisto."
 
 #  Platforms: Apple, Android, Windows
 msgid "Constellations"
@@ -662,27 +685,27 @@ msgstr "Costellazioni"
 #  Platforms: Apple, Android
 #  Settings for whether context menu is enabled
 msgid "Context Menu"
-msgstr ""
+msgstr "Menu contestuale"
 
 #  Platforms: Apple, Android
 #  Description for how a context menu is triggered
 msgid "Context menu by long press or context click"
-msgstr ""
+msgstr "Menu contestuale tramite pressione prolungata o clic contestuale"
 
 #  Platforms: Apple, Android
 #  Used in Flight Mode
 msgid "Coordinate System"
-msgstr ""
+msgstr "Sistema di coordinate"
 
 #  Platforms: Windows
 #  Used in Flight Mode
 msgid "Coordinate System:"
-msgstr ""
+msgstr "Sistema di coordinate:"
 
 #  Platforms: Apple, Android
 #  Longitude and latitude (in Go to)
 msgid "Coordinates"
-msgstr ""
+msgstr "Coordinate"
 
 #  Platforms: Windows
 #  Copy current URL to pasteboard
@@ -692,17 +715,17 @@ msgstr "Copia l'URL"
 #  Platforms: Android
 #  Copying default data from APK
 msgid "Copying data…"
-msgstr ""
+msgstr "Copia dei dati…"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Coronae (Oval Features)"
-msgstr ""
+msgstr "Coronae (formazioni ovali)"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Cosmodromes"
-msgstr ""
+msgstr "Cosmodromi"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -711,21 +734,21 @@ msgstr "Crateri"
 
 #  Platforms: Apple, Android
 msgid "Create a new bookmark with \"+\" button"
-msgstr ""
+msgstr "Crea un nuovo segnalibro con il pulsante \"+\""
 
 #  Platforms: Apple, Android, Windows
 #  Marker
 msgid "Crosshair"
-msgstr ""
+msgstr "Mirino"
 
 #  Platforms: Android
 #  Current display language
 msgid "Current Language"
-msgstr ""
+msgstr "Lingua attuale"
 
 #  Platforms: Apple, Android
 msgid "Current Time"
-msgstr ""
+msgstr "Ora attuale"
 
 #  Platforms: Apple, Android, Windows
 msgid "Custom"
@@ -734,67 +757,67 @@ msgstr "Personalizzato"
 #  Platforms: Apple
 #  Description for custom app icon video
 msgid "Custom App Icon"
-msgstr ""
+msgstr "Icona personalizzata dell'app"
 
 #  Platforms: Apple, Android
 #  Description for custom font video
 msgid "Custom Fonts"
-msgstr ""
+msgstr "Caratteri personalizzati"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "D-pad Down"
-msgstr ""
+msgstr "Croce direzionale giù"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "D-pad Left"
-msgstr ""
+msgstr "Croce direzionale sinistra"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "D-pad Right"
-msgstr ""
+msgstr "Croce direzionale destra"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "D-pad Up"
-msgstr ""
+msgstr "Croce direzionale su"
 
 #  Platforms: Apple, Android, Windows
 msgid "Dark Nebulae"
-msgstr ""
+msgstr "Nebulose oscure"
 
 #  Platforms: Apple, Android, Windows
 #  Directory to load data from
 msgid "Data Directory"
-msgstr ""
+msgstr "Cartella dei dati"
 
 #  Platforms: Apple, Android, Windows
 #  Title for celestia.cfg, data location setting
 msgid "Data Location"
-msgstr ""
+msgstr "Posizione dei dati"
 
 #  Platforms: Apple, Android, Windows
 msgid "Date Format"
-msgstr ""
+msgstr "Formato della data"
 
 #  Platforms: Apple, Android
 #  Debug menu
 msgid "Debug"
-msgstr ""
+msgstr "Debug"
 
 #  Platforms: Apple
 #  Equatorial coordinate
 #, c-format
 msgid "DEC: %@° %@′ %@″"
-msgstr ""
+msgstr "DEC: %@° %@′ %@″"
 
 #  Platforms: Android, Windows
 #  Equatorial coordinate
 #, c-format
 msgid "DEC: %s° %s′ %s″"
-msgstr ""
+msgstr "DEC: %s° %s′ %s″"
 
 #  Platforms: Apple, Android
 msgid "Deep Sky Objects"
@@ -827,17 +850,17 @@ msgstr "vista singola "
 #  Platforms: Apple, Android, Windows
 #  Script system access policy option
 msgid "Deny"
-msgstr ""
+msgstr "Nega"
 
 #  Platforms: Apple, Android
 #  A list of destinations in guide
 msgid "Destinations"
-msgstr ""
+msgstr "Destinazioni"
 
 #  Platforms: Android
 #  Settings to support virtual display in external display
 msgid "Detect Virtual Display (Casting)"
-msgstr ""
+msgstr "Rileva schermo virtuale (trasmissione)"
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -847,7 +870,7 @@ msgstr "Losanga"
 #  Platforms: Apple, Android, Windows
 #  PSF star setting
 msgid "Dim Clip Factor"
-msgstr ""
+msgstr "Fattore di attenuazione delle stelle deboli"
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -874,22 +897,22 @@ msgstr "Distanza"
 #  Platforms: Apple, Android
 #  Prompt to ask to cancel downloading an add-on
 msgid "Do you want to cancel this task?"
-msgstr ""
+msgstr "Vuoi annullare questa operazione?"
 
 #  Platforms: Apple, Android, Windows
 msgid "Do you want to uninstall this add-on?"
-msgstr ""
+msgstr "Vuoi disinstallare questo componente aggiuntivo?"
 
 #  Platforms: Apple
 #  Exit edit mode
 #  Exit toolbar customization mode
 msgid "Done"
-msgstr ""
+msgstr "Fine"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Dorsa (Ridges)"
-msgstr ""
+msgstr "Dorsa (dorsali)"
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -899,23 +922,25 @@ msgstr "Freccia giù"
 #  Platforms: Apple, Android
 #  Downgrade subscription service
 msgid "Downgrade"
-msgstr ""
+msgstr "Passa a un piano inferiore"
 
 #  Platforms: Android
 #  Accessibility description for the drag handle for reorder
 msgid "Drag Handle"
-msgstr ""
+msgstr "Maniglia di trascinamento"
 
 #  Platforms: Apple, Android, Windows
 msgid ""
 "Dragging behavior based on change of pick rays "
 "instead of screen coordinates"
 msgstr ""
+"Trascinamento basato sulla variazione dei raggi di selezione anziché "
+"sulle coordinate dello schermo"
 
 #  Platforms: Apple, Android, Windows
 #  Tab for deep sky objects in Star Browser
 msgid "DSOs"
-msgstr ""
+msgstr "Oggetti del cielo profondo"
 
 #  Platforms: Apple, Android, Windows
 msgid "Dwarf Planets"
@@ -932,19 +957,19 @@ msgstr "Ombre delle eclissi"
 #  Platforms: Windows
 #  Eclipse finder result
 msgid "Eclipsed body: {}"
-msgstr ""
+msgstr "Corpo eclissato: {}"
 
 #  Platforms: Apple
 #  Eclipse finder result
 #, c-format
 msgid "Eclipsed body: %@"
-msgstr ""
+msgstr "Corpo eclissato: %@"
 
 #  Platforms: Android
 #  Eclipse finder result
 #, c-format
 msgid "Eclipsed body: %s"
-msgstr ""
+msgstr "Corpo eclissato: %s"
 
 #  Platforms: Apple, Android, Windows
 #  Grids
@@ -959,66 +984,66 @@ msgstr "Eclittica"
 #  Enter edit mode for favorite items
 #  Enter toolbar customization mode
 msgid "Edit"
-msgstr ""
+msgstr "Modifica"
 
 #  Platforms: Apple, Android, Windows
 msgid "Elliptical Galaxies"
-msgstr ""
+msgstr "Galassie ellittiche"
 
 #  Platforms: Apple, Android, Windows
 msgid "Emission Nebulae"
-msgstr ""
+msgstr "Nebulose a emissione"
 
 #  Platforms: Apple, Android
 #  Enable gyroscope control for camera rotation
 msgid "Enable Gyroscope Control"
-msgstr ""
+msgstr "Abilita il controllo tramite giroscopio"
 
 #  Platforms: Apple, Android, Windows
 #  Setting item to control whether left thumbstick should be enabled
 msgid "Enable Left Thumbstick"
-msgstr ""
+msgstr "Abilita la levetta sinistra"
 
 #  Platforms: Apple, Android, Windows
 #  Setting item to control whether right thumbstick should be enabled
 msgid "Enable Right Thumbstick"
-msgstr ""
+msgstr "Abilita la levetta destra"
 
 #  Platforms: Windows
 #  Template for displaying when end time cannot be correctly formatted by the system
 #, c-format
 msgid "End Julian day: %s"
-msgstr ""
+msgstr "Giorno giuliano finale: %s"
 
 #  Platforms: Apple, Android
 #  In eclipse finder, range of time to find eclipse in
 msgid "End Time"
-msgstr ""
+msgstr "Ora finale"
 
 #  Platforms: Windows
 #  In eclipse finder, range of time to find eclipse in
 msgid "End time:"
-msgstr ""
+msgstr "Ora finale:"
 
 #  Platforms: Apple
 #  Template for the end time of a body, usually a spacecraft
 #, c-format
 msgid "End time: %@"
-msgstr ""
+msgstr "Ora finale: %@"
 
 #  Platforms: Android, Windows
 #  Template for the end time of a body, usually a spacecraft
 #, c-format
 msgid "End time: %s"
-msgstr ""
+msgstr "Ora finale: %s"
 
 #  Platforms: Apple
 msgid "End User License Agreements (EULA)"
-msgstr ""
+msgstr "Contratti di licenza con l'utente finale (EULA)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Enhance Celestia with online add-ons"
-msgstr ""
+msgstr "Arricchisci Celestia con i componenti aggiuntivi online"
 
 #  Platforms: Apple, Android, Windows
 #  Grids
@@ -1028,52 +1053,56 @@ msgstr "Equatoriale"
 #  Platforms: Apple
 #, c-format
 msgid "Equatorial radius: %@"
-msgstr ""
+msgstr "Raggio equatoriale: %@"
 
 #  Platforms: Android, Windows
 #, c-format
 msgid "Equatorial radius: %s"
-msgstr ""
+msgstr "Raggio equatoriale: %s"
 
 #  Platforms: Apple, Android
 #  Encountered error while checking updates.
 msgid "Error checking updates"
-msgstr ""
+msgstr "Errore durante la verifica degli aggiornamenti"
 
 #  Platforms: Apple, Android, Windows
 msgid "Error creating directory for add-on"
-msgstr ""
+msgstr "Errore durante la creazione della cartella del componente aggiuntivo"
 
 #  Platforms: Apple, Android, Windows
 msgid "Error downloading add-on"
-msgstr ""
+msgstr "Errore durante il download del componente aggiuntivo"
 
 #  Platforms: Apple, Android, Windows
 msgid "Error Loading Data"
-msgstr ""
+msgstr "Errore di caricamento dei dati"
 
 #  Platforms: Apple, Android, Windows
 msgid ""
 "Error loading data, fallback to original "
 "configuration."
 msgstr ""
+"Errore di caricamento dei dati, ripristino della configurazione "
+"originale."
 
 #  Platforms: Apple, Android, Windows
 msgid "Error opening file for saving add-on"
 msgstr ""
+"Errore durante l'apertura del file per salvare il componente "
+"aggiuntivo"
 
 #  Platforms: Apple, Android, Windows
 msgid "Error unzipping add-on"
-msgstr ""
+msgstr "Errore durante l'estrazione del componente aggiuntivo"
 
 #  Platforms: Apple, Android, Windows
 msgid "Error writing data file for add-on"
-msgstr ""
+msgstr "Errore durante la scrittura del file di dati del componente aggiuntivo"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller action
 msgid "Esc"
-msgstr ""
+msgstr "Esc"
 
 #  Platforms: Android, Windows
 #  Exit Celestia
@@ -1083,13 +1112,13 @@ msgstr "Esci "
 #  Platforms: Android
 #  Alert title for the exit triggered by back button
 msgid "Exit Celestia"
-msgstr ""
+msgstr "Esci da Celestia"
 
 #  Platforms: Apple, Android, Windows
 #  Output rendering setting
 #  PSF star setting
 msgid "Exposure"
-msgstr ""
+msgstr "Esposizione"
 
 #  Platforms: Apple, Android, Windows
 #  PSF star setting footnote
@@ -1097,86 +1126,89 @@ msgid ""
 "Extent of the eye PSF glow around bright stars. "
 "Lower values widen the glow at higher GPU cost."
 msgstr ""
+"Estensione del bagliore attorno alle stelle luminose dovuto alla "
+"funzione di diffusione del punto dell'occhio. Valori più bassi "
+"ampliano il bagliore, aumentando il carico sulla GPU."
 
 #  Platforms: Android
 #  Section header text for settings
 msgid "External Display"
-msgstr ""
+msgstr "Schermo esterno"
 
 #  Platforms: Apple, Android
 msgid "External screen connected"
-msgstr ""
+msgstr "Schermo esterno collegato"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Faculae (Bright Spots)"
-msgstr ""
+msgstr "Faculae (macchie chiare)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Fading Orbits"
-msgstr ""
+msgstr "Orbite sfumate"
 
 #  Platforms: Apple, Android, Windows
 #  Temperature scale
 msgid "Fahrenheit"
-msgstr ""
+msgstr "Fahrenheit"
 
 #  Platforms: Windows
 msgid "Failed in capturing screenshot."
-msgstr ""
+msgstr "Impossibile acquisire la schermata."
 
 #  Platforms: Apple
 msgid "Failed to connect to the external screen."
-msgstr ""
+msgstr "Impossibile connettersi allo schermo esterno."
 
 #  Platforms: Apple, Android, Windows
 msgid "Failed to download or install this add-on."
-msgstr ""
+msgstr "Impossibile scaricare o installare questo componente aggiuntivo."
 
 #  Platforms: Android
 #  WebView failed to load content
 msgid "Failed to load page."
-msgstr ""
+msgstr "Impossibile caricare la pagina."
 
 #  Platforms: Apple, Android, Windows
 #  Control the faintest star that Celestia should display
 msgid "Faintest Stars"
-msgstr ""
+msgstr "Magnitudine limite"
 
 #  Platforms: Android
 #  The text FAQ found in other text where FAQ indicates the link
 msgid "FAQ"
-msgstr ""
+msgstr "Domande frequenti"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Farra (Pancake-like Structures)"
-msgstr ""
+msgstr "Farra (strutture a frittella)"
 
 #  Platforms: Apple, Android
 #  Make time go faster
 msgid "Faster"
-msgstr ""
+msgstr "Più veloce"
 
 #  Platforms: Apple, Android, Windows
 #  Error for fatal error alert title
 msgid "Fatal Error"
-msgstr ""
+msgstr "Errore irreversibile"
 
 #  Platforms: Apple, Android
 #  Favorites (currently bookmarks and scripts)
 msgid "Favorites"
-msgstr ""
+msgstr "Preferiti"
 
 #  Platforms: Apple, Android, Windows
 #  Default email title for feature suggestion
 msgid "Feature suggestion for Celestia"
-msgstr ""
+msgstr "Proposta di funzionalità per Celestia"
 
 #  Platforms: Apple, Android
 #  Push notification content type — featured add-on
 msgid "Featured Add-on"
-msgstr ""
+msgstr "Componente aggiuntivo in evidenza"
 
 #  Platforms: Apple, Android, Windows
 msgid "Features"
@@ -1195,44 +1227,46 @@ msgstr "Quadrato pieno"
 #  Platforms: Apple, Android
 #  Find (eclipses)
 msgid "Find"
-msgstr ""
+msgstr "Trova"
 
 #  Platforms: Windows
 msgid "Find eclipses for an object in a time range"
-msgstr ""
+msgstr "Trova le eclissi di un oggetto in un intervallo di tempo"
 
 #  Platforms: Apple, Android
 msgid "Find stars, DSOs, and nearby objects"
-msgstr ""
+msgstr "Trova stelle, oggetti del cielo profondo e oggetti vicini"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Flexus (Cuspate Features)"
-msgstr ""
+msgstr "Flexus (formazioni cuspidate)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Flight Mode"
-msgstr ""
+msgstr "Modalità di volo"
 
 #  Platforms: Apple, Android, Windows
 msgid ""
 "Flight mode decides how you move around in "
 "Celestia. Learn more…"
 msgstr ""
+"La modalità di volo determina come ti muovi in Celestia. Scopri di "
+"più…"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Fluctus (Flow Terrain)"
-msgstr ""
+msgstr "Fluctus (terreni di flusso)"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Flumina (Channels)"
-msgstr ""
+msgstr "Flumina (canali)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Focus Zooming"
-msgstr ""
+msgstr "Zoom sul punto selezionato"
 
 #  Platforms: Windows
 #  Enter name for new created folder
@@ -1249,33 +1283,33 @@ msgstr "Segui la selezione "
 
 #  Platforms: Apple, Android
 msgid "Font"
-msgstr ""
+msgstr "Carattere"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Fossae (Long Depressions)"
-msgstr ""
+msgstr "Fossae (depressioni allungate)"
 
 #  Platforms: Apple
 #  Pinch zoom setting option
 msgctxt "Pinch Zoom"
 msgid "FOV"
-msgstr ""
+msgstr "Campo visivo"
 
 #  Platforms: Apple, Android, Windows
 #  Frame rate of simulation
 msgid "Frame Rate"
-msgstr ""
+msgstr "Frequenza dei fotogrammi"
 
 #  Platforms: Apple, Android
 #  Subscription price indicating the subscription is free
 msgid "Free"
-msgstr ""
+msgstr "Gratis"
 
 #  Platforms: Apple, Android, Windows
 #  Flight mode, coordinate system
 msgid "Free Flight"
-msgstr ""
+msgstr "Volo libero"
 
 #  Platforms: Apple, Windows
 #  Freeze time
@@ -1285,21 +1319,21 @@ msgstr "Ferma "
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Freta (Straits)"
-msgstr ""
+msgstr "Freta (stretti)"
 
 #  Platforms: Windows
 msgid "From surface of {}"
-msgstr ""
+msgstr "Dalla superficie dell'oggetto {}"
 
 #  Platforms: Apple
 #, c-format
 msgid "From surface of %@"
-msgstr ""
+msgstr "Dalla superficie dell'oggetto %@"
 
 #  Platforms: Android
 #, c-format
 msgid "From surface of %s"
-msgstr ""
+msgstr "Dalla superficie dell'oggetto %s"
 
 #  Platforms: Apple, Android, Windows
 #  Star style
@@ -1318,32 +1352,32 @@ msgstr "Galassie"
 #  Platforms: Apple, Android, Windows
 #  Render parameter
 msgid "Galaxy Brightness"
-msgstr ""
+msgstr "Luminosità delle galassie"
 
 #  Platforms: Apple, Android, Windows
 #  Settings for game controller
 msgid "Game Controller"
-msgstr ""
+msgstr "Controller di gioco"
 
 #  Platforms: Apple, Android
 #  Purchase subscription service
 msgid "Get"
-msgstr ""
+msgstr "Ottieni"
 
 #  Platforms: Apple, Android, Windows
 #  Open webpage for downloading add-ons
 msgid "Get Add-ons"
-msgstr ""
+msgstr "Ottieni componenti aggiuntivi"
 
 #  Platforms: Apple, Android
 #  Action button to get Celestia PLUS
 msgid "Get Celestia PLUS"
-msgstr ""
+msgstr "Ottieni Celestia PLUS"
 
 #  Platforms: Apple, Android, Windows
 #  Action for getting info about current selected object
 msgid "Get Info"
-msgstr ""
+msgstr "Mostra informazioni"
 
 #  Platforms: Apple, Android, Windows
 msgid "Globulars"
@@ -1374,17 +1408,17 @@ msgstr "Visita guidata"
 
 #  Platforms: Apple, Android, Windows
 msgid "H II Regions"
-msgstr ""
+msgstr "Regioni H II"
 
 #  Platforms: Apple, Android, Windows
 #  Indicate that an object has atmosphere
 msgid "Has atmosphere"
-msgstr ""
+msgstr "Ha un'atmosfera"
 
 #  Platforms: Apple, Android, Windows
 #  Indicate that an object has rings
 msgid "Has rings"
-msgstr ""
+msgstr "Ha anelli"
 
 #  Platforms: Apple, Android, Windows
 msgid "Help"
@@ -1393,20 +1427,20 @@ msgstr "Aiuto "
 #  Platforms: Apple, Android
 #  Action to hide the tool overlay
 msgid "Hide"
-msgstr ""
+msgstr "Nascondi"
 
 #  Platforms: Apple, Windows
 msgid "Hide Cursor During Dragging"
-msgstr ""
+msgstr "Nascondi il cursore durante il trascinamento"
 
 #  Platforms: Apple, Windows
 msgid "Hide the mouse cursor during dragging"
-msgstr ""
+msgstr "Nascondi il puntatore del mouse durante il trascinamento"
 
 #  Platforms: Apple, Android, Windows
 #  HiDPI support in display
 msgid "HiDPI"
-msgstr ""
+msgstr "HiDPI"
 
 #  Platforms: Apple, Android, Windows
 #  High resolution
@@ -1416,7 +1450,7 @@ msgstr "Alta"
 #  Platforms: Apple, Android
 #  Home object, sun.
 msgid "Home (Sol)"
-msgstr ""
+msgstr "Seleziona il Sole"
 
 #  Platforms: Apple, Android, Windows
 #  Grids
@@ -1426,12 +1460,12 @@ msgstr "Orizzontale"
 #  Platforms: Apple, Android, Windows
 #  Sharing option, image
 msgid "Image"
-msgstr ""
+msgstr "Immagine"
 
 #  Platforms: Apple, Android, Windows
 #  Imperial measurement system
 msgid "Imperial"
-msgstr ""
+msgstr "Imperiale"
 
 #  Platforms: Apple, Android
 msgid ""
@@ -1439,6 +1473,9 @@ msgid ""
 "\n"
 "Pinch to zoom in/out field of view."
 msgstr ""
+"In modalità camera, trascina per spostare il campo visivo.\n"
+"\n"
+"Pizzica per ampliare o restringere il campo visivo."
 
 #  Platforms: Apple, Android
 msgid ""
@@ -1446,73 +1483,76 @@ msgid ""
 "\n"
 "Pinch to zoom in/out on an object."
 msgstr ""
+"In modalità oggetto, trascina per ruotare attorno a un oggetto.\n"
+"\n"
+"Pizzica per avvicinarti o allontanarti dall'oggetto."
 
 #  Platforms: Apple, Windows
 msgid "Infinite Dragging"
-msgstr ""
+msgstr "Trascinamento infinito"
 
 #  Platforms: Apple, Android, Windows
 #  HUD display
 msgid "Info Display"
-msgstr ""
+msgstr "Informazioni sullo schermo"
 
 #  Platforms: Apple, Android, Windows
 #  Install an add-on
 msgid "Install"
-msgstr ""
+msgstr "Installa"
 
 #  Platforms: Apple, Android, Windows
 #  Title for the list of installed add-ons
 msgid "Installed"
-msgstr ""
+msgstr "Installati"
 
 #  Platforms: Apple, Android, Windows
 #  Open a page for managing installed add-ons
 msgid "Installed Add-ons"
-msgstr ""
+msgstr "Componenti aggiuntivi installati"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Insulae (Islands)"
-msgstr ""
+msgstr "Insulae (isole)"
 
 #  Platforms: Apple, Android, Windows
 #  Settings for interaction
 msgid "Interaction"
-msgstr ""
+msgstr "Interazione"
 
 #  Platforms: Apple, Android, Windows
 #  The input of julian day is not valid
 msgid "Invalid Julian day string."
-msgstr ""
+msgstr "Stringa del giorno giuliano non valida."
 
 #  Platforms: Apple, Android, Windows
 #  Invert game controller thumbstick axis horizontally
 msgid "Invert Horizontally"
-msgstr ""
+msgstr "Inverti orizzontalmente"
 
 #  Platforms: Apple, Android, Windows
 #  Invert game controller thumbstick axis vertically
 msgid "Invert Vertically"
-msgstr ""
+msgstr "Inverti verticalmente"
 
 #  Platforms: Apple, Android, Windows
 msgid "Irregular Galaxies"
-msgstr ""
+msgstr "Galassie irregolari"
 
 #  Platforms: Apple, Android, Windows
 msgid "ISO 8601"
-msgstr ""
+msgstr "ISO 8601"
 
 #  Platforms: Apple, Android, Windows
 #  Select time via entering Julian day
 msgid "Julian Day"
-msgstr ""
+msgstr "Giorno giuliano"
 
 #  Platforms: Apple, Android, Windows
 #  Temperature scale
 msgid "Kelvin"
-msgstr ""
+msgstr "Kelvin"
 
 #  Platforms: Apple, Android, Windows
 #  Unit
@@ -1523,13 +1563,13 @@ msgstr "Km"
 #  Galactic coordinates
 #, c-format
 msgid "L: %@° %@′ %@″"
-msgstr ""
+msgstr "L: %@° %@′ %@″"
 
 #  Platforms: Android, Windows
 #  Galactic coordinates
 #, c-format
 msgid "L: %s° %s′ %s″"
-msgstr ""
+msgstr "L: %s° %s′ %s″"
 
 #  Platforms: Apple, Android, Windows
 #  Labels to display
@@ -1539,27 +1579,27 @@ msgstr "Etichetta le caratteristiche"
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Labes (Landslides)"
-msgstr ""
+msgstr "Labes (frane)"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Labyrinthi (Valley Complexes)"
-msgstr ""
+msgstr "Labyrinthi (complessi di valli)"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Lacunae (Irregular Depressions)"
-msgstr ""
+msgstr "Lacunae (depressioni irregolari)"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Lacus (Lakes)"
-msgstr ""
+msgstr "Lacus (laghi)"
 
 #  Platforms: Apple, Android, Windows
 #  Go to surface of an object
 msgid "Land"
-msgstr ""
+msgstr "Atterra"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -1569,32 +1609,32 @@ msgstr "Zone d'atterraggio"
 #  Platforms: Android, Windows
 #  Display language setting
 msgid "Language"
-msgstr ""
+msgstr "Lingua"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Large Ringed Features"
-msgstr ""
+msgstr "Grandi formazioni anulari"
 
 #  Platforms: Apple, Android
 #  Push notification content type — latest news
 msgid "Latest News"
-msgstr ""
+msgstr "Ultime notizie"
 
 #  Platforms: Apple, Android, Windows
 #  Coordinates
 msgid "Latitude"
-msgstr ""
+msgstr "Latitudine"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "LB / L1"
-msgstr ""
+msgstr "LB / L1"
 
 #  Platforms: Apple, Android, Windows
 #  Text for the link in Flight mode decides how you move around in Celestia. Learn more…
 msgid "Learn more…"
-msgstr ""
+msgstr "Scopri di più…"
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -1604,53 +1644,53 @@ msgstr "Freccia sinistra"
 #  Platforms: Apple
 #, c-format
 msgid "Length of day: %@"
-msgstr ""
+msgstr "Durata del giorno: %@"
 
 #  Platforms: Android, Windows
 #, c-format
 msgid "Length of day: %s"
-msgstr ""
+msgstr "Durata del giorno: %s"
 
 #  Platforms: Apple, Android, Windows
 msgid "Lenticular Galaxies"
-msgstr ""
+msgstr "Galassie lenticolari"
 
 #  Platforms: Apple, Android
 #  Lifetime purchase
 msgid "Lifetime"
-msgstr ""
+msgstr "A vita"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Lineae (Elongate Markings)"
-msgstr ""
+msgstr "Lineae (segni allungati)"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Lingulae (Tongue-Shaped Features)"
-msgstr ""
+msgstr "Lingulae (formazioni a lingua)"
 
 #  Platforms: Apple, Android, Windows
 #  Celestia loading failed
 msgid "Loading Celestia failed…"
-msgstr ""
+msgstr "Caricamento di Celestia non riuscito…"
 
 #  Platforms: Apple
 #  Celestia initialization, loading file
 #, c-format
 msgid "Loading: %@"
-msgstr ""
+msgstr "Caricamento: %@"
 
 #  Platforms: Android, Windows
 #  Celestia initialization, loading file
 #, c-format
 msgid "Loading: %s"
-msgstr ""
+msgstr "Caricamento: %s"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Lobi (Lobate Features)"
-msgstr ""
+msgstr "Lobi (formazioni lobate)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Local Time"
@@ -1667,20 +1707,22 @@ msgstr "Blocca"
 
 #  Platforms: Windows
 msgid "Lock Phase"
-msgstr ""
+msgstr "Blocca la fase"
 
 #  Platforms: Apple, Android
 msgid "Long press on stepper to change orientation."
-msgstr ""
+msgstr "Tieni premuti i pulsanti di regolazione per cambiare orientamento."
 
 #  Platforms: Apple, Android
 msgid "Long press on stepper to zoom in/out."
 msgstr ""
+"Tieni premuti i pulsanti di regolazione per avvicinarti o "
+"allontanarti."
 
 #  Platforms: Apple, Android, Windows
 #  Coordinates
 msgid "Longitude"
-msgstr ""
+msgstr "Longitudine"
 
 #  Platforms: Apple, Android, Windows
 #  Low resolution
@@ -1690,36 +1732,36 @@ msgstr "Bassa"
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "LT / L2"
-msgstr ""
+msgstr "LT / L2"
 
 #  Platforms: Apple, Android, Windows
 #  Note for Script System Access Policy
 msgid "Lua scripts' access to the file system"
-msgstr ""
+msgstr "Accesso degli script Lua al file system"
 
 #  Platforms: Apple, Android, Windows
 #  Lunar eclipses.
 msgid "Lunar"
-msgstr ""
+msgstr "Lunari"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Maculae (Dark Spots)"
-msgstr ""
+msgstr "Maculae (macchie scure)"
 
 #  Platforms: Windows
 #  window title for add-on list
 msgid "Manage Add-ons"
-msgstr ""
+msgstr "Gestisci componenti aggiuntivi"
 
 #  Platforms: Android
 msgid "Manage Subscription"
-msgstr ""
+msgstr "Gestisci abbonamento"
 
 #  Platforms: Apple, Android, Windows
 #  Tone mapping mode
 msgid "Manual"
-msgstr ""
+msgstr "Manuale"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -1738,22 +1780,22 @@ msgstr "Marcatori"
 #  Platforms: Apple, Android, Windows
 #  PSF star setting
 msgid "Max Irradiance"
-msgstr ""
+msgstr "Irradianza massima"
 
 #  Platforms: Apple
 #, c-format
 msgid "Maximum (%@ FPS)"
-msgstr ""
+msgstr "Massima (%@ FPS)"
 
 #  Platforms: Android, Windows
 #, c-format
 msgid "Maximum (%s FPS)"
-msgstr ""
+msgstr "Massima (%s FPS)"
 
 #  Platforms: Apple, Android, Windows
 #  Measurement system
 msgid "Measure Units"
-msgstr ""
+msgstr "Unità di misura"
 
 #  Platforms: Apple, Android, Windows
 #  Medium resolution
@@ -1763,28 +1805,28 @@ msgstr "Media"
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Mensae (Flat-Topped Hills)"
-msgstr ""
+msgstr "Mensae (rilievi dalla sommità piatta)"
 
 #  Platforms: Apple, Android
 #  Menu button
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #  Platforms: Apple, Android, Windows
 #  Metric measurement system
 msgid "Metric"
-msgstr ""
+msgstr "Metrico"
 
 #  Platforms: Android
 #  Action to migrate data where the add-on is downloaded
 msgid "Migrate Add-on Data"
-msgstr ""
+msgstr "Migra i dati dei componenti aggiuntivi"
 
 #  Platforms: Android
 #  Option to migrate add-on data to a directory. %s is the target directory
 #, c-format
 msgid "Migrate to %s"
-msgstr ""
+msgstr "Migra in %s"
 
 #  Platforms: Apple, Android, Windows
 #  Minimum feature size that we should display a label for
@@ -1807,7 +1849,7 @@ msgstr "Monti"
 #  Platforms: Apple, Android
 #  Monthly subscription
 msgid "Monthly"
-msgstr ""
+msgstr "Mensile"
 
 #  Platforms: Apple, Android, Windows
 msgid "Moons"
@@ -1816,7 +1858,7 @@ msgstr "Lune"
 #  Platforms: Apple, Android
 #  Button to show more actions to in the bottom toolbar
 msgid "More actions"
-msgstr ""
+msgstr "Altre azioni"
 
 #  Platforms: Apple, Windows
 msgid ""
@@ -1824,11 +1866,14 @@ msgid ""
 "dragging starts. Only effective when the cursor "
 "is hidden during dragging"
 msgstr ""
+"Il puntatore del mouse viene riportato alla posizione iniziale del "
+"trascinamento. Ha effetto solo se il cursore è nascosto durante il "
+"trascinamento"
 
 #  Platforms: Apple, Android
 #  Guide to control Celestia with a mouse/keyboard
 msgid "Mouse/Keyboard Controls"
-msgstr ""
+msgstr "Comandi di mouse e tastiera"
 
 #  Platforms: Apple, Windows
 #  Navigation menu
@@ -1837,21 +1882,21 @@ msgstr "Navigazione "
 
 #  Platforms: Windows
 msgid "Near {}"
-msgstr ""
+msgstr "Vicino all'oggetto {}"
 
 #  Platforms: Apple
 #, c-format
 msgid "Near %@"
-msgstr ""
+msgstr "Vicino all'oggetto %@"
 
 #  Platforms: Android
 #, c-format
 msgid "Near %s"
-msgstr ""
+msgstr "Vicino all'oggetto %s"
 
 #  Platforms: Apple, Android, Windows
 msgid "Nearest Stars"
-msgstr ""
+msgstr "Stelle più vicine"
 
 #  Platforms: Apple, Android, Windows
 msgid "Nebulae"
@@ -1870,35 +1915,37 @@ msgstr "Nuovo nome"
 #  Platforms: Apple, Android
 #  Archive for updates and featured content
 msgid "News Archive"
-msgstr ""
+msgstr "Archivio notizie"
 
 #  Platforms: Apple, Android, Windows
 msgid "Night Lights"
-msgstr ""
+msgstr "Luci notturne"
 
 #  Platforms: Apple, Android, Windows
 msgid ""
 "No eclipse is found for the given object in the "
 "time range"
 msgstr ""
+"Nessuna eclissi trovata per l'oggetto nell'intervallo di tempo "
+"indicato"
 
 #  Platforms: Apple, Android, Windows
 #  No overview for an object
 msgid "No overview available."
-msgstr ""
+msgstr "Nessuna panoramica disponibile."
 
 #  Platforms: Apple, Android
 msgid "No result found"
-msgstr ""
+msgstr "Nessun risultato trovato"
 
 #  Platforms: Windows
 msgid "No saved bookmarks"
-msgstr ""
+msgstr "Nessun segnalibro salvato"
 
 #  Platforms: Apple, Android
 #  Hint that there is no update for installed add-ons.
 msgid "No Update Available"
-msgstr ""
+msgstr "Nessun aggiornamento disponibile"
 
 #  Platforms: Apple, Android, Windows
 #  Empty HUD display
@@ -1913,7 +1960,7 @@ msgstr "Normale"
 #  Platforms: Apple, Android
 #  Push notification settings entry
 msgid "Notifications"
-msgstr ""
+msgstr "Notifiche"
 
 #  Platforms: Apple, Android
 #  Push notification denied state explanation
@@ -1921,6 +1968,8 @@ msgid ""
 "Notifications are turned off for Celestia. Enable "
 "them in System Settings to subscribe to updates."
 msgstr ""
+"Le notifiche per Celestia sono disattivate. Abilitale nelle "
+"impostazioni di sistema per ricevere gli aggiornamenti."
 
 #  Platforms: Apple, Android, Windows
 #  Atmosphere segment count setting description
@@ -1929,6 +1978,8 @@ msgid ""
 "scattering. Higher values improve quality at a "
 "greater performance cost."
 msgstr ""
+"Numero di segmenti usati per integrare la diffusione atmosferica. "
+"Valori più alti migliorano la qualità, ma riducono le prestazioni."
 
 #  Platforms: Apple, Android, Windows
 #  Cloud segment count setting description
@@ -1937,6 +1988,8 @@ msgid ""
 "values improve quality at a greater performance "
 "cost."
 msgstr ""
+"Numero di segmenti usati per il rendering delle nubi. Valori più alti "
+"migliorano la qualità, ma riducono le prestazioni."
 
 #  Platforms: Apple, Android, Windows
 #  In eclipse finder, object to find eclipse with, or in go to
@@ -1946,7 +1999,7 @@ msgstr "Oggetto"
 #  Platforms: Apple
 #  Interaction mode for touch
 msgid "Object Mode"
-msgstr ""
+msgstr "Modalità oggetto"
 
 #  Platforms: Windows
 msgid "Object Name"
@@ -1968,29 +2021,29 @@ msgstr "Osservatori"
 #  Platforms: Windows
 #  Eclipse finder result
 msgid "Occulter: {}"
-msgstr ""
+msgstr "Corpo occultante: {}"
 
 #  Platforms: Apple
 #  Eclipse finder result
 #, c-format
 msgid "Occulter: %@"
-msgstr ""
+msgstr "Corpo occultante: %@"
 
 #  Platforms: Android
 #  Eclipse finder result
 #, c-format
 msgid "Occulter: %s"
-msgstr ""
+msgstr "Corpo occultante: %s"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Oceani (Oceans)"
-msgstr ""
+msgstr "Oceani (oceani)"
 
 #  Platforms: Apple, Android, Windows
 #  Tone mapping mode
 msgid "Off"
-msgstr ""
+msgstr "Disattivato"
 
 #  Platforms: Apple, Android, Windows
 msgid "OK"
@@ -1999,7 +2052,7 @@ msgstr "OK"
 #  Platforms: Apple, Windows
 #  Open the folder for add-ons
 msgid "Open Add-on Folder"
-msgstr ""
+msgstr "Apri la cartella dei componenti aggiuntivi"
 
 #  Platforms: Apple, Android, Windows
 msgid "Open Clusters"
@@ -2008,22 +2061,22 @@ msgstr "Ammassi aperti"
 #  Platforms: Windows
 #  Open folder for customization
 msgid "Open Custom Folder"
-msgstr ""
+msgstr "Apri la cartella di personalizzazione"
 
 #  Platforms: Apple, Windows
 #  Open the folder for scripts
 msgid "Open Script Folder"
-msgstr ""
+msgstr "Apri la cartella degli script"
 
 #  Platforms: Apple, Android
 #  Push notification denied state action
 msgid "Open System Settings"
-msgstr ""
+msgstr "Apri le impostazioni di sistema"
 
 #  Platforms: Apple, Android, Windows
 #  Request user consent to open a URL
 msgid "Open URL?"
-msgstr ""
+msgstr "Aprire l'URL?"
 
 #  Platforms: Apple, Windows
 msgid "OpenGL Info"
@@ -2031,11 +2084,11 @@ msgstr "Informazioni su OpenGL"
 
 #  Platforms: Android
 msgid "Opening external file or URL…"
-msgstr ""
+msgstr "Apertura di un file o URL esterno…"
 
 #  Platforms: Apple
 msgid "Operation not permitted."
-msgstr ""
+msgstr "Operazione non consentita."
 
 #  Platforms: Apple, Android, Windows
 msgid "Orbits"
@@ -2053,16 +2106,16 @@ msgstr "Altre caratteristiche"
 #  Platforms: Apple, Android, Windows
 #  Output rendering settings
 msgid "Output"
-msgstr ""
+msgstr "Uscita"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Paludes (Swamps)"
-msgstr ""
+msgstr "Paludes (paludi)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Partial Trajectories"
-msgstr ""
+msgstr "Traiettorie parziali"
 
 #  Platforms: Windows
 #  Paste URL from pasteboard
@@ -2072,55 +2125,55 @@ msgstr "URL copiato"
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Paterae (Irregular Craters)"
-msgstr ""
+msgstr "Paterae (crateri irregolari)"
 
 #  Platforms: Apple, Android, Windows
 #  Flight mode, coordinate system
 msgid "Phase Lock"
-msgstr ""
+msgstr "Blocco di fase"
 
 #  Platforms: Windows
 #  Select time via picker
 msgid "Picker"
-msgstr ""
+msgstr "Selettore"
 
 #  Platforms: Apple
 #  Settings for whether to pinch to zoom by FOV or by distance
 msgid "Pinch Zoom"
-msgstr ""
+msgstr "Zoom con pizzico"
 
 #  Platforms: Apple, Android
 #  Camera control
 msgid "Pitch"
-msgstr ""
+msgstr "Beccheggio"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller action
 msgid "Pitch Down"
-msgstr ""
+msgstr "Inclina verso il basso"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller action
 msgid "Pitch Up"
-msgstr ""
+msgstr "Inclina verso l'alto"
 
 #  Platforms: Apple, Android, Windows
 #  PSF star setting footnote
 msgid "Pixel radius of a unit-irradiance star sprite."
-msgstr ""
+msgstr "Raggio in pixel dello sprite di una stella con irradianza unitaria."
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Plana (Plateaus)"
-msgstr ""
+msgstr "Plana (altopiani)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Planet Rings"
-msgstr ""
+msgstr "Anelli planetari"
 
 #  Platforms: Apple, Android, Windows
 msgid "Planetary Nebulae"
-msgstr ""
+msgstr "Nebulose planetarie"
 
 #  Platforms: Apple, Android, Windows
 msgid "Planets"
@@ -2129,26 +2182,26 @@ msgstr "Pianeti"
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Planitiae (Plains)"
-msgstr ""
+msgstr "Planitiae (pianure)"
 
 #  Platforms: Apple, Android
 #  In eclipse finder, choose an object to find eclipse wth
 msgid "Please choose an object."
-msgstr ""
+msgstr "Scegli un oggetto."
 
 #  Platforms: Apple, Android, Windows
 #  Default email body for feature suggestion
 msgid ""
 "Please describe the feature you want to see in "
 "Celestia."
-msgstr ""
+msgstr "Descrivi la funzionalità che vorresti vedere in Celestia."
 
 #  Platforms: Apple, Android, Windows
 #  Default email body for bug report
 msgid ""
 "Please describe the issue and repro steps, if "
 "known."
-msgstr ""
+msgstr "Descrivi il problema e, se noti, i passaggi per riprodurlo."
 
 #  Platforms: Android
 #  Custom config/data directory path have to be under a specific path
@@ -2156,7 +2209,7 @@ msgstr ""
 msgid ""
 "Please ensure that you have selected a path under "
 "%s."
-msgstr ""
+msgstr "Assicurati di aver selezionato un percorso all'interno di %s."
 
 #  Platforms: Apple, Android
 #  Encountered error while checking updates, possible recovery instruction.
@@ -2164,11 +2217,13 @@ msgid ""
 "Please ensure you have a valid Celestia PLUS "
 "subscription or check again later."
 msgstr ""
+"Assicurati di avere un abbonamento Celestia PLUS valido oppure riprova"
+" più tardi."
 
 #  Platforms: Apple
 #  Message for renaming a favorite item (currently bookmark)
 msgid "Please enter a new name."
-msgstr ""
+msgstr "Inserisci un nuovo nome."
 
 #  Platforms: Apple, Android
 #  In Go to; Android/iOS, Enter the name of an object in Eclipse Finder
@@ -2178,22 +2233,22 @@ msgstr "Inserisci un nome oggetto."
 #  Platforms: Apple, Android
 #  In time settings, enter Julian day for the simulation
 msgid "Please enter Julian day."
-msgstr ""
+msgstr "Inserisci il giorno giuliano."
 
 #  Platforms: Apple
 #, c-format
 msgid "Please enter the time in \"%@\" format."
-msgstr ""
+msgstr "Inserisci l'ora nel formato \"%@\"."
 
 #  Platforms: Android
 #, c-format
 msgid "Please enter the time in \"%s\" format."
-msgstr ""
+msgstr "Inserisci l'ora nel formato \"%s\"."
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Plumes"
-msgstr ""
+msgstr "Pennacchi"
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -2203,12 +2258,12 @@ msgstr "Più"
 #  Platforms: Apple, Android, Windows
 #  PSF star setting
 msgid "Point Radius"
-msgstr ""
+msgstr "Raggio del punto"
 
 #  Platforms: Apple, Android, Windows
 #  Star style
 msgid "Point Spread Function"
-msgstr ""
+msgstr "Funzione di diffusione del punto"
 
 #  Platforms: Apple, Android, Windows
 #  Star style
@@ -2218,21 +2273,21 @@ msgstr "Punti "
 #  Platforms: Android
 #  Image preview of the selected link
 msgid "Preview image of the link"
-msgstr ""
+msgstr "Anteprima dell'immagine del collegamento"
 
 #  Platforms: Apple
 #  Privacy Policy and Service Agreement
 msgid "Privacy Policy and Service Agreement"
-msgstr ""
+msgstr "Informativa sulla privacy e accordo di servizio"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Promontoria (Capes)"
-msgstr ""
+msgstr "Promontoria (promontori)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Protoplanetary Nebulae"
-msgstr ""
+msgstr "Nebulose protoplanetarie"
 
 #  Platforms: Android
 msgid ""
@@ -2243,23 +2298,28 @@ msgid ""
 "each week (for Weekly). Cancel at anytime in "
 "Subscriptions on Google Play."
 msgstr ""
+"L'acquisto sarà disponibile immediatamente. L'abbonamento si rinnoverà"
+" automaticamente e ti verrà addebitato il prezzo qui indicato ogni "
+"anno (per il piano annuale), ogni mese (per il piano mensile) o ogni "
+"settimana (per il piano settimanale). Puoi annullarlo in qualsiasi "
+"momento nella sezione Abbonamenti di Google Play."
 
 #  Platforms: Apple, Android, Windows
 #  Rendering quality settings
 msgid "Quality"
-msgstr ""
+msgstr "Qualità"
 
 #  Platforms: Apple
 #  Equatorial coordinate
 #, c-format
 msgid "RA: %@h %@m %@s"
-msgstr ""
+msgstr "AR: %@h %@m %@s"
 
 #  Platforms: Android, Windows
 #  Equatorial coordinate
 #, c-format
 msgid "RA: %sh %sm %ss"
-msgstr ""
+msgstr "AR: %sh %sm %ss"
 
 #  Platforms: Apple, Android, Windows
 #  In Go to, specify the distance based on the object radius
@@ -2268,12 +2328,12 @@ msgstr "raggi"
 
 #  Platforms: Apple, Android, Windows
 msgid "Ray-Based Dragging"
-msgstr ""
+msgstr "Trascinamento basato sui raggi"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "RB / R1"
-msgstr ""
+msgstr "RB / R1"
 
 #  Platforms: Apple, Windows
 #  Reset time speed to 1x
@@ -2287,15 +2347,18 @@ msgid ""
 "the latest news. You can change which kinds you "
 "receive in Settings."
 msgstr ""
+"Ricevi notifiche sui componenti aggiuntivi in evidenza e sulle ultime "
+"notizie. Puoi scegliere i tipi di notifiche da ricevere nelle "
+"impostazioni."
 
 #  Platforms: Apple, Android, Windows
 msgid "Recent Searches"
-msgstr ""
+msgstr "Ricerche recenti"
 
 #  Platforms: Apple, Android, Windows
 #  Used in Flight Mode
 msgid "Reference Object"
-msgstr ""
+msgstr "Oggetto di riferimento"
 
 #  Platforms: Apple, Android, Windows
 #  Reference vectors for an object
@@ -2307,10 +2370,12 @@ msgid ""
 "Reference vectors are only visible for the "
 "current selected solar system object."
 msgstr ""
+"I vettori di riferimento sono visibili solo per l'oggetto del sistema "
+"solare attualmente selezionato."
 
 #  Platforms: Apple, Android, Windows
 msgid "Reflection Nebulae"
-msgstr ""
+msgstr "Nebulose a riflessione"
 
 #  Platforms: Apple, Android
 #  Button to refresh this list
@@ -2320,93 +2385,93 @@ msgstr "Aggiorna"
 #  Platforms: Windows
 #  Regions settings
 msgid "Region"
-msgstr ""
+msgstr "Regione"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Regiones (Regions)"
-msgstr ""
+msgstr "Regiones (regioni)"
 
 #  Platforms: Apple, Android
 #  Alert title for add-ons that are related to an object
 msgid "Related Add-ons"
-msgstr ""
+msgstr "Componenti aggiuntivi correlati"
 
 #  Platforms: Apple, Android, Windows
 #  Rename a favorite item (currently bookmark)
 msgid "Rename"
-msgstr ""
+msgstr "Rinomina"
 
 #  Platforms: Apple, Android
 #  Information about renderer
 msgid "Render Info"
-msgstr ""
+msgstr "Informazioni sul rendering"
 
 #  Platforms: Apple, Android, Windows
 #  In settings
 msgid "Renderer"
-msgstr ""
+msgstr "Motore di rendering"
 
 #  Platforms: Apple, Android, Windows
 #  Rendering settings
 msgid "Rendering"
-msgstr ""
+msgstr "Rendering"
 
 #  Platforms: Windows
 msgid "Rendering stopped. Please restart Celestia."
-msgstr ""
+msgstr "Rendering interrotto. Riavvia Celestia."
 
 #  Platforms: Apple, Android, Windows
 msgid "Report a Bug"
-msgstr ""
+msgstr "Segnala un errore"
 
 #  Platforms: Windows
 #  Reset a value to default
 msgid "Reset"
-msgstr ""
+msgstr "Ripristina"
 
 #  Platforms: Apple, Android
 #  Reset celestia.cfg, data directory location
 msgid "Reset to Default"
-msgstr ""
+msgstr "Ripristina impostazioni predefinite"
 
 #  Platforms: Apple
 #  Refresh purchase status
 msgid "Restore Purchase"
-msgstr ""
+msgstr "Ripristina acquisto"
 
 #  Platforms: Android
 #  Resume or pause time/script
 msgid "Resume or Pause"
-msgstr ""
+msgstr "Riprendi o metti in pausa"
 
 #  Platforms: Apple, Android
 msgid "Resume/Pause"
-msgstr ""
+msgstr "Riprendi/Pausa"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Reticula (Reticular Patterns)"
-msgstr ""
+msgstr "Reticula (strutture reticolari)"
 
 #  Platforms: Android
 #  Reverse time or travel direction
 msgid "Reverse"
-msgstr ""
+msgstr "Inverti"
 
 #  Platforms: Apple, Android
 #  Reverse camera direction, reverse travel direction
 msgid "Reverse Direction"
-msgstr ""
+msgstr "Inverti direzione"
 
 #  Platforms: Apple, Android, Windows
 msgid "Reverse Mouse Wheel"
-msgstr ""
+msgstr "Inverti la rotellina del mouse"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller action
 msgid "Reverse Observer Orientation"
-msgstr ""
+msgstr "Inverti l'orientamento dell'osservatore"
 
 #  Platforms: Apple, Android, Windows
 msgid "Reverse Time"
@@ -2415,7 +2480,7 @@ msgstr "Inverti il tempo"
 #  Platforms: Apple, Android, Windows
 #  Game controller action
 msgid "Reverse Travel Direction"
-msgstr ""
+msgstr "Inverti la direzione di viaggio"
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -2425,7 +2490,7 @@ msgstr "Freccia destra"
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Rimae (Fissures)"
-msgstr ""
+msgstr "Rimae (fessure)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Ring Shadows"
@@ -2434,32 +2499,32 @@ msgstr "Ombre degli anelli"
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Rings"
-msgstr ""
+msgstr "Anelli"
 
 #  Platforms: Apple, Android
 #  Camera control
 msgid "Roll"
-msgstr ""
+msgstr "Rollio"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller action
 msgid "Roll Left"
-msgstr ""
+msgstr "Rollio a sinistra"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller action
 msgid "Roll Right"
-msgstr ""
+msgstr "Rollio a destra"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "RT / R2"
-msgstr ""
+msgstr "RT / R2"
 
 #  Platforms: Apple, Android, Windows
 #  Run a script
 msgid "Run"
-msgstr ""
+msgstr "Esegui"
 
 #  Platforms: Apple, Android, Windows
 msgid "Run Demo"
@@ -2468,31 +2533,31 @@ msgstr "Lancia la demo "
 #  Platforms: Apple, Android, Windows
 #  Request user consent to run a script
 msgid "Run script?"
-msgstr ""
+msgstr "Eseguire lo script?"
 
 #  Platforms: Apple, Windows
 msgid "Run Script…"
-msgstr ""
+msgstr "Esegui script…"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Rupes (Scarps)"
-msgstr ""
+msgstr "Rupes (scarpate)"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Satellite Features"
-msgstr ""
+msgstr "Formazioni satelliti"
 
 #  Platforms: Apple, Android
 #  Save push notification preferences
 msgid "Save"
-msgstr ""
+msgstr "Salva"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Saxa (Boulders)"
-msgstr ""
+msgstr "Saxa (massi)"
 
 #  Platforms: Apple, Android, Windows
 #  Star style
@@ -2502,21 +2567,21 @@ msgstr "Dischi in scala "
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Scopuli (Irregular Scarps)"
-msgstr ""
+msgstr "Scopuli (scarpate irregolari)"
 
 #  Platforms: Apple, Android
 msgid "Script Control"
-msgstr ""
+msgstr "Controllo degli script"
 
 #  Platforms: Apple, Android, Windows
 #  Alert title for scripts requesting system access
 msgid "Script System Access"
-msgstr ""
+msgstr "Accesso dello script al sistema"
 
 #  Platforms: Apple, Android, Windows
 #  Policy for managing lua script's access to the system
 msgid "Script System Access Policy"
-msgstr ""
+msgstr "Criterio di accesso degli script al sistema"
 
 #  Platforms: Apple, Android, Windows
 msgid "Scripts"
@@ -2525,7 +2590,7 @@ msgstr "Scripts"
 #  Platforms: Apple, Android
 #  URL for Scripts and URLs wiki
 msgid "Scripts and URLs"
-msgstr ""
+msgstr "Script e URL"
 
 #  Platforms: Apple, Android, Windows
 msgid "Search"
@@ -2534,17 +2599,17 @@ msgstr "Cerca"
 #  Platforms: Apple, Android
 #  Description for search add-ons video
 msgid "Search Add-ons"
-msgstr ""
+msgstr "Cerca componenti aggiuntivi"
 
 #  Platforms: Apple, Windows
 #  Menu item to start searching
 msgid "Search…"
-msgstr ""
+msgstr "Cerca…"
 
 #  Platforms: Apple, Android, Windows
 #  Security settings title
 msgid "Security"
-msgstr ""
+msgstr "Sicurezza"
 
 #  Platforms: Apple, Android, Windows
 #  Select an object
@@ -2558,7 +2623,7 @@ msgstr "Seleziona Sole "
 #  Platforms: Apple, Android
 #  Select simulation time
 msgid "Select Time"
-msgstr ""
+msgstr "Seleziona l'ora"
 
 #  Platforms: Windows
 #  Select a destination in tour guide
@@ -2568,31 +2633,31 @@ msgstr "Seleziona la destinazione:"
 #  Platforms: Windows
 #  Error message, the time in the picker is considered out of range by the system
 msgid "Selected time is out of range."
-msgstr ""
+msgstr "L'ora selezionata è fuori intervallo."
 
 #  Platforms: Apple, Android
 msgid "Send Feedback"
-msgstr ""
+msgstr "Invia un commento"
 
 #  Platforms: Apple, Android, Windows
 #  Setting for sensitivity for selecting an object
 msgid "Sensitivity"
-msgstr ""
+msgstr "Sensibilità"
 
 #  Platforms: Apple, Android, Windows
 #  Notes for the sensitivity setting
 msgid "Sensitivity for object selection"
-msgstr ""
+msgstr "Sensibilità per la selezione degli oggetti"
 
 #  Platforms: Apple, Android, Windows
 #  Atmosphere rendering quality setting
 msgid "Separate Rayleigh and Mie Scale Heights"
-msgstr ""
+msgstr "Altezze di scala separate per Rayleigh e Mie"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Serpentes (Serpentine Features)"
-msgstr ""
+msgstr "Serpentes (formazioni sinuose)"
 
 #  Platforms: Windows
 #  Button to confirm selected simulation time
@@ -2601,7 +2666,7 @@ msgstr "Imposta l'ora…"
 
 #  Platforms: Apple, Android, Windows
 msgid "Set time to mid-eclipse"
-msgstr ""
+msgstr "Imposta l'ora al centro dell'eclissi"
 
 #  Platforms: Apple, Windows
 #  Select simulation time
@@ -2624,7 +2689,7 @@ msgstr "Impostazioni…"
 #  Platforms: Apple, Android, Windows
 #  Resolution of shadow maps
 msgid "Shadow Resolution"
-msgstr ""
+msgstr "Risoluzione delle ombre"
 
 #  Platforms: Apple, Android, Windows
 #  Change requires a restart
@@ -2632,15 +2697,17 @@ msgid ""
 "Shadow resolution changes take effect after a "
 "restart."
 msgstr ""
+"Le modifiche alla risoluzione delle ombre avranno effetto dopo un "
+"riavvio."
 
 #  Platforms: Apple, Android, Windows
 #  Shadow rendering quality settings
 msgid "Shadows"
-msgstr ""
+msgstr "Ombre"
 
 #  Platforms: Apple, Android
 msgid "Share"
-msgstr ""
+msgstr "Condividi"
 
 #  Platforms: Apple, Android, Windows
 #  Reference vector
@@ -2655,7 +2722,7 @@ msgstr "Mostra i confini"
 #  Platforms: Apple, Android, Windows
 #  Show constellation diagrams
 msgid "Show Diagrams"
-msgstr ""
+msgstr "Mostra le figure delle costellazioni"
 
 #  Platforms: Apple, Android, Windows
 #  Reference vector
@@ -2683,7 +2750,7 @@ msgstr "Mostra i marcatori"
 #  Platforms: Apple, Android, Windows
 #  Menu action to indicate that more items that are not shown in the menu
 msgid "Show More…"
-msgstr ""
+msgstr "Mostra altro…"
 
 #  Platforms: Apple, Android, Windows
 msgid "Show Orbits"
@@ -2712,39 +2779,39 @@ msgstr "Mostra il vettore velocità"
 #  Platforms: Apple
 #, c-format
 msgid "Sidereal rotation period: %@"
-msgstr ""
+msgstr "Periodo di rotazione siderale: %@"
 
 #  Platforms: Android, Windows
 #, c-format
 msgid "Sidereal rotation period: %s"
-msgstr ""
+msgstr "Periodo di rotazione siderale: %s"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Sinus (Bays)"
-msgstr ""
+msgstr "Sinus (baie)"
 
 #  Platforms: Apple
 #  Size of an object
 #, c-format
 msgid "Size: %@"
-msgstr ""
+msgstr "Dimensione: %@"
 
 #  Platforms: Android, Windows
 #  Size of an object
 #, c-format
 msgid "Size: %s"
-msgstr ""
+msgstr "Dimensione: %s"
 
 #  Platforms: Apple, Android
 #  Make time go more slowly
 msgid "Slower"
-msgstr ""
+msgstr "Più lento"
 
 #  Platforms: Apple, Android, Windows
 #  Smooth lines for rendering
 msgid "Smooth Lines"
-msgstr ""
+msgstr "Linee smussate"
 
 #  Platforms: Apple, Android, Windows
 #  PSF star setting footnote
@@ -2752,6 +2819,8 @@ msgid ""
 "Soft upper limit on per-star peak irradiance to "
 "prevent bloom saturation."
 msgstr ""
+"Limite superiore graduale all'irradianza di picco di ogni stella per "
+"evitare la saturazione del bagliore."
 
 #  Platforms: Apple, Android, Windows
 #  PSF star setting footnote
@@ -2759,11 +2828,13 @@ msgid ""
 "Soft-clips dim stars below this multiple of the "
 "perceptual visibility floor."
 msgstr ""
+"Attenua gradualmente le stelle deboli al di sotto di questo multiplo "
+"della soglia di visibilità percettiva."
 
 #  Platforms: Apple, Android, Windows
 #  Solar eclipses.
 msgid "Solar"
-msgstr ""
+msgstr "Solari"
 
 #  Platforms: Apple, Android, Windows
 #  Tab for solar system in Star Browser
@@ -2774,7 +2845,7 @@ msgstr "Sistema solare"
 msgid ""
 "Some configurations will take effect after a "
 "restart."
-msgstr ""
+msgstr "Alcune impostazioni avranno effetto dopo un riavvio."
 
 #  Platforms: Apple, Android, Windows
 #  Plural
@@ -2784,21 +2855,21 @@ msgstr "Veicoli Spaziali"
 #  Platforms: Apple
 #, c-format
 msgid "Spectral type: %@"
-msgstr ""
+msgstr "Tipo spettrale: %@"
 
 #  Platforms: Android, Windows
 #, c-format
 msgid "Spectral type: %s"
-msgstr ""
+msgstr "Tipo spettrale: %s"
 
 #  Platforms: Apple, Android
 #  Speed control
 msgid "Speed Control"
-msgstr ""
+msgstr "Controllo della velocità"
 
 #  Platforms: Apple, Android, Windows
 msgid "Spiral Galaxies"
-msgstr ""
+msgstr "Galassie a spirale"
 
 #  Platforms: Apple, Windows
 #  Split view
@@ -2817,7 +2888,7 @@ msgstr "Quadrato"
 
 #  Platforms: Apple, Android, Windows
 msgid "sRGB Rendering (Experimental)"
-msgstr ""
+msgstr "Rendering sRGB (sperimentale)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Star Browser"
@@ -2825,7 +2896,7 @@ msgstr "Navigatore celeste"
 
 #  Platforms: Apple, Android, Windows
 msgid "Star Colors"
-msgstr ""
+msgstr "Colori delle stelle"
 
 #  Platforms: Apple, Android, Windows
 msgid "Star Style"
@@ -2839,13 +2910,13 @@ msgstr "Stelle"
 
 #  Platforms: Apple, Android, Windows
 msgid "Stars with Planets"
-msgstr ""
+msgstr "Stelle con pianeti"
 
 #  Platforms: Windows
 #  Template for displaying when start time cannot be correctly formatted by the system
 #, c-format
 msgid "Start Julian day: %s"
-msgstr ""
+msgstr "Giorno giuliano iniziale: %s"
 
 #  Platforms: Apple, Android
 #  In eclipse finder, range of time to find eclipse in
@@ -2855,62 +2926,62 @@ msgstr "Avvio"
 #  Platforms: Windows
 #  In eclipse finder, range of time to find eclipse in
 msgid "Start time:"
-msgstr ""
+msgstr "Ora iniziale:"
 
 #  Platforms: Apple
 #  Template for the start time of a body, usually a spacecraft
 #, c-format
 msgid "Start time: %@"
-msgstr ""
+msgstr "Ora iniziale: %@"
 
 #  Platforms: Android, Windows
 #  Template for the start time of a body, usually a spacecraft
 #, c-format
 msgid "Start time: %s"
-msgstr ""
+msgstr "Ora iniziale: %s"
 
 #  Platforms: Apple, Android
 #  Push notification opt-in dialog title
 msgid "Stay Updated"
-msgstr ""
+msgstr "Rimani aggiornato"
 
 #  Platforms: Apple, Android, Windows
 #  Interupt the process of finding eclipse/Set traveling speed to 0
 msgid "Stop"
-msgstr ""
+msgstr "Ferma"
 
 #  Platforms: Apple, Android, Windows
 #  Subsystem of an object (e.g. planetarium system)
 msgid "Subsystem"
-msgstr ""
+msgstr "Sottosistema"
 
 #  Platforms: Apple, Android, Windows
 msgid "Suggest a Feature"
-msgstr ""
+msgstr "Suggerisci una funzionalità"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Sulci (Parallel Grooves)"
-msgstr ""
+msgstr "Sulci (solchi paralleli)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Supernova Remnants"
-msgstr ""
+msgstr "Resti di supernova"
 
 #  Platforms: Apple, Android
 #  Description for support project card
 msgid "Support the Project"
-msgstr ""
+msgstr "Sostieni il progetto"
 
 #  Platforms: Apple, Android
 #  Move/zoom camera FOV
 msgid "Switched to camera mode"
-msgstr ""
+msgstr "Modalità camera attivata"
 
 #  Platforms: Apple, Android
 #  Move/zoom on an object
 msgid "Switched to object mode"
-msgstr ""
+msgstr "Modalità oggetto attivata"
 
 #  Platforms: Apple, Android, Windows
 msgid "Sync Orbit"
@@ -2922,27 +2993,29 @@ msgstr "Sincronizza l'orbita della selezione "
 
 #  Platforms: Android
 msgid "System Fonts"
-msgstr ""
+msgstr "Caratteri di sistema"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller action
 msgid "Tap Center"
-msgstr ""
+msgstr "Tocca il centro"
 
 #  Platforms: Apple, Android
 msgid ""
 "Tap the mode button on the sidebar to switch "
 "between object mode and camera mode."
 msgstr ""
+"Tocca il pulsante della modalità nella barra laterale per passare "
+"dalla modalità oggetto alla modalità camera."
 
 #  Platforms: Apple, Android, Windows
 #  Used in Flight Mode
 msgid "Target Object"
-msgstr ""
+msgstr "Oggetto di destinazione"
 
 #  Platforms: Apple, Android, Windows
 msgid "Temperature Scale"
-msgstr ""
+msgstr "Scala di temperatura"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -2957,7 +3030,7 @@ msgstr "Conciso"
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Tesserae (Tile-like Terrain)"
-msgstr ""
+msgstr "Tesserae (terreni a mosaico)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Texture Resolution"
@@ -2966,17 +3039,17 @@ msgstr "Risoluzione mappe "
 #  Platforms: Apple, Android, Windows
 #  Texture rendering quality settings
 msgid "Textures"
-msgstr ""
+msgstr "Texture"
 
 #  Platforms: Android
 msgid "This feature is not supported."
-msgstr ""
+msgstr "Questa funzionalità non è supportata."
 
 #  Platforms: Apple, Android
 msgid ""
 "This feature is only available to Celestia PLUS "
 "users."
-msgstr ""
+msgstr "Questa funzionalità è disponibile solo per gli utenti Celestia PLUS."
 
 #  Platforms: Apple, Android, Windows
 #  Alert message for scripts requesting system access
@@ -2986,16 +3059,19 @@ msgid ""
 "this can be dangerous.\n"
 "Do you trust the script and want to allow this?"
 msgstr ""
+"Questo script richiede il permesso di leggere e scrivere file ed "
+"eseguire programmi esterni. Consentirlo può essere pericoloso.\n"
+"Ti fidi dello script e vuoi autorizzarlo?"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Tholi (Small Domes)"
-msgstr ""
+msgstr "Tholi (piccole cupole)"
 
 #  Platforms: Apple, Android, Windows
 #  Settings for game controller thumbsticks
 msgid "Thumbsticks"
-msgstr ""
+msgstr "Levette analogiche"
 
 #  Platforms: Apple, Windows
 msgid "Time"
@@ -3004,25 +3080,27 @@ msgstr "Tempo"
 #  Platforms: Apple, Android, Windows
 #  time and region related settings
 msgid "Time & Region"
-msgstr ""
+msgstr "Ora e regione"
 
 #  Platforms: Apple, Android
 msgid "Time Control"
-msgstr ""
+msgstr "Controllo del tempo"
 
 #  Platforms: Apple, Android, Windows
 msgid "Time Zone"
-msgstr ""
+msgstr "Fuso orario"
 
 #  Platforms: Apple, Android, Windows
 msgid "Tinted Illumination Saturation"
-msgstr ""
+msgstr "Saturazione dell'illuminazione colorata"
 
 #  Platforms: Apple, Android, Windows
 msgid ""
 "Tinted illumination saturation setting is only "
 "effective with Blackbody star colors."
 msgstr ""
+"L'impostazione della saturazione dell'illuminazione colorata ha "
+"effetto solo con i colori stellari di corpo nero."
 
 #  Platforms: Apple, Android
 #  Alert message for requiring Celestia PLUS to access add-ons that are related to an object
@@ -3030,45 +3108,47 @@ msgid ""
 "To access related add-ons, you need to have an "
 "active Celestia PLUS subscription."
 msgstr ""
+"Per accedere ai componenti aggiuntivi correlati è necessario un "
+"abbonamento Celestia PLUS attivo."
 
 #  Platforms: Apple, Android
 #  Toggle console log display on overlay
 msgid "Toggle Console Display"
-msgstr ""
+msgstr "Mostra/Nascondi la console"
 
 #  Platforms: Apple, Android
 #  Toggle FPS display on overlay
 msgid "Toggle FPS Display"
-msgstr ""
+msgstr "Mostra/Nascondi gli FPS"
 
 #  Platforms: Windows
 msgid "Toggle Fullscreen"
-msgstr ""
+msgstr "Attiva/Disattiva schermo intero"
 
 #  Platforms: Apple, Android
 #  Touch interaction mode
 msgid "Toggle Interaction Mode"
-msgstr ""
+msgstr "Cambia modalità di interazione"
 
 #  Platforms: Apple, Android, Windows
 #  Tone mapping setting
 msgid "Tone Mapping"
-msgstr ""
+msgstr "Mappatura tonale"
 
 #  Platforms: Apple, Android
 #  Toolbar customization entry in Settings
 msgid "Toolbar"
-msgstr ""
+msgstr "Barra degli strumenti"
 
 #  Platforms: Apple, Android
 #  Description for toolbar customization video
 msgid "Toolbar Customization"
-msgstr ""
+msgstr "Personalizzazione della barra degli strumenti"
 
 #  Platforms: Apple, Windows
 #  Tools menu title
 msgid "Tools"
-msgstr ""
+msgstr "Strumenti"
 
 #  Platforms: Windows
 msgid "Tour Guide"
@@ -3077,7 +3157,7 @@ msgstr "Visita guidata"
 #  Platforms: Apple, Android, Windows
 #  Track an object
 msgid "Track"
-msgstr ""
+msgstr "Aggancia"
 
 #  Platforms: Apple, Windows
 #  Track selected object
@@ -3087,12 +3167,12 @@ msgstr "Aggancia la selezione "
 #  Platforms: Apple, Android, Windows
 #  Game controller action
 msgid "Travel Faster"
-msgstr ""
+msgstr "Aumenta la velocità di viaggio"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller action
 msgid "Travel Slower"
-msgstr ""
+msgstr "Riduci la velocità di viaggio"
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -3102,31 +3182,31 @@ msgstr "Triangolo"
 #  Platforms: Apple, Android
 #  Free trial on subscription service
 msgid "Try for Free"
-msgstr ""
+msgstr "Prova gratis"
 
 #  Platforms: Apple, Android
 #  Failed to generate an image for sharing
 msgid "Unable to generate image."
-msgstr ""
+msgstr "Impossibile generare l'immagine."
 
 #  Platforms: Android
 #  Custom config/data directory path have to be under a specific path
 msgid "Unable to resolve path"
-msgstr ""
+msgstr "Impossibile risolvere il percorso"
 
 #  Platforms: Apple, Android
 msgid "Unable to uninstall add-on."
-msgstr ""
+msgstr "Impossibile disinstallare il componente aggiuntivo."
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Undae (Dunes)"
-msgstr ""
+msgstr "Undae (dune)"
 
 #  Platforms: Apple, Android, Windows
 #  Uninstall an add-on
 msgid "Uninstall"
-msgstr ""
+msgstr "Disinstalla"
 
 #  Platforms: Apple
 msgid "Unknown"
@@ -3134,11 +3214,11 @@ msgstr "Errore sconosciuto in apertura dello script"
 
 #  Platforms: Android
 msgid "Unknown error"
-msgstr ""
+msgstr "Errore sconosciuto"
 
 #  Platforms: Apple, Android, Windows
 msgid "Unknown Nebulae"
-msgstr ""
+msgstr "Nebulose di tipo sconosciuto"
 
 #  Platforms: Apple, Android, Windows
 #  Unmark an object
@@ -3153,11 +3233,11 @@ msgstr "Rimuovi tutti i marcatori "
 #  Platforms: Apple, Android
 #  String not in correct format
 msgid "Unrecognized time string."
-msgstr ""
+msgstr "Stringa dell'ora non riconosciuta."
 
 #  Platforms: Android
 msgid "Unsupported action."
-msgstr ""
+msgstr "Azione non supportata."
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -3166,32 +3246,32 @@ msgstr "Freccia su"
 
 #  Platforms: Apple, Android, Windows
 msgid "Update"
-msgstr ""
+msgstr "Aggiorna"
 
 #  Platforms: Apple, Android
 #  View the list of add-ons that have pending updates.
 msgid "Updates"
-msgstr ""
+msgstr "Aggiornamenti"
 
 #  Platforms: Apple, Android
 #  Upgrade subscription service
 msgid "Upgrade"
-msgstr ""
+msgstr "Passa a un piano superiore"
 
 #  Platforms: Apple, Android
 #  Sharing option, URL
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #  Platforms: Apple, Android
 #  URL for Use Add-ons and Scripts wiki
 msgid "Use Add-ons and Scripts"
-msgstr ""
+msgstr "Usare componenti aggiuntivi e script"
 
 #  Platforms: Apple, Android, Windows
 #  Option to use a spacecraft as cockpit
 msgid "Use as Cockpit"
-msgstr ""
+msgstr "Usa come cabina di pilotaggio"
 
 #  Platforms: Apple, Android, Windows
 msgid "UTC"
@@ -3209,7 +3289,7 @@ msgstr "Valli"
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Vastitates (Widespread Lowlands)"
-msgstr ""
+msgstr "Vastitates (vaste bassure)"
 
 #  Platforms: Apple, Android, Windows
 #  Verbose HUD display
@@ -3218,7 +3298,7 @@ msgstr "Dettagliato"
 
 #  Platforms: Apple, Windows
 msgid "View Eclipse"
-msgstr ""
+msgstr "Visualizza l'eclissi"
 
 #  Platforms: Windows
 #  Menu for split views
@@ -3228,7 +3308,7 @@ msgstr "Vista "
 #  Platforms: Apple, Android, Windows
 #  Location labels
 msgid "Virgae (Streaks)"
-msgstr ""
+msgstr "Virgae (striature)"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -3237,12 +3317,12 @@ msgstr "Vulcani"
 
 #  Platforms: Android
 msgid "We are processing your purchase"
-msgstr ""
+msgstr "Stiamo elaborando il tuo acquisto"
 
 #  Platforms: Apple, Android
 #  Error loading the subscription page
 msgid "We encountered an error."
-msgstr ""
+msgstr "Si è verificato un errore."
 
 #  Platforms: Apple, Android
 #  Web info for an object
@@ -3252,22 +3332,22 @@ msgstr "Informazioni "
 #  Platforms: Android, Windows
 #  WebView component is missing or disabled
 msgid "WebView is not available."
-msgstr ""
+msgstr "WebView non è disponibile."
 
 #  Platforms: Apple, Android
 #  Weekly subscription
 msgid "Weekly"
-msgstr ""
+msgstr "Settimanale"
 
 #  Platforms: Apple, Android
 #  Push notification content type — weekly featured add-on
 msgid "Weekly Add-on"
-msgstr ""
+msgstr "Componente aggiuntivo della settimana"
 
 #  Platforms: Apple, Android
 #  Welcome message
 msgid "Welcome to Celestia"
-msgstr ""
+msgstr "Benvenuto in Celestia"
 
 #  Platforms: Android
 #  Warning text for using virtual display in Celestia
@@ -3276,6 +3356,9 @@ msgid ""
 "after disconnecting. If casting fails, please "
 "check the FAQ."
 msgstr ""
+"Gli schermi wireless possono talvolta rimanere «attivi» dopo la "
+"disconnessione. Se la trasmissione non funziona, consulta le domande "
+"frequenti."
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -3285,56 +3368,56 @@ msgstr "X"
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "X / Square"
-msgstr ""
+msgstr "X / Quadrato"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller button
 msgid "Y / Triangle"
-msgstr ""
+msgstr "Y / Triangolo"
 
 #  Platforms: Apple, Android
 #  Camera control
 msgid "Yaw"
-msgstr ""
+msgstr "Imbardata"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller action
 msgid "Yaw Left"
-msgstr ""
+msgstr "Imbardata a sinistra"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller action
 msgid "Yaw Right"
-msgstr ""
+msgstr "Imbardata a destra"
 
 #  Platforms: Apple, Android
 #  Yearly subscription
 msgid "Yearly"
-msgstr ""
+msgstr "Annuale"
 
 #  Platforms: Apple, Android
 msgid "Your purchase is pending"
-msgstr ""
+msgstr "Il tuo acquisto è in sospeso"
 
 #  Platforms: Apple, Android, Windows
 msgid "YYYY MMM DD HH:MM:SS TZ"
-msgstr ""
+msgstr "AAAA MMM GG HH:MM:SS TZ"
 
 #  Platforms: Apple, Android
 #  Zoom in/out in Camera Control, this changes the relative distance to the object
 msgid "Zoom (Distance)"
-msgstr ""
+msgstr "Zoom (distanza)"
 
 #  Platforms: Apple, Android
 msgid "Zoom In"
-msgstr ""
+msgstr "Avvicina"
 
 #  Platforms: Apple, Android
 msgid "Zoom Out"
-msgstr ""
+msgstr "Allontana"
 
 #  Platforms: Apple, Android, Windows
 msgid ""
 "Zooming behavior keeping the original focus "
 "location on screen"
-msgstr ""
+msgstr "Zoom che mantiene sullo schermo la posizione del punto iniziale"

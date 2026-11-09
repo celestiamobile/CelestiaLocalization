@@ -1,0 +1,107 @@
+"COMMON_LOADING_ERROR" = "خطأ في التحميل.";
+"COMMON_OPEN_IN_CELESTIA" = "فتح في Celestia";
+"COMMON_OPEN_IN_CELESTIA_RECOMMENDED" = "فتح في Celestia (مستحسن)";
+"COMMON_DOWNLOAD" = "تنزيل";
+"ADDON_AUTHOR_TEMPLATE" = "المؤلف: %@";
+"ADDON_RELEASE_DATE_TEMPLATE" = "تاريخ الإصدار: %@";
+"ADDON_LAST_UPDATED_TEMPLATE" = "آخر تحديث: %@";
+"ADDON_INSTALL_HINT" = "ملاحظة: يلزم إعادة تشغيل Celestia لاستخدام أي إضافة مثبتة حديثًا.";
+"ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ أو %@";
+"ADDON_INSTALL_ADDON_HELP_TEMPLATE" = "كيفية تثبيت الإضافات؟ تعرّف على ذلك %@.";
+"ADDON_INSTALL_ADDON_HELP_ACTION" = "هنا";
+"GUIDE_TYPE_NEWS_TITLE" = "الأخبار";
+"GUIDE_TYPE_TOOLS_TITLE" = "الأدوات";
+"GUIDE_TYPE_TUTORIALS_TITLE" = "الدروس";
+
+"ARTICLE_PUBLISH_DATE_TEMPLATE" = "تاريخ النشر: %@";
+
+"ADDON_CATEGORY_TITLE" = "فئات الإضافات";
+"ADDON_CATEGORY_DESCRIPTION" = "فئات الإضافات";
+"ADDON_MADE_BY_AUTHOR_TITLE_TEMPLATE" = "إضافات من إعداد %@";
+"ADDON_FOR_OBJECT_TITLE_TEMPLATE" = "إضافات لـ %@";
+
+"EMPTY_ADDON_LIST_TITLE" = "لم يتم العثور على إضافات";
+
+"COMMON_ERROR_TITLE" = "خطأ";
+
+"ERROR_NOT_FOUND" = "المحتوى المطلوب غير موجود.";
+"ERROR_FIELDS_MISSING" = "بعض الحقول مفقودة في الطلب.";
+"ERROR_INCORRECT_PARAMETERS" = "بعض المعلمات غير صحيحة.";
+"ERROR_INTERNAL_ERROR" = "خطأ داخلي في الخادم.";
+
+"ADDON_INSTALL_HINT_NO_DEMO_OBJECT" = "ملاحظة: يلزم إعادة تشغيل Celestia لاستخدام أي إضافة مثبتة حديثًا. هذه الإضافة لا تحتوي على كائن تجريبي، لذا يظهر فقط خيار \"إلغاء التثبيت\". يرجى الانتقال إلى الكائن باستخدام البحث.";
+
+"COMMON_DESCRIPTION_SHOW_MORE" = "…";
+
+"TAB_HOME_TITLE" = "الرئيسية";
+"TAB_DOWNLOADS_TITLE" = "التنزيلات";
+"TAB_NEWS_TITLE" = "الأخبار";
+"TAB_TUTORIALS_TITLE" = "الدروس";
+"TAB_TOOLS_TITLE" = "الأدوات";
+"TAB_ADDONS_TITLE" = "الإضافات";
+"TAB_ABOUT_TITLE" = "حول";
+
+"FRONT_PAGE_TITLE" = "Celestia";
+"FRONT_PAGE_DESCRIPTION_MESSAGE" = "Celestia هو محاكي فضاء مجاني لأنظمة Windows وLinux وmacOS وiOS وAndroid. يمكنك استكشاف الفضاء بحرية في ثلاثة أبعاد.";
+
+"PAGE_DESCRIPTION_DEFAULT" = "احصل على Celestia";
+
+"FRONT_PAGE_SUBHEADLINE_MESSAGE" = "تمثيل ثلاثي الأبعاد للفضاء في الوقت الفعلي";
+"FRONT_PAGE_DOWNLOAD_BUTTON_TEXT" = "تنزيل Celestia";
+"FRONT_PAGE_DESCRIPTION_HEADER_1" = "محاكي فضاء ثلاثي الأبعاد";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_1" = "يحاكي Celestia أنواعًا مختلفة من الأجرام السماوية. من الكواكب والأقمار إلى العناقيد النجمية والمجرات، يمكنك زيارة كل جرم في قاعدة البيانات القابلة للتوسعة ورؤيته من أي نقطة في الزمان والمكان. تُحسب مواقع وحركة أجرام النظام الشمسي بدقة في الوقت الفعلي وبأي معدل تريده.";
+"FRONT_PAGE_DESCRIPTION_HEADER_2" = "قبة فلكية تفاعلية";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_2" = "يعمل Celestia كقبة فلكية لمراقب يقف على أي جرم سماوي. يمكنك بسهولة الانتقال إلى أي عالم والهبوط على سطحه. يعرض Celestia المواقع الدقيقة لأجرام النظام الشمسي في السماء، مع تسميات وميزات داعمة يمكنك تشغيلها أو إيقافها.";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_3" = "محتوى قابل للتوسعة";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_TEMPLATE" = "يمكن توسيع كتالوجات Celestia بسهولة عبر الإضافات التي تحتوي على أجرام جديدة مثل المذنبات أو النجوم، وزخارف عالية الدقة، ونماذج ثلاثية الأبعاد للكويكبات والمركبات الفضائية في مدارات دقيقة، وحتى أجرام خيالية من سلاسل خيال علمي معروفة. هل تريد عرض عملك؟ أرسل إضافتك %@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_ARG1" = "هنا";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_4" = "الخصوصية والترخيص";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_TEMPLATE" = "يجمع Celestia البيانات فقط لأغراض التحليل والتشخيص. راجع %1$@. Celestia مرخّص بموجب %2$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG1" = "سياسة الخصوصية";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG2" = "GNU General Public License";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_5" = "التطوير والاعتمادات";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_TEMPLATE" = "Celestia مفتوح المصدر. كود المصدر متاح على %1$@ و%2$@. راجع %3$@ و%4$@. القائمة الكاملة لـ %5$@ و%6$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG1" = "celestiamobile";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG2" = "CelestiaProject";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG3" = "دليل البناء";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG4" = "مكتبات الطرف الثالث";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG5" = "المؤلفين";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG6" = "المترجمين";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_6" = "جهات الاتصال";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_TEMPLATE" = "للمشروع الأصلي Celestia: %1$@ أو %2$@. للواجهات الأمامية أو الموقع الإلكتروني: استخدم الملاحظات داخل التطبيق أو %3$@ أو %4$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG1" = "المنتدى";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG2" = "مناقشات GitHub";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG3" = "مشكلات GitHub";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG4" = "البريد الإلكتروني";
+
+"COMMON_TRANSLATE_THIS_PAGE_TEMPLATE" = "ساعدنا في ترجمة هذه الصفحة %@.";
+"COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "هنا";
+
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "الأكثر مشاهدة";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "أُضيفت مؤخرًا";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "حُدِّثت مؤخرًا";
+
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_DESCRIPTION" = "في ما يلي قائمة بالإضافات الأكثر مشاهدة خلال الأيام الـ 7 الماضية.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_DESCRIPTION" = "في ما يلي قائمة بالإضافات التي أُضيفت مؤخرًا.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_DESCRIPTION" = "في ما يلي قائمة بالإضافات التي حُدِّثت مؤخرًا.";
+
+"ADDON_REQUIRED_DEPENDENCIES" = "التبعيات المطلوبة";
+"COMMON_PREVIOUS" = "السابق";
+"COMMON_NEXT" = "التالي";
+"ADDON_DEPENDENCIES_LOADING_ERROR" = "فشل تحميل التبعيات.";
+
+"CELESTIA_PLUS_LABEL" = "PLUS";
+
+"COMMON_SEARCH_PLACEHOLDER" = "بحث…";
+
+"ADDON_SORT_METHOD_ALPHABETICAL" = "أ-ي";
+"ADDON_SORT_METHOD_RECENTLY_ADDED" = "أُضيفت مؤخرًا";
+"ADDON_SORT_METHOD_RECENTLY_UPDATED" = "حُدِّثت مؤخرًا";
+
+"UNKNOWN_FEATURED_ITEM_TITLE" = "غير معروف";
+"CELESTIA_FEATURED_LABEL" = "مميَّز";
+"PUSH_NOTIFICATION_WEEKLY_ADDON_TITLE_TEMPLATE" = "إضافة الأسبوع: %@";

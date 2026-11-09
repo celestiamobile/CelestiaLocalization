@@ -5,10 +5,6 @@
 "ADDON_AUTHOR_TEMPLATE" = "Autor(es): %@";
 "ADDON_RELEASE_DATE_TEMPLATE" = "Data de lançamento: %@";
 "ADDON_LAST_UPDATED_TEMPLATE" = "Última atualização: %@";
-"ADDON_REQUIRED_DEPENDENCIES" = "Add-ons necessários";
-"COMMON_PREVIOUS" = "Anterior";
-"COMMON_NEXT" = "Próximo";
-"ADDON_DEPENDENCIES_LOADING_ERROR" = "Falha ao carregar dependências.";
 "ADDON_INSTALL_HINT" = "Observação: é necessário reiniciar o Celestia para usar qualquer novo add-on instalado.";
 "ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ ou %@";
 "ADDON_INSTALL_ADDON_HELP_TEMPLATE" = "Como instalar add-ons? Descubra %@.";
@@ -43,18 +39,8 @@
 "TAB_ADDONS_TITLE" = "Add-ons";
 "TAB_ABOUT_TITLE" = "Sobre";
 
-"FRONT_PAGE_WELCOME_MESSAGE" = "Bem-vindo ao Celestia";
 "FRONT_PAGE_TITLE" = "Celestia";
 "FRONT_PAGE_DESCRIPTION_MESSAGE" = "O Celestia é um simulador espacial gratuito para Windows, Linux, macOS, iOS e Android. Você pode explorar o espaço livremente em três dimensões.";
-"DOWNLOAD_AVAILABILITY_TEMPLATE" = "O Celestia está disponível em %@, %@, %@, %@, %@, %@, %@, %@.";
-"DOWNLOAD_PLATFORM_IOS" = "iOS";
-"DOWNLOAD_PLATFORM_IOS_TESTFLIGHT" = "iOS (TestFlight)";
-"DOWNLOAD_PLATFORM_ANDROID_GOOGLE_PLAY" = "Android (Google Play)";
-"DOWNLOAD_PLATFORM_ANDROID_HUAWEI" = "Android (Huawei)";
-"DOWNLOAD_PLATFORM_ANDROID_AMAZON" = "Android (Amazon)";
-"DOWNLOAD_PLATFORM_ANDROID_SIDELOAD" = "Android (Sideload)";
-"DOWNLOAD_PLATFORM_WINDOWS" = "Windows";
-"DOWNLOAD_PLATFORM_MAC" = "macOS";
 
 "PAGE_DESCRIPTION_DEFAULT" = "Obtenha o Celestia";
 
@@ -92,14 +78,27 @@
 "COMMON_TRANSLATE_THIS_PAGE_TEMPLATE" = "Ajude-nos a traduzir esta página %@.";
 "COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "aqui";
 
-"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Most Viewed";
-"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Recently Published";
-"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Recently Updated";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Mais visualizados";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Adicionados recentemente";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Atualizados recentemente";
 
-"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_DESCRIPTION" = "Here is a list of add-ons that are most viewed.";
-"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_DESCRIPTION" = "Here is a list of add-ons that are recently published.";
-"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_DESCRIPTION" = "Here is a list of add-ons that are recently updated.";
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_DESCRIPTION" = "Aqui está uma lista dos add-ons mais visualizados nos últimos 7 dias.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_DESCRIPTION" = "Aqui está uma lista de add-ons adicionados recentemente.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_DESCRIPTION" = "Aqui está uma lista de add-ons atualizados recentemente.";
+
+"ADDON_REQUIRED_DEPENDENCIES" = "Add-ons necessários";
+"COMMON_PREVIOUS" = "Anterior";
+"COMMON_NEXT" = "Próximo";
+"ADDON_DEPENDENCIES_LOADING_ERROR" = "Falha ao carregar dependências.";
 
 "CELESTIA_PLUS_LABEL" = "PLUS";
 
-"COMMON_SEARCH_PLACEHOLDER" = "Search…";
+"COMMON_SEARCH_PLACEHOLDER" = "Pesquisar…";
+
+"ADDON_SORT_METHOD_ALPHABETICAL" = "A-Z";
+"ADDON_SORT_METHOD_RECENTLY_ADDED" = "Adicionados recentemente";
+"ADDON_SORT_METHOD_RECENTLY_UPDATED" = "Atualizados recentemente";
+
+"UNKNOWN_FEATURED_ITEM_TITLE" = "Desconhecido";
+"CELESTIA_FEATURED_LABEL" = "Destaques";
+"PUSH_NOTIFICATION_WEEKLY_ADDON_TITLE_TEMPLATE" = "Add-on da Semana: %@";

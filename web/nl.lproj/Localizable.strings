@@ -1,0 +1,107 @@
+"COMMON_LOADING_ERROR" = "Fout bij laden.";
+"COMMON_OPEN_IN_CELESTIA" = "Openen in Celestia";
+"COMMON_OPEN_IN_CELESTIA_RECOMMENDED" = "Openen in Celestia (aanbevolen)";
+"COMMON_DOWNLOAD" = "Downloaden";
+"ADDON_AUTHOR_TEMPLATE" = "Auteur(s): %@";
+"ADDON_RELEASE_DATE_TEMPLATE" = "Releasedatum: %@";
+"ADDON_LAST_UPDATED_TEMPLATE" = "Laatst bijgewerkt: %@";
+"ADDON_INSTALL_HINT" = "Let op: Celestia moet opnieuw worden gestart om nieuwe geïnstalleerde add-ons te gebruiken.";
+"ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ of %@";
+"ADDON_INSTALL_ADDON_HELP_TEMPLATE" = "Hoe installeer je add-ons? Lees er %@ meer over.";
+"ADDON_INSTALL_ADDON_HELP_ACTION" = "hier";
+"GUIDE_TYPE_NEWS_TITLE" = "Nieuws";
+"GUIDE_TYPE_TOOLS_TITLE" = "Hulpmiddelen";
+"GUIDE_TYPE_TUTORIALS_TITLE" = "Handleidingen";
+
+"ARTICLE_PUBLISH_DATE_TEMPLATE" = "Publicatiedatum: %@";
+
+"ADDON_CATEGORY_TITLE" = "Add-on-categorieën";
+"ADDON_CATEGORY_DESCRIPTION" = "Add-on-categorieën";
+"ADDON_MADE_BY_AUTHOR_TITLE_TEMPLATE" = "Add-ons gemaakt door %@";
+"ADDON_FOR_OBJECT_TITLE_TEMPLATE" = "Add-ons voor %@";
+
+"EMPTY_ADDON_LIST_TITLE" = "Geen add-on gevonden";
+
+"COMMON_ERROR_TITLE" = "Fout";
+
+"ERROR_NOT_FOUND" = "De gevraagde inhoud is niet gevonden.";
+"ERROR_FIELDS_MISSING" = "Sommige velden ontbreken in de aanvraag.";
+"ERROR_INCORRECT_PARAMETERS" = "Sommige parameters waren onjuist.";
+"ERROR_INTERNAL_ERROR" = "Interne serverfout.";
+
+"ADDON_INSTALL_HINT_NO_DEMO_OBJECT" = "Let op: Celestia moet opnieuw worden gestart om nieuwe geïnstalleerde add-ons te gebruiken. Deze add-on heeft geen demonstratieobject, dus alleen de optie ‘Verwijderen’ is zichtbaar; navigeer naar het object via zoeken.";
+
+"COMMON_DESCRIPTION_SHOW_MORE" = "…";
+
+"TAB_HOME_TITLE" = "Start";
+"TAB_DOWNLOADS_TITLE" = "Downloads";
+"TAB_NEWS_TITLE" = "Nieuws";
+"TAB_TUTORIALS_TITLE" = "Handleidingen";
+"TAB_TOOLS_TITLE" = "Hulpmiddelen";
+"TAB_ADDONS_TITLE" = "Add-ons";
+"TAB_ABOUT_TITLE" = "Over";
+
+"FRONT_PAGE_TITLE" = "Celestia";
+"FRONT_PAGE_DESCRIPTION_MESSAGE" = "Celestia is een gratis ruimtesimulator voor Windows, Linux, macOS, iOS en Android. Je kunt de ruimte vrij verkennen in drie dimensies.";
+
+"PAGE_DESCRIPTION_DEFAULT" = "Celestia downloaden";
+
+"FRONT_PAGE_SUBHEADLINE_MESSAGE" = "Realtime 3D-visualisatie van de ruimte";
+"FRONT_PAGE_DOWNLOAD_BUTTON_TEXT" = "Celestia downloaden";
+"FRONT_PAGE_DESCRIPTION_HEADER_1" = "3D-ruimtesimulator";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_1" = "Celestia simuleert veel verschillende soorten hemellichamen. Van planeten en manen tot sterrenhopen en sterrenstelsels: je kunt elk object in de uitbreidbare database bezoeken en bekijken vanuit elk punt in ruimte en tijd. De positie en beweging van zonnestelselobjecten worden in realtime nauwkeurig berekend op elke gewenste snelheid.";
+"FRONT_PAGE_DESCRIPTION_HEADER_2" = "Interactief planetarium";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_2" = "Celestia fungeert als planetarium voor een waarnemer op een willekeurig hemellichaam. Je kunt eenvoudig naar elke wereld navigeren en op het oppervlak landen. Celestia toont de nauwkeurige posities van zonnestelselobjecten aan de hemel, met labels en hulpfuncties die je in en uit kunt schakelen.";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_3" = "Uitbreidbare inhoud";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_TEMPLATE" = "De catalogi van Celestia kunnen eenvoudig worden uitgebreid met add-ons die nieuwe objecten bevatten zoals kometen of sterren, hogeresolutietexturen, 3D-modellen van asteroïden en ruimtevaartuigen op nauwkeurige banen, en zelfs fictieve objecten uit bekende sciencefictionfranchises. Wil je je creatie promoten? Stuur je add-on %@ in.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_ARG1" = "hier";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_4" = "Privacy en licentie";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_TEMPLATE" = "Celestia verzamelt alleen gegevens voor analyse- en diagnosedoeleinden. Bekijk het %1$@. Celestia is gelicentieerd onder de %2$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG1" = "privacybeleid";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG2" = "GNU General Public License";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_5" = "Ontwikkeling en credits";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_TEMPLATE" = "Celestia is open source. De broncode is beschikbaar op %1$@ en %2$@. Bekijk de %3$@ en de %4$@. Volledige lijst van %5$@ en %6$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG1" = "celestiamobile";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG2" = "CelestiaProject";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG3" = "bouwhandleiding";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG4" = "bibliotheken van derden";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG5" = "auteurs";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG6" = "vertalers";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_6" = "Contact";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_TEMPLATE" = "Voor het oorspronkelijke Celestia-project: %1$@ of %2$@. Voor de apps of website: gebruik feedback in de app, %3$@ of %4$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG1" = "forum";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG2" = "GitHub-discussies";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG3" = "GitHub-issues";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG4" = "e-mail";
+
+"COMMON_TRANSLATE_THIS_PAGE_TEMPLATE" = "Help ons deze pagina te vertalen %@.";
+"COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "hier";
+
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Meest bekeken";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Onlangs toegevoegd";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Onlangs bijgewerkt";
+
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_DESCRIPTION" = "Hier is een lijst met de meest bekeken add-ons van de afgelopen 7 dagen.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_DESCRIPTION" = "Hier is een lijst met onlangs toegevoegde add-ons.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_DESCRIPTION" = "Hier is een lijst met onlangs bijgewerkte add-ons.";
+
+"ADDON_REQUIRED_DEPENDENCIES" = "Vereiste afhankelijkheden";
+"COMMON_PREVIOUS" = "Vorige";
+"COMMON_NEXT" = "Volgende";
+"ADDON_DEPENDENCIES_LOADING_ERROR" = "Kan afhankelijkheden niet laden.";
+
+"CELESTIA_PLUS_LABEL" = "PLUS";
+
+"COMMON_SEARCH_PLACEHOLDER" = "Zoeken…";
+
+"ADDON_SORT_METHOD_ALPHABETICAL" = "A-Z";
+"ADDON_SORT_METHOD_RECENTLY_ADDED" = "Onlangs toegevoegd";
+"ADDON_SORT_METHOD_RECENTLY_UPDATED" = "Onlangs bijgewerkt";
+
+"UNKNOWN_FEATURED_ITEM_TITLE" = "Onbekend";
+"CELESTIA_FEATURED_LABEL" = "Uitgelicht";
+"PUSH_NOTIFICATION_WEEKLY_ADDON_TITLE_TEMPLATE" = "Add-on van de week: %@";

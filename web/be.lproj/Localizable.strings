@@ -1,0 +1,107 @@
+"COMMON_LOADING_ERROR" = "Памылка загрузкі.";
+"COMMON_OPEN_IN_CELESTIA" = "Адкрыць у Celestia";
+"COMMON_OPEN_IN_CELESTIA_RECOMMENDED" = "Адкрыць у Celestia (рэкамендуецца)";
+"COMMON_DOWNLOAD" = "Спампаваць";
+"ADDON_AUTHOR_TEMPLATE" = "Аўтар(ы): %@";
+"ADDON_RELEASE_DATE_TEMPLATE" = "Дата выпуску: %@";
+"ADDON_LAST_UPDATED_TEMPLATE" = "Апошняе абнаўленне: %@";
+"ADDON_INSTALL_HINT" = "Заўвага: для выкарыстання любога нанава ўсталяванага дадатку трэба перазапусціць Celestia.";
+"ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ або %@";
+"ADDON_INSTALL_ADDON_HELP_TEMPLATE" = "Як усталяваць дадаткі? Даведайцеся %@.";
+"ADDON_INSTALL_ADDON_HELP_ACTION" = "тут";
+"GUIDE_TYPE_NEWS_TITLE" = "Навіны";
+"GUIDE_TYPE_TOOLS_TITLE" = "Інструменты";
+"GUIDE_TYPE_TUTORIALS_TITLE" = "Падручнікі";
+
+"ARTICLE_PUBLISH_DATE_TEMPLATE" = "Дата публікацыі: %@";
+
+"ADDON_CATEGORY_TITLE" = "Катэгорыі дадаткаў";
+"ADDON_CATEGORY_DESCRIPTION" = "Катэгорыі дадаткаў";
+"ADDON_MADE_BY_AUTHOR_TITLE_TEMPLATE" = "Дадаткі ад %@";
+"ADDON_FOR_OBJECT_TITLE_TEMPLATE" = "Дадаткі для %@";
+
+"EMPTY_ADDON_LIST_TITLE" = "Дадаткі не знойдзены";
+
+"COMMON_ERROR_TITLE" = "Памылка";
+
+"ERROR_NOT_FOUND" = "Запытаны змест не знойдзены.";
+"ERROR_FIELDS_MISSING" = "У запыце адсутнічаюць некаторыя палі.";
+"ERROR_INCORRECT_PARAMETERS" = "Некаторыя параметры былі няправільныя.";
+"ERROR_INTERNAL_ERROR" = "Унутраная памылка сервера.";
+
+"ADDON_INSTALL_HINT_NO_DEMO_OBJECT" = "Заўвага: для выкарыстання любога нанава ўсталяванага дадатку трэба перазапусціць Celestia. Гэты дадатак не мае дэманстрацыйнага аб’екта, таму даступная толькі опцыя «Выдаліць»; перайдзіце да аб’екта з дапамогай пошуку.";
+
+"COMMON_DESCRIPTION_SHOW_MORE" = "…";
+
+"TAB_HOME_TITLE" = "Галоўная";
+"TAB_DOWNLOADS_TITLE" = "Спампоўкі";
+"TAB_NEWS_TITLE" = "Навіны";
+"TAB_TUTORIALS_TITLE" = "Падручнікі";
+"TAB_TOOLS_TITLE" = "Інструменты";
+"TAB_ADDONS_TITLE" = "Дадаткі";
+"TAB_ABOUT_TITLE" = "Пра праграму";
+
+"FRONT_PAGE_TITLE" = "Celestia";
+"FRONT_PAGE_DESCRIPTION_MESSAGE" = "Celestia — бясплатны касмічны сімулятар для Windows, Linux, macOS, iOS і Android. Вы можаце свабодна даследаваць космас у трохмернай прасторы.";
+
+"PAGE_DESCRIPTION_DEFAULT" = "Атрымаць Celestia";
+
+"FRONT_PAGE_SUBHEADLINE_MESSAGE" = "3D-візуалізацыя космасу ў рэальным часе";
+"FRONT_PAGE_DOWNLOAD_BUTTON_TEXT" = "Спампаваць Celestia";
+"FRONT_PAGE_DESCRIPTION_HEADER_1" = "3D касмічны сімулятар";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_1" = "Celestia мадэлюе мноства розных тыпаў нябесных аб’ектаў. Ад планет і спадарожнікаў да зорных скопішчаў і галактык — вы можаце наведаць кожны аб’ект з пашыральнай базы даных і паглядзець на яго з любой кропкі прасторы і часу. Палажэнні і рух аб’ектаў Сонечнай сістэмы дакладна разлічваюцца ў рэальным часе пры любой жаданай хуткасці.";
+"FRONT_PAGE_DESCRIPTION_HEADER_2" = "Інтэрактыўны планетарый";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_2" = "Celestia служыць планетарыем для назіральніка на любым нябесным целе. Вы можаце лёгка перамясціцца на любы свет і прызямліцца на яго паверхню. Celestia паказвае дакладныя палажэнні аб’ектаў Сонечнай сістэмы на небе разам з пазнакамі і дапаможнымі функцыямі, якія можна ўключаць і выключаць.";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_3" = "Пашыральны змест";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_TEMPLATE" = "Каталогі Celestia лёгка пашыраюцца дадаткамі з новымі аб’ектамі, такімі як каметы або зоркі, тэкстурамі высокай раздзяляльнасці, 3D-мадэлямі астэроідаў і касмічных караблёў на дакладных траекторыях і нават выдуманымі аб’ектамі з вядомых навукова-фантастычных франшыз. Хочаце пасвяціць сваю працу? Дашліце свой дадатак %@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_3_ARG1" = "сюды";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_4" = "Прыватнасць і ліцэнзія";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_TEMPLATE" = "Celestia збірае дадзеныя выключна для аналітычных і дыягнастычных мэт. Глядзіце %1$@. Celestia ліцэнзавана ў адпаведнасці з %2$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG1" = "палітыку прыватнасці";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_4_ARG2" = "GNU General Public License";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_5" = "Распрацоўка і падзякі";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_TEMPLATE" = "Celestia мае адкрыты зыходны код. Зыходны код даступны на %1$@ і %2$@. Глядзіце %3$@ і %4$@. Поўны спіс %5$@ і %6$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG1" = "celestiamobile";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG2" = "CelestiaProject";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG3" = "інструкцыю па зборцы";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG4" = "бібліятэкі трэціх бакоў";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG5" = "аўтараў";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_5_ARG6" = "перакладчыкаў";
+
+"FRONT_PAGE_DESCRIPTION_HEADER_6" = "Кантакты";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_TEMPLATE" = "Для арыгінальнага праекта Celestia: %1$@ або %2$@. Для прыкладанняў ці сайта: карыстайцеся водгукам у прыкладанні, %3$@ або %4$@.";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG1" = "форум";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG2" = "абмеркаванні GitHub";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG3" = "пытанні GitHub";
+"FRONT_PAGE_DESCRIPTION_MESSAGE_6_ARG4" = "электронную пошту";
+
+"COMMON_TRANSLATE_THIS_PAGE_TEMPLATE" = "Дапамажыце нам перакласці гэтую старонку %@.";
+"COMMON_TRANSLATE_THIS_PAGE_LINK_TEXT" = "тут";
+
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_TITLE" = "Найбольш праглядаемыя";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_TITLE" = "Нядаўна дададзеныя";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_TITLE" = "Нядаўна абноўленыя";
+
+"ADDON_CATEGORY_PSEUDO_MOST_VIEWED_DESCRIPTION" = "Спіс дадаткаў, найбольш праглядаемых за апошнія 7 дзён.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_PUBLISHED_DESCRIPTION" = "Спіс нядаўна дададзеных дадаткаў.";
+"ADDON_CATEGORY_PSEUDO_RECENTLY_UPDATED_DESCRIPTION" = "Спіс нядаўна абноўленых дадаткаў.";
+
+"ADDON_REQUIRED_DEPENDENCIES" = "Неабходныя залежнасці";
+"COMMON_PREVIOUS" = "Папярэдні";
+"COMMON_NEXT" = "Наступны";
+"ADDON_DEPENDENCIES_LOADING_ERROR" = "Не атрымалася загрузіць залежнасці.";
+
+"CELESTIA_PLUS_LABEL" = "PLUS";
+
+"COMMON_SEARCH_PLACEHOLDER" = "Пошук…";
+
+"ADDON_SORT_METHOD_ALPHABETICAL" = "А-Я";
+"ADDON_SORT_METHOD_RECENTLY_ADDED" = "Нядаўна дададзеныя";
+"ADDON_SORT_METHOD_RECENTLY_UPDATED" = "Нядаўна абноўленыя";
+
+"UNKNOWN_FEATURED_ITEM_TITLE" = "Невядома";
+"CELESTIA_FEATURED_LABEL" = "Рэкамендаванае";
+"PUSH_NOTIFICATION_WEEKLY_ADDON_TITLE_TEMPLATE" = "Дадатак тыдня: %@";
