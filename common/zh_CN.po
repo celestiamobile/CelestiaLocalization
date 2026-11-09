@@ -2301,6 +2301,10 @@ msgid ""
 msgstr "接收有关精选插件和最新资讯的通知。您可以在设置中更改要接收的通知类型。"
 
 #  Platforms: Apple, Android, Windows
+msgid "Recent Searches"
+msgstr "最近搜索"
+
+#  Platforms: Apple, Android, Windows
 #  Used in Flight Mode
 msgid "Reference Object"
 msgstr "参照天体"
@@ -2359,6 +2363,10 @@ msgstr "渲染"
 #  Rendering settings
 msgid "Rendering"
 msgstr "渲染"
+
+#  Platforms: Windows
+msgid "Rendering stopped. Please restart Celestia."
+msgstr "渲染已停止。请重启 Celestia。"
 
 #  Platforms: Apple, Android, Windows
 msgid "Report a Bug"
@@ -2684,7 +2692,7 @@ msgstr "显示位置"
 msgid "Show Markers"
 msgstr "显示标记器"
 
-#  Platforms: Apple
+#  Platforms: Apple, Android, Windows
 #  Menu action to indicate that more items that are not shown in the menu
 msgid "Show More…"
 msgstr "显示更多…"

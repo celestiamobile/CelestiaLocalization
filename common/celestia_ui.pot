@@ -2288,6 +2288,10 @@ msgid ""
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
+msgid "Recent Searches"
+msgstr ""
+
+#  Platforms: Apple, Android, Windows
 #  Used in Flight Mode
 msgid "Reference Object"
 msgstr ""
@@ -2345,6 +2349,10 @@ msgstr ""
 #  Platforms: Apple, Android, Windows
 #  Rendering settings
 msgid "Rendering"
+msgstr ""
+
+#  Platforms: Windows
+msgid "Rendering stopped. Please restart Celestia."
 msgstr ""
 
 #  Platforms: Apple, Android, Windows
@@ -2671,7 +2679,7 @@ msgstr ""
 msgid "Show Markers"
 msgstr ""
 
-#  Platforms: Apple
+#  Platforms: Apple, Android, Windows
 #  Menu action to indicate that more items that are not shown in the menu
 msgid "Show More…"
 msgstr ""
