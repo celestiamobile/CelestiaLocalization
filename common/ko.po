@@ -159,7 +159,9 @@ msgid ""
 "A value of 0 disables self-shadowing. Higher "
 "values produce sharper shadows at a greater "
 "performance cost."
-msgstr "0으로 설정하면 자체 그림자가 비활성화됩니다. 값이 클수록 그림자가 선명해지지만 처리 부하가 증가합니다."
+msgstr ""
+"0으로 설정하면 자체 그림자가 비활성화됩니다. 값이 클수록 그림자가 선명해지지만 처리 "
+"부하가 증가합니다."
 
 #  Platforms: Apple, Android, Windows
 #  About Celestia
@@ -414,7 +416,10 @@ msgid ""
 "support the developers and keep this project "
 "alive. You'll also receive timely feedback on "
 "feature requests and bug reports!"
-msgstr "Celestia PLUS를 구독하면 개발자를 직접 지원하고 프로젝트가 계속 이어질 수 있도록 도울 수 있습니다. 기능 요청과 버그 보고에 대한 신속한 피드백도 받을 수 있습니다!"
+msgstr ""
+"Celestia PLUS를 구독하면 개발자를 직접 지원하고 프로젝트가 계속 이어질 수 "
+"있도록 도울 수 있습니다. 기능 요청과 버그 보고에 대한 신속한 피드백도 받을 수 "
+"있습니다!"
 
 #  Platforms: Apple, Android
 msgid "c (lightspeed)"
@@ -501,7 +506,11 @@ msgid ""
 "downloaded to the target directory. This "
 "operation cannot be undone, so please ensure you "
 "make a backup before you proceed."
-msgstr "Celestia가 종료되며 다음 실행 시 데이터를 이전합니다. 대상 디렉터리의 내용은 현재 디렉터리의 내용으로 대체됩니다. 복사가 끝나면 현재 디렉터리의 내용은 삭제됩니다. 이후 애드온은 대상 디렉터리에 다운로드됩니다. 이 작업은 되돌릴 수 없으므로 진행하기 전에 반드시 백업하세요."
+msgstr ""
+"Celestia가 종료되며 다음 실행 시 데이터를 이전합니다. 대상 디렉터리의 내용은 "
+"현재 디렉터리의 내용으로 대체됩니다. 복사가 끝나면 현재 디렉터리의 내용은 삭제됩니다. "
+"이후 애드온은 대상 디렉터리에 다운로드됩니다. 이 작업은 되돌릴 수 없으므로 진행하기 "
+"전에 반드시 백업하세요."
 
 #  Platforms: Apple, Android, Windows
 #  Temperature scale
@@ -653,7 +662,9 @@ msgstr "축하합니다. Celestia PLUS 사용자가 되셨습니다"
 msgid ""
 "Congratulations, you are a Celestia PLUS user. "
 "Restart Celestia for your purchase to take effect."
-msgstr "축하합니다. Celestia PLUS 사용자가 되셨습니다. 구매 내용을 적용하려면 Celestia를 다시 시작하세요."
+msgstr ""
+"축하합니다. Celestia PLUS 사용자가 되셨습니다. 구매 내용을 적용하려면 "
+"Celestia를 다시 시작하세요."
 
 #  Platforms: Apple, Android, Windows
 msgid "Constellations"
@@ -1096,7 +1107,9 @@ msgstr "노출"
 msgid ""
 "Extent of the eye PSF glow around bright stars. "
 "Lower values widen the glow at higher GPU cost."
-msgstr "밝은 항성 주변에 나타나는 눈의 점 확산 함수(PSF)에 의한 빛 번짐 범위입니다. 값이 낮을수록 빛 번짐이 넓어지지만 GPU 부하가 증가합니다."
+msgstr ""
+"밝은 항성 주변에 나타나는 눈의 점 확산 함수(PSF)에 의한 빛 번짐 범위입니다. 값이 "
+"낮을수록 빛 번짐이 넓어지지만 GPU 부하가 증가합니다."
 
 #  Platforms: Android
 #  Section header text for settings
@@ -1363,6 +1376,11 @@ msgstr "천체로 이동"
 msgid "Go to Selection"
 msgstr "선택한 천체로 이동"
 
+#  Platforms: Apple, Android
+#  Dismiss the hidden toolbar hint
+msgid "Got it"
+msgstr "알겠습니다"
+
 #  Platforms: Apple, Android, Windows
 msgid "Grids"
 msgstr "그리드"
@@ -1438,14 +1456,20 @@ msgid ""
 "In camera mode, drag to move field of view.\n"
 "\n"
 "Pinch to zoom in/out field of view."
-msgstr "카메라 모드에서는 드래그하여 시야를 이동합니다.\n\n핀치 동작으로 시야를 확대/축소합니다."
+msgstr ""
+"카메라 모드에서는 드래그하여 시야를 이동합니다.\n"
+"\n"
+"핀치 동작으로 시야를 확대/축소합니다."
 
 #  Platforms: Apple, Android
 msgid ""
 "In object mode, drag to rotate around an object.\n"
 "\n"
 "Pinch to zoom in/out on an object."
-msgstr "천체 모드에서는 드래그하여 천체 주위를 회전합니다.\n\n핀치 동작으로 천체를 확대/축소합니다."
+msgstr ""
+"천체 모드에서는 드래그하여 천체 주위를 회전합니다.\n"
+"\n"
+"핀치 동작으로 천체를 확대/축소합니다."
 
 #  Platforms: Apple, Windows
 msgid "Infinite Dragging"
@@ -1920,7 +1944,9 @@ msgstr "알림"
 msgid ""
 "Notifications are turned off for Celestia. Enable "
 "them in System Settings to subscribe to updates."
-msgstr "Celestia 알림이 꺼져 있습니다. 업데이트 소식을 받으려면 시스템 설정에서 알림을 켜세요."
+msgstr ""
+"Celestia 알림이 꺼져 있습니다. 업데이트 소식을 받으려면 시스템 설정에서 알림을 "
+"켜세요."
 
 #  Platforms: Apple, Android, Windows
 #  Atmosphere segment count setting description
@@ -1928,7 +1954,9 @@ msgid ""
 "Number of segments used to integrate atmospheric "
 "scattering. Higher values improve quality at a "
 "greater performance cost."
-msgstr "대기 산란을 적분하는 데 사용하는 분할 수입니다. 값이 클수록 품질이 향상되지만 처리 부하가 증가합니다."
+msgstr ""
+"대기 산란을 적분하는 데 사용하는 분할 수입니다. 값이 클수록 품질이 향상되지만 처리 "
+"부하가 증가합니다."
 
 #  Platforms: Apple, Android, Windows
 #  Cloud segment count setting description
@@ -1936,7 +1964,9 @@ msgid ""
 "Number of segments used to render clouds. Higher "
 "values improve quality at a greater performance "
 "cost."
-msgstr "구름 렌더링에 사용하는 분할 수입니다. 값이 클수록 품질이 향상되지만 처리 부하가 증가합니다."
+msgstr ""
+"구름 렌더링에 사용하는 분할 수입니다. 값이 클수록 품질이 향상되지만 처리 부하가 "
+"증가합니다."
 
 #  Platforms: Apple, Android, Windows
 #  In eclipse finder, object to find eclipse with, or in go to
@@ -2242,7 +2272,10 @@ msgid ""
 "year (for Yearly), each month (for Monthly), or "
 "each week (for Weekly). Cancel at anytime in "
 "Subscriptions on Google Play."
-msgstr "구매 후 즉시 이용할 수 있습니다. 구독은 자동으로 갱신되며 연간 요금제는 매년, 월간 요금제는 매월, 주간 요금제는 매주 여기에 표시된 요금이 청구됩니다. Google Play의 구독 메뉴에서 언제든지 취소할 수 있습니다."
+msgstr ""
+"구매 후 즉시 이용할 수 있습니다. 구독은 자동으로 갱신되며 연간 요금제는 매년, 월간 "
+"요금제는 매월, 주간 요금제는 매주 여기에 표시된 요금이 청구됩니다. Google "
+"Play의 구독 메뉴에서 언제든지 취소할 수 있습니다."
 
 #  Platforms: Apple, Android, Windows
 #  Rendering quality settings
@@ -2286,7 +2319,9 @@ msgid ""
 "Receive notifications about featured add-ons and "
 "the latest news. You can change which kinds you "
 "receive in Settings."
-msgstr "추천 애드온과 최신 소식에 대한 알림을 받으세요. 받을 알림의 종류는 설정에서 변경할 수 있습니다."
+msgstr ""
+"추천 애드온과 최신 소식에 대한 알림을 받으세요. 받을 알림의 종류는 설정에서 변경할 수 "
+"있습니다."
 
 #  Platforms: Apple, Android, Windows
 msgid "Recent Searches"
@@ -2704,6 +2739,11 @@ msgstr "태양 방향 보기"
 msgid "Show Terminator"
 msgstr "밤낮 경계선 보기"
 
+#  Platforms: Apple, Android
+#  Title for the hidden toolbar hint
+msgid "Show the toolbar"
+msgstr "도구 모음 표시"
+
 #  Platforms: Apple, Android, Windows
 #  Reference vector
 msgid "Show Velocity Vector"
@@ -2902,6 +2942,20 @@ msgstr "초신성 잔해"
 msgid "Support the Project"
 msgstr "프로젝트 후원"
 
+#  Platforms: Apple
+#  Hint shown the first time the toolbar is hidden in a right-to-left layout
+msgid ""
+"Swipe inward from the left edge of the screen to "
+"show the toolbar."
+msgstr "화면 왼쪽 가장자리에서 안쪽으로 스와이프하면 도구 모음이 표시됩니다."
+
+#  Platforms: Apple
+#  Hint shown the first time the toolbar is hidden in a left-to-right layout
+msgid ""
+"Swipe inward from the right edge of the screen to "
+"show the toolbar."
+msgstr "화면 오른쪽 가장자리에서 안쪽으로 스와이프하면 도구 모음이 표시됩니다."
+
 #  Platforms: Apple, Android
 #  Move/zoom camera FOV
 msgid "Switched to camera mode"
@@ -2969,6 +3023,18 @@ msgid "Textures"
 msgstr "텍스처"
 
 #  Platforms: Android
+#  Hint shown the first time the toolbar is hidden
+msgid ""
+"The toolbar is hidden. Press your device's Back "
+"button to show the toolbar again. If you use "
+"gesture navigation, swipe inward from either side "
+"of the screen instead."
+msgstr ""
+"도구 모음이 숨겨져 있습니다. 다시 표시하려면 기기의 뒤로 버튼을 "
+"누르세요. 제스처 탐색을 사용하는 경우에는 화면 왼쪽 또는 오른쪽 "
+"가장자리에서 안쪽으로 스와이프하세요."
+
+#  Platforms: Android
 msgid "This feature is not supported."
 msgstr "지원되지 않는 기능입니다."
 
@@ -2985,7 +3051,10 @@ msgid ""
 "files and execute external programs. Allowing "
 "this can be dangerous.\n"
 "Do you trust the script and want to allow this?"
-msgstr "이 스크립트가 파일 읽기/쓰기 및 외부 프로그램 실행 권한을 요청합니다. 이를 허용하면 위험할 수 있습니다.\n이 스크립트를 신뢰하며 권한을 허용하시겠습니까?"
+msgstr ""
+"이 스크립트가 파일 읽기/쓰기 및 외부 프로그램 실행 권한을 요청합니다. 이를 허용하면 "
+"위험할 수 있습니다.\n"
+"이 스크립트를 신뢰하며 권한을 허용하시겠습니까?"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -3275,7 +3344,9 @@ msgid ""
 "Wireless displays can sometimes stay 'active' "
 "after disconnecting. If casting fails, please "
 "check the FAQ."
-msgstr "무선 디스플레이는 연결을 해제한 후에도 '활성' 상태로 남아 있을 수 있습니다. 캐스팅에 실패하면 자주 묻는 질문을 확인하세요."
+msgstr ""
+"무선 디스플레이는 연결을 해제한 후에도 '활성' 상태로 남아 있을 수 있습니다. 캐스팅에 "
+"실패하면 자주 묻는 질문을 확인하세요."
 
 #  Platforms: Apple, Android, Windows
 #  Marker

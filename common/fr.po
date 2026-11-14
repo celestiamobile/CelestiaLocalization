@@ -159,7 +159,10 @@ msgid ""
 "A value of 0 disables self-shadowing. Higher "
 "values produce sharper shadows at a greater "
 "performance cost."
-msgstr "Une valeur de 0 désactive les ombres propres. Des valeurs plus élevées produisent des ombres plus nettes au prix de performances réduites."
+msgstr ""
+"Une valeur de 0 désactive les ombres propres. Des "
+"valeurs plus élevées produisent des ombres plus "
+"nettes au prix de performances réduites."
 
 #  Platforms: Apple, Android, Windows
 #  About Celestia
@@ -196,7 +199,10 @@ msgstr "Mises à jour des modules complémentaires"
 msgid ""
 "Add-on updates are only supported for add-ons "
 "installed on version 1.9.3 or above."
-msgstr "Seuls les modules complémentaires installés avec la version 1.9.3 ou ultérieure peuvent être mis à jour."
+msgstr ""
+"Seuls les modules complémentaires installés avec "
+"la version 1.9.3 ou ultérieure peuvent être mis à "
+"jour."
 
 #  Platforms: Apple, Android
 #  Add-ons for Celestia app
@@ -208,7 +214,9 @@ msgstr "Modules complémentaires"
 msgid ""
 "Adjust view with pinch gestures by changing FOV "
 "or distance"
-msgstr "Ajuster la vue par pincement en modifiant le champ de vision ou la distance"
+msgstr ""
+"Ajuster la vue par pincement en modifiant le "
+"champ de vision ou la distance"
 
 #  Platforms: Apple, Android, Windows
 #  Advanced setting items
@@ -244,7 +252,9 @@ msgstr "Lumière ambiante"
 msgid ""
 "An external screen is connected, do you want to "
 "display Celestia on the external screen?"
-msgstr "Un écran externe est connecté. Voulez-vous y afficher Celestia ?"
+msgstr ""
+"Un écran externe est connecté. Voulez-vous y "
+"afficher Celestia ?"
 
 #  Platforms: Apple, Android, Windows
 msgid "Anti-aliasing"
@@ -395,7 +405,9 @@ msgstr "Étoiles les plus brillantes (magnitude absolue)"
 msgid ""
 "Brightness multiplier applied to every star, "
 "extending the visible magnitude limit."
-msgstr "Multiplicateur de luminosité appliqué à chaque étoile, étendant la limite de magnitude visible."
+msgstr ""
+"Multiplicateur de luminosité appliqué à chaque "
+"étoile, étendant la limite de magnitude visible."
 
 #  Platforms: Apple, Android, Windows
 #  Default email title for bug report
@@ -414,7 +426,12 @@ msgid ""
 "support the developers and keep this project "
 "alive. You'll also receive timely feedback on "
 "feature requests and bug reports!"
-msgstr "En vous abonnant à Celestia PLUS, vous soutenez directement les développeurs et faites vivre ce projet. Vous recevrez également des réponses rapides à vos demandes de fonctionnalités et rapports de bogues !"
+msgstr ""
+"En vous abonnant à Celestia PLUS, vous soutenez "
+"directement les développeurs et faites vivre ce "
+"projet. Vous recevrez également des réponses "
+"rapides à vos demandes de fonctionnalités et "
+"rapports de bogues !"
 
 #  Platforms: Apple, Android
 msgid "c (lightspeed)"
@@ -501,7 +518,16 @@ msgid ""
 "downloaded to the target directory. This "
 "operation cannot be undone, so please ensure you "
 "make a backup before you proceed."
-msgstr "Celestia va se fermer et effectuera la migration à sa prochaine ouverture. Le répertoire de destination sera remplacé par le contenu du répertoire actuel. Le répertoire actuel sera vidé après la copie de son contenu. Les futurs modules complémentaires seront téléchargés dans le répertoire de destination. Cette opération est irréversible ; veillez donc à effectuer une sauvegarde avant de continuer."
+msgstr ""
+"Celestia va se fermer et effectuera la migration "
+"à sa prochaine ouverture. Le répertoire de "
+"destination sera remplacé par le contenu du "
+"répertoire actuel. Le répertoire actuel sera vidé "
+"après la copie de son contenu. Les futurs modules "
+"complémentaires seront téléchargés dans le "
+"répertoire de destination. Cette opération est "
+"irréversible ; veillez donc à effectuer une "
+"sauvegarde avant de continuer."
 
 #  Platforms: Apple, Android, Windows
 #  Temperature scale
@@ -529,31 +555,41 @@ msgstr "Modifier"
 msgid ""
 "Changes to data location settings take effect "
 "after a restart."
-msgstr "Les modifications de l’emplacement des données prendront effet après un redémarrage."
+msgstr ""
+"Les modifications de l’emplacement des données "
+"prendront effet après un redémarrage."
 
 #  Platforms: Windows
 #  Frame rate setting restart notice
 msgid "Changes to frame rate take effect after a restart."
-msgstr "Les modifications de la fréquence d’images prendront effet après un redémarrage."
+msgstr ""
+"Les modifications de la fréquence d’images "
+"prendront effet après un redémarrage."
 
 #  Platforms: Windows
 #  Language setting restart notice
 msgid "Changes to language take effect after a restart."
-msgstr "Le changement de langue prendra effet après un redémarrage."
+msgstr ""
+"Le changement de langue prendra effet après un "
+"redémarrage."
 
 #  Platforms: Windows
 #  Selection sensitivity setting restart notice
 msgid ""
 "Changes to sensitivity take effect after a "
 "restart."
-msgstr "Les modifications de la sensibilité prendront effet après un redémarrage."
+msgstr ""
+"Les modifications de la sensibilité prendront "
+"effet après un redémarrage."
 
 #  Platforms: Apple, Android, Windows
 #  Output rendering settings footnote
 msgid ""
 "Changes to sRGB rendering take effect after a "
 "restart."
-msgstr "Les modifications du rendu sRGB prendront effet après un redémarrage."
+msgstr ""
+"Les modifications du rendu sRGB prendront effet "
+"après un redémarrage."
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -573,7 +609,9 @@ msgstr "Chasmata (canyons)"
 msgid ""
 "Choose one of the plans below to get access to "
 "all the features."
-msgstr "Choisissez l’une des formules ci-dessous pour accéder à toutes les fonctionnalités."
+msgstr ""
+"Choisissez l’une des formules ci-dessous pour "
+"accéder à toutes les fonctionnalités."
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -642,18 +680,25 @@ msgstr "Fichier de configuration"
 #  Platforms: Apple, Android, Windows
 #  Change requires a restart
 msgid "Configuration will take effect after a restart."
-msgstr "La configuration prendra effet après un redémarrage."
+msgstr ""
+"La configuration prendra effet après un "
+"redémarrage."
 
 #  Platforms: Apple, Android
 msgid "Congratulations, you are a Celestia PLUS user"
-msgstr "Félicitations, vous bénéficiez désormais de Celestia PLUS"
+msgstr ""
+"Félicitations, vous bénéficiez désormais de "
+"Celestia PLUS"
 
 #  Platforms: Apple, Android
 #  Purchase success message with restart guidance
 msgid ""
 "Congratulations, you are a Celestia PLUS user. "
 "Restart Celestia for your purchase to take effect."
-msgstr "Félicitations, vous bénéficiez désormais de Celestia PLUS. Redémarrez Celestia pour que votre achat prenne effet."
+msgstr ""
+"Félicitations, vous bénéficiez désormais de "
+"Celestia PLUS. Redémarrez Celestia pour que votre "
+"achat prenne effet."
 
 #  Platforms: Apple, Android, Windows
 msgid "Constellations"
@@ -667,7 +712,9 @@ msgstr "Menu contextuel"
 #  Platforms: Apple, Android
 #  Description for how a context menu is triggered
 msgid "Context menu by long press or context click"
-msgstr "Menu contextuel par appui prolongé ou clic contextuel"
+msgstr ""
+"Menu contextuel par appui prolongé ou clic "
+"contextuel"
 
 #  Platforms: Apple, Android
 #  Used in Flight Mode
@@ -878,7 +925,9 @@ msgstr "Voulez-vous annuler cette tâche ?"
 
 #  Platforms: Apple, Android, Windows
 msgid "Do you want to uninstall this add-on?"
-msgstr "Voulez-vous désinstaller ce module complémentaire ?"
+msgstr ""
+"Voulez-vous désinstaller ce module complémentaire "
+"?"
 
 #  Platforms: Apple
 #  Exit edit mode
@@ -910,7 +959,10 @@ msgstr "Poignée de déplacement"
 msgid ""
 "Dragging behavior based on change of pick rays "
 "instead of screen coordinates"
-msgstr "Déplacement fondé sur la variation des rayons de sélection plutôt que sur les coordonnées de l’écran"
+msgstr ""
+"Déplacement fondé sur la variation des rayons de "
+"sélection plutôt que sur les coordonnées de "
+"l’écran"
 
 #  Platforms: Apple, Android, Windows
 #  Tab for deep sky objects in Star Browser
@@ -1018,7 +1070,9 @@ msgstr "Contrats de licence utilisateur final (EULA)"
 
 #  Platforms: Apple, Android, Windows
 msgid "Enhance Celestia with online add-ons"
-msgstr "Enrichissez Celestia avec des modules complémentaires en ligne"
+msgstr ""
+"Enrichissez Celestia avec des modules "
+"complémentaires en ligne"
 
 #  Platforms: Apple, Android, Windows
 #  Grids
@@ -1042,11 +1096,15 @@ msgstr "Erreur lors de la recherche de mises à jour"
 
 #  Platforms: Apple, Android, Windows
 msgid "Error creating directory for add-on"
-msgstr "Erreur lors de la création du répertoire du module complémentaire"
+msgstr ""
+"Erreur lors de la création du répertoire du "
+"module complémentaire"
 
 #  Platforms: Apple, Android, Windows
 msgid "Error downloading add-on"
-msgstr "Erreur lors du téléchargement du module complémentaire"
+msgstr ""
+"Erreur lors du téléchargement du module "
+"complémentaire"
 
 #  Platforms: Apple, Android, Windows
 msgid "Error Loading Data"
@@ -1056,19 +1114,27 @@ msgstr "Erreur de chargement des données"
 msgid ""
 "Error loading data, fallback to original "
 "configuration."
-msgstr "Erreur de chargement des données. Retour à la configuration d’origine."
+msgstr ""
+"Erreur de chargement des données. Retour à la "
+"configuration d’origine."
 
 #  Platforms: Apple, Android, Windows
 msgid "Error opening file for saving add-on"
-msgstr "Erreur lors de l’ouverture du fichier pour enregistrer le module complémentaire"
+msgstr ""
+"Erreur lors de l’ouverture du fichier pour "
+"enregistrer le module complémentaire"
 
 #  Platforms: Apple, Android, Windows
 msgid "Error unzipping add-on"
-msgstr "Erreur lors de la décompression du module complémentaire"
+msgstr ""
+"Erreur lors de la décompression du module "
+"complémentaire"
 
 #  Platforms: Apple, Android, Windows
 msgid "Error writing data file for add-on"
-msgstr "Erreur lors de l’écriture du fichier de données du module complémentaire"
+msgstr ""
+"Erreur lors de l’écriture du fichier de données "
+"du module complémentaire"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller action
@@ -1096,7 +1162,11 @@ msgstr "Exposition"
 msgid ""
 "Extent of the eye PSF glow around bright stars. "
 "Lower values widen the glow at higher GPU cost."
-msgstr "Étendue du halo de la PSF de l’œil autour des étoiles brillantes. Des valeurs plus faibles élargissent le halo au prix d’une charge GPU accrue."
+msgstr ""
+"Étendue du halo de la PSF de l’œil autour des "
+"étoiles brillantes. Des valeurs plus faibles "
+"élargissent le halo au prix d’une charge GPU "
+"accrue."
 
 #  Platforms: Android
 #  Section header text for settings
@@ -1131,7 +1201,9 @@ msgstr "Impossible de se connecter à l’écran externe."
 
 #  Platforms: Apple, Android, Windows
 msgid "Failed to download or install this add-on."
-msgstr "Impossible de télécharger ou d’installer ce module complémentaire."
+msgstr ""
+"Impossible de télécharger ou d’installer ce "
+"module complémentaire."
 
 #  Platforms: Android
 #  WebView failed to load content
@@ -1199,11 +1271,15 @@ msgstr "Chercher"
 
 #  Platforms: Windows
 msgid "Find eclipses for an object in a time range"
-msgstr "Rechercher les éclipses d’un objet sur une période donnée"
+msgstr ""
+"Rechercher les éclipses d’un objet sur une "
+"période donnée"
 
 #  Platforms: Apple, Android
 msgid "Find stars, DSOs, and nearby objects"
-msgstr "Rechercher des étoiles, des objets du ciel profond et des objets proches"
+msgstr ""
+"Rechercher des étoiles, des objets du ciel "
+"profond et des objets proches"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -1218,7 +1294,9 @@ msgstr "Mode de vol"
 msgid ""
 "Flight mode decides how you move around in "
 "Celestia. Learn more…"
-msgstr "Le mode de vol détermine vos déplacements dans Celestia. En savoir plus…"
+msgstr ""
+"Le mode de vol détermine vos déplacements dans "
+"Celestia. En savoir plus…"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -1363,6 +1441,11 @@ msgstr "Aller à l'objet"
 msgid "Go to Selection"
 msgstr "Aller à la sélection"
 
+#  Platforms: Apple, Android
+#  Dismiss the hidden toolbar hint
+msgid "Got it"
+msgstr "Compris"
+
 #  Platforms: Apple, Android, Windows
 msgid "Grids"
 msgstr "Grilles"
@@ -1401,7 +1484,9 @@ msgstr "Masquer le curseur pendant le glissement"
 
 #  Platforms: Apple, Windows
 msgid "Hide the mouse cursor during dragging"
-msgstr "Masquer le curseur de la souris pendant le glissement"
+msgstr ""
+"Masquer le curseur de la souris pendant le "
+"glissement"
 
 #  Platforms: Apple, Android, Windows
 #  HiDPI support in display
@@ -1438,14 +1523,24 @@ msgid ""
 "In camera mode, drag to move field of view.\n"
 "\n"
 "Pinch to zoom in/out field of view."
-msgstr "En mode caméra, faites glisser pour déplacer le champ de vision.\n\nPincez pour agrandir ou réduire le champ de vision."
+msgstr ""
+"En mode caméra, faites glisser pour déplacer le "
+"champ de vision.\n"
+"\n"
+"Pincez pour agrandir ou réduire le champ de "
+"vision."
 
 #  Platforms: Apple, Android
 msgid ""
 "In object mode, drag to rotate around an object.\n"
 "\n"
 "Pinch to zoom in/out on an object."
-msgstr "En mode objet, faites glisser pour tourner autour d’un objet.\n\nPincez pour vous rapprocher ou vous éloigner d’un objet."
+msgstr ""
+"En mode objet, faites glisser pour tourner autour "
+"d’un objet.\n"
+"\n"
+"Pincez pour vous rapprocher ou vous éloigner d’un "
+"objet."
 
 #  Platforms: Apple, Windows
 msgid "Infinite Dragging"
@@ -1671,11 +1766,15 @@ msgstr "Contraindre l'orientation"
 
 #  Platforms: Apple, Android
 msgid "Long press on stepper to change orientation."
-msgstr "Maintenez l’un des boutons +/− enfoncé pour changer l’orientation."
+msgstr ""
+"Maintenez l’un des boutons +/− enfoncé pour "
+"changer l’orientation."
 
 #  Platforms: Apple, Android
 msgid "Long press on stepper to zoom in/out."
-msgstr "Maintenez l’un des boutons +/− enfoncé pour zoomer ou dézoomer."
+msgstr ""
+"Maintenez l’un des boutons +/− enfoncé pour "
+"zoomer ou dézoomer."
 
 #  Platforms: Apple, Android, Windows
 #  Coordinates
@@ -1823,7 +1922,11 @@ msgid ""
 "Mouse cursor is warped to the location when the "
 "dragging starts. Only effective when the cursor "
 "is hidden during dragging"
-msgstr "Le curseur de la souris est repositionné à l’endroit où le glissement commence. Ne s’applique que lorsque le curseur est masqué pendant le glissement."
+msgstr ""
+"Le curseur de la souris est repositionné à "
+"l’endroit où le glissement commence. Ne "
+"s’applique que lorsque le curseur est masqué "
+"pendant le glissement."
 
 #  Platforms: Apple, Android
 #  Guide to control Celestia with a mouse/keyboard
@@ -1880,7 +1983,9 @@ msgstr "Lumières nocturnes"
 msgid ""
 "No eclipse is found for the given object in the "
 "time range"
-msgstr "Aucune éclipse trouvée pour l’objet indiqué sur la période donnée"
+msgstr ""
+"Aucune éclipse trouvée pour l’objet indiqué sur "
+"la période donnée"
 
 #  Platforms: Apple, Android, Windows
 #  No overview for an object
@@ -1920,7 +2025,10 @@ msgstr "Notifications"
 msgid ""
 "Notifications are turned off for Celestia. Enable "
 "them in System Settings to subscribe to updates."
-msgstr "Les notifications de Celestia sont désactivées. Activez-les dans les réglages système pour vous abonner aux nouveautés."
+msgstr ""
+"Les notifications de Celestia sont désactivées. "
+"Activez-les dans les réglages système pour vous "
+"abonner aux nouveautés."
 
 #  Platforms: Apple, Android, Windows
 #  Atmosphere segment count setting description
@@ -1928,7 +2036,11 @@ msgid ""
 "Number of segments used to integrate atmospheric "
 "scattering. Higher values improve quality at a "
 "greater performance cost."
-msgstr "Nombre de segments utilisés pour intégrer la diffusion atmosphérique. Des valeurs plus élevées améliorent la qualité au prix de performances réduites."
+msgstr ""
+"Nombre de segments utilisés pour intégrer la "
+"diffusion atmosphérique. Des valeurs plus élevées "
+"améliorent la qualité au prix de performances "
+"réduites."
 
 #  Platforms: Apple, Android, Windows
 #  Cloud segment count setting description
@@ -1936,7 +2048,10 @@ msgid ""
 "Number of segments used to render clouds. Higher "
 "values improve quality at a greater performance "
 "cost."
-msgstr "Nombre de segments utilisés pour le rendu des nuages. Des valeurs plus élevées améliorent la qualité au prix de performances réduites."
+msgstr ""
+"Nombre de segments utilisés pour le rendu des "
+"nuages. Des valeurs plus élevées améliorent la "
+"qualité au prix de performances réduites."
 
 #  Platforms: Apple, Android, Windows
 #  In eclipse finder, object to find eclipse with, or in go to
@@ -2107,7 +2222,9 @@ msgstr "Cabrer"
 #  Platforms: Apple, Android, Windows
 #  PSF star setting footnote
 msgid "Pixel radius of a unit-irradiance star sprite."
-msgstr "Rayon en pixels de l’image d’une étoile d’éclairement énergétique unitaire."
+msgstr ""
+"Rayon en pixels de l’image d’une étoile "
+"d’éclairement énergétique unitaire."
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -2141,14 +2258,18 @@ msgstr "Veuillez choisir un objet."
 msgid ""
 "Please describe the feature you want to see in "
 "Celestia."
-msgstr "Veuillez décrire la fonctionnalité que vous souhaitez voir dans Celestia."
+msgstr ""
+"Veuillez décrire la fonctionnalité que vous "
+"souhaitez voir dans Celestia."
 
 #  Platforms: Apple, Android, Windows
 #  Default email body for bug report
 msgid ""
 "Please describe the issue and repro steps, if "
 "known."
-msgstr "Veuillez décrire le problème et les étapes pour le reproduire, si vous les connaissez."
+msgstr ""
+"Veuillez décrire le problème et les étapes pour "
+"le reproduire, si vous les connaissez."
 
 #  Platforms: Android
 #  Custom config/data directory path have to be under a specific path
@@ -2156,14 +2277,18 @@ msgstr "Veuillez décrire le problème et les étapes pour le reproduire, si vou
 msgid ""
 "Please ensure that you have selected a path under "
 "%s."
-msgstr "Veuillez vous assurer d’avoir sélectionné un chemin sous %s."
+msgstr ""
+"Veuillez vous assurer d’avoir sélectionné un "
+"chemin sous %s."
 
 #  Platforms: Apple, Android
 #  Encountered error while checking updates, possible recovery instruction.
 msgid ""
 "Please ensure you have a valid Celestia PLUS "
 "subscription or check again later."
-msgstr "Veuillez vous assurer de disposer d’un abonnement Celestia PLUS valide ou réessayez plus tard."
+msgstr ""
+"Veuillez vous assurer de disposer d’un abonnement "
+"Celestia PLUS valide ou réessayez plus tard."
 
 #  Platforms: Apple
 #  Message for renaming a favorite item (currently bookmark)
@@ -2242,7 +2367,14 @@ msgid ""
 "year (for Yearly), each month (for Monthly), or "
 "each week (for Weekly). Cancel at anytime in "
 "Subscriptions on Google Play."
-msgstr "Votre achat sera disponible immédiatement. L’abonnement sera renouvelé automatiquement et le prix indiqué ici vous sera facturé chaque année (formule annuelle), chaque mois (formule mensuelle) ou chaque semaine (formule hebdomadaire). Vous pouvez résilier à tout moment dans la rubrique Abonnements de Google Play."
+msgstr ""
+"Votre achat sera disponible immédiatement. "
+"L’abonnement sera renouvelé automatiquement et le "
+"prix indiqué ici vous sera facturé chaque année "
+"(formule annuelle), chaque mois (formule "
+"mensuelle) ou chaque semaine (formule "
+"hebdomadaire). Vous pouvez résilier à tout moment "
+"dans la rubrique Abonnements de Google Play."
 
 #  Platforms: Apple, Android, Windows
 #  Rendering quality settings
@@ -2286,7 +2418,11 @@ msgid ""
 "Receive notifications about featured add-ons and "
 "the latest news. You can change which kinds you "
 "receive in Settings."
-msgstr "Recevez des notifications sur les modules complémentaires à la une et les dernières nouvelles. Vous pouvez choisir les catégories à recevoir dans Configuration."
+msgstr ""
+"Recevez des notifications sur les modules "
+"complémentaires à la une et les dernières "
+"nouvelles. Vous pouvez choisir les catégories à "
+"recevoir dans Configuration."
 
 #  Platforms: Apple, Android, Windows
 msgid "Recent Searches"
@@ -2306,7 +2442,10 @@ msgstr "Marques de référence"
 msgid ""
 "Reference vectors are only visible for the "
 "current selected solar system object."
-msgstr "Les marques de référence ne sont visibles que pour l’objet du système solaire actuellement sélectionné."
+msgstr ""
+"Les marques de référence ne sont visibles que "
+"pour l’objet du système solaire actuellement "
+"sélectionné."
 
 #  Platforms: Apple, Android, Windows
 msgid "Reflection Nebulae"
@@ -2354,7 +2493,9 @@ msgstr "Rendu"
 
 #  Platforms: Windows
 msgid "Rendering stopped. Please restart Celestia."
-msgstr "Le rendu s’est arrêté. Veuillez redémarrer Celestia."
+msgstr ""
+"Le rendu s’est arrêté. Veuillez redémarrer "
+"Celestia."
 
 #  Platforms: Apple, Android, Windows
 msgid "Report a Bug"
@@ -2568,7 +2709,9 @@ msgstr "Sélectionner votre destination :"
 #  Platforms: Windows
 #  Error message, the time in the picker is considered out of range by the system
 msgid "Selected time is out of range."
-msgstr "L’heure sélectionnée est hors de la plage autorisée."
+msgstr ""
+"L’heure sélectionnée est hors de la plage "
+"autorisée."
 
 #  Platforms: Apple, Android
 msgid "Send Feedback"
@@ -2587,7 +2730,9 @@ msgstr "Sensibilité de sélection des objets"
 #  Platforms: Apple, Android, Windows
 #  Atmosphere rendering quality setting
 msgid "Separate Rayleigh and Mie Scale Heights"
-msgstr "Séparer les hauteurs d’échelle de Rayleigh et de Mie"
+msgstr ""
+"Séparer les hauteurs d’échelle de Rayleigh et de "
+"Mie"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -2631,7 +2776,9 @@ msgstr "Résolution des ombres"
 msgid ""
 "Shadow resolution changes take effect after a "
 "restart."
-msgstr "Les modifications de la résolution des ombres prendront effet après un redémarrage."
+msgstr ""
+"Les modifications de la résolution des ombres "
+"prendront effet après un redémarrage."
 
 #  Platforms: Apple, Android, Windows
 #  Shadow rendering quality settings
@@ -2704,6 +2851,11 @@ msgstr "Afficher la direction du Soleil"
 msgid "Show Terminator"
 msgstr "Afficher le terminateur"
 
+#  Platforms: Apple, Android
+#  Title for the hidden toolbar hint
+msgid "Show the toolbar"
+msgstr "Afficher la barre d’outils"
+
 #  Platforms: Apple, Android, Windows
 #  Reference vector
 msgid "Show Velocity Vector"
@@ -2751,14 +2903,19 @@ msgstr " Smooth Lines"
 msgid ""
 "Soft upper limit on per-star peak irradiance to "
 "prevent bloom saturation."
-msgstr "Limite supérieure progressive de l’éclairement énergétique de crête par étoile pour éviter la saturation du halo."
+msgstr ""
+"Limite supérieure progressive de l’éclairement "
+"énergétique de crête par étoile pour éviter la "
+"saturation du halo."
 
 #  Platforms: Apple, Android, Windows
 #  PSF star setting footnote
 msgid ""
 "Soft-clips dim stars below this multiple of the "
 "perceptual visibility floor."
-msgstr "Écrête progressivement les étoiles faibles sous ce multiple du seuil de visibilité perceptive."
+msgstr ""
+"Écrête progressivement les étoiles faibles sous "
+"ce multiple du seuil de visibilité perceptive."
 
 #  Platforms: Apple, Android, Windows
 #  Solar eclipses.
@@ -2774,7 +2931,9 @@ msgstr "Système solaire"
 msgid ""
 "Some configurations will take effect after a "
 "restart."
-msgstr "Certains réglages prendront effet après un redémarrage."
+msgstr ""
+"Certains réglages prendront effet après un "
+"redémarrage."
 
 #  Platforms: Apple, Android, Windows
 #  Plural
@@ -2902,6 +3061,24 @@ msgstr "Rémanents de supernovas"
 msgid "Support the Project"
 msgstr "Soutenir le projet"
 
+#  Platforms: Apple
+#  Hint shown the first time the toolbar is hidden in a right-to-left layout
+msgid ""
+"Swipe inward from the left edge of the screen to "
+"show the toolbar."
+msgstr ""
+"Balayez vers l’intérieur depuis le bord gauche de l’écran "
+"pour afficher la barre d’outils."
+
+#  Platforms: Apple
+#  Hint shown the first time the toolbar is hidden in a left-to-right layout
+msgid ""
+"Swipe inward from the right edge of the screen to "
+"show the toolbar."
+msgstr ""
+"Balayez vers l’intérieur depuis le bord droit de l’écran "
+"pour afficher la barre d’outils."
+
 #  Platforms: Apple, Android
 #  Move/zoom camera FOV
 msgid "Switched to camera mode"
@@ -2933,7 +3110,10 @@ msgstr "Appui au centre"
 msgid ""
 "Tap the mode button on the sidebar to switch "
 "between object mode and camera mode."
-msgstr "Touchez le bouton de mode dans la barre latérale pour basculer entre le mode objet et le mode caméra."
+msgstr ""
+"Touchez le bouton de mode dans la barre latérale "
+"pour basculer entre le mode objet et le mode "
+"caméra."
 
 #  Platforms: Apple, Android, Windows
 #  Used in Flight Mode
@@ -2969,6 +3149,19 @@ msgid "Textures"
 msgstr "Textures"
 
 #  Platforms: Android
+#  Hint shown the first time the toolbar is hidden
+msgid ""
+"The toolbar is hidden. Press your device's Back "
+"button to show the toolbar again. If you use "
+"gesture navigation, swipe inward from either side "
+"of the screen instead."
+msgstr ""
+"La barre d’outils est masquée. Appuyez sur le bouton Retour "
+"de votre appareil pour la réafficher. Si vous utilisez la "
+"navigation par gestes, balayez plutôt vers l’intérieur "
+"depuis le bord gauche ou droit de l’écran."
+
+#  Platforms: Android
 msgid "This feature is not supported."
 msgstr "Cette fonctionnalité n’est pas prise en charge."
 
@@ -2976,7 +3169,9 @@ msgstr "Cette fonctionnalité n’est pas prise en charge."
 msgid ""
 "This feature is only available to Celestia PLUS "
 "users."
-msgstr "Cette fonctionnalité est réservée aux utilisateurs de Celestia PLUS."
+msgstr ""
+"Cette fonctionnalité est réservée aux "
+"utilisateurs de Celestia PLUS."
 
 #  Platforms: Apple, Android, Windows
 #  Alert message for scripts requesting system access
@@ -2985,7 +3180,13 @@ msgid ""
 "files and execute external programs. Allowing "
 "this can be dangerous.\n"
 "Do you trust the script and want to allow this?"
-msgstr "Ce script demande l’autorisation de lire et d’écrire des fichiers et d’exécuter des programmes externes. L’autoriser peut être dangereux.\nFaites-vous confiance à ce script et souhaitez-vous l’autoriser ?"
+msgstr ""
+"Ce script demande l’autorisation de lire et "
+"d’écrire des fichiers et d’exécuter des "
+"programmes externes. L’autoriser peut être "
+"dangereux.\n"
+"Faites-vous confiance à ce script et "
+"souhaitez-vous l’autoriser ?"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -3022,14 +3223,20 @@ msgstr "Saturation de l’éclairage coloré"
 msgid ""
 "Tinted illumination saturation setting is only "
 "effective with Blackbody star colors."
-msgstr "Le réglage de saturation de l’éclairage coloré ne s’applique qu’aux couleurs d’étoiles de type corps noir."
+msgstr ""
+"Le réglage de saturation de l’éclairage coloré ne "
+"s’applique qu’aux couleurs d’étoiles de type "
+"corps noir."
 
 #  Platforms: Apple, Android
 #  Alert message for requiring Celestia PLUS to access add-ons that are related to an object
 msgid ""
 "To access related add-ons, you need to have an "
 "active Celestia PLUS subscription."
-msgstr "Pour accéder aux modules complémentaires associés, vous devez disposer d’un abonnement Celestia PLUS actif."
+msgstr ""
+"Pour accéder aux modules complémentaires "
+"associés, vous devez disposer d’un abonnement "
+"Celestia PLUS actif."
 
 #  Platforms: Apple, Android
 #  Toggle console log display on overlay
@@ -3116,7 +3323,9 @@ msgstr "Impossible de résoudre le chemin"
 
 #  Platforms: Apple, Android
 msgid "Unable to uninstall add-on."
-msgstr "Impossible de désinstaller le module complémentaire."
+msgstr ""
+"Impossible de désinstaller le module "
+"complémentaire."
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -3186,7 +3395,9 @@ msgstr "URL"
 #  Platforms: Apple, Android
 #  URL for Use Add-ons and Scripts wiki
 msgid "Use Add-ons and Scripts"
-msgstr "Utiliser des modules complémentaires et des scripts"
+msgstr ""
+"Utiliser des modules complémentaires et des "
+"scripts"
 
 #  Platforms: Apple, Android, Windows
 #  Option to use a spacecraft as cockpit
@@ -3275,7 +3486,10 @@ msgid ""
 "Wireless displays can sometimes stay 'active' "
 "after disconnecting. If casting fails, please "
 "check the FAQ."
-msgstr "Les écrans sans fil peuvent parfois rester « actifs » après leur déconnexion. Si la diffusion échoue, veuillez consulter la FAQ."
+msgstr ""
+"Les écrans sans fil peuvent parfois rester « "
+"actifs » après leur déconnexion. Si la diffusion "
+"échoue, veuillez consulter la FAQ."
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -3337,4 +3551,6 @@ msgstr "Dézoomer"
 msgid ""
 "Zooming behavior keeping the original focus "
 "location on screen"
-msgstr "Zoom conservant la position initiale du point visé à l’écran"
+msgstr ""
+"Zoom conservant la position initiale du point "
+"visé à l’écran"

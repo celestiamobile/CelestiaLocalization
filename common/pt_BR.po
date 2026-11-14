@@ -152,7 +152,9 @@ msgstr "A / X"
 #  Platforms: Android
 #, c-format
 msgid "A filename needed to be present for %s"
-msgstr "É necessário especificar um nome de arquivo para %s"
+msgstr ""
+"É necessário especificar um nome de arquivo para "
+"%s"
 
 #  Platforms: Apple, Android, Windows
 #  Shadow resolution setting footnote
@@ -202,8 +204,8 @@ msgid ""
 "installed on version 1.9.3 or above."
 msgstr ""
 "As atualizações de complementos só são "
-"compatíveis com complementos instalados na "
-"versão 1.9.3 ou posterior."
+"compatíveis com complementos instalados na versão "
+"1.9.3 ou posterior."
 
 #  Platforms: Apple, Android
 #  Add-ons for Celestia app
@@ -253,7 +255,9 @@ msgstr "Luz Ambiente"
 msgid ""
 "An external screen is connected, do you want to "
 "display Celestia on the external screen?"
-msgstr "Uma tela externa está conectada. Deseja exibir o Celestia na tela externa?"
+msgstr ""
+"Uma tela externa está conectada. Deseja exibir o "
+"Celestia na tela externa?"
 
 #  Platforms: Apple, Android, Windows
 msgid "Anti-aliasing"
@@ -406,8 +410,7 @@ msgid ""
 "extending the visible magnitude limit."
 msgstr ""
 "Multiplicador de brilho aplicado a todas as "
-"estrelas, ampliando o limite de magnitude "
-"visível."
+"estrelas, ampliando o limite de magnitude visível."
 
 #  Platforms: Apple, Android, Windows
 #  Default email title for bug report
@@ -430,8 +433,8 @@ msgstr ""
 "Ao assinar o Celestia PLUS, você apoia "
 "diretamente os desenvolvedores e mantém este "
 "projeto vivo. Você também receberá respostas em "
-"tempo hábil sobre sugestões de recursos e "
-"relatos de erros!"
+"tempo hábil sobre sugestões de recursos e relatos "
+"de erros!"
 
 #  Platforms: Apple, Android
 msgid "c (lightspeed)"
@@ -563,19 +566,25 @@ msgstr ""
 #  Platforms: Windows
 #  Frame rate setting restart notice
 msgid "Changes to frame rate take effect after a restart."
-msgstr "As alterações na taxa de quadros entrarão em vigor após a reinicialização."
+msgstr ""
+"As alterações na taxa de quadros entrarão em "
+"vigor após a reinicialização."
 
 #  Platforms: Windows
 #  Language setting restart notice
 msgid "Changes to language take effect after a restart."
-msgstr "As alterações no idioma entrarão em vigor após a reinicialização."
+msgstr ""
+"As alterações no idioma entrarão em vigor após a "
+"reinicialização."
 
 #  Platforms: Windows
 #  Selection sensitivity setting restart notice
 msgid ""
 "Changes to sensitivity take effect after a "
 "restart."
-msgstr "As alterações na sensibilidade entrarão em vigor após a reinicialização."
+msgstr ""
+"As alterações na sensibilidade entrarão em vigor "
+"após a reinicialização."
 
 #  Platforms: Apple, Android, Windows
 #  Output rendering settings footnote
@@ -604,7 +613,9 @@ msgstr "Chasmata (Cânions)"
 msgid ""
 "Choose one of the plans below to get access to "
 "all the features."
-msgstr "Escolha um dos planos abaixo para ter acesso a todos os recursos."
+msgstr ""
+"Escolha um dos planos abaixo para ter acesso a "
+"todos os recursos."
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -702,7 +713,9 @@ msgstr "Menu de Contexto"
 #  Platforms: Apple, Android
 #  Description for how a context menu is triggered
 msgid "Context menu by long press or context click"
-msgstr "Abrir o menu de contexto com um toque longo ou clique de contexto"
+msgstr ""
+"Abrir o menu de contexto com um toque longo ou "
+"clique de contexto"
 
 #  Platforms: Apple, Android
 #  Used in Flight Mode
@@ -1242,11 +1255,15 @@ msgstr "Procurar"
 
 #  Platforms: Windows
 msgid "Find eclipses for an object in a time range"
-msgstr "Encontre eclipses de um objeto em um intervalo de tempo"
+msgstr ""
+"Encontre eclipses de um objeto em um intervalo de "
+"tempo"
 
 #  Platforms: Apple, Android
 msgid "Find stars, DSOs, and nearby objects"
-msgstr "Encontre estrelas, objetos do céu profundo e objetos próximos"
+msgstr ""
+"Encontre estrelas, objetos do céu profundo e "
+"objetos próximos"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -1261,7 +1278,9 @@ msgstr "Modo de Voo"
 msgid ""
 "Flight mode decides how you move around in "
 "Celestia. Learn more…"
-msgstr "O modo de voo determina como você se move no Celestia. Saiba mais…"
+msgstr ""
+"O modo de voo determina como você se move no "
+"Celestia. Saiba mais…"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -1405,6 +1424,11 @@ msgstr "Ir para Objeto"
 #  Go to selected object
 msgid "Go to Selection"
 msgstr "Ir para Seleção"
+
+#  Platforms: Apple, Android
+#  Dismiss the hidden toolbar hint
+msgid "Got it"
+msgstr "Entendi"
 
 #  Platforms: Apple, Android, Windows
 msgid "Grids"
@@ -1728,7 +1752,9 @@ msgstr "Deixe pressionado para alterar a orientação."
 
 #  Platforms: Apple, Android
 msgid "Long press on stepper to zoom in/out."
-msgstr "Mantenha os botões de incremento pressionados para aproximar/afastar."
+msgstr ""
+"Mantenha os botões de incremento pressionados "
+"para aproximar/afastar."
 
 #  Platforms: Apple, Android, Windows
 #  Coordinates
@@ -1936,7 +1962,9 @@ msgstr "Luzes Noturnas"
 msgid ""
 "No eclipse is found for the given object in the "
 "time range"
-msgstr "Nenhum eclipse foi encontrado para o objeto indicado no intervalo de tempo"
+msgstr ""
+"Nenhum eclipse foi encontrado para o objeto "
+"indicado no intervalo de tempo"
 
 #  Platforms: Apple, Android, Windows
 #  No overview for an object
@@ -2001,8 +2029,8 @@ msgid ""
 "cost."
 msgstr ""
 "Número de segmentos usados para renderizar "
-"nuvens. Valores maiores melhoram a qualidade, "
-"com maior custo de desempenho."
+"nuvens. Valores maiores melhoram a qualidade, com "
+"maior custo de desempenho."
 
 #  Platforms: Apple, Android, Windows
 #  In eclipse finder, object to find eclipse with, or in go to
@@ -2173,7 +2201,9 @@ msgstr "Levantar"
 #  Platforms: Apple, Android, Windows
 #  PSF star setting footnote
 msgid "Pixel radius of a unit-irradiance star sprite."
-msgstr "Raio em pixels de um sprite de estrela com irradiância unitária."
+msgstr ""
+"Raio em pixels de um sprite de estrela com "
+"irradiância unitária."
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -2207,14 +2237,18 @@ msgstr "Por favor, escolha um objeto."
 msgid ""
 "Please describe the feature you want to see in "
 "Celestia."
-msgstr "Descreva o recurso que você gostaria de ver no Celestia."
+msgstr ""
+"Descreva o recurso que você gostaria de ver no "
+"Celestia."
 
 #  Platforms: Apple, Android, Windows
 #  Default email body for bug report
 msgid ""
 "Please describe the issue and repro steps, if "
 "known."
-msgstr "Descreva o problema e os passos para reproduzi-lo, se conhecidos."
+msgstr ""
+"Descreva o problema e os passos para "
+"reproduzi-lo, se conhecidos."
 
 #  Platforms: Android
 #  Custom config/data directory path have to be under a specific path
@@ -2222,7 +2256,9 @@ msgstr "Descreva o problema e os passos para reproduzi-lo, se conhecidos."
 msgid ""
 "Please ensure that you have selected a path under "
 "%s."
-msgstr "Certifique-se de ter selecionado um caminho dentro de %s."
+msgstr ""
+"Certifique-se de ter selecionado um caminho "
+"dentro de %s."
 
 #  Platforms: Apple, Android
 #  Encountered error while checking updates, possible recovery instruction.
@@ -2362,8 +2398,8 @@ msgid ""
 "receive in Settings."
 msgstr ""
 "Receba notificações sobre complementos em "
-"destaque e as últimas notícias. Você pode "
-"alterar os tipos de notificação que recebe nas "
+"destaque e as últimas notícias. Você pode alterar "
+"os tipos de notificação que recebe nas "
 "Configurações."
 
 #  Platforms: Apple, Android, Windows
@@ -2385,9 +2421,8 @@ msgid ""
 "Reference vectors are only visible for the "
 "current selected solar system object."
 msgstr ""
-"Os vetores de referência só ficam visíveis para "
-"o objeto do sistema solar selecionado no "
-"momento."
+"Os vetores de referência só ficam visíveis para o "
+"objeto do sistema solar selecionado no momento."
 
 #  Platforms: Apple, Android, Windows
 msgid "Reflection Nebulae"
@@ -2435,7 +2470,9 @@ msgstr "Renderização"
 
 #  Platforms: Windows
 msgid "Rendering stopped. Please restart Celestia."
-msgstr "A renderização foi interrompida. Reinicie o Celestia."
+msgstr ""
+"A renderização foi interrompida. Reinicie o "
+"Celestia."
 
 #  Platforms: Apple, Android, Windows
 msgid "Report a Bug"
@@ -2649,7 +2686,9 @@ msgstr "Escolha o seu destino:"
 #  Platforms: Windows
 #  Error message, the time in the picker is considered out of range by the system
 msgid "Selected time is out of range."
-msgstr "A hora selecionada está fora do intervalo permitido."
+msgstr ""
+"A hora selecionada está fora do intervalo "
+"permitido."
 
 #  Platforms: Apple, Android
 msgid "Send Feedback"
@@ -2787,6 +2826,11 @@ msgstr "Mostrar Direção do Sol"
 msgid "Show Terminator"
 msgstr "Mostrar Terminador"
 
+#  Platforms: Apple, Android
+#  Title for the hidden toolbar hint
+msgid "Show the toolbar"
+msgstr "Mostrar a barra de ferramentas"
+
 #  Platforms: Apple, Android, Windows
 #  Reference vector
 msgid "Show Velocity Vector"
@@ -2862,7 +2906,9 @@ msgstr "Sistema Solar"
 msgid ""
 "Some configurations will take effect after a "
 "restart."
-msgstr "Algumas configurações entrarão em vigor após a reinicialização."
+msgstr ""
+"Algumas configurações entrarão em vigor após a "
+"reinicialização."
 
 #  Platforms: Apple, Android, Windows
 #  Plural
@@ -2990,6 +3036,24 @@ msgstr "Remanescentes de Supernovas"
 msgid "Support the Project"
 msgstr "Apoie o Projeto"
 
+#  Platforms: Apple
+#  Hint shown the first time the toolbar is hidden in a right-to-left layout
+msgid ""
+"Swipe inward from the left edge of the screen to "
+"show the toolbar."
+msgstr ""
+"Deslize da borda esquerda da tela para dentro para "
+"mostrar a barra de ferramentas."
+
+#  Platforms: Apple
+#  Hint shown the first time the toolbar is hidden in a left-to-right layout
+msgid ""
+"Swipe inward from the right edge of the screen to "
+"show the toolbar."
+msgstr ""
+"Deslize da borda direita da tela para dentro para "
+"mostrar a barra de ferramentas."
+
 #  Platforms: Apple, Android
 #  Move/zoom camera FOV
 msgid "Switched to camera mode"
@@ -3059,6 +3123,19 @@ msgid "Textures"
 msgstr "Texturas"
 
 #  Platforms: Android
+#  Hint shown the first time the toolbar is hidden
+msgid ""
+"The toolbar is hidden. Press your device's Back "
+"button to show the toolbar again. If you use "
+"gesture navigation, swipe inward from either side "
+"of the screen instead."
+msgstr ""
+"A barra de ferramentas está oculta. Pressione o botão "
+"Voltar do dispositivo para mostrá-la novamente. Se você "
+"usa a navegação por gestos, deslize de uma das bordas "
+"laterais da tela para dentro."
+
+#  Platforms: Android
 msgid "This feature is not supported."
 msgstr "Este recurso não é compatível."
 
@@ -3066,7 +3143,9 @@ msgstr "Este recurso não é compatível."
 msgid ""
 "This feature is only available to Celestia PLUS "
 "users."
-msgstr "Este recurso está disponível apenas para usuários do Celestia PLUS."
+msgstr ""
+"Este recurso está disponível apenas para usuários "
+"do Celestia PLUS."
 
 #  Platforms: Apple, Android, Windows
 #  Alert message for scripts requesting system access
@@ -3128,8 +3207,7 @@ msgid ""
 "active Celestia PLUS subscription."
 msgstr ""
 "Para acessar os complementos relacionados, você "
-"precisa ter uma assinatura ativa do Celestia "
-"PLUS."
+"precisa ter uma assinatura ativa do Celestia PLUS."
 
 #  Platforms: Apple, Android
 #  Toggle console log display on overlay

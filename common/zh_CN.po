@@ -1368,6 +1368,11 @@ msgstr "转到目标"
 msgid "Go to Selection"
 msgstr "转到所选"
 
+#  Platforms: Apple, Android
+#  Dismiss the hidden toolbar hint
+msgid "Got it"
+msgstr "知道了"
+
 #  Platforms: Apple, Android, Windows
 msgid "Grids"
 msgstr "坐标系"
@@ -2716,6 +2721,11 @@ msgstr "显示太阳方向"
 msgid "Show Terminator"
 msgstr "显示明暗边界线"
 
+#  Platforms: Apple, Android
+#  Title for the hidden toolbar hint
+msgid "Show the toolbar"
+msgstr "显示工具栏"
+
 #  Platforms: Apple, Android, Windows
 #  Reference vector
 msgid "Show Velocity Vector"
@@ -2914,6 +2924,20 @@ msgstr "超新星遗迹"
 msgid "Support the Project"
 msgstr "支持该项目"
 
+#  Platforms: Apple
+#  Hint shown the first time the toolbar is hidden in a right-to-left layout
+msgid ""
+"Swipe inward from the left edge of the screen to "
+"show the toolbar."
+msgstr "从屏幕左边缘向内轻扫以显示工具栏。"
+
+#  Platforms: Apple
+#  Hint shown the first time the toolbar is hidden in a left-to-right layout
+msgid ""
+"Swipe inward from the right edge of the screen to "
+"show the toolbar."
+msgstr "从屏幕右边缘向内轻扫以显示工具栏。"
+
 #  Platforms: Apple, Android
 #  Move/zoom camera FOV
 msgid "Switched to camera mode"
@@ -2979,6 +3003,17 @@ msgstr "纹理分辨率"
 #  Texture rendering quality settings
 msgid "Textures"
 msgstr "纹理"
+
+#  Platforms: Android
+#  Hint shown the first time the toolbar is hidden
+msgid ""
+"The toolbar is hidden. Press your device's Back "
+"button to show the toolbar again. If you use "
+"gesture navigation, swipe inward from either side "
+"of the screen instead."
+msgstr ""
+"工具栏已隐藏。按设备的返回按钮可重新显示工具栏。"
+"如果使用手势导航，请从屏幕左边缘或右边缘向内轻扫。"
 
 #  Platforms: Android
 msgid "This feature is not supported."

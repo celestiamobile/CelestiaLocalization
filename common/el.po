@@ -1363,6 +1363,11 @@ msgstr "Μετάβαση στο Αντικείμενο "
 msgid "Go to Selection"
 msgstr "Μετάβαση στην Επιλογή"
 
+#  Platforms: Apple, Android
+#  Dismiss the hidden toolbar hint
+msgid "Got it"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 msgid "Grids"
 msgstr "Πλέγματα"
@@ -2704,6 +2709,11 @@ msgstr "Εμφάνιση Κατεύθυνσης Ήλιου"
 msgid "Show Terminator"
 msgstr "Εμφάνιση Terminator"
 
+#  Platforms: Apple, Android
+#  Title for the hidden toolbar hint
+msgid "Show the toolbar"
+msgstr ""
+
 #  Platforms: Apple, Android, Windows
 #  Reference vector
 msgid "Show Velocity Vector"
@@ -2902,6 +2912,20 @@ msgstr ""
 msgid "Support the Project"
 msgstr ""
 
+#  Platforms: Apple
+#  Hint shown the first time the toolbar is hidden in a right-to-left layout
+msgid ""
+"Swipe inward from the left edge of the screen to "
+"show the toolbar."
+msgstr ""
+
+#  Platforms: Apple
+#  Hint shown the first time the toolbar is hidden in a left-to-right layout
+msgid ""
+"Swipe inward from the right edge of the screen to "
+"show the toolbar."
+msgstr ""
+
 #  Platforms: Apple, Android
 #  Move/zoom camera FOV
 msgid "Switched to camera mode"
@@ -2966,6 +2990,15 @@ msgstr "Ανάλυση Υφής"
 #  Platforms: Apple, Android, Windows
 #  Texture rendering quality settings
 msgid "Textures"
+msgstr ""
+
+#  Platforms: Android
+#  Hint shown the first time the toolbar is hidden
+msgid ""
+"The toolbar is hidden. Press your device's Back "
+"button to show the toolbar again. If you use "
+"gesture navigation, swipe inward from either side "
+"of the screen instead."
 msgstr ""
 
 #  Platforms: Android

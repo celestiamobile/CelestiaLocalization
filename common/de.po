@@ -161,9 +161,9 @@ msgid ""
 "values produce sharper shadows at a greater "
 "performance cost."
 msgstr ""
-"Ein Wert von 0 deaktiviert die "
-"Eigenverschattung. Höhere Werte erzeugen "
-"schärfere Schatten bei höherem Rechenaufwand."
+"Ein Wert von 0 deaktiviert die Eigenverschattung. "
+"Höhere Werte erzeugen schärfere Schatten bei "
+"höherem Rechenaufwand."
 
 #  Platforms: Apple, Android, Windows
 #  About Celestia
@@ -408,8 +408,8 @@ msgid ""
 "Brightness multiplier applied to every star, "
 "extending the visible magnitude limit."
 msgstr ""
-"Helligkeitsmultiplikator für alle Sterne, der "
-"die sichtbare Grenzgröße erweitert."
+"Helligkeitsmultiplikator für alle Sterne, der die "
+"sichtbare Grenzgröße erweitert."
 
 #  Platforms: Apple, Android, Windows
 #  Default email title for bug report
@@ -430,10 +430,10 @@ msgid ""
 "feature requests and bug reports!"
 msgstr ""
 "Mit einem Abonnement von Celestia PLUS "
-"unterstützen Sie die Entwickler direkt und "
-"halten dieses Projekt am Leben. Außerdem "
-"erhalten Sie zeitnah Rückmeldungen zu "
-"Funktionswünschen und Fehlerberichten!"
+"unterstützen Sie die Entwickler direkt und halten "
+"dieses Projekt am Leben. Außerdem erhalten Sie "
+"zeitnah Rückmeldungen zu Funktionswünschen und "
+"Fehlerberichten!"
 
 #  Platforms: Apple, Android
 msgid "c (lightspeed)"
@@ -565,26 +565,34 @@ msgstr ""
 #  Platforms: Windows
 #  Frame rate setting restart notice
 msgid "Changes to frame rate take effect after a restart."
-msgstr "Änderungen an der Bildrate treten nach einem Neustart in Kraft."
+msgstr ""
+"Änderungen an der Bildrate treten nach einem "
+"Neustart in Kraft."
 
 #  Platforms: Windows
 #  Language setting restart notice
 msgid "Changes to language take effect after a restart."
-msgstr "Änderungen an der Sprache treten nach einem Neustart in Kraft."
+msgstr ""
+"Änderungen an der Sprache treten nach einem "
+"Neustart in Kraft."
 
 #  Platforms: Windows
 #  Selection sensitivity setting restart notice
 msgid ""
 "Changes to sensitivity take effect after a "
 "restart."
-msgstr "Änderungen an der Empfindlichkeit treten nach einem Neustart in Kraft."
+msgstr ""
+"Änderungen an der Empfindlichkeit treten nach "
+"einem Neustart in Kraft."
 
 #  Platforms: Apple, Android, Windows
 #  Output rendering settings footnote
 msgid ""
 "Changes to sRGB rendering take effect after a "
 "restart."
-msgstr "Änderungen am sRGB-Rendering treten nach einem Neustart in Kraft."
+msgstr ""
+"Änderungen am sRGB-Rendering treten nach einem "
+"Neustart in Kraft."
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -605,8 +613,8 @@ msgid ""
 "Choose one of the plans below to get access to "
 "all the features."
 msgstr ""
-"Wählen Sie einen der folgenden Tarife, um "
-"Zugriff auf alle Funktionen zu erhalten."
+"Wählen Sie einen der folgenden Tarife, um Zugriff "
+"auf alle Funktionen zu erhalten."
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -679,7 +687,9 @@ msgstr "Änderungen treten nach Neustart in Kraft."
 
 #  Platforms: Apple, Android
 msgid "Congratulations, you are a Celestia PLUS user"
-msgstr "Herzlichen Glückwunsch, Sie nutzen jetzt Celestia PLUS"
+msgstr ""
+"Herzlichen Glückwunsch, Sie nutzen jetzt Celestia "
+"PLUS"
 
 #  Platforms: Apple, Android
 #  Purchase success message with restart guidance
@@ -687,9 +697,9 @@ msgid ""
 "Congratulations, you are a Celestia PLUS user. "
 "Restart Celestia for your purchase to take effect."
 msgstr ""
-"Herzlichen Glückwunsch, Sie nutzen jetzt "
-"Celestia PLUS. Starten Sie Celestia neu, um "
-"Ihren Kauf zu aktivieren."
+"Herzlichen Glückwunsch, Sie nutzen jetzt Celestia "
+"PLUS. Starten Sie Celestia neu, um Ihren Kauf zu "
+"aktivieren."
 
 #  Platforms: Apple, Android, Windows
 msgid "Constellations"
@@ -703,7 +713,9 @@ msgstr "Kontextmenü"
 #  Platforms: Apple, Android
 #  Description for how a context menu is triggered
 msgid "Context menu by long press or context click"
-msgstr "Kontextmenü durch langes Drücken oder Kontextklick öffnen"
+msgstr ""
+"Kontextmenü durch langes Drücken oder "
+"Kontextklick öffnen"
 
 #  Platforms: Apple, Android
 #  Used in Flight Mode
@@ -747,7 +759,9 @@ msgstr "Krater"
 
 #  Platforms: Apple, Android
 msgid "Create a new bookmark with \"+\" button"
-msgstr "Mit der Schaltfläche „+“ ein neues Lesezeichen erstellen"
+msgstr ""
+"Mit der Schaltfläche „+“ ein neues Lesezeichen "
+"erstellen"
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -873,7 +887,9 @@ msgstr "Reiseziele"
 #  Platforms: Android
 #  Settings to support virtual display in external display
 msgid "Detect Virtual Display (Casting)"
-msgstr "Virtuellen Bildschirm erkennen (Bildschirmübertragung)"
+msgstr ""
+"Virtuellen Bildschirm erkennen "
+"(Bildschirmübertragung)"
 
 #  Platforms: Apple, Android, Windows
 #  Marker
@@ -1100,7 +1116,9 @@ msgstr ""
 
 #  Platforms: Apple, Android, Windows
 msgid "Error opening file for saving add-on"
-msgstr "Fehler beim Öffnen der Datei zum Speichern des Add-ons"
+msgstr ""
+"Fehler beim Öffnen der Datei zum Speichern des "
+"Add-ons"
 
 #  Platforms: Apple, Android, Windows
 msgid "Error unzipping add-on"
@@ -1108,7 +1126,9 @@ msgstr "Fehler beim Entpacken des Add-ons"
 
 #  Platforms: Apple, Android, Windows
 msgid "Error writing data file for add-on"
-msgstr "Fehler beim Schreiben der Datendatei für das Add-on"
+msgstr ""
+"Fehler beim Schreiben der Datendatei für das "
+"Add-on"
 
 #  Platforms: Apple, Android, Windows
 #  Game controller action
@@ -1175,7 +1195,9 @@ msgstr "Verbindung zum externen Bildschirm fehlgeschlagen."
 
 #  Platforms: Apple, Android, Windows
 msgid "Failed to download or install this add-on."
-msgstr "Dieses Add-on konnte nicht heruntergeladen oder installiert werden."
+msgstr ""
+"Dieses Add-on konnte nicht heruntergeladen oder "
+"installiert werden."
 
 #  Platforms: Android
 #  WebView failed to load content
@@ -1243,7 +1265,9 @@ msgstr "Suchen"
 
 #  Platforms: Windows
 msgid "Find eclipses for an object in a time range"
-msgstr "Finsternisse für ein Objekt in einem Zeitraum suchen"
+msgstr ""
+"Finsternisse für ein Objekt in einem Zeitraum "
+"suchen"
 
 #  Platforms: Apple, Android
 msgid "Find stars, DSOs, and nearby objects"
@@ -1262,7 +1286,9 @@ msgstr "Flugmodus"
 msgid ""
 "Flight mode decides how you move around in "
 "Celestia. Learn more…"
-msgstr "Der Flugmodus bestimmt, wie Sie sich in Celestia bewegen. Mehr erfahren…"
+msgstr ""
+"Der Flugmodus bestimmt, wie Sie sich in Celestia "
+"bewegen. Mehr erfahren…"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -1406,6 +1432,11 @@ msgstr "Gehe zu Objekt"
 #  Go to selected object
 msgid "Go to Selection"
 msgstr "Gehe zur Auswahl"
+
+#  Platforms: Apple, Android
+#  Dismiss the hidden toolbar hint
+msgid "Got it"
+msgstr "Verstanden"
 
 #  Platforms: Apple, Android, Windows
 msgid "Grids"
@@ -1731,7 +1762,9 @@ msgstr ""
 
 #  Platforms: Apple, Android
 msgid "Long press on stepper to zoom in/out."
-msgstr "Zum Vergrößern oder Verkleinern die Schritt-Buttons lange drücken."
+msgstr ""
+"Zum Vergrößern oder Verkleinern die "
+"Schritt-Buttons lange drücken."
 
 #  Platforms: Apple, Android, Windows
 #  Coordinates
@@ -1984,8 +2017,8 @@ msgid ""
 "them in System Settings to subscribe to updates."
 msgstr ""
 "Mitteilungen für Celestia sind deaktiviert. "
-"Aktivieren Sie sie in den Systemeinstellungen, "
-"um Benachrichtigungen zu erhalten."
+"Aktivieren Sie sie in den Systemeinstellungen, um "
+"Benachrichtigungen zu erhalten."
 
 #  Platforms: Apple, Android, Windows
 #  Atmosphere segment count setting description
@@ -1995,9 +2028,8 @@ msgid ""
 "greater performance cost."
 msgstr ""
 "Anzahl der Segmente für die Integration der "
-"atmosphärischen Streuung. Höhere Werte "
-"verbessern die Qualität bei höherem "
-"Rechenaufwand."
+"atmosphärischen Streuung. Höhere Werte verbessern "
+"die Qualität bei höherem Rechenaufwand."
 
 #  Platforms: Apple, Android, Windows
 #  Cloud segment count setting description
@@ -2179,7 +2211,9 @@ msgstr "Nach oben nicken"
 #  Platforms: Apple, Android, Windows
 #  PSF star setting footnote
 msgid "Pixel radius of a unit-irradiance star sprite."
-msgstr "Pixelradius eines Stern-Sprites mit Einheitsbestrahlungsstärke."
+msgstr ""
+"Pixelradius eines Stern-Sprites mit "
+"Einheitsbestrahlungsstärke."
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -2213,7 +2247,9 @@ msgstr "Bitte Objekt auswählen."
 msgid ""
 "Please describe the feature you want to see in "
 "Celestia."
-msgstr "Bitte beschreiben Sie die Funktion, die Sie sich für Celestia wünschen."
+msgstr ""
+"Bitte beschreiben Sie die Funktion, die Sie sich "
+"für Celestia wünschen."
 
 #  Platforms: Apple, Android, Windows
 #  Default email body for bug report
@@ -2446,7 +2482,9 @@ msgstr "Rendering"
 
 #  Platforms: Windows
 msgid "Rendering stopped. Please restart Celestia."
-msgstr "Rendering angehalten. Bitte starten Sie Celestia neu."
+msgstr ""
+"Rendering angehalten. Bitte starten Sie Celestia "
+"neu."
 
 #  Platforms: Apple, Android, Windows
 msgid "Report a Bug"
@@ -2660,7 +2698,9 @@ msgstr "Ziel auswählen:"
 #  Platforms: Windows
 #  Error message, the time in the picker is considered out of range by the system
 msgid "Selected time is out of range."
-msgstr "Die ausgewählte Zeit liegt außerhalb des gültigen Bereichs."
+msgstr ""
+"Die ausgewählte Zeit liegt außerhalb des gültigen "
+"Bereichs."
 
 #  Platforms: Apple, Android
 msgid "Send Feedback"
@@ -2679,7 +2719,9 @@ msgstr "Empfindlichkeit der Objektauswahl"
 #  Platforms: Apple, Android, Windows
 #  Atmosphere rendering quality setting
 msgid "Separate Rayleigh and Mie Scale Heights"
-msgstr "Getrennte Skalenhöhen für Rayleigh- und Mie-Streuung"
+msgstr ""
+"Getrennte Skalenhöhen für Rayleigh- und "
+"Mie-Streuung"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -2723,7 +2765,9 @@ msgstr "Schattenauflösung"
 msgid ""
 "Shadow resolution changes take effect after a "
 "restart."
-msgstr "Änderungen an der Schattenauflösung treten nach einem Neustart in Kraft."
+msgstr ""
+"Änderungen an der Schattenauflösung treten nach "
+"einem Neustart in Kraft."
 
 #  Platforms: Apple, Android, Windows
 #  Shadow rendering quality settings
@@ -2795,6 +2839,11 @@ msgstr "Richtung zur Sonne anzeigen"
 #  Reference vector
 msgid "Show Terminator"
 msgstr "Tag/Nacht-Grenze anzeigen"
+
+#  Platforms: Apple, Android
+#  Title for the hidden toolbar hint
+msgid "Show the toolbar"
+msgstr "Symbolleiste anzeigen"
 
 #  Platforms: Apple, Android, Windows
 #  Reference vector
@@ -2871,7 +2920,9 @@ msgstr "Sonnensystem"
 msgid ""
 "Some configurations will take effect after a "
 "restart."
-msgstr "Einige Einstellungen treten nach einem Neustart in Kraft."
+msgstr ""
+"Einige Einstellungen treten nach einem Neustart "
+"in Kraft."
 
 #  Platforms: Apple, Android, Windows
 #  Plural
@@ -2999,6 +3050,24 @@ msgstr "Supernovaüberreste"
 msgid "Support the Project"
 msgstr "Das Projekt unterstützen"
 
+#  Platforms: Apple
+#  Hint shown the first time the toolbar is hidden in a right-to-left layout
+msgid ""
+"Swipe inward from the left edge of the screen to "
+"show the toolbar."
+msgstr ""
+"Wischen Sie vom linken Bildschirmrand nach innen, um die "
+"Symbolleiste anzuzeigen."
+
+#  Platforms: Apple
+#  Hint shown the first time the toolbar is hidden in a left-to-right layout
+msgid ""
+"Swipe inward from the right edge of the screen to "
+"show the toolbar."
+msgstr ""
+"Wischen Sie vom rechten Bildschirmrand nach innen, um die "
+"Symbolleiste anzuzeigen."
+
 #  Platforms: Apple, Android
 #  Move/zoom camera FOV
 msgid "Switched to camera mode"
@@ -3068,6 +3137,19 @@ msgid "Textures"
 msgstr "Texturen"
 
 #  Platforms: Android
+#  Hint shown the first time the toolbar is hidden
+msgid ""
+"The toolbar is hidden. Press your device's Back "
+"button to show the toolbar again. If you use "
+"gesture navigation, swipe inward from either side "
+"of the screen instead."
+msgstr ""
+"Die Symbolleiste ist ausgeblendet. Drücken Sie die Zurück-Taste "
+"Ihres Geräts, um sie wieder anzuzeigen. Wenn Sie die "
+"Gestensteuerung verwenden, wischen Sie stattdessen vom linken "
+"oder rechten Bildschirmrand nach innen."
+
+#  Platforms: Android
 msgid "This feature is not supported."
 msgstr "Diese Funktion wird nicht unterstützt."
 
@@ -3075,7 +3157,9 @@ msgstr "Diese Funktion wird nicht unterstützt."
 msgid ""
 "This feature is only available to Celestia PLUS "
 "users."
-msgstr "Diese Funktion ist nur für Nutzer von Celestia PLUS verfügbar."
+msgstr ""
+"Diese Funktion ist nur für Nutzer von Celestia "
+"PLUS verfügbar."
 
 #  Platforms: Apple, Android, Windows
 #  Alert message for scripts requesting system access
@@ -3450,4 +3534,6 @@ msgstr "Verkleinern"
 msgid ""
 "Zooming behavior keeping the original focus "
 "location on screen"
-msgstr "Beim Zoomen bleibt der ursprüngliche Fokuspunkt auf dem Bildschirm erhalten"
+msgstr ""
+"Beim Zoomen bleibt der ursprüngliche Fokuspunkt "
+"auf dem Bildschirm erhalten"

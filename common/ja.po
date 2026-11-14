@@ -160,7 +160,8 @@ msgid ""
 "A value of 0 disables self-shadowing. Higher "
 "values produce sharper shadows at a greater "
 "performance cost."
-msgstr "0にするとセルフシャドウが無効になります。値を大きくすると影が鮮明になりますが、処理負荷が高くなります。"
+msgstr ""
+"0にするとセルフシャドウが無効になります。値を大きくすると影が鮮明になりますが、処理負荷が高くなります。"
 
 #  Platforms: Apple, Android, Windows
 #  About Celestia
@@ -415,7 +416,9 @@ msgid ""
 "support the developers and keep this project "
 "alive. You'll also receive timely feedback on "
 "feature requests and bug reports!"
-msgstr "Celestia PLUSに登録すると、開発者を直接支援し、このプロジェクトの継続を支えることができます。機能の要望やバグ報告へのフィードバックも迅速に受けられます！"
+msgstr ""
+"Celestia "
+"PLUSに登録すると、開発者を直接支援し、このプロジェクトの継続を支えることができます。機能の要望やバグ報告へのフィードバックも迅速に受けられます！"
 
 #  Platforms: Apple, Android
 msgid "c (lightspeed)"
@@ -502,7 +505,8 @@ msgid ""
 "downloaded to the target directory. This "
 "operation cannot be undone, so please ensure you "
 "make a backup before you proceed."
-msgstr "Celestiaを終了し、次回起動時にデータを移行します。移行先ディレクトリの内容は、現在のディレクトリの内容で置き換えられます。コピー後、現在のディレクトリの内容は削除されます。今後のアドオンは移行先ディレクトリにダウンロードされます。この操作は取り消せませんので、続行する前に必ずバックアップを作成してください。"
+msgstr ""
+"Celestiaを終了し、次回起動時にデータを移行します。移行先ディレクトリの内容は、現在のディレクトリの内容で置き換えられます。コピー後、現在のディレクトリの内容は削除されます。今後のアドオンは移行先ディレクトリにダウンロードされます。この操作は取り消せませんので、続行する前に必ずバックアップを作成してください。"
 
 #  Platforms: Apple, Android, Windows
 #  Temperature scale
@@ -654,7 +658,9 @@ msgstr "Celestia PLUSへのご登録ありがとうございます"
 msgid ""
 "Congratulations, you are a Celestia PLUS user. "
 "Restart Celestia for your purchase to take effect."
-msgstr "Celestia PLUSへのご登録ありがとうございます。購入内容を反映するにはCelestiaを再起動してください。"
+msgstr ""
+"Celestia "
+"PLUSへのご登録ありがとうございます。購入内容を反映するにはCelestiaを再起動してください。"
 
 #  Platforms: Apple, Android, Windows
 msgid "Constellations"
@@ -1097,7 +1103,8 @@ msgstr "露出"
 msgid ""
 "Extent of the eye PSF glow around bright stars. "
 "Lower values widen the glow at higher GPU cost."
-msgstr "明るい恒星の周囲に生じる、眼の点像分布関数（PSF）による光のにじみの範囲です。値を小さくするとにじみが広がりますが、GPUの負荷が高くなります。"
+msgstr ""
+"明るい恒星の周囲に生じる、眼の点像分布関数（PSF）による光のにじみの範囲です。値を小さくするとにじみが広がりますが、GPUの負荷が高くなります。"
 
 #  Platforms: Android
 #  Section header text for settings
@@ -1363,6 +1370,11 @@ msgstr "天体へ移動"
 #  Go to selected object
 msgid "Go to Selection"
 msgstr "移動"
+
+#  Platforms: Apple, Android
+#  Dismiss the hidden toolbar hint
+msgid "Got it"
+msgstr "わかりました"
 
 #  Platforms: Apple, Android, Windows
 msgid "Grids"
@@ -1927,7 +1939,8 @@ msgstr "通知"
 msgid ""
 "Notifications are turned off for Celestia. Enable "
 "them in System Settings to subscribe to updates."
-msgstr "Celestiaの通知はオフになっています。最新情報を受け取るには、システム設定で通知を有効にしてください。"
+msgstr ""
+"Celestiaの通知はオフになっています。最新情報を受け取るには、システム設定で通知を有効にしてください。"
 
 #  Platforms: Apple, Android, Windows
 #  Atmosphere segment count setting description
@@ -2170,7 +2183,9 @@ msgstr "%s配下のパスを選択していることを確認してください�
 msgid ""
 "Please ensure you have a valid Celestia PLUS "
 "subscription or check again later."
-msgstr "Celestia PLUSのサブスクリプションが有効であることを確認するか、しばらくしてからもう一度お試しください。"
+msgstr ""
+"Celestia "
+"PLUSのサブスクリプションが有効であることを確認するか、しばらくしてからもう一度お試しください。"
 
 #  Platforms: Apple
 #  Message for renaming a favorite item (currently bookmark)
@@ -2249,7 +2264,8 @@ msgid ""
 "year (for Yearly), each month (for Monthly), or "
 "each week (for Weekly). Cancel at anytime in "
 "Subscriptions on Google Play."
-msgstr "購入後すぐにご利用いただけます。サブスクリプションは自動更新され、年額プランは毎年、月額プランは毎月、週額プランは毎週、ここに記載された料金が請求されます。Google Playの「定期購入」からいつでも解約できます。"
+msgstr ""
+"購入後すぐにご利用いただけます。サブスクリプションは自動更新され、年額プランは毎年、月額プランは毎月、週額プランは毎週、ここに記載された料金が請求されます。Google Playの「定期購入」からいつでも解約できます。"
 
 #  Platforms: Apple, Android, Windows
 #  Rendering quality settings
@@ -2711,6 +2727,11 @@ msgstr "太陽の方向を表示"
 msgid "Show Terminator"
 msgstr "明暗境界線を表示"
 
+#  Platforms: Apple, Android
+#  Title for the hidden toolbar hint
+msgid "Show the toolbar"
+msgstr "ツールバーを表示"
+
 #  Platforms: Apple, Android, Windows
 #  Reference vector
 msgid "Show Velocity Vector"
@@ -2909,6 +2930,20 @@ msgstr "超新星残骸"
 msgid "Support the Project"
 msgstr "プロジェクトを支援"
 
+#  Platforms: Apple
+#  Hint shown the first time the toolbar is hidden in a right-to-left layout
+msgid ""
+"Swipe inward from the left edge of the screen to "
+"show the toolbar."
+msgstr "画面の左端から内側にスワイプすると、ツールバーが表示されます。"
+
+#  Platforms: Apple
+#  Hint shown the first time the toolbar is hidden in a left-to-right layout
+msgid ""
+"Swipe inward from the right edge of the screen to "
+"show the toolbar."
+msgstr "画面の右端から内側にスワイプすると、ツールバーが表示されます。"
+
 #  Platforms: Apple, Android
 #  Move/zoom camera FOV
 msgid "Switched to camera mode"
@@ -2976,6 +3011,19 @@ msgid "Textures"
 msgstr "テクスチャ"
 
 #  Platforms: Android
+#  Hint shown the first time the toolbar is hidden
+msgid ""
+"The toolbar is hidden. Press your device's Back "
+"button to show the toolbar again. If you use "
+"gesture navigation, swipe inward from either side "
+"of the screen instead."
+msgstr ""
+"ツールバーは非表示になっています。もう一度表示するには、"
+"端末の戻るボタンを押してください。ジェスチャーナビゲーションを"
+"使用している場合は、代わりに画面の左右いずれかの端から"
+"内側にスワイプしてください。"
+
+#  Platforms: Android
 msgid "This feature is not supported."
 msgstr "この機能はサポートされていません。"
 
@@ -2992,7 +3040,9 @@ msgid ""
 "files and execute external programs. Allowing "
 "this can be dangerous.\n"
 "Do you trust the script and want to allow this?"
-msgstr "このスクリプトは、ファイルの読み書きと外部プログラムの実行の許可を要求しています。許可すると危険な場合があります。\nこのスクリプトを信頼し、許可しますか？"
+msgstr ""
+"このスクリプトは、ファイルの読み書きと外部プログラムの実行の許可を要求しています。許可すると危険な場合があります。\n"
+"このスクリプトを信頼し、許可しますか？"
 
 #  Platforms: Apple, Android, Windows
 #  Location labels
@@ -3282,7 +3332,8 @@ msgid ""
 "Wireless displays can sometimes stay 'active' "
 "after disconnecting. If casting fails, please "
 "check the FAQ."
-msgstr "ワイヤレスディスプレイは、切断後も「有効」な状態のままになることがあります。キャストに失敗する場合は、よくある質問をご確認ください。"
+msgstr ""
+"ワイヤレスディスプレイは、切断後も「有効」な状態のままになることがあります。キャストに失敗する場合は、よくある質問をご確認ください。"
 
 #  Platforms: Apple, Android, Windows
 #  Marker
