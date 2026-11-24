@@ -4,6 +4,8 @@
 "COMMON_DOWNLOAD" = "İndir";
 "ADDON_AUTHOR_TEMPLATE" = "Yazar(lar): %@";
 "ADDON_RELEASE_DATE_TEMPLATE" = "Yayın tarihi: %@";
+"ADDON_ORIGINAL_RELEASE_DATE_TEMPLATE" = "İlk yayın tarihi: %@";
+"ADDON_ORIGINAL_SOURCE" = "Özgün kaynak";
 "ADDON_LAST_UPDATED_TEMPLATE" = "Son güncelleme: %@";
 "ADDON_INSTALL_HINT" = "Not: Yeni yüklenen herhangi bir eklentiyi kullanabilmek için Celestia'nın yeniden başlatılması gerekir.";
 "ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ veya %@";

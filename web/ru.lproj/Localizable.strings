@@ -4,6 +4,8 @@
 "COMMON_DOWNLOAD" = "Скачать";
 "ADDON_AUTHOR_TEMPLATE" = "Автор(ы): %@";
 "ADDON_RELEASE_DATE_TEMPLATE" = "Дата релиза: %@";
+"ADDON_ORIGINAL_RELEASE_DATE_TEMPLATE" = "Дата первоначального релиза: %@";
+"ADDON_ORIGINAL_SOURCE" = "Первоисточник";
 "ADDON_LAST_UPDATED_TEMPLATE" = "Последнее обновление: %@";
 "ADDON_INSTALL_HINT" = "Примечание: перезапустите Celestia для активации новых установленных дополнений.";
 "ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ или %@";

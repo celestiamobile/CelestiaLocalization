@@ -4,6 +4,8 @@
 "COMMON_DOWNLOAD" = "Atsisiųsti";
 "ADDON_AUTHOR_TEMPLATE" = "Autorius (-iai): %@";
 "ADDON_RELEASE_DATE_TEMPLATE" = "Išleidimo data: %@";
+"ADDON_ORIGINAL_RELEASE_DATE_TEMPLATE" = "Pradinio išleidimo data: %@";
+"ADDON_ORIGINAL_SOURCE" = "Pirminis šaltinis";
 "ADDON_LAST_UPDATED_TEMPLATE" = "Paskutinį kartą atnaujinta: %@";
 "ADDON_INSTALL_HINT" = "Pastaba: norint naudoti naujai įdiegtą priedą, reikia paleisti Celestia iš naujo.";
 "ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ arba %@";

@@ -4,6 +4,8 @@
 "COMMON_DOWNLOAD" = "Спампаваць";
 "ADDON_AUTHOR_TEMPLATE" = "Аўтар(ы): %@";
 "ADDON_RELEASE_DATE_TEMPLATE" = "Дата выпуску: %@";
+"ADDON_ORIGINAL_RELEASE_DATE_TEMPLATE" = "Дата першапачатковага выпуску: %@";
+"ADDON_ORIGINAL_SOURCE" = "Першакрыніца";
 "ADDON_LAST_UPDATED_TEMPLATE" = "Апошняе абнаўленне: %@";
 "ADDON_INSTALL_HINT" = "Заўвага: для выкарыстання любога нанава ўсталяванага дадатку трэба перазапусціць Celestia.";
 "ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ або %@";

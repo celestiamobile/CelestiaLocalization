@@ -4,6 +4,8 @@
 "COMMON_DOWNLOAD" = "ჩამოტვირთვა";
 "ADDON_AUTHOR_TEMPLATE" = "ავტორ(ებ)ი: %@";
 "ADDON_RELEASE_DATE_TEMPLATE" = "გამოშვების თარიღი: %@";
+"ADDON_ORIGINAL_RELEASE_DATE_TEMPLATE" = "თავდაპირველი გამოშვების თარიღი: %@";
+"ADDON_ORIGINAL_SOURCE" = "პირველწყარო";
 "ADDON_LAST_UPDATED_TEMPLATE" = "ბოლო განახლება: %@";
 "ADDON_INSTALL_HINT" = "შენიშვნა: ახლად დაყენებული დანამატის გამოყენებისთვის საჭიროა Celestia-ის ხელახლა გაშვება.";
 "ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ ან %@";

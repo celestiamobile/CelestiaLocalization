@@ -4,6 +4,8 @@
 "COMMON_DOWNLOAD" = "ダウンロード";
 "ADDON_AUTHOR_TEMPLATE" = "作者: %@";
 "ADDON_RELEASE_DATE_TEMPLATE" = "公開日: %@";
+"ADDON_ORIGINAL_RELEASE_DATE_TEMPLATE" = "初回公開日: %@";
+"ADDON_ORIGINAL_SOURCE" = "元の公開元";
 "ADDON_LAST_UPDATED_TEMPLATE" = "最終更新日: %@";
 "ADDON_INSTALL_HINT" = "注: 新しくインストールしたアドオンを使用するには、Celestia を再起動する必要があります。";
 "ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ または %@";

@@ -4,6 +4,8 @@
 "COMMON_DOWNLOAD" = "Lejupielādēt";
 "ADDON_AUTHOR_TEMPLATE" = "Autors(-i): %@";
 "ADDON_RELEASE_DATE_TEMPLATE" = "Izlaišanas datums: %@";
+"ADDON_ORIGINAL_RELEASE_DATE_TEMPLATE" = "Sākotnējās izlaišanas datums: %@";
+"ADDON_ORIGINAL_SOURCE" = "Sākotnējais avots";
 "ADDON_LAST_UPDATED_TEMPLATE" = "Pēdējoreiz atjaunināts: %@";
 "ADDON_INSTALL_HINT" = "Piezīme: lai izmantotu jebkuru jauni instalētu papildinājumu, jārestartē Celestia.";
 "ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ vai %@";

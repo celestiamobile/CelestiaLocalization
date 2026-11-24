@@ -4,6 +4,8 @@
 "COMMON_DOWNLOAD" = "Letöltés";
 "ADDON_AUTHOR_TEMPLATE" = "Szerző(k): %@";
 "ADDON_RELEASE_DATE_TEMPLATE" = "Megjelenés dátuma: %@";
+"ADDON_ORIGINAL_RELEASE_DATE_TEMPLATE" = "Eredeti megjelenés dátuma: %@";
+"ADDON_ORIGINAL_SOURCE" = "Eredeti forrás";
 "ADDON_LAST_UPDATED_TEMPLATE" = "Utolsó frissítés: %@";
 "ADDON_INSTALL_HINT" = "Megjegyzés: az újonnan telepített kiegészítők használatához újra kell indítani a Celestiát.";
 "ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ vagy %@";

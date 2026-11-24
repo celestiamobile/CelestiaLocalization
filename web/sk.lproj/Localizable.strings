@@ -4,6 +4,8 @@
 "COMMON_DOWNLOAD" = "Prevziať";
 "ADDON_AUTHOR_TEMPLATE" = "Autor(i): %@";
 "ADDON_RELEASE_DATE_TEMPLATE" = "Dátum vydania: %@";
+"ADDON_ORIGINAL_RELEASE_DATE_TEMPLATE" = "Dátum pôvodného vydania: %@";
+"ADDON_ORIGINAL_SOURCE" = "Pôvodný zdroj";
 "ADDON_LAST_UPDATED_TEMPLATE" = "Naposledy aktualizované: %@";
 "ADDON_INSTALL_HINT" = "Poznámka: na použitie každého nového nainštalovaného doplnku je potrebné reštartovať Celestiu.";
 "ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ alebo %@";

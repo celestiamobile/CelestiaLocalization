@@ -4,6 +4,8 @@
 "COMMON_DOWNLOAD" = "다운로드";
 "ADDON_AUTHOR_TEMPLATE" = "작성자: %@";
 "ADDON_RELEASE_DATE_TEMPLATE" = "출시일: %@";
+"ADDON_ORIGINAL_RELEASE_DATE_TEMPLATE" = "최초 출시일: %@";
+"ADDON_ORIGINAL_SOURCE" = "원본 출처";
 "ADDON_LAST_UPDATED_TEMPLATE" = "최종 업데이트: %@";
 "ADDON_INSTALL_HINT" = "참고: 새로 설치한 애드온을 사용하려면 Celestia를 다시 시작해야 합니다.";
 "ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ 또는 %@";

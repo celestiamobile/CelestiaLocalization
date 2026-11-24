@@ -4,6 +4,8 @@
 "COMMON_DOWNLOAD" = "Hämta";
 "ADDON_AUTHOR_TEMPLATE" = "Författare: %@";
 "ADDON_RELEASE_DATE_TEMPLATE" = "Utgivningsdatum: %@";
+"ADDON_ORIGINAL_RELEASE_DATE_TEMPLATE" = "Ursprungligt utgivningsdatum: %@";
+"ADDON_ORIGINAL_SOURCE" = "Ursprunglig källa";
 "ADDON_LAST_UPDATED_TEMPLATE" = "Senast uppdaterad: %@";
 "ADDON_INSTALL_HINT" = "Obs: Celestia måste startas om för att använda nyinstallerade tillägg.";
 "ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ eller %@";

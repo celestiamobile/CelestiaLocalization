@@ -4,6 +4,8 @@
 "COMMON_DOWNLOAD" = "Изтегляне";
 "ADDON_AUTHOR_TEMPLATE" = "Автор(и): %@";
 "ADDON_RELEASE_DATE_TEMPLATE" = "Дата на излизане: %@";
+"ADDON_ORIGINAL_RELEASE_DATE_TEMPLATE" = "Дата на първоначално излизане: %@";
+"ADDON_ORIGINAL_SOURCE" = "Първоизточник";
 "ADDON_LAST_UPDATED_TEMPLATE" = "Последно обновяване: %@";
 "ADDON_INSTALL_HINT" = "Забележка: Рестартирайте „Celestia“ за активиране на новите инсталирани добавки.";
 "ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ или %@";

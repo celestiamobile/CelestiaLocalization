@@ -4,6 +4,8 @@
 "COMMON_DOWNLOAD" = "Descargar";
 "ADDON_AUTHOR_TEMPLATE" = "Autor(es): %@";
 "ADDON_RELEASE_DATE_TEMPLATE" = "Fecha de lanzamiento: %@";
+"ADDON_ORIGINAL_RELEASE_DATE_TEMPLATE" = "Fecha de lanzamiento original: %@";
+"ADDON_ORIGINAL_SOURCE" = "Fuente original";
 "ADDON_LAST_UPDATED_TEMPLATE" = "Última actualización: %@";
 "ADDON_INSTALL_HINT" = "Nota: es necesario reiniciar Celestia para usar cualquier complemento recién instalado.";
 "ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ o %@";

@@ -4,6 +4,8 @@
 "COMMON_DOWNLOAD" = "Descarcă";
 "ADDON_AUTHOR_TEMPLATE" = "Autor(i): %@";
 "ADDON_RELEASE_DATE_TEMPLATE" = "Data lansării: %@";
+"ADDON_ORIGINAL_RELEASE_DATE_TEMPLATE" = "Data lansării originale: %@";
+"ADDON_ORIGINAL_SOURCE" = "Sursa originală";
 "ADDON_LAST_UPDATED_TEMPLATE" = "Ultima actualizare: %@";
 "ADDON_INSTALL_HINT" = "Notă: este necesară repornirea Celestia pentru a folosi orice add-on nou instalat.";
 "ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ sau %@";

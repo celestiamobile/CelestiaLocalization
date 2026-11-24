@@ -4,6 +4,8 @@
 "COMMON_DOWNLOAD" = "Last ned";
 "ADDON_AUTHOR_TEMPLATE" = "Forfatter(e): %@";
 "ADDON_RELEASE_DATE_TEMPLATE" = "Utgivelsesdato: %@";
+"ADDON_ORIGINAL_RELEASE_DATE_TEMPLATE" = "Opprinnelig utgivelsesdato: %@";
+"ADDON_ORIGINAL_SOURCE" = "Opprinnelig kilde";
 "ADDON_LAST_UPDATED_TEMPLATE" = "Sist oppdatert: %@";
 "ADDON_INSTALL_HINT" = "Merk: Celestia må startes på nytt for å kunne bruke nyinstallerte tillegg.";
 "ADDON_OPEN_IN_CELESTIA_OR_DOWNNLOAD_TEMPLATE" = "%@ eller %@";
